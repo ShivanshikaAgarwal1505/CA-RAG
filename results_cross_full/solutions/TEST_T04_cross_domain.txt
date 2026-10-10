@@ -1,0 +1,40 @@
+TEST: TEST_T04
+SYSTEM: cross_domain
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN:**
+
+To satisfy the given constraints and preferences, I propose a 5-day trip to Rishikesh, a popular adventure destination in India. Here's a detailed plan:
+
+* **Accommodation:** Book a budget-friendly campsite or hostel in Rishikesh, such as the Rishikesh Valley or the Backpacker's Hostel, which costs around ₹800-₹1,200 per person per night. For 5 nights, the total cost would be approximately ₹4,000-₹6,000.
+* **Trekking:** Organize a guided trek to the nearby Neer Garh Waterfall or the Kunjapuri Devi Temple, which costs around ₹800-₹1,200 per person.
+* **Camping:** Include a camping experience near the Ganges River, which costs around ₹1,200-₹1,800 per person per night.
+* **Rafting:** Book a white-water rafting session on the Ganges River, which costs around ₹800-₹1,200 per person.
+* **Paragliding:** Arrange for a paragliding experience in Rishikesh, which costs around ₹1,500-₹2,500 per person.
+
+To stay within the budget, consider the following:
+
+* **Transportation:** Opt for a budget-friendly transportation option, such as a bus or a train, from the origin city to Rishikesh. The cost of transportation can range from ₹500-₹2,000 per person, depending on the mode of transport.
+* **Food:** Eat at local eateries or street food stalls, which can cost around ₹200-₹500 per person per meal.
+
+**CONFLICT RESOLUTION:**
+
+* **Budget constraint:** To stay within the budget of ₹12,000 per person, prioritize the most important activities and compromise on others. For example, consider a self-guided trek instead of a guided one to save costs.
+* **Time constraint:** With only 5 days, focus on the most essential activities and allocate time accordingly. For instance, dedicate one day to trekking, one day to rafting, and one day to paragliding.
+* **Facility constraint:** Ensure that all activities are included in the plan, and research operators that offer bundled packages or discounts for multiple activities.
+
+**CROSS-DOMAIN INSIGHTS:**
+
+* **Adaptation from Example 1:** Learn from the Leh trip example, where the solution involved booking a dorm in Zostel Leh and sharing costs with fellow travelers. Apply this strategy to Rishikesh by booking a budget-friendly campsite or hostel and sharing costs with the group.
+* **Adaptation from Example 3:** Take inspiration from the McLeodganj trip example, where the solution involved taking an overnight Volvo bus to save costs. Consider a similar transportation option for the Rishikesh trip.
+
+**TRADE-OFFS MADE:**
+
+* **Luxury accommodation:** Compromise on luxury accommodation to stay within the budget.
+* **Guided tours:** Consider self-guided treks or tours to save costs.
+
+**FEASIBILITY SCORE:** 8/10
+
+The proposed solution plan is feasible, considering the given constraints and preferences. However, there is a slight risk of exceeding the budget if the group decides to indulge in additional activities or luxury accommodations. With careful planning and research, the group can have a memorable adventure experience in Rishikesh within the allocated budget.

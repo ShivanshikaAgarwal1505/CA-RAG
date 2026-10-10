@@ -1,0 +1,26 @@
+TEST: TEST_T05
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Senior couple (68M, 65F); ₹40000 budget; 4 days; Spiritual/peaceful; Need: easy walking (max 1km), AC transport, 3-star+ hotels, pure veg food, morning temple visits; Avoid: crowds, noise
+======================================================================
+
+**SOLUTION PLAN:**
+To cater to the senior couple's requirements, I recommend a 4-day trip to the spiritual city of Nashik, Maharashtra. The plan includes:
+
+* Accommodation: 3-star hotel, such as Hotel Panchvati or similar, with easy access to major temples and pure veg food options.
+* Transport: AC taxi for airport transfers and local sightseeing to minimize walking distances.
+* Itinerary:
+	+ Day 1: Arrival in Nashik, check-in to the hotel, and visit the nearby Muktidham Temple (approximately 1 km from the hotel).
+	+ Day 2: Morning visit to the Trimbakeshwar Temple (approximately 30 km from the hotel, 1-hour drive), followed by a peaceful walk along the Godavari River.
+	+ Day 3: Visit the Kalaram Temple (approximately 1 km from the hotel) in the morning, and then explore the nearby Someshwar Temple (approximately 5 km from the hotel, 15-minute drive).
+	+ Day 4: Morning visit to the Saptashrungi Temple (approximately 60 km from the hotel, 1.5-hour drive), followed by a relaxing evening at the hotel.
+* Food: Pure veg meals will be arranged at the hotel or at nearby restaurants, such as the famous Rajdhani Thali or similar.
+* Activities: Morning temple visits, peaceful walks, and relaxation at the hotel to cater to the couple's preference for a spiritual and peaceful experience.
+
+**TRADE-OFFS:**
+To stay within the budget and cater to the couple's requirements, some compromises have been made:
+* The Saptashrungi Temple visit on Day 4 may involve a slightly longer drive (1.5 hours), but it is a must-visit temple in Nashik, and the scenery en route is beautiful.
+* The hotel options may not be 4-star or 5-star, but 3-star hotels in Nashik offer comfortable stay and pure veg food options.
+
+**FEASIBILITY SCORE:** 8.5/10
+The plan is feasible as it caters to the couple's requirements, including easy walking distances, AC transport, 3-star+ hotels, pure veg food, and morning temple visits. The budget of ₹40,000 should be sufficient to cover all expenses, including accommodation, transport, food, and activities. However, some flexibility may be required in case of unexpected expenses or changes in the itinerary. The score is 8.5 and not 10 because the couple may need to be flexible with their expectations regarding hotel quality and travel time to some temples.

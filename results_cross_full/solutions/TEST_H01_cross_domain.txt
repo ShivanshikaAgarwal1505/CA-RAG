@@ -1,0 +1,36 @@
+TEST: TEST_H01
+SYSTEM: cross_domain
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN:**
+
+To address the nutritional needs of a 19-year-old female with severe anemia (Hb: 8.5) and PCOS, following a strict vegan diet, and adhering to a budget of ₹80/day, within the constraints of a hostel mess, the following plan is proposed:
+
+1. **Breakfast**: Oatmeal with dates and almonds (approximately ₹15) - Oatmeal is a good source of iron, and when combined with vitamin C-rich foods like dates, it can enhance iron absorption. Almonds provide a boost of protein and healthy fats.
+2. **Mid-morning**: Orange or kiwi with a handful of raisins (approximately ₹5) - The vitamin C in oranges or kiwis helps in iron absorption, while raisins are a good source of iron.
+3. **Lunch**: Hostel mess lunch with a focus on lentil soup or chickpea curry (approximately ₹20) - Lentils and chickpeas are high in protein and iron. Requesting the mess to provide these options can help meet the nutritional requirements.
+4. **Evening**: Roasted chickpeas or makhana (fox nuts) as a snack (approximately ₹10) - These are good sources of protein and can be easily prepared in the hostel room.
+5. **Dinner**: Hostel mess dinner with a focus on spinach or other leafy greens, and whole grains like brown rice or whole wheat roti (approximately ₹20) - Spinach is rich in iron, and when combined with vitamin C-rich foods, its absorption can be enhanced.
+
+**CONFLICT RESOLUTION:**
+
+1. **BUDGET VS PROTEIN**: Addressed by choosing inexpensive, high-protein foods like lentils, chickpeas, and oats.
+2. **BUDGET VS SUPPLEMENTS**: Resolved by focusing on whole foods that are rich in protein and iron, eliminating the need for supplements.
+3. **DIET VS PROTEIN**: Managed by selecting plant-based protein sources like lentils, chickpeas, and almonds.
+4. **VEGAN VS PROTEIN**: Solved by incorporating a variety of vegan protein sources into the diet.
+5. **MEDICAL CONDITION VS DIET**: Addressed by focusing on iron-rich foods and enhancing iron absorption through vitamin C, along with a balanced diet that considers the nutritional needs for PCOS management.
+
+**CROSS-DOMAIN INSIGHTS:**
+
+The strategy of finding alternative paths within constraints, as seen in the cross-domain example of retaking a prerequisite course while managing other commitments, is applied here. Instead of relying on supplements or non-vegan sources of protein, the plan utilizes creative combinations of vegan, iron-rich, and protein-rich foods that are accessible within the hostel mess and the given budget.
+
+**TRADE-OFFS MADE:**
+
+- **Limited Food Variety**: The plan might not offer a wide variety of foods, but it prioritizes nutritional value and feasibility within the given constraints.
+- **Dependency on Hostel Mess**: The success of this plan partly depends on the hostel mess providing certain food options, which might require communication with the mess staff to ensure availability.
+
+**FEASIBILITY SCORE:** 8/10
+
+The plan is feasible because it works within the given budget, adheres to the vegan diet requirement, and focuses on foods that are likely available in a hostel mess setting. However, the score is not a perfect 10 because the plan's success is somewhat dependent on the flexibility of the hostel mess to accommodate specific dietary requests, and there might be days when the desired options are not available. Nonetheless, the plan provides a practical and nutritious approach to managing severe anemia and PCOS within the specified constraints.

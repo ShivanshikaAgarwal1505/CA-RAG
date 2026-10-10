@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__/
+
+# Chroma database
+src/chroma_db/
+
+# Environment variables and secrets
+.env
+.env.*
+*.env
+src/.env
+
+src/api_key_manager.py

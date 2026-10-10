@@ -1,0 +1,309 @@
+Nutrient,Age_Group,Gender,RDA_Value,Unit,Source
+Protein,19-39,Male,54,g/day,ICMR 2020 RDA Table p.13
+Protein,19-39,Female,46,g/day,ICMR 2020 RDA Table p.13
+Protein,19-39,Female,46,g/day,ICMR 2020 RDA Table p.13
+Protein,19-39,Female,46,g/day,ICMR 2020 RDA Table p.13
+Protein,Pregnant,Female,55.5,g/day,ICMR 2020 RDA Table p.13
+Protein,Pregnant,Female,68,g/day,ICMR 2020 RDA Table p.13
+Protein,Lactation_0-6m,Female,63,g/day,ICMR 2020 RDA Table p.13
+Protein,Lactation_7-12m,Female,59,g/day,ICMR 2020 RDA Table p.13
+Protein,0-6m,Infant,8,g/day,ICMR 2020 RDA Table p.13
+Protein,6-12m,Infant,10.5,g/day,ICMR 2020 RDA Table p.13
+Protein,1-3y,Child,12.5,g/day,ICMR 2020 RDA Table p.13
+Protein,4-6y,Child,16,g/day,ICMR 2020 RDA Table p.13
+Protein,7-9y,Child,23,g/day,ICMR 2020 RDA Table p.13
+Protein,10-12y,Male,32,g/day,ICMR 2020 RDA Table p.13
+Protein,10-12y,Female,33,g/day,ICMR 2020 RDA Table p.13
+Protein,13-15y,Male,45,g/day,ICMR 2020 RDA Table p.13
+Protein,13-15y,Female,43,g/day,ICMR 2020 RDA Table p.13
+Protein,16-18y,Male,55,g/day,ICMR 2020 RDA Table p.13
+Protein,16-18y,Female,46,g/day,ICMR 2020 RDA Table p.13
+Protein,60+,Male,54,g/day,ICMR 2020 Elderly Table p.16
+Protein,60+,Female,46,g/day,ICMR 2020 Elderly Table p.16
+Calcium,19-39,Both,1000,mg/day,ICMR 2020 RDA Table p.13
+Calcium,Pregnant,Female,1000,mg/day,ICMR 2020 RDA Table p.13
+Calcium,Lactation_0-6m,Female,1200,mg/day,ICMR 2020 RDA Table p.13
+Calcium,Lactation_7-12m,Female,1200,mg/day,ICMR 2020 RDA Table p.13
+Calcium,0-6m,Infant,300,mg/day,ICMR 2020 RDA Table p.13
+Calcium,6-12m,Infant,300,mg/day,ICMR 2020 RDA Table p.13
+Calcium,1-3y,Child,500,mg/day,ICMR 2020 RDA Table p.13
+Calcium,4-6y,Child,550,mg/day,ICMR 2020 RDA Table p.13
+Calcium,7-9y,Child,650,mg/day,ICMR 2020 RDA Table p.13
+Calcium,10-12y,Both,850,mg/day,ICMR 2020 RDA Table p.13
+Calcium,13-15y,Both,1000,mg/day,ICMR 2020 RDA Table p.13
+Calcium,16-18y,Both,1050,mg/day,ICMR 2020 RDA Table p.13
+Calcium,60+,Both,1200,mg/day,ICMR 2020 Elderly Table p.16
+Iron,19-39,Male,19,mg/day,ICMR 2020 RDA Table p.13
+Iron,19-39,Female,29,mg/day,ICMR 2020 RDA Table p.13
+Iron,Pregnant,Female,27,mg/day,ICMR 2020 RDA Table p.13
+Iron,Lactation_0-6m,Female,23,mg/day,ICMR 2020 RDA Table p.13
+Iron,Lactation_7-12m,Female,23,mg/day,ICMR 2020 RDA Table p.13
+Iron,0-6m,Infant,NA,mg/day,ICMR 2020 RDA Table p.13
+Iron,6-12m,Infant,3,mg/day,ICMR 2020 RDA Table p.13
+Iron,1-3y,Child,8,mg/day,ICMR 2020 RDA Table p.13
+Iron,4-6y,Child,11,mg/day,ICMR 2020 RDA Table p.13
+Iron,7-9y,Child,15,mg/day,ICMR 2020 RDA Table p.13
+Iron,10-12y,Male,16,mg/day,ICMR 2020 RDA Table p.13
+Iron,10-12y,Female,28,mg/day,ICMR 2020 RDA Table p.13
+Iron,13-15y,Male,22,mg/day,ICMR 2020 RDA Table p.13
+Iron,13-15y,Female,30,mg/day,ICMR 2020 RDA Table p.13
+Iron,16-18y,Male,26,mg/day,ICMR 2020 RDA Table p.13
+Iron,16-18y,Female,32,mg/day,ICMR 2020 RDA Table p.13
+Iron,60+,Male,19,mg/day,ICMR 2020 Elderly Table p.16
+Iron,60+,Female,19,mg/day,ICMR 2020 Elderly Table p.16
+Zinc,19-39,Male,17,mg/day,ICMR 2020 RDA Table p.13
+Zinc,19-39,Female,13.2,mg/day,ICMR 2020 RDA Table p.13
+Zinc,Pregnant,Female,14.5,mg/day,ICMR 2020 RDA Table p.13
+Zinc,Lactation_0-6m,Female,14.1,mg/day,ICMR 2020 RDA Table p.13
+Zinc,Lactation_7-12m,Female,14.1,mg/day,ICMR 2020 RDA Table p.13
+Zinc,0-6m,Infant,NA,mg/day,ICMR 2020 RDA Table p.13
+Zinc,6-12m,Infant,2.5,mg/day,ICMR 2020 RDA Table p.13
+Zinc,1-3y,Child,3.3,mg/day,ICMR 2020 RDA Table p.13
+Zinc,4-6y,Child,4.5,mg/day,ICMR 2020 RDA Table p.13
+Zinc,7-9y,Child,5.9,mg/day,ICMR 2020 RDA Table p.13
+Zinc,10-12y,Both,8.5,mg/day,ICMR 2020 RDA Table p.13
+Zinc,13-15y,Male,14.3,mg/day,ICMR 2020 RDA Table p.13
+Zinc,13-15y,Female,12.8,mg/day,ICMR 2020 RDA Table p.13
+Zinc,16-18y,Male,17.6,mg/day,ICMR 2020 RDA Table p.13
+Zinc,16-18y,Female,14.2,mg/day,ICMR 2020 RDA Table p.13
+Zinc,60+,Male,17,mg/day,ICMR 2020 Elderly Table p.16
+Zinc,60+,Female,13.2,mg/day,ICMR 2020 Elderly Table p.16
+Magnesium,19-39,Male,440,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,19-39,Female,370,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,Pregnant,Female,440,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,Lactation_0-6m,Female,400,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,Lactation_7-12m,Female,400,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,0-6m,Infant,30,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,6-12m,Infant,75,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,1-3y,Child,90,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,4-6y,Child,125,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,7-9y,Child,175,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,10-12y,Male,240,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,10-12y,Female,250,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,13-15y,Male,345,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,13-15y,Female,340,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,16-18y,Male,440,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,16-18y,Female,380,mg/day,ICMR 2020 RDA Table p.13
+Magnesium,60+,Male,440,mg/day,ICMR 2020 Elderly Table p.16
+Magnesium,60+,Female,370,mg/day,ICMR 2020 Elderly Table p.16
+Iodine,19-39,Both,140,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,Pregnant,Female,220,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,Lactation_0-6m,Female,280,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,Lactation_7-12m,Female,280,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,0-6m,Infant,100,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,6-12m,Infant,130,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,1-3y,Child,90,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,4-6y,Child,90,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,7-9y,Child,90,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,10-12y,Both,100,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,13-15y,Both,140,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,16-18y,Both,140,mcg/day,ICMR 2020 RDA Table p.13
+Iodine,60+,Both,140,mcg/day,ICMR 2020 Elderly Table p.16
+Thiamine,19-39,Male,1.4,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,19-39,Male,1.8,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,19-39,Male,2.3,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,19-39,Female,1.4,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,19-39,Female,1.7,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,19-39,Female,2.2,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,Pregnant,Female,2,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,Lactation_0-6m,Female,2.1,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,Lactation_7-12m,Female,2.1,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,0-6m,Infant,0.2,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,6-12m,Infant,0.4,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,1-3y,Child,0.7,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,4-6y,Child,0.9,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,7-9y,Child,1.1,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,10-12y,Both,1.5,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,13-15y,Male,1.9,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,13-15y,Female,1.6,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,16-18y,Male,2.2,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,16-18y,Female,1.7,mg/day,ICMR 2020 RDA Table p.13
+Thiamine,60+,Male,1.4,mg/day,ICMR 2020 Elderly Table p.16
+Thiamine,60+,Female,1.4,mg/day,ICMR 2020 Elderly Table p.16
+Riboflavin,19-39,Male,2,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,19-39,Male,2.5,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,19-39,Male,3.2,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,19-39,Female,1.9,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,19-39,Female,2.4,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,19-39,Female,3.1,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,Pregnant,Female,2.7,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,Lactation_0-6m,Female,3,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,Lactation_7-12m,Female,2.9,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,0-6m,Infant,0.4,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,6-12m,Infant,0.6,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,1-3y,Child,1.1,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,4-6y,Child,1.3,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,7-9y,Child,1.6,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,10-12y,Male,2.1,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,10-12y,Female,1.9,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,13-15y,Male,2.7,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,13-15y,Female,2.2,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,16-18y,Male,3.1,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,16-18y,Female,2.3,mg/day,ICMR 2020 RDA Table p.13
+Riboflavin,60+,Male,2,mg/day,ICMR 2020 Elderly Table p.16
+Riboflavin,60+,Female,1.9,mg/day,ICMR 2020 Elderly Table p.16
+Niacin,19-39,Male,14,mg/day,ICMR 2020 RDA Table p.13
+Niacin,19-39,Male,18,mg/day,ICMR 2020 RDA Table p.13
+Niacin,19-39,Male,23,mg/day,ICMR 2020 RDA Table p.13
+Niacin,19-39,Female,11,mg/day,ICMR 2020 RDA Table p.13
+Niacin,19-39,Female,14,mg/day,ICMR 2020 RDA Table p.13
+Niacin,19-39,Female,18,mg/day,ICMR 2020 RDA Table p.13
+Niacin,Pregnant,Female,16,mg/day,ICMR 2020 RDA Table p.13
+Niacin,Lactation_0-6m,Female,19,mg/day,ICMR 2020 RDA Table p.13
+Niacin,Lactation_7-12m,Female,19,mg/day,ICMR 2020 RDA Table p.13
+Niacin,0-6m,Infant,2,mg/day,ICMR 2020 RDA Table p.13
+Niacin,6-12m,Infant,5,mg/day,ICMR 2020 RDA Table p.13
+Niacin,1-3y,Child,7,mg/day,ICMR 2020 RDA Table p.13
+Niacin,4-6y,Child,9,mg/day,ICMR 2020 RDA Table p.13
+Niacin,7-9y,Child,11,mg/day,ICMR 2020 RDA Table p.13
+Niacin,10-12y,Male,15,mg/day,ICMR 2020 RDA Table p.13
+Niacin,10-12y,Female,14,mg/day,ICMR 2020 RDA Table p.13
+Niacin,13-15y,Male,19,mg/day,ICMR 2020 RDA Table p.13
+Niacin,13-15y,Female,16,mg/day,ICMR 2020 RDA Table p.13
+Niacin,16-18y,Male,22,mg/day,ICMR 2020 RDA Table p.13
+Niacin,16-18y,Female,17,mg/day,ICMR 2020 RDA Table p.13
+Niacin,60+,Male,14,mg/day,ICMR 2020 Elderly Table p.16
+Niacin,60+,Female,11,mg/day,ICMR 2020 Elderly Table p.16
+Vitamin_B6,19-39,Male,1.9,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,19-39,Male,2.4,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,19-39,Male,3.1,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,19-39,Female,1.9,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,19-39,Female,1.9,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,19-39,Female,2.4,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,Pregnant,Female,2.3,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,Lactation_0-6m,Female,2.9,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,Lactation_7-12m,Female,2.9,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,0-6m,Infant,0.1,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,6-12m,Infant,0.6,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,1-3y,Child,0.9,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,4-6y,Child,1.2,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,7-9y,Child,1.5,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,10-12y,Male,2,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,10-12y,Female,1.9,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,13-15y,Male,2.6,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,13-15y,Female,2.2,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,16-18y,Male,3,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,16-18y,Female,2.3,mg/day,ICMR 2020 RDA Table p.13
+Vitamin_B6,60+,Male,1.9,mg/day,ICMR 2020 Elderly Table p.16
+Vitamin_B6,60+,Female,1.9,mg/day,ICMR 2020 Elderly Table p.16
+Folate,01-Mar,Both,120,µg/day,ICMR 2020 Table
+Folate,04-Jun,Both,135,µg/day,ICMR 2020 Table
+Folate,07-Sep,Both,170,µg/day,ICMR 2020 Table
+Folate,10-Dec,Male,220,µg/day,ICMR 2020 Table
+Folate,10-Dec,Female,225,µg/day,ICMR 2020 Table
+Folate,13-15,Male,285,µg/day,ICMR 2020 Table
+Folate,13-15,Female,245,µg/day,ICMR 2020 Table
+Folate,16-18,Male,340,µg/day,ICMR 2020 Table
+Folate,16-18,Female,270,µg/day,ICMR 2020 Table
+Folate,19-39,Male,300,µg/day,ICMR 2020 Table
+Folate,19-39,Female,220,µg/day,ICMR 2020 Table
+Folate,60+,Male,300,µg/day,ICMR 2020 Table
+Folate,60+,Female,200,µg/day,ICMR 2020 Table
+Folate,Pregnant,Female,570,µg/day,ICMR 2020 Table
+Folate,Lactating_0-6m,Female,330,µg/day,ICMR 2020 Table
+Folate,Lactating_7-12m,Female,330,µg/day,ICMR 2020 Table
+Vitamin_B12,0-6m,Both,1.2,µg/day,ICMR 2020 Table
+Vitamin_B12,6-12m,Both,1.2,µg/day,ICMR 2020 Table
+Vitamin_B12,01-Mar,Both,1.2,µg/day,ICMR 2020 Table
+Vitamin_B12,04-Jun,Both,2.2,µg/day,ICMR 2020 Table
+Vitamin_B12,07-Sep,Both,2.2,µg/day,ICMR 2020 Table
+Vitamin_B12,10-Dec,Both,2.2,µg/day,ICMR 2020 Table
+Vitamin_B12,13-15,Both,2.2,µg/day,ICMR 2020 Table
+Vitamin_B12,16-18,Both,2.2,µg/day,ICMR 2020 Table
+Vitamin_B12,19-39,Both,2.2,µg/day,ICMR 2020 Table
+Vitamin_B12,60+,Both,2.2,µg/day,ICMR 2020 Table
+Vitamin_B12,Pregnant,Female,2.5,µg/day,ICMR 2020 Table
+Vitamin_B12,Lactating_0-6m,Female,3,µg/day,ICMR 2020 Table
+Vitamin_B12,Lactating_7-12m,Female,3,µg/day,ICMR 2020 Table
+Vitamin_C,0-6m,Both,20,mg/day,ICMR 2020 Table
+Vitamin_C,6-12m,Both,30,mg/day,ICMR 2020 Table
+Vitamin_C,01-Mar,Both,30,mg/day,ICMR 2020 Table
+Vitamin_C,04-Jun,Both,35,mg/day,ICMR 2020 Table
+Vitamin_C,07-Sep,Both,45,mg/day,ICMR 2020 Table
+Vitamin_C,10-Dec,Male,55,mg/day,ICMR 2020 Table
+Vitamin_C,10-Dec,Female,50,mg/day,ICMR 2020 Table
+Vitamin_C,13-15,Male,70,mg/day,ICMR 2020 Table
+Vitamin_C,13-15,Female,65,mg/day,ICMR 2020 Table
+Vitamin_C,16-18,Male,85,mg/day,ICMR 2020 Table
+Vitamin_C,16-18,Female,70,mg/day,ICMR 2020 Table
+Vitamin_C,19-39,Male,80,mg/day,ICMR 2020 Table
+Vitamin_C,19-39,Female,65,mg/day,ICMR 2020 Table
+Vitamin_C,60+,Male,80,mg/day,ICMR 2020 Table
+Vitamin_C,60+,Female,65,mg/day,ICMR 2020 Table
+Vitamin_C,Pregnant,Female,80,mg/day,ICMR 2020 Table
+Vitamin_C,Lactating_0-6m,Female,115,mg/day,ICMR 2020 Table
+Vitamin_C,Lactating_7-12m,Female,115,mg/day,ICMR 2020 Table
+Vitamin_A,0-6m,Both,350,µg/day,ICMR 2020 Table
+Vitamin_A,6-12m,Both,350,µg/day,ICMR 2020 Table
+Vitamin_A,01-Mar,Both,390,µg/day,ICMR 2020 Table
+Vitamin_A,04-Jun,Both,510,µg/day,ICMR 2020 Table
+Vitamin_A,07-Sep,Both,630,µg/day,ICMR 2020 Table
+Vitamin_A,10-Dec,Male,770,µg/day,ICMR 2020 Table
+Vitamin_A,10-Dec,Female,790,µg/day,ICMR 2020 Table
+Vitamin_A,13-15,Male,930,µg/day,ICMR 2020 Table
+Vitamin_A,13-15,Female,890,µg/day,ICMR 2020 Table
+Vitamin_A,16-18,Male,1000,µg/day,ICMR 2020 Table
+Vitamin_A,16-18,Female,860,µg/day,ICMR 2020 Table
+Vitamin_A,19-39,Male,1000,µg/day,ICMR 2020 Table
+Vitamin_A,19-39,Female,840,µg/day,ICMR 2020 Table
+Vitamin_A,60+,Male,1000,µg/day,ICMR 2020 Table
+Vitamin_A,60+,Female,840,µg/day,ICMR 2020 Table
+Vitamin_A,Pregnant,Female,900,µg/day,ICMR 2020 Table
+Vitamin_A,Lactating_0-6m,Female,950,µg/day,ICMR 2020 Table
+Vitamin_A,Lactating_7-12m,Female,950,µg/day,ICMR 2020 Table
+Vitamin_D,0-6m,Both,400,IU/day,ICMR 2020 Table
+Vitamin_D,6-12m,Both,400,IU/day,ICMR 2020 Table
+Vitamin_D,01-Mar,Both,600,IU/day,ICMR 2020 Table
+Vitamin_D,04-Jun,Both,600,IU/day,ICMR 2020 Table
+Vitamin_D,07-Sep,Both,600,IU/day,ICMR 2020 Table
+Vitamin_D,10-Dec,Both,600,IU/day,ICMR 2020 Table
+Vitamin_D,13-15,Both,600,IU/day,ICMR 2020 Table
+Vitamin_D,16-18,Both,600,IU/day,ICMR 2020 Table
+Vitamin_D,19-39,Both,600,IU/day,ICMR 2020 Table
+Vitamin_D,60+,Both,800,IU/day,ICMR 2020 Table
+Vitamin_D,Pregnant,Female,600,IU/day,ICMR 2020 Table
+Vitamin_D,Lactating_0-6m,Female,600,IU/day,ICMR 2020 Table
+Vitamin_D,Lactating_7-12m,Female,600,IU/day,ICMR 2020 Table
+Biotin,01-Mar,Both,20,µg/day,ICMR 2020 Table
+Biotin,04-Oct,Both,25,µg/day,ICMR 2020 Table
+Biotin,Adolescents,Both,35,µg/day,ICMR 2020 Table
+Biotin,19-39,Both,40,µg/day,ICMR 2020 Table
+Biotin,Pregnant,Female,40,µg/day,ICMR 2020 Table
+Biotin,Lactating,Female,45,µg/day,ICMR 2020 Table
+Pantothenic_Acid,01-Mar,Both,4,mg/day,ICMR 2020 Table
+Pantothenic_Acid,04-Oct,Both,4,mg/day,ICMR 2020 Table
+Pantothenic_Acid,Adolescents,Both,5,mg/day,ICMR 2020 Table
+Pantothenic_Acid,19-39,Both,5,mg/day,ICMR 2020 Table
+Pantothenic_Acid,Pregnant,Female,5,mg/day,ICMR 2020 Table
+Pantothenic_Acid,Lactating,Female,7,mg/day,ICMR 2020 Table
+Phosphorus,0-6m,Both,300,mg/day,ICMR 2020 Table
+Phosphorus,6-12m,Both,300,mg/day,ICMR 2020 Table
+Phosphorus,01-Mar,Both,500,mg/day,ICMR 2020 Table
+Phosphorus,04-Jun,Both,550,mg/day,ICMR 2020 Table
+Phosphorus,07-Sep,Both,650,mg/day,ICMR 2020 Table
+Phosphorus,10-Dec,Both,850,mg/day,ICMR 2020 Table
+Phosphorus,13-15,Both,1000,mg/day,ICMR 2020 Table
+Phosphorus,16-18,Both,1050,mg/day,ICMR 2020 Table
+Phosphorus,19-39,Both,1000,mg/day,ICMR 2020 Table
+Phosphorus,60+,Both,1200,mg/day,ICMR 2020 Table
+Phosphorus,Pregnant,Female,1000,mg/day,ICMR 2020 Table
+Phosphorus,Lactating,Female,1200,mg/day,ICMR 2020 Table
+Sodium,19-39,Both,2000,mg/day,ICMR 2020 Table
+Potassium,19-39,Both,3500,mg/day,ICMR 2020 Table
+Copper,19-39,Both,1.7,mg/day,ICMR 2020 Table
+Manganese,19-39,Both,4,mg/day,ICMR 2020 Table
+Chromium,19-39,Both,50,µg/day,ICMR 2020 Table
+Selenium,19-39,Both,40,µg/day,ICMR 2020 Table
+Dietary_Fiber,01-Mar,Both,15,g/day,ICMR 2020 Table
+Dietary_Fiber,04-Jun,Both,20,g/day,ICMR 2020 Table
+Dietary_Fiber,07-Sep,Both,26,g/day,ICMR 2020 Table
+Dietary_Fiber,10-Dec,Male,33,g/day,ICMR 2020 Table
+Dietary_Fiber,10-Dec,Female,30,g/day,ICMR 2020 Table
+Dietary_Fiber,13-15,Male,43,g/day,ICMR 2020 Table
+Dietary_Fiber,13-15,Female,36,g/day,ICMR 2020 Table
+Dietary_Fiber,16-18,Male,50,g/day,ICMR 2020 Table
+Dietary_Fiber,16-18,Female,38,g/day,ICMR 2020 Table
+Dietary_Fiber,19-39,Male,30,g/day,ICMR 2020 Table
+Dietary_Fiber,19-39,Female,25,g/day,ICMR 2020 Table
+Dietary_Fiber,60+,Male,30,g/day,ICMR 2020 Table
+Dietary_Fiber,60+,Female,25,g/day,ICMR 2020 Table

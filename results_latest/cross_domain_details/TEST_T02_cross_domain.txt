@@ -1,0 +1,13 @@
+CROSS-DOMAIN TRANSFER DETAILS
+======================================================================
+
+Test ID: TEST_T02
+Target Domain: travel
+Total Examples Retrieved: 3
+Same-Domain Examples: 3
+Cross-Domain Examples: 0
+
+Retrieved Cases:
+  1. TR_023
+  2. TR_018
+  3. TR_019

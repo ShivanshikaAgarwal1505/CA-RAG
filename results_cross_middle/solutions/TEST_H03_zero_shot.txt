@@ -1,0 +1,23 @@
+TEST: TEST_H03
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 24F; PCOS + insulin resistance; Budget ₹90/day; Vegan; Hostel mess; Avoid: soy, gluten, sugar; Need low GI, high fiber, 40g protein; Time <10min/meal
+======================================================================
+
+**SOLUTION PLAN:**
+To address the user's requirements, I've devised a meal plan that incorporates vegan, gluten-free, soy-free, and low-sugar options, focusing on low GI, high fiber, and adequate protein. Given the hostel mess setting and time constraint, the plan emphasizes simple, quick, and adaptable meals.
+
+1. **Breakfast**: Overnight oats made with gluten-free oats, almond milk, and chia seeds, topped with fresh fruits (e.g., berries, banana) and nuts (e.g., almonds, walnuts). Approximate cost: ₹20. Protein content: 10g. Preparation time: 5 minutes (plus overnight soaking).
+2. **Lunch**: Mixed vegetable and bean salad (using hostel mess vegetables and canned beans like chickpeas or black beans) with a citrus vinaigrette dressing, served with a side of brown rice or quinoa. Approximate cost: ₹30. Protein content: 15g. Preparation time: 5 minutes.
+3. **Snack**: Fresh fruits and a handful of nuts. Approximate cost: ₹10. Protein content: 4g. Preparation time: 1 minute.
+4. **Dinner**: Lentil soup (made using hostel mess lentils and spices) with a side of roasted vegetables and brown rice or quinoa. Approximate cost: ₹30. Protein content: 15g. Preparation time: 5 minutes (using pre-cooked lentils).
+
+To meet the daily protein requirement of 40g, consider adding a scoop of vegan, gluten-free protein powder to any of the meals or snacks.
+
+**TRADE-OFFS:**
+- Limited food options due to the hostel mess setting and dietary restrictions.
+- Potential reliance on canned beans for protein sources, which may not be ideal but are a convenient and affordable option.
+- The need to supplement with a protein powder to meet the daily protein requirement, which may add to the overall cost.
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible given the constraints, but it requires some flexibility and adaptability to the hostel mess setting. The use of pre-cooked lentils, canned beans, and a protein powder helps meet the nutritional requirements within the given time and budget constraints. However, the plan's success heavily relies on the availability of gluten-free, soy-free, and vegan options in the hostel mess, which might not always be guaranteed.

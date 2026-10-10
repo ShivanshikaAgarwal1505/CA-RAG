@@ -1,0 +1,28 @@
+TEST: TEST_H04
+SYSTEM: conflict_aware
+DOMAIN: health
+QUERY: 28M; Type 2 diabetes (HbA1c: 8.2); Budget ₹150/day; Veg; No kitchen; Need <150g carbs/day, 60g protein, no sugar spikes; Prefer natural foods (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To manage Type 2 diabetes and satisfy the given constraints, the following plan is suggested:
+
+- **Breakfast**: Overnight oats (150g, 20g protein, 30g carbs) made with rolled oats, almond milk, and nuts (₹30), available at a local café or store.
+- **Mid-morning**: 20g of peanuts (5g protein, 5g carbs) and a small apple (₹10).
+- **Lunch**: Veg biryani (200g, 15g protein, 40g carbs) with brown rice, lentils, and mixed vegetables from a nearby restaurant (₹60).
+- **Evening**: 200g of Greek yogurt (15g protein, 10g carbs) with 10g of almonds (₹40).
+- **Dinner**: 200g of chana masala (15g protein, 30g carbs) with 2 whole wheat rotis (₹50) from a nearby dhaba or restaurant.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like lentils (₹20), Greek yogurt (₹40), and peanuts (₹10) instead of expensive protein supplements.
+- **NO_KITCHEN_VS_NUTRITION**: Utilized nearby restaurants and stores for meals, focusing on nutrient-dense foods that can be easily prepared without cooking, like overnight oats and Greek yogurt.
+- **DIET_VS_PROTEIN**: Focused on vegetarian high-protein foods like lentils, Greek yogurt, and nuts to meet the protein requirement.
+- **MEDICAL_CONDITION_VS_DIET**: Emphasized carbohydrate control, choosing complex carbs like brown rice, whole wheat rotis, and oats, and spaced out meals to avoid sugar spikes.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Lentil-based meals (affordable, high protein) INSTEAD OF: Protein supplements (expensive).
+- CHOSE: Greek yogurt (high protein, convenient) INSTEAD OF: Other high-protein dairy products that might be more expensive or less accessible.
+- CHOSE: Restaurant and store-bought meals INSTEAD OF: Home cooking (no kitchen facility).
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it meets all hard constraints (budget, vegetarian diet, no kitchen, carb limit, protein requirement, and no sugar spikes) and prioritizes natural foods. However, it may require some adjustments based on individual preferences and the specific availability of food items in the area. The plan provides approximately 140g of carbohydrates and 65g of protein, staying within the daily limits while managing the medical condition.

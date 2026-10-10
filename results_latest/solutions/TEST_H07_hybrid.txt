@@ -1,0 +1,31 @@
+TEST: TEST_H07
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 23F; Hypothyroidism + hair fall; Budget ₹140/day; Vegan; Shared kitchen (30min/day max); Need iodine, selenium, 50g protein; Avoid: goitrogens (soy, cabbage, broccoli)
+======================================================================
+
+**SOLUTION PLAN:**
+To address the query, I've created a daily plan that satisfies all hard constraints and provides strategies to resolve the detected conflicts.
+
+1. **Morning (15 minutes)**: Start with a glass of iodized water (iodine source) and a tablespoon of sesame seeds (rich in selenium and protein). Have a bowl of oatmeal with sliced banana, almond butter, and a splash of non-dairy milk (fortified with vitamin B12).
+2. **Breakfast (15 minutes)**: Prepare a protein-rich breakfast using tofu (marinated in a mixture of lemon juice, olive oil, and spices to avoid goitrogens), spinach, and whole-grain toast.
+3. **Mid-morning Snack (5 minutes)**: Have a handful of pumpkin seeds (rich in protein, selenium, and zinc) and a piece of fresh fruit.
+4. **Lunch (15 minutes)**: Use the shared kitchen to prepare a lentil-based meal with quinoa, mixed vegetables, and a drizzle of olive oil. Add a side of sautéed mushrooms (rich in selenium) and a small salad with iodized salt.
+5. **Evening Snack (5 minutes)**: Enjoy a small serving of hummus (made with iodized salt and lemon juice) with carrot sticks and a few almonds.
+6. **Dinner (15 minutes)**: Prepare a stir-fry using a variety of colorful vegetables, tofu, and brown rice. Season with iodized salt and a squeeze of fresh lemon juice.
+
+**CONFLICT RESOLUTION:**
+
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like lentils (₹50/kg), tofu (₹80/kg), and nuts (₹200/kg) instead of expensive protein supplements.
+- **DIET_VS_PROTEIN**: Focused on vegan high-protein foods like lentils, tofu, nuts, and seeds to meet the daily protein requirement.
+- **VEGAN_VS_PROTEIN**: Incorporated a variety of plant-based protein sources, including legumes, nuts, and seeds, to ensure adequate protein intake.
+- **MEDICAL_CONDITION_VS_DIET**: Avoided goitrogens like soy, cabbage, and broccoli, and included iodine-rich foods like iodized salt and seaweed to support thyroid health.
+
+**SPECIFIC TRADE-OFFS:**
+
+- CHOSE: Lentils and tofu as primary protein sources INSTEAD OF: Protein supplements or expensive vegan meat alternatives.
+- CHOSE: Iodized salt and seaweed as iodine sources INSTEAD OF: Seafood or dairy products.
+- CHOSE: Shared kitchen optimization INSTEAD OF: Home cooking or relying on expensive pre-prepared meals.
+
+**FEASIBILITY SCORE:** 8/10
+The proposed solution plan is feasible, considering the constraints and conflicts. However, it requires some planning and creativity to ensure that the daily protein requirement is met within the budget. The use of affordable protein sources, optimization of the shared kitchen, and careful selection of iodine-rich foods make this plan practical and achievable.

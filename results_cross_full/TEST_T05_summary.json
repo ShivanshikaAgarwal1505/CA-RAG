@@ -1,0 +1,65 @@
+{
+  "test_id": "TEST_T05",
+  "domain": "travel",
+  "query": "Senior couple (68M, 65F); ₹40000 budget; 4 days; Spiritual/peaceful; Need: easy walking (max 1km), AC transport, 3-star+ hotels, pure veg food, morning temple visits; Avoid: crowds, noise",
+  "expected_conflicts": [],
+  "timestamp": "2026-02-15T20:54:35.125992",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2559,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 1.0,
+        "sf": 0.85,
+        "overall": 0.9625
+      }
+    },
+    "semantic": {
+      "solution_length": 3354,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 1.0,
+        "sf": 0.85,
+        "overall": 0.9625
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 3277,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 1.0,
+        "sf": 0.9,
+        "overall": 0.975
+      }
+    },
+    "hybrid": {
+      "solution_length": 3157,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 1.0,
+        "sf": 0.9,
+        "overall": 0.975
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3244,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 1.0,
+        "sf": 0.85,
+        "overall": 0.9625
+      },
+      "cross_domain_count": 0
+    }
+  }
+}

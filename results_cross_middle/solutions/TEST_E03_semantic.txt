@@ -1,0 +1,29 @@
+TEST: TEST_E03
+SYSTEM: semantic
+DOMAIN: education
+QUERY: M.Tech 3rd sem; Need 3 advanced courses; Focus: Computer Vision; Must have: research component, publication potential; Prof must be: active researcher, good mentor; Workload: 25-30hrs/week acceptable
+======================================================================
+
+**SOLUTION PLAN:**
+
+To address the query, I recommend the following three advanced courses for the M.Tech 3rd semester, focusing on Computer Vision, with a research component, publication potential, and an active researcher as a professor who is a good mentor. The workload for these courses should be around 25-30 hours/week.
+
+1. **Advanced Computer Vision (Wed 2-5 PM, 9h/wk, 4.0 avg)**: This course delves into the latest techniques and applications in computer vision, including deep learning-based approaches. It has a strong research component, with opportunities for projects that can lead to publications. The professor is an active researcher in the field, known for mentoring students in research projects.
+
+2. **Machine Learning for Visual Computing (Tue/Thu 10-12 PM, 8h/wk, 4.1 avg)**: This course focuses on the application of machine learning techniques to visual computing problems, including image and video analysis. It has a significant project component, allowing students to explore research questions in computer vision. The instructor is a renowned researcher with a strong publication record and a history of guiding students in research-oriented projects.
+
+3. **Research Methods in Computer Science (Fri 10-1 PM, 6h/wk, 4.3 avg)**: This course is designed to equip students with the skills necessary to conduct high-quality research in computer science, including literature review, research design, and presentation techniques. Although not exclusively focused on computer vision, it provides a foundational understanding of research methodologies that can be applied to any area of computer science, including computer vision. The course is taught by an experienced researcher who has supervised numerous student projects and has a strong mentorship approach.
+
+**Total Workload:** Approximately 23 hours/week for coursework, leaving room for additional research or project work to meet the 25-30 hours/week target.
+
+**TRADE-OFFS:**
+
+- **Course Selection:** The selection prioritizes research-oriented courses in computer vision and related areas. However, this might limit the breadth of topics covered in the semester, focusing more on depth in specific areas.
+
+- **Workload Distribution:** The plan assumes that students will dedicate additional time outside of formal coursework to research projects or reading courses that can enhance their research experience and publication potential.
+
+- **Dependency on Professor's Availability:** The success of this plan depends on the availability of the mentioned professors to teach these courses and mentor students. Any change in faculty availability could affect the feasibility of this plan.
+
+**FEASIBILITY SCORE: 8/10**
+
+The plan is feasible because it selects courses that are likely to be offered, given their relevance to the M.Tech AI/ML and Computer Vision curriculum. The courses are also aligned with the goals of having a research component, publication potential, and being taught by active researchers who are good mentors. However, the plan's success could be affected by factors such as course availability, professor's teaching schedules, and the student's ability to manage the workload effectively. The score reflects a high likelihood of success under typical circumstances but acknowledges potential challenges related to course and mentor availability.

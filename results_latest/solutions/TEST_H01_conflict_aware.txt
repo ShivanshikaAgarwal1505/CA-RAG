@@ -1,0 +1,31 @@
+TEST: TEST_H01
+SYSTEM: conflict_aware
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN:**
+To address the nutritional needs of a 19-year-old female with severe anemia (Hb: 8.5) and PCOS, following a strict vegan diet, with a budget of ₹80/day, and requiring 50g of protein and 18mg of iron daily, without supplements, the plan will focus on maximizing iron and protein intake from vegan sources available in a hostel mess setting.
+
+1. **Morning**: Start with a glass of freshly squeezed orange or grapefruit juice (rich in vitamin C to enhance iron absorption) and a serving of dates (for natural iron) soaked overnight in water. Alongside, have a bowl of oatmeal with sliced banana and a sprinkle of sesame seeds (for calcium and iron).
+2. **Breakfast**: Opt for whole grain roti or paratha with a generous serving of lentil curry (dal) which is rich in protein and iron. If available, add some sautéed spinach (rich in iron) to the dal.
+3. **Mid-morning**: Consume a handful of roasted chickpeas (about 20g) which are high in protein and can be easily carried from the mess.
+4. **Lunch**: Include a variety of vegetables in your meal, especially those rich in iron like beetroot, and ensure a serving of lentils or chickpeas. Whole grain rice or roti can accompany the meal.
+5. **Evening**: Have a serving of roasted makhana (fox nuts) which are a good source of protein and can be easily prepared in the mess. Accompany it with a fruit rich in vitamin C like orange or grapefruit to aid iron absorption.
+6. **Dinner**: Focus on having a bowl of mixed lentil soup or a thick curry made with a mix of lentils and vegetables, served with whole grain roti or rice. If possible, include some nuts or seeds like pumpkin seeds or almonds for added protein and iron.
+7. **Before Bed**: A warm glass of water with a squeeze of lemon and a teaspoon of jaggery can help in digestion and provide a small boost of iron.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like lentils (dal), chickpeas, and whole grains instead of expensive vegan protein powders.
+- **BUDGET_VS_SUPPLEMENTS**: Since supplements are not an option, focused on whole food sources rich in iron and protein that fit within the budget.
+- **DIET_VS_PROTEIN**: Emphasized vegan high-protein foods such as lentils, chickpeas, nuts, and seeds that are accessible in a hostel mess setting.
+- **VEGAN_VS_PROTEIN**: Resolved by including a variety of plant-based protein sources throughout the day to meet the daily protein requirement.
+- **MEDICAL_CONDITION_VS_DIET**: Addressed by focusing on foods that help manage PCOS (like whole grains, lentils, and vegetables) and combat anemia (iron-rich foods like spinach, beetroot, and dates).
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE**: Dal and whole grain-based meals INSTEAD OF: More expensive or less accessible protein sources like tofu or tempeh.
+- **CHOSE**: Nuts and seeds as snack options INSTEAD OF: Fresh fruits alone, to increase protein and healthy fat intake.
+- **CHOSE**: Maximizing iron absorption through vitamin C-rich foods INSTEAD OF: Relying on iron supplements.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it utilizes commonly available foods in a hostel mess setting, stays within the budget, and addresses the nutritional requirements without needing supplements. However, the score is not a perfect 10 because the plan's success heavily depends on the variety and quality of food available in the mess and the individual's ability to consistently follow the diet plan. Additionally, while the plan aims to meet the daily protein and iron requirements, actual intake may vary based on specific food quantities and preparation methods. Regular monitoring of hematological parameters and adjustment of the diet as necessary would be advisable.

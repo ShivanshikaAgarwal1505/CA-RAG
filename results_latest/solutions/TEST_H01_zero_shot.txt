@@ -1,0 +1,26 @@
+TEST: TEST_H01
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN:**
+To meet the daily nutritional requirements of 50g protein and 18mg iron, considering the constraints of a strict vegan diet, severe anemia, PCOS, and a budget of ₹80/day, the following plan can be implemented:
+
+1. **Breakfast**: Opt for hostel mess options like oatmeal with nuts (e.g., almonds, walnuts) and dried fruits (e.g., dates, apricots). Approximately, 1 cup of oatmeal with 1 oz of almonds and 1/4 cup of dried apricots can provide about 10g of protein and 3.5mg of iron. Cost: ₹20.
+
+2. **Lunch**: Choose lentil-based dishes (like dal) which are common in hostel messes. 1 cup of cooked lentils can provide about 18g of protein and 6.5mg of iron. Pair this with whole grain chapatis or brown rice. Cost: ₹25.
+
+3. **Snack**: Fresh fruits (like apples, bananas) and a handful of nuts (e.g., peanuts, cashews) can be a good snack, providing about 4g of protein and 1.5mg of iron. Cost: ₹10.
+
+4. **Dinner**: Include more plant-based iron sources like spinach, beans (kidney beans, black beans), and dark leafy greens in your meals. 1 cup of cooked spinach can provide about 5g of protein and 4.5mg of iron. Pair this with whole grains or legumes for a balanced meal. Cost: ₹25.
+
+Given the constraints, it might be challenging to meet the exact protein and iron requirements through food alone, especially with the limitation of no supplements. However, focusing on iron-rich plant foods and combining them with vitamin C-rich foods (like citrus fruits, bell peppers) can enhance iron absorption.
+
+**TRADE-OFFS:**
+- The plan may not exactly meet the 50g protein requirement daily, given the budget and dietary restrictions. Some days might have slightly less protein intake.
+- The variety of food might be limited due to the hostel mess menu and the strict vegan requirement.
+- Iron intake might fluctuate, but maximizing iron-rich foods and pairing them with vitamin C sources can help in better absorption.
+
+**FEASIBILITY SCORE:** 7/10
+This score reflects the challenges in meeting the exact nutritional requirements within the given budget and dietary constraints. However, the plan is designed to maximize iron and protein intake from available vegan options, considering the religious and hostel mess constraints. Regular monitoring of health parameters and adjustments to the diet as needed, along with ensuring access to as much variety as possible within the hostel mess, will be crucial.

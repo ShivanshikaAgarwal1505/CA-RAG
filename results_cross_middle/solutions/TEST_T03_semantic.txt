@@ -1,0 +1,52 @@
+TEST: TEST_T03
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN:**
+
+To cater to the family's preferences, I suggest a 6-day trip to Jim Corbett National Park, Uttarakhand. The itinerary will focus on educational and adventure activities, with a emphasis on animal interactions and kid-friendly stays.
+
+Day 1: Arrival and Check-in
+- Travel from the origin city to Jim Corbett National Park by train or car, depending on the family's preference (approx. ₹5,000 - ₹10,000 for a round trip, depending on the mode of transport and class).
+- Check-in at a kid-friendly resort, such as the Corbett Jungle Resort or similar (₹4,000 per night for a family suite).
+
+Day 2: Jungle Safari and Animal Interaction
+- Morning jungle safari at Jim Corbett National Park (₹4,500 for a canter safari, which can accommodate up to 16 people, so approximately ₹1,125 per person for a family of four).
+- Visit the Corbett Tiger Reserve for an educational session on wildlife conservation (free entry, but guided tours may cost around ₹500 per person).
+- Evening at leisure, with a campfire and outdoor activities at the resort (included in the resort package).
+
+Day 3: Elephant Interaction and Nature Walk
+- Elephant interaction and feeding at the Dhikala Elephant Farm (₹1,200 per person for a guided tour).
+- Nature walk and birdwatching in the surrounding forests (guided tour, approximately ₹800 per person).
+
+Day 4: Adventure Activities
+- River crossing and rafting at the Kosi River (approximately ₹1,000 per person for a guided session).
+- Zip lining and other adventure activities at an adventure park (approximately ₹1,200 per person for a package of activities).
+
+Day 5: Wildlife Documentary and Leisure
+- Watch a wildlife documentary at the resort or a nearby center (free or approximately ₹200 per person).
+- Spend the day at leisure, with options for swimming, indoor games, or a leisurely walk in the nearby village.
+
+Day 6: Departure
+- Check-out from the resort and travel back to the origin city (same costs as Day 1).
+
+**Budget Breakdown:**
+
+- Transportation: ₹10,000 - ₹20,000 (depending on the mode and class)
+- Accommodation (5 nights): ₹20,000 (average ₹4,000 per night for a family suite)
+- Food and beverages: ₹8,000 - ₹12,000 (approximately ₹1,333 - ₹2,000 per day for meals and snacks)
+- Activities and entry fees: ₹8,000 - ₹12,000 (approximately ₹1,333 - ₹2,000 per day for guided tours, safaris, and adventure activities)
+- Total: ₹46,000 - ₹64,000
+
+Given the budget constraint of ₹35,000, some adjustments are necessary:
+
+**TRADE-OFFS:**
+
+- Opt for a more budget-friendly resort or homestay, which could save around ₹5,000 - ₹10,000.
+- Choose a fewer number of adventure activities or opt for self-guided tours to reduce costs by around ₹2,000 - ₹5,000.
+- Consider traveling by train or bus instead of a private car or taxi to reduce transportation costs by around ₹5,000 - ₹10,000.
+
+**FEASIBILITY SCORE:** 7/10
+The plan is mostly feasible, but the budget constraint requires some adjustments to the accommodation, transportation, and activity choices. With careful planning and some compromises, the family can have a fun and educational trip to Jim Corbett National Park within their budget. However, the ideal budget for this trip would be around ₹50,000 to ₹60,000 to ensure a more comfortable and hassle-free experience.

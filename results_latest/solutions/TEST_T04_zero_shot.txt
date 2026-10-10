@@ -1,0 +1,39 @@
+TEST: TEST_T04
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN:**
+For a group of 5 friends looking for an adventure destination with trekking, camping, rafting, and paragliding, I recommend Manali, Himachal Pradesh, as the ideal location. Given the budget of ₹12,000 per person for 5 days, I've planned an itinerary that includes all the requested activities and budget-friendly accommodations.
+
+Day 1: Arrival in Manali and acclimatization. Check-in at a budget-friendly hotel or hostel, such as the Manali Backpackers' Hostel or Zostel Manali. Explore the local market and get accustomed to the high altitude.
+
+Day 2: Trek to the nearby village of Sethan or Jogini Falls. The trek offers breathtaking views of the surrounding mountains and valleys. Night camping can be arranged near the trekking site.
+
+Day 3: White-water rafting in the Beas River. The rafting experience will be guided by professionals, ensuring safety and excitement.
+
+Day 4: Paragliding in the Solang Valley. Experience the thrill of flying over the Himalayas with a certified instructor. In the evening, enjoy a campfire and stargazing at the campsite.
+
+Day 5: Trek to the Hampta Pass or explore the Old Manali village. The trek offers stunning views of the surrounding mountains and valleys. Return to Manali in the evening and depart.
+
+The package will include:
+
+* Accommodation: Budget-friendly hotel or hostel (₹1,500 per person for 4 nights)
+* Food: ₹1,500 per person for the entire trip (approximately ₹300 per day)
+* Trekking: ₹1,000 per person (guide, equipment, and camping)
+* Rafting: ₹800 per person (guide, equipment, and safety gear)
+* Paragliding: ₹1,200 per person (guide, equipment, and safety gear)
+* Transportation: ₹500 per person (local transportation and pick-up/drop-off)
+
+Total cost per person: ₹6,000 (accommodation, food, and activities) + ₹4,000 (transportation and miscellaneous) + ₹2,000 (buffer for unexpected expenses) = ₹12,000
+
+**TRADE-OFFS:**
+To accommodate the budget of ₹12,000 per person, some trade-offs have been made:
+
+* The accommodation is budget-friendly, which may not offer luxurious amenities.
+* The food options are limited to local cuisine, which may not cater to diverse tastes.
+* The trekking and camping activities are subject to weather conditions and may be modified or cancelled in case of adverse weather.
+
+**FEASIBILITY SCORE:** 8/10
+The solution plan is feasible, considering the budget and the activities requested. However, the weather conditions in June may pose a risk to the trekking and paragliding activities. Additionally, the budget-friendly accommodations may not offer the best amenities. Overall, the plan is well-structured, and the activities are carefully selected to ensure an exciting adventure experience for the group.

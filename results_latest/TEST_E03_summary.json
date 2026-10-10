@@ -1,0 +1,65 @@
+{
+  "test_id": "TEST_E03",
+  "domain": "education",
+  "query": "M.Tech 3rd sem; Need 3 advanced courses; Focus: Computer Vision; Must have: research component, publication potential; Prof must be: active researcher, good mentor; Workload: 25-30hrs/week acceptable",
+  "expected_conflicts": [],
+  "timestamp": "2026-04-08T18:11:31.051120",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2930,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 0.6666666666666666,
+        "crq": 1.0,
+        "sf": 0.85,
+        "overall": 0.8291666666666667
+      }
+    },
+    "semantic": {
+      "solution_length": 2884,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 1.0,
+        "sf": 0.85,
+        "overall": 0.8958333333333334
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 2226,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 1.0,
+        "sf": 0.9,
+        "overall": 0.9083333333333333
+      }
+    },
+    "hybrid": {
+      "solution_length": 2940,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 1.0,
+        "sf": 0.9,
+        "overall": 0.9083333333333333
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3913,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 1.0,
+        "sf": 0.9,
+        "overall": 0.9083333333333333
+      },
+      "cross_domain_count": 0
+    }
+  }
+}

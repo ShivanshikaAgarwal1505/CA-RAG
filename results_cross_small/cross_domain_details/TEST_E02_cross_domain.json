@@ -1,0 +1,13 @@
+{
+  "test_id": "TEST_E02",
+  "target_domain": "education",
+  "timestamp": "2026-02-15T20:17:03.053656",
+  "retrieved_cases": [
+    "ED_001",
+    "ED_002",
+    "HC_002"
+  ],
+  "cross_domain_count": 1,
+  "total_examples": 3,
+  "same_domain_count": 2
+}

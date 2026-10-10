@@ -1,0 +1,47 @@
+TEST: TEST_H02
+SYSTEM: cross_domain
+DOMAIN: health
+QUERY: 22M; Gain 12kg muscle in 3 months; Budget ₹100/day; Vegetarian (eggs ok); No kitchen; Gym 6x/week; Currently underweight (BMI 16.8); Need 120g protein daily
+======================================================================
+
+**SOLUTION PLAN:**
+
+To address the user's goals and constraints, I propose the following plan:
+
+1. **Meal Plan:**
+	* Breakfast: Banana milkshake (canteen) + 2 bananas (₹20) - 400 calories, 20g protein
+	* Mid-morning: 40g peanuts (₹15) - 200 calories, 10g protein
+	* Lunch: Mess food + double dal (₹30) - 600 calories, 20g protein
+	* Evening: Milk-banana smoothie (canteen) - 300 calories, 15g protein
+	* Dinner: Mess food + extra roti (₹25) - 500 calories, 10g protein
+	* Bedtime: Milk (₹10) - 150 calories, 5g protein
+2. **Supplements:**
+	* Pea protein powder (₹200/month) - 20g protein per serving
+3. **Workout Plan:**
+	* Gym 6x/week, focusing on weightlifting and resistance exercises to build muscle mass
+4. **Progress Tracking:**
+	* Weigh yourself weekly
+	* Track food intake and protein consumption
+	* Adjust the meal plan as needed to ensure a caloric surplus and adequate protein intake
+
+**CONFLICT RESOLUTION:**
+
+1. **BUDGET VS PROTEIN:** To address this conflict, I prioritized high-protein foods within the budget constraint, such as dal (₹20/kg) and peanuts (₹15/40g). I also included a pea protein powder supplement to ensure adequate protein intake.
+2. **NO KITCHEN VS NUTRITION:** I relied on canteen food and mess food to provide a convenient and affordable source of nutrition. I also included a milk-banana smoothie as a easy-to-prepare and nutritious snack.
+3. **TIME VS MEAL PREP:** I kept meal preparation simple and quick, focusing on easy-to-prepare foods like bananas, peanuts, and milk.
+4. **DIET VS PROTEIN:** I included a variety of protein sources, such as dal, peanuts, milk, and pea protein powder, to ensure adequate protein intake within the vegetarian diet constraint.
+5. **EXTREME GOAL VS TIMELINE:** I acknowledged that the goal of gaining 12kg of muscle in 3 months is ambitious and may require adjustments to the workout plan and nutrition strategy. I prioritized a caloric surplus and adequate protein intake to support muscle growth.
+
+**CROSS-DOMAIN INSIGHTS:**
+
+1. **LIMITED RESOURCE CONFLICT:** I applied the cross-domain strategy of optimizing for efficiency within resource constraints, prioritizing high-value options like dal and peanuts.
+2. **PRIORITY SETTING:** I adapted the strategy of prioritizing high-priority tasks (in this case, protein intake and caloric surplus) to ensure progress towards the goal.
+
+**TRADE-OFFS MADE:**
+
+1. **PROTEIN POWDER SUPPLEMENT:** I included a pea protein powder supplement to ensure adequate protein intake, which may not be ideal but is necessary given the budget and dietary constraints.
+2. **LIMITED FOOD VARIETY:** I kept the meal plan simple and focused on a limited number of foods to ensure convenience and affordability.
+
+**FEASIBILITY SCORE:** 8/10
+
+I believe this plan is feasible given the user's constraints and goals. However, I acknowledge that the goal of gaining 12kg of muscle in 3 months is ambitious and may require adjustments to the workout plan and nutrition strategy. The plan may need to be adjusted based on progress and user feedback.

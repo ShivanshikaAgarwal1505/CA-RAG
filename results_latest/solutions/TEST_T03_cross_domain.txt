@@ -1,0 +1,48 @@
+TEST: TEST_T03
+SYSTEM: cross_domain
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN:**
+
+To satisfy the hard constraints and address the soft constraints, I propose a 6-day trip to Jim Corbett National Park, Uttarakhand. The plan includes:
+
+* Day 1: Arrival at Delhi and transfer to Jim Corbett National Park ( approx. 5-hour drive)
+* Day 2: Morning safari at Jim Corbett National Park, followed by a visit to the Corbett Museum (avoiding traditional museums, this one is more interactive and focused on wildlife)
+* Day 3: Elephant safari and a visit to the Corbett Waterfall
+* Day 4: Adventure activities like rock climbing, rappelling, and zip-lining at a nearby adventure camp
+* Day 5: Visit to a local village and a nature walk
+* Day 6: Departure from Jim Corbett National Park to Delhi
+
+The accommodation will be at a kid-friendly resort, such as the Corbett Wilderness Resort or similar, which offers comfortable stay and activities like nature walks, bird watching, and outdoor games.
+
+The budget breakdown is as follows:
+
+* Transportation: ₹8,000 (Delhi to Jim Corbett and back)
+* Accommodation: ₹12,000 (avg. ₹2,000 per night for 6 nights)
+* Food and activities: ₹10,000 (avg. ₹1,667 per day for 6 days)
+* Safari and adventure activities: ₹5,000
+* Total: ₹35,000
+
+**CONFLICT RESOLUTION:**
+
+The conflict "FAMILY VS ADVENTURE" is addressed by choosing a destination that offers a mix of adventure activities and family-friendly experiences. The safari and elephant safari will provide an exciting experience for the kids, while the rock climbing, rappelling, and zip-lining will cater to the adventure seekers. The Corbett Museum visit is avoided to respect the kids' preference for non-museum activities.
+
+The conflict is resolved by finding alternative paths that cater to both family and adventure aspects, ensuring a fun and engaging experience for all.
+
+**CROSS-DOMAIN INSIGHTS:**
+
+The cross-domain pattern of "Hard constraint severely limits ability to achieve goal" is applied by identifying creative workarounds within the constraints. In this case, the budget constraint is addressed by choosing a destination that offers a range of activities and experiences within the given budget. The strategy of finding alternative paths is also applied by selecting a resort that offers kid-friendly activities and amenities, ensuring a comfortable stay for the family.
+
+**TRADE-OFFS MADE:**
+
+To stay within the budget, some trade-offs were made, such as:
+
+* Choosing a destination that is approximately 5 hours away from Delhi, rather than a more distant location
+* Selecting a resort that offers a range of activities, rather than opting for a more luxurious stay
+* Limiting the number of adventure activities to ensure that the budget is not exceeded
+
+**FEASIBILITY SCORE:** 8.5/10
+
+The plan is feasible, as it satisfies all the hard constraints and addresses the soft constraints. The budget is managed effectively, and the activities and experiences chosen cater to the family's preferences and interests. However, some flexibility may be required in case of unforeseen circumstances, such as weather conditions or changes in the family's preferences.

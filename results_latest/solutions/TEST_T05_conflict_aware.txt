@@ -1,0 +1,40 @@
+TEST: TEST_T05
+SYSTEM: conflict_aware
+DOMAIN: travel
+QUERY: Senior couple (68M, 65F); ₹40000 budget; 4 days; Spiritual/peaceful; Need: easy walking (max 1km), AC transport, 3-star+ hotels, pure veg food, morning temple visits; Avoid: crowds, noise
+======================================================================
+
+**SOLUTION PLAN:**
+To cater to the senior couple's preferences for a spiritual and peaceful trip, I recommend visiting the city of Rishikesh, known for its serene landscapes and spiritual significance. Given the constraints, here's a 4-day itinerary:
+
+Day 1: Arrival and Acclimatization
+- Morning: Arrive in Rishikesh. Check-in at a 3-star hotel like the Hotel Ganga Kinare, which offers pure vegetarian food and is located near the Ganges River, ensuring a peaceful environment.
+- Afternoon: Visit the Parmarth Niketan Ashram for a peaceful and spiritual experience. The ashram is within walking distance (less than 1 km) from the hotel.
+- Evening: Enjoy the Ganga Aarti at Parmarth Niketan, which is a spiritual and serene experience.
+
+Day 2: Spiritual Exploration
+- Morning: Visit the Triveni Ghat for a morning temple visit and a peaceful walk along the Ganges River. The distance from the hotel to Triveni Ghat is approximately 1 km, making it an easy walk.
+- Afternoon: Take an AC taxi to the Neelkanth Mahadev Temple, which is about 30 km from Rishikesh. The temple is a significant spiritual site, and the AC taxi ensures comfortable travel.
+- Evening: Return to the hotel and enjoy a peaceful dinner.
+
+Day 3: Nature and Spirituality
+- Morning: Visit the Vashishta Gufa, a cave temple dedicated to Sage Vashishta, which is about 20 km from Rishikesh. The site offers a mix of natural beauty and spiritual significance.
+- Afternoon: Take a walk along the Ganges River and explore the local market for some spiritual books or artifacts.
+- Evening: Attend a yoga or meditation session at the hotel or a nearby ashram to enhance the spiritual experience.
+
+Day 4: Departure
+- Morning: Spend some time shopping for souvenirs or visiting any last-minute spiritual sites.
+- Afternoon: Check-out from the hotel and depart for the airport or railway station for your return journey.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_SPIRITUALITY**: Prioritized affordable spiritual experiences like visiting ashrams and temples instead of expensive meditation retreats.
+- **DIET_VS_CONVENIENCE**: Chose a hotel that offers pure vegetarian food, ensuring dietary preferences are met without compromising on convenience.
+- **TRANSPORTATION_VS_COMFORT**: Opted for AC taxis for travel to nearby temples, balancing the need for comfort with the requirement for easy and convenient transportation.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Hotel Ganga Kinare for its location and pure vegetarian food INSTEAD OF: A more luxurious hotel that might not offer pure vegetarian options.
+- CHOSE: Visiting local temples and ashrams INSTEAD OF: Participating in expensive spiritual retreats.
+- CHOSE: AC taxis for travel INSTEAD OF: Public transport to ensure comfort and convenience.
+
+**FEASIBILITY SCORE:** 9/10
+The plan is feasible as it respects all the hard constraints (budget, diet, facility, transportation, time, and distance) and prioritizes the soft constraints (spiritual/peaceful experience, easy walking, morning temple visits, avoiding crowds and noise). The only potential issue could be the availability of AC taxis for travel to nearby temples, but this can be managed by booking in advance. Overall, the plan provides a well-balanced and peaceful spiritual experience for the senior couple.

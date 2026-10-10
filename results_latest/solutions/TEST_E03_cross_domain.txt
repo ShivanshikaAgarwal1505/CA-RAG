@@ -1,0 +1,33 @@
+TEST: TEST_E03
+SYSTEM: cross_domain
+DOMAIN: education
+QUERY: M.Tech 3rd sem; Need 3 advanced courses; Focus: Computer Vision; Must have: research component, publication potential; Prof must be: active researcher, good mentor; Workload: 25-30hrs/week acceptable
+======================================================================
+
+**SOLUTION PLAN:**
+To meet the requirements, I recommend the following three advanced courses for the M.Tech 3rd semester, focusing on Computer Vision with a research component and publication potential:
+
+1. **Advanced Computer Vision** (Mon/Wed 10-12PM, 12h/wk, 4.0 avg): This course will provide in-depth knowledge of computer vision concepts, including object detection, segmentation, and tracking. The professor, an active researcher in the field, will guide students in exploring recent advances and potential research directions. This course aligns with the student's preference for computer vision (weight: 0.5).
+
+2. **Deep Learning for Vision** (Tue/Thu 2-4PM, 10h/wk, 4.1 avg): This course will cover the application of deep learning techniques to computer vision problems, including convolutional neural networks (CNNs) and recurrent neural networks (RNNs). The course has a research component, where students will work on projects that have publication potential. The professor is an active researcher and a good mentor, known for guiding students in producing high-quality research.
+
+3. **Research Methods in Computer Vision** (Fri 10-1PM, 8h/wk, 4.2 avg): This course will focus on research methodologies in computer vision, including literature review, research question formulation, and experimental design. Students will have the opportunity to work on a research project under the guidance of the professor, who is an active researcher and has a good track record of mentoring students. This course will help students develop their research skills and produce a publishable paper.
+
+The total workload for these courses is approximately 30h/wk, which is within the acceptable range. The courses are designed to provide a balance between theoretical foundations, practical skills, and research experience, aligning with the student's goals of learning advanced concepts and completing the M.Tech 3rd semester.
+
+**CONFLICT RESOLUTION:**
+The primary conflict in this scenario is managing the workload while ensuring that the courses align with the student's preferences and goals. To address this conflict, I have selected courses that:
+
+* Are relevant to computer vision (aligning with the student's preference)
+* Have a research component and publication potential (meeting the hard constraints)
+* Are taught by active researchers who are good mentors (meeting the hard constraints)
+* Have a manageable workload (approximately 30h/wk, which is within the acceptable range)
+
+**CROSS-DOMAIN INSIGHTS:**
+From the examples provided, I have adapted the strategy of prioritizing research-focused courses, as seen in EXAMPLE 3 (M.Tech AI/ML; Thesis-heavy semester). This approach allows students to delve deeper into their area of interest (computer vision) while developing their research skills. Additionally, the selection of courses with a balance of theoretical foundations and practical skills is inspired by EXAMPLE 2 (M.Tech AI/ML, Sem 2), which emphasizes the importance of a well-rounded curriculum.
+
+**TRADE-OFFS MADE:**
+To stay within the workload constraint, I have not included any additional courses beyond the three recommended. This means that the student will not have the opportunity to explore other areas of interest in the current semester. However, the selected courses provide a solid foundation in computer vision and research methodologies, which will be beneficial for the student's future academic and professional pursuits.
+
+**FEASIBILITY SCORE:** 9/10
+The solution plan is feasible because it meets all the hard constraints, including the workload requirement. The courses are well-structured, and the professors are experienced researchers and mentors. The only potential issue is the intensity of the workload, which might require the student to manage their time efficiently. However, given the student's acceptance of a 25-30h/wk workload, this plan should be manageable.

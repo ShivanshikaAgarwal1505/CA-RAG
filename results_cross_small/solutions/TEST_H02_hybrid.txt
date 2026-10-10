@@ -1,0 +1,31 @@
+TEST: TEST_H02
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 22M; Gain 12kg muscle in 3 months; Budget ₹100/day; Vegetarian (eggs ok); No kitchen; Gym 6x/week; Currently underweight (BMI 16.8); Need 120g protein daily
+======================================================================
+
+**SOLUTION PLAN:**
+To address the user's requirements, I've created a daily plan that satisfies all hard constraints and attempts to resolve the detected conflicts.
+
+1. **Morning (7:00 AM)**: Start with a banana milkshake (canteen, ₹20) and 2 eggs (boiled, ₹10) to get approximately 18g of protein.
+2. **Post-Workout (9:00 AM)**: Have a flavored milk pack (200cal, ₹30) and 5 dates (₹10) for a quick energy boost.
+3. **Lunch (12:00 PM)**: Optimize mess food by choosing dal (₹20), rice, and vegetables. Add a banana (₹5) to increase calorie intake.
+4. **Mid-Afternoon (3:00 PM)**: Consume 30g of peanuts (₹20) and a fruit (₹10) for a protein-rich snack.
+5. **Evening (6:00 PM)**: Have a milk-banana smoothie (₹30) with 2 tablespoons of peanut butter (₹20) for added protein and calories.
+6. **Dinner (8:00 PM)**: Choose mess food with extra roti (₹10), dal, and vegetables. Add a bowl of curd (₹20) for additional protein.
+7. **Before Bed (10:00 PM)**: Drink warm milk (₹20) with sugar and 5 almonds (₹10) to aid in muscle recovery.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like dal (₹20), eggs (₹10), and peanuts (₹20) instead of expensive whey protein.
+- **NO_KITCHEN_VS_NUTRITION**: Optimized mess food by choosing high-protein and calorie-dense options, and supplemented with fruits, nuts, and milk-based products.
+- **TIME_VS_MEAL_PREP**: Simplified meal preparation by relying on mess food, easy-to-prepare snacks, and milk-based products.
+- **DIET_VS_PROTEIN**: Focused on vegetarian high-protein foods like dal, eggs, peanuts, and curd to meet the daily protein requirement.
+- **EXTREME_GOAL_VS_TIMELINE**: Recognized the ambitious goal and emphasized the importance of consistent effort, patience, and gradual progress.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Dal-based protein (affordable) INSTEAD OF: Protein supplements (expensive)
+- CHOSE: Mess optimization INSTEAD OF: Home cooking (no kitchen)
+- CHOSE: Peanut butter and bananas INSTEAD OF: Protein shakes (expensive and less calorie-dense)
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible, considering the user's constraints and goals. However, achieving a 12kg muscle gain in 3 months is extremely challenging and may require adjustments to the plan as progress is monitored. The plan prioritizes affordable, high-protein foods and optimizes mess food to meet the user's requirements, but it may not fully address the extreme goal vs. timeline conflict. Regular monitoring and adjustments will be necessary to ensure the user is on track to meet their goals.

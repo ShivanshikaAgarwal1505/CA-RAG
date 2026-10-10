@@ -1,0 +1,35 @@
+TEST: TEST_T02
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Couple (honeymoon); ₹25000 budget; 4 days; Mountain destination; Want: luxury resort (5-star), romantic dinners, spa, privacy; December travel
+======================================================================
+
+**SOLUTION PLAN:**
+For a luxurious and romantic 4-day honeymoon getaway in the mountains within a budget of ₹25,000, I recommend the following plan:
+
+1. **Destination:** Manali, Himachal Pradesh. It's a beautiful mountain town with a serene atmosphere, perfect for a honeymoon. The cost of living and accommodations in Manali can fit within the given budget if planned carefully.
+
+2. **Accommodation:** While a full 5-star resort might be challenging within this budget for the entire stay, consider booking a luxury resort or a high-end hotel for at least 2 nights and a slightly more affordable but still comfortable option for the other 2 nights. One possible option could be the Manali Resorts or similar, which offer luxury amenities like spa, private balconies with valley views, and romantic dinner setups.
+
+3. **Romantic Dinners:** Book a romantic dinner at the resort itself or at a restaurant with a beautiful view, such as the Johnson Hotel's rooftop restaurant. These dinners can be arranged in advance and might cost around ₹2,000 to ₹3,000 per dinner, depending on the menu and location.
+
+4. **Spa:** Utilize the spa facilities at the luxury resort. Many resorts offer couples' spa treatments, which can be a wonderful way to relax and enjoy each other's company. Prices can vary, but a budget of ₹2,000 to ₹4,000 for a couple's spa treatment is reasonable.
+
+5. **Privacy:** To ensure privacy, opt for a room with a private balcony or one that is a bit secluded from the main areas of the resort. Some resorts also offer private villas or cottages, but these might be out of budget for the entire stay.
+
+6. **Activities:** Manali offers beautiful walks, visits to ancient temples, and stunning views. Consider hiring a private cab for a day to explore these places, which can cost around ₹2,000 to ₹3,000, depending on the distance and time.
+
+7. **Budget Breakdown:**
+   - Accommodation (2 nights luxury + 2 nights standard): ₹10,000 to ₹12,000
+   - Food and Romantic Dinners: ₹6,000 to ₹8,000
+   - Spa and Wellness: ₹2,000 to ₹4,000
+   - Transportation and Local Sightseeing: ₹2,000 to ₹3,000
+   - Miscellaneous: ₹2,000 to ₹3,000
+   Total: ₹22,000 to ₹25,000
+
+**TRADE-OFFS:**
+- The primary trade-off is the mixed accommodation plan, where not all nights are spent in a 5-star resort due to budget constraints.
+- Another compromise could be in the choice of activities; some adventure sports or high-end experiences might be beyond the budget.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it prioritizes the key elements requested (luxury, romance, spa, privacy) while making practical adjustments to fit within the budget. However, the score is not a perfect 10 due to the necessity of compromising on the accommodation for part of the stay and potentially limiting some of the activities or luxury experiences to stay within the ₹25,000 budget.

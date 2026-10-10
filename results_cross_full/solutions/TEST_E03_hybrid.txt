@@ -1,0 +1,39 @@
+TEST: TEST_E03
+SYSTEM: hybrid
+DOMAIN: education
+QUERY: M.Tech 3rd sem; Need 3 advanced courses; Focus: Computer Vision; Must have: research component, publication potential; Prof must be: active researcher, good mentor; Workload: 25-30hrs/week acceptable
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the hard constraints and prioritize the soft constraints, I recommend the following plan for the M.Tech 3rd semester:
+
+1. **Course Selection:**
+   - **Advanced Computer Vision (ACV)**: This course directly aligns with the preference for Computer Vision (importance: 1.0/1.0). Assuming it has a research component and publication potential, it satisfies the hard constraints for research and publication.
+   - **Deep Learning for Vision (DLV)**: This course is also aligned with Computer Vision and likely has a research component and publication potential. It complements ACV and enhances learning in advanced concepts.
+   - **Research Methods in Computer Science (RMCS)**: This course focuses on research methodologies, which is essential for a research component and publication potential. It also aligns with the goal of learning advanced concepts.
+
+2. **Workload Management:**
+   - Allocate 25-30 hours/week for coursework, ensuring that each course's workload is manageable within this timeframe. For example:
+     - **ACV**: 8 hours/week
+     - **DLV**: 8 hours/week
+     - **RMCS**: 9-10 hours/week (including research and project work)
+
+3. **Research Component and Publication Potential:**
+   - Engage in a research project under the guidance of a professor who is an active researcher and a good mentor. This could be integrated into one of the courses (e.g., ACV or RMCS) or taken as an independent study.
+   - Dedicate additional hours outside of coursework for research and publication efforts, aiming to produce a publishable paper by the end of the semester.
+
+4. **Mentorship and Support:**
+   - Identify a professor who is not only an active researcher in Computer Vision but also known for being a good mentor. This professor can guide the research project and provide valuable feedback on the path to publication.
+
+**CONFLICT RESOLUTION:**
+- **TIME_VS_RESEARCH**: Managed by prioritizing research time within the allocated 25-30 hours/week for coursework and dedicating additional time for research projects.
+- **COURSEWORK_VS_RESEARCH**: Resolved by selecting courses that have a strong research component, allowing for integration of research and coursework.
+- **MENTORSHIP_VS_AVAILABILITY**: Addressed by identifying a professor who is both an active researcher and a good mentor, ensuring guidance and support for research and publication efforts.
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE**: Advanced Computer Vision and Deep Learning for Vision courses **INSTEAD OF**: More broadly focused courses that might not directly contribute to Computer Vision expertise.
+- **CHOSE**: Research Methods in Computer Science **INSTEAD OF**: Other elective courses that do not directly support research and publication goals.
+- **CHOSE**: Focused research project under an active researcher and good mentor **INSTEAD OF**: Working on multiple small projects without deep mentorship.
+
+**FEASIBILITY SCORE:** 9/10
+This solution is highly feasible because it directly addresses all hard constraints (time, research component, publication potential, active researcher, and good mentor) and prioritizes the soft constraints (preference for Computer Vision and convenience of advanced courses). The trade-offs made ensure a focused approach to achieving the goals of the M.Tech 3rd semester while maintaining a manageable workload. The only potential challenge could be finding a professor who perfectly matches all desired criteria, but this can be mitigated by being flexible and open to guidance from multiple faculty members.

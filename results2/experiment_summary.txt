@@ -1,0 +1,60 @@
+
+================================================================================
+EXPERIMENT RESULTS SUMMARY
+================================================================================
+
+Total experiments: 5
+
+CONSTRAINT SATISFACTION:
+--------------------------------------------------------------------------------
+  zero_shot      : Mean=0.783 Std=0.163 Min=0.500 Max=1.000
+  semantic       : Mean=0.783 Std=0.194 Min=0.500 Max=1.000
+  conflict_aware : Mean=0.917 Std=0.105 Min=0.750 Max=1.000
+  hybrid         : Mean=0.867 Std=0.194 Min=0.500 Max=1.000
+
+CONFLICT RESOLUTION:
+--------------------------------------------------------------------------------
+  zero_shot      : Mean=0.204 Std=0.075 Min=0.150 Max=0.350
+  semantic       : Mean=0.224 Std=0.207 Min=0.000 Max=0.600
+  conflict_aware : Mean=0.620 Std=0.277 Min=0.150 Max=0.900
+  hybrid         : Mean=0.570 Std=0.258 Min=0.150 Max=0.850
+
+SOLUTION FEASIBILITY:
+--------------------------------------------------------------------------------
+  zero_shot      : Mean=0.800 Std=0.055 Min=0.700 Max=0.850
+  semantic       : Mean=0.760 Std=0.097 Min=0.600 Max=0.850
+  conflict_aware : Mean=0.820 Std=0.068 Min=0.700 Max=0.900
+  hybrid         : Mean=0.840 Std=0.037 Min=0.800 Max=0.900
+
+OVERALL SCORE:
+--------------------------------------------------------------------------------
+  zero_shot      : Mean=0.585 Std=0.088 Min=0.470 Max=0.735
+  semantic       : Mean=0.582 Std=0.036 Min=0.532 Max=0.613
+  conflict_aware : Mean=0.789 Std=0.070 Min=0.677 Max=0.890
+  hybrid         : Mean=0.756 Std=0.095 Min=0.675 Max=0.897
+
+================================================================================
+IMPROVEMENT ANALYSIS
+================================================================================
+
+Constraint Satisfaction:
+  Semantic baseline:     0.783
+  Conflict-aware:        0.917
+  Improvement:           +17.0%
+
+Conflict Resolution:
+  Semantic baseline:     0.224
+  Conflict-aware:        0.620
+  Improvement:           +176.8%
+
+Solution Feasibility:
+  Semantic baseline:     0.760
+  Conflict-aware:        0.820
+  Improvement:           +7.9%
+
+Overall Score:
+  Semantic baseline:     0.582
+  Conflict-aware:        0.789
+  Improvement:           +35.6%
+
+================================================================================

@@ -1,0 +1,31 @@
+TEST: TEST_H04
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 28M; Type 2 diabetes (HbA1c: 8.2); Budget ₹150/day; Veg; No kitchen; Need <150g carbs/day, 60g protein, no sugar spikes; Prefer natural foods (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+
+To manage Type 2 diabetes with the given constraints, the plan focuses on natural, low-carb, high-protein foods that can be easily accessed without a kitchen. The goal is to keep daily carb intake under 150g, ensure 60g of protein, and avoid sugar spikes.
+
+- **Morning (8:00 AM):** Start with 2 glasses of lemon water to help stimulate digestion and potentially lower blood sugar levels. For breakfast, opt for a low-carb, high-protein option like idlis (made from rice and lentil batter, approximately 20g carbs per 2 idlis) with a dollop of low-fat curd (about 5g protein) and a sprinkle of chia seeds (about 2g protein and 4g carbs per tablespoon). Total approximate cost: ₹30.
+  
+- **Mid-Morning (11:00 AM):** Have a small serving of roasted chickpeas (about 10g carbs and 5g protein per 1/4 cup) and a handful of almonds (about 6g carbs and 6g protein per ounce). Total approximate cost: ₹20.
+
+- **Lunch (1:00 PM):** Since there's no kitchen, rely on the mess for meals. Opt for vegetable-based dishes with a focus on leafy greens or other low-carb options. Ask for an extra serving of dal (lentil soup, rich in protein and fiber) and a small serving of low-fat curd. Avoid high-carb foods like rice or roti if possible. If available, add a serving of salad with vinegar dressing. Total approximate cost: ₹50.
+
+- **Evening (4:00 PM):** Consume a small serving of flaxseed powder mixed with low-fat buttermilk (about 2g carbs and 3g protein per 1/2 cup buttermilk, plus 2g fiber and 1.5g protein from 1 tablespoon of flaxseed). Total approximate cost: ₹15.
+
+- **Dinner (7:30 PM):** Similar to lunch, focus on low-carb, high-protein options from the mess. Include an extra serving of dal and vegetables. If available, opt for a small serving of paneer (Indian cheese, about 6g protein per ounce) as a high-protein, low-carb option. Total approximate cost: ₹50.
+
+- **Before Bed (9:30 PM):** Have a small serving of cucumber slices with low-fat curd (about 5g protein and 4g carbs per 1/2 cup curd). This helps in maintaining protein intake and keeping you full until the next morning. Total approximate cost: ₹15.
+
+**Total Daily Cost:** Approximately ₹180, which is slightly above budget. Adjustments can be made by reducing portion sizes or substituting some items with more affordable options.
+
+**TRADE-OFFS:**
+- **Cost:** The plan slightly exceeds the daily budget of ₹150, necessitating some adjustments or substitutions to fit within the allocated amount.
+- **Variety:** Given the constraints, there might be limited variety in the diet, which could affect adherence over time.
+- **Kitchen Access:** The lack of kitchen access restricts the ability to prepare a wide range of meals, relying heavily on mess food and limited preparation options.
+
+**FEASIBILITY SCORE:** 7/10
+Justification: The plan is feasible given the constraints but requires careful management of food choices and portions, especially when relying on mess food. The slight exceedance of the budget and potential lack of variety are drawbacks. However, the focus on natural foods, low-carb intake, and high-protein consumption aligns well with the requirements for managing Type 2 diabetes. Adjustments and substitutions can help better fit the budget and improve sustainability.

@@ -1,0 +1,49 @@
+TEST: TEST_T05
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Senior couple (68M, 65F); ₹40000 budget; 4 days; Spiritual/peaceful; Need: easy walking (max 1km), AC transport, 3-star+ hotels, pure veg food, morning temple visits; Avoid: crowds, noise
+======================================================================
+
+**SOLUTION PLAN:**
+To cater to the senior couple's requirements, I suggest a 4-day trip to the spiritual city of Nashik, Maharashtra. Here's a detailed plan:
+
+* **Day 1: Arrival and Acclimatization**
+	+ Arrive at Nashik Airport or Railway Station
+	+ Check-in at a 3-star hotel like Hotel Express Inn or similar, which offers pure veg food and is close to the city center
+	+ Spend the day relaxing and acclimatizing to the surroundings
+* **Day 2: Morning Temple Visits**
+	+ Start the day with a morning visit to the famous Trimbakeshwar Temple (approximately 30 km from Nashik city, 1-hour drive by AC transport)
+	+ Visit the Kalaram Temple and the Someshwar Temple, both within a 1 km walking distance from each other
+	+ Return to the hotel for lunch and rest
+* **Day 3: Spiritual Experiences**
+	+ Visit the Kapileshwara Temple and the Sundarnarayan Temple, both located near the Godavari River (approximately 1 km walking distance)
+	+ Take a stroll along the riverbank and enjoy the peaceful surroundings
+	+ In the evening, attend a meditation or yoga session at a local ashram or wellness center
+* **Day 4: Departure**
+	+ Spend the morning at leisure or visit the local market for some shopping
+	+ Depart for the airport or railway station for onward journey
+
+**TRANSPORTATION:**
+Arrange for AC transport (e.g., Innova or similar) for all transfers and sightseeing. This will ensure comfortable travel for the senior couple.
+
+**FOOD:**
+Ensure that the hotel provides pure veg food, and also make arrangements for packed veg lunches or snacks during sightseeing.
+
+**BUDGET BREAKUP:**
+Approximate budget breakdown:
+
+* Transportation (AC): ₹8,000 - ₹10,000
+* Accommodation (3-star hotel): ₹12,000 - ₹15,000
+* Food (pure veg): ₹6,000 - ₹8,000
+* Sightseeing and entry fees: ₹2,000 - ₹3,000
+* Miscellaneous: ₹2,000 - ₹3,000
+Total: ₹30,000 - ₹39,000
+
+**TRADE-OFFS:**
+To stay within the budget, I've compromised on the following:
+
+* Instead of a 4-star hotel, I've opted for a 3-star hotel to save on costs.
+* I've limited the number of sightseeing places to avoid excessive traveling and fatigue.
+
+**FEASIBILITY SCORE:** 8.5/10
+This plan is feasible because it caters to the senior couple's requirements, providing a peaceful and spiritual experience with easy walking distances, AC transport, and pure veg food. However, there might be some minor adjustments needed based on the couple's personal preferences or any unforeseen circumstances. The budget breakdown should be manageable, but some flexibility might be required to accommodate any unexpected expenses.

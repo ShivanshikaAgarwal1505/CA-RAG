@@ -1,0 +1,23 @@
+TEST: TEST_T01
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To accommodate the solo traveler's requirements within the ₹8000 budget, I recommend a 5-day trip to Goa, a popular beach destination in India. Goa offers a range of budget-friendly stay options, local cuisine, and exciting water sports.
+
+* **Accommodation:** Book a budget-friendly hostel or guesthouse in North Goa, such as Calangute or Baga, for approximately ₹800-1000 per night. This will be the base for exploring the surrounding beaches and water sports.
+* **Food:** Eat at local eateries and street food stalls to savor authentic Goan cuisine, with meals starting from ₹100-200. Some popular local dishes include fish curry, seafood, and traditional Goan desserts.
+* **Scuba Diving:** Head to Grande Island for a scuba diving experience, which costs around ₹2500-3000 per person for a half-day trip, including equipment and instruction.
+* **Parasailing and Jet Ski:** Visit the beaches in North Goa, such as Calangute or Baga, where parasailing and jet ski facilities are available. The cost for parasailing is approximately ₹800-1000 per person, while jet ski rides cost around ₹500-800 per person for a 10-15 minute ride.
+* **Safety:** To ensure safety, book water sports through reputable operators and follow instructions carefully. Additionally, stay in well-lit and populated areas, especially at night.
+
+**TRADE-OFFS:**
+To fit within the ₹8000 budget, some compromises have been made:
+* Staying in a budget-friendly hostel or guesthouse instead of a luxury resort.
+* Eating at local eateries and street food stalls instead of mid-range or fine-dining restaurants.
+* Limiting the number of water sports activities to prioritize scuba diving, parasailing, and jet ski.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it prioritizes the traveler's preferences for budget stays, local food, and exciting water sports, while ensuring safety. However, the budget constraint might limit the number of activities or the quality of accommodation. With careful planning and research, this trip can be a fun and memorable experience for the solo traveler.

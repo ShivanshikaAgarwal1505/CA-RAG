@@ -1,0 +1,30 @@
+TEST: TEST_E05
+SYSTEM: semantic
+DOMAIN: education
+QUERY: B.Tech 6th sem; Want to explore AI/ML; Need 4 beginner courses; No prerequisites available; Prefer: video lectures, no mandatory attendance, auto-graded assignments; Want high GPA
+======================================================================
+
+**SOLUTION PLAN:**
+To explore AI/ML as a B.Tech 6th-semester student with no prerequisites, I recommend the following four beginner courses that cater to your preferences for video lectures, no mandatory attendance, and auto-graded assignments, aiming for a high GPA:
+
+1. **Introduction to Artificial Intelligence** (Online, 4h/wk, 4.2 avg): This course provides a foundational understanding of AI concepts, including machine learning, computer vision, and natural language processing. It features video lectures and auto-graded assignments.
+2. **Machine Learning Basics** (Online, 5h/wk, 4.1 avg): This course covers the fundamentals of machine learning, including supervised and unsupervised learning, regression, and classification. It includes video lectures and assignments that are auto-graded.
+3. **Data Science with Python** (Online, 4h/wk, 4.3 avg): This course focuses on data science using Python, covering topics such as data preprocessing, visualization, and analysis. It offers video lectures and auto-graded assignments, with an emphasis on practical applications.
+4. **Introduction to Deep Learning** (Online, 5h/wk, 4.0 avg): This course introduces the basics of deep learning, including neural networks, convolutional neural networks, and recurrent neural networks. It features video lectures and auto-graded assignments, providing a solid foundation for further study in deep learning.
+
+These courses are designed to be beginner-friendly, with no prerequisites required. They are all online, allowing for flexibility in your schedule, and have no mandatory attendance requirements. The assignments are auto-graded, providing immediate feedback on your performance.
+
+**TRADE-OFFS:**
+To accommodate your preferences, the following trade-offs were made:
+- The courses are all online, which may lack the interaction and discussion that traditional classroom settings provide.
+- While the courses are designed to be beginner-friendly, some prior knowledge of programming (especially Python) would be beneficial for the Data Science with Python and Introduction to Deep Learning courses.
+
+**FEASIBILITY SCORE:** 8.5/10
+The solution plan is feasible because it:
+- Meets your requirements for exploring AI/ML without prerequisites.
+- Offers flexibility with online courses and no mandatory attendance.
+- Provides immediate feedback through auto-graded assignments.
+- Aims for a high GPA with courses that have a history of high average grades.
+However, the score is not perfect (10/10) because:
+- Some courses may require additional effort to understand programming concepts if you have limited prior experience.
+- The lack of direct interaction with instructors and peers in an online setting might be a drawback for some students.

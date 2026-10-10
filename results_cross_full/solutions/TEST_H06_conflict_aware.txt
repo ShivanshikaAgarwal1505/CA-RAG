@@ -1,0 +1,32 @@
+TEST: TEST_H06
+SYSTEM: conflict_aware
+DOMAIN: health
+QUERY: 26M; Lose 15kg in 4 months; Budget ₹120/day; Veg; Hostel mess; Need 80g protein, <1500 cal/day; Hate: salads, raw vegetables; Gym 4x/week
+======================================================================
+
+**SOLUTION PLAN:**
+To achieve the goal of losing 15kg in 4 months while satisfying all constraints, I propose the following daily plan:
+
+- **Breakfast**: Utilize the hostel mess for a standard breakfast, and supplement with a glass of milk (₹15) and 2 bananas (₹10) to increase calorie and protein intake.
+- **Mid-morning Snack**: Consume 30g of peanuts (₹20) for an added protein boost.
+- **Lunch**: Opt for the mess meal and request an extra serving of dal (lentils) to increase protein intake. Accompany this with a small serving of fruit (e.g., an apple, ₹10).
+- **Evening Snack**: Prepare a milk-banana smoothie using the mess milk and 2 bananas (total ₹25).
+- **Dinner**: Again, utilize the mess meal and ensure to include a protein source like paneer or soya if available. If not, consider requesting extra dal or curd (yogurt) as a supplement.
+- **Before Bed**: Consume a glass of warm milk (₹15) with 5 almonds (₹10) for added protein and to support muscle recovery from gym workouts.
+
+**Gym Routine**: Continue with the 4 times a week gym schedule, focusing on a balanced workout that includes cardio for weight loss and strength training to build muscle mass, which will help in achieving the protein goal indirectly by increasing appetite for protein-rich foods.
+
+**CONFLICT RESOLUTION:**
+
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like dal, milk, bananas, and peanuts instead of expensive protein supplements. The total daily cost for these supplements is approximately ₹100, leaving ₹20 for any additional needs or adjustments.
+- **DIET_VS_PROTEIN**: Focused on vegetarian high-protein foods available in the mess like lentils, and supplemented with milk, peanuts, and bananas to meet the daily protein requirement of 80g.
+- **EXTREME_GOAL_VS_TIMELINE**: While the goal to lose 15kg in 4 months is ambitious, the plan focuses on consistent, sustainable weight loss of approximately 1kg per week through a combination of diet and regular exercise. This approach, although challenging, is more likely to result in long-term success.
+
+**SPECIFIC TRADE-OFFS:**
+
+- **CHOSE**: Dal-based protein and milk supplements **INSTEAD OF**: Protein supplements or whey protein due to budget constraints.
+- **CHOSE**: Mess optimization with specific requests for protein-rich foods **INSTEAD OF**: Home cooking, as it is not feasible without a kitchen.
+- **CHOSE**: Peanuts and bananas as snack supplements **INSTEAD OF**: Salads or raw vegetables, considering the preference against them.
+
+**FEASIBILITY SCORE:** 8/10
+The proposed solution is feasible because it satisfies all hard constraints (budget, diet type, facility, protein intake, and calorie intake) and addresses the soft constraints (preference against salads and raw vegetables, gym routine). The trade-offs made ensure that the plan is affordable and utilizes available resources efficiently. However, the ambitious weight loss goal poses a challenge, and consistent adherence to the plan, along with potential adjustments based on progress, will be crucial for success.

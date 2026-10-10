@@ -1,0 +1,25 @@
+TEST: TEST_E04
+SYSTEM: zero_shot
+DOMAIN: education
+QUERY: PhD 1st year; Need 2 courses; Topics: must align with thesis (RL in robotics); Need: theory depth, hands-on projects; Prof: must allow flex attendance (thesis work); Max 15hrs/week
+======================================================================
+
+**SOLUTION PLAN:**
+To align with your PhD thesis on Reinforcement Learning (RL) in robotics and accommodate your requirements, I propose the following two courses for your 1st year:
+
+1. **Advanced Robotics (Theory and Practice)**: This course should delve into the theoretical foundations of robotics, including kinematics, dynamics, and control. It should also cover the application of RL in robotics, focusing on topics like policy gradients, Q-learning, and deep RL methods. The practical component could involve programming robotic arms or mobile robots using ROS (Robot Operating System) and implementing RL algorithms to achieve specific tasks.
+
+2. **Machine Learning for Autonomous Systems**: This course should provide a deep dive into machine learning (ML) techniques, with a focus on their application in autonomous systems, particularly robotics. It should cover supervised, unsupervised, and reinforcement learning methods, including state-of-the-art deep learning architectures. Hands-on projects could involve designing and training ML models for tasks like robotic vision, navigation, or manipulation, using libraries such as PyTorch or TensorFlow.
+
+Both courses should be selected based on the following criteria:
+- They must offer flexible attendance options to accommodate your thesis work.
+- They should not exceed a total of 15 hours of commitment per week, including both theoretical classes and hands-on project work.
+- The professors teaching these courses must be understanding of your PhD research commitments and willing to work with you to balance coursework and thesis responsibilities.
+
+**TRADE-OFFS:**
+- **Limited Course Selection**: Given the constraints, the selection of courses might be limited, potentially excluding other interesting or relevant courses that do not offer flexible attendance.
+- **Dependence on Professor's Flexibility**: The success of this plan heavily depends on the professors' willingness to accommodate your needs, which might not always be guaranteed.
+- **Balancing Depth and Breadth**: With a focus on theory depth and hands-on projects in a limited time frame, there might be a trade-off between exploring a wide range of topics versus gaining in-depth knowledge in a few specific areas.
+
+**FEASIBILITY SCORE:** 8/10
+This solution is feasible because it directly addresses the user's needs by focusing on courses that align with their thesis topic, offer hands-on experience, and accommodate their schedule constraints. However, the feasibility score is not a perfect 10 due to potential challenges in finding courses and professors that perfectly match all the specified criteria, especially the flexible attendance requirement. Additionally, managing coursework alongside thesis work within a limited time frame can be challenging, requiring diligent time management and communication with course instructors.

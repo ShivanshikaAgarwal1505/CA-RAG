@@ -1,0 +1,37 @@
+TEST: TEST_H02
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 22M; Gain 12kg muscle in 3 months; Budget ₹100/day; Vegetarian (eggs ok); No kitchen; Gym 6x/week; Currently underweight (BMI 16.8); Need 120g protein daily
+======================================================================
+
+**SOLUTION PLAN:**
+To gain 12kg of muscle in 3 months, we'll focus on a high-calorie, high-protein diet, and a consistent gym routine. Given the constraints, here's a tailored plan:
+
+1. **Diet:** Aim for 2500-2800 calories/day, with 120g protein, 250g carbohydrates, and 70g fat. Since no kitchen is available, rely on:
+	* High-calorie, high-protein supplements: Mass gainers ( ₹500-700 per kg, lasts 7-10 days) or protein powders ( ₹800-1000 per kg, lasts 15-20 days).
+	* Ready-to-eat meals: Vegetarian meal packets ( ₹50-70 per packet) or egg-based meals ( ₹30-50 per packet) from local eateries or food delivery services.
+	* Fresh fruits, nuts, and dried fruits as snacks.
+2. **Meal Frequency:** 5-6 meals/day, spaced out every 2-3 hours, to maintain a positive nitrogen balance and support muscle growth.
+3. **Gym Routine:** Continue with 6x/week gym sessions, focusing on compound exercises like squats, deadlifts, bench press, and rows. Increase weight or reps as strength improves.
+4. **Progress Tracking:** Monitor weight, body fat percentage, and measurements every week. Adjust the diet and gym routine as needed.
+
+**Sample Meal Plan:**
+- Breakfast: 2 scoops mass gainer (400 calories, 30g protein) + 1 cup fruit + 1 handful nuts
+- Mid-morning Snack: 1 cup Greek yogurt (100 calories, 10g protein) + 1 cup mixed berries
+- Lunch: 1 vegetarian meal packet (500 calories, 20g protein) + 1 egg (70 calories, 6g protein)
+- Pre-workout Snack: 1 banana (100 calories, 2g protein) + 1 tablespoon almond butter (100 calories, 2g protein)
+- Post-workout Snack: 1 scoop whey protein (120 calories, 25g protein) + 1 cup mixed fruits
+- Dinner: 1 egg-based meal packet (400 calories, 20g protein) + 1 cup cooked vegetables
+
+**Budget Breakdown:**
+- Supplements (mass gainer/protein powder): ₹60-80/day
+- Ready-to-eat meals: ₹30-50/day
+- Fresh fruits, nuts, and snacks: ₹10-20/day
+- Total: ₹100/day
+
+**TRADE-OFFS:**
+- Limited whole food options due to no kitchen availability.
+- Higher reliance on supplements and ready-to-eat meals, which may not be as nutrient-dense as whole foods.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible given the constraints, but it may require some flexibility and adjustments as progress is tracked. The high-calorie, high-protein diet, combined with a consistent gym routine, should support muscle gain. However, the lack of kitchen access and reliance on supplements and ready-to-eat meals may pose some nutritional limitations. Regular monitoring and adjustments will be crucial to ensure the desired outcome.

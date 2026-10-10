@@ -1,0 +1,69 @@
+{
+  "test_id": "TEST_H04",
+  "domain": "health",
+  "query": "28M; Type 2 diabetes (HbA1c: 8.2); Budget ₹150/day; Veg; No kitchen; Need <150g carbs/day, 60g protein, no sugar spikes; Prefer natural foods (0.9)",
+  "expected_conflicts": [
+    "budget_vs_protein",
+    "no_kitchen_vs_nutrition",
+    "diet_vs_protein"
+  ],
+  "timestamp": "2026-02-15T20:40:57.758103",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2073,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.15,
+        "sf": 0.8,
+        "overall": 0.6525000000000001
+      }
+    },
+    "semantic": {
+      "solution_length": 2532,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 0.6666666666666666,
+        "crq": 0.15,
+        "sf": 0.8,
+        "overall": 0.5191666666666667
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 3112,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 1.0,
+        "sf": 0.8,
+        "overall": 0.8833333333333333
+      }
+    },
+    "hybrid": {
+      "solution_length": 3427,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.8,
+        "sf": 0.8,
+        "overall": 0.8799999999999999
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3624,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 0.19333333333333333,
+        "sf": 0.8,
+        "overall": 0.601
+      },
+      "cross_domain_count": 1
+    }
+  }
+}

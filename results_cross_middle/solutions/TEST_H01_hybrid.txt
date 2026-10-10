@@ -1,0 +1,31 @@
+TEST: TEST_H01
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN:**
+To manage severe anemia and PCOS within the given constraints, the following daily plan is suggested:
+
+- **Morning (empty stomach)**: 1 cup of warm water with 1 tablespoon of sesame seeds (rich in iron) and 1 tablespoon of jaggery (for energy).
+- **Breakfast (hostel mess)**: Opt for whole grain roti or paratha with a vegetable curry that includes iron-rich ingredients like spinach, beetroot, or chickpeas. Add a serving of nuts like almonds or walnuts for extra protein and healthy fats.
+- **Mid-morning**: Have a fruit salad with amla (Indian gooseberry) for its high vitamin C content, which enhances iron absorption. Include a handful of raisins for iron.
+- **Lunch (hostel mess)**: Choose lentil-based dishes like dal or rajma, which are high in protein and iron. Accompany with whole grain rice or roti and a side of mixed greens salad with lemon juice.
+- **Evening**: Snack on roasted makhana (fox nuts) seasoned with herbs for a protein and iron boost.
+- **Dinner (hostel mess)**: Select a meal with a protein source like chickpeas or black beans, paired with whole grains and a variety of vegetables. Ensure the meal includes vitamin C-rich foods to aid iron absorption.
+- **Before Bed**: Consume a small serving of dates and figs soaked in water to provide a natural source of iron and fiber.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like lentils (dal), chickpeas, and nuts instead of expensive protein supplements.
+- **BUDGET_VS_SUPPLEMENTS**: Since supplements are not an option due to religious beliefs, focused on whole food sources rich in iron and protein.
+- **DIET_VS_PROTEIN**: Emphasized vegan high-protein foods such as lentils, chickpeas, nuts, and seeds to meet the daily protein requirement.
+- **VEGAN_VS_PROTEIN**: Utilized a variety of vegan protein sources including legumes, nuts, and seeds to ensure adequate protein intake.
+- **MEDICAL_CONDITION_VS_DIET**: Managed PCOS and anemia by including foods that help regulate hormonal balance (like whole grains, nuts, and seeds) and boost iron levels (such as sesame seeds, spinach, and chickpeas).
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE**: Dal-based protein and nuts INSTEAD OF: Expensive vegan protein powders or supplements.
+- **CHOSE**: Whole grains and a variety of vegetables INSTEAD OF: Refined grains and limited vegetable options.
+- **CHOSE**: Mess optimization by selecting iron and protein-rich foods available INSTEAD OF: Home cooking which is not feasible due to hostel constraints.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it utilizes affordable, accessible food options that meet the vegan, protein, and iron requirements. However, the limitation of relying on hostel mess food might occasionally restrict the ability to perfectly tailor meals to individual nutritional needs every day. Nonetheless, with careful selection and the inclusion of specific snacks, it's possible to manage both severe anemia and PCOS effectively within the given constraints.

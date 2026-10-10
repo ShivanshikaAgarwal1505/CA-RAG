@@ -1,0 +1,34 @@
+TEST: TEST_H04
+SYSTEM: cross_domain
+DOMAIN: health
+QUERY: 28M; Type 2 diabetes (HbA1c: 8.2); Budget ₹150/day; Veg; No kitchen; Need <150g carbs/day, 60g protein, no sugar spikes; Prefer natural foods (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To manage Type 2 diabetes for a 28-year-old male with a budget of ₹150/day, vegetarian diet, no kitchen, and specific nutritional requirements (<150g carbs/day, 60g protein, no sugar spikes), the following plan is proposed:
+
+1. **Breakfast**: Overnight oats made with rolled oats, almond milk, and chia seeds (approx. ₹30, 30g carbs, 10g protein). Since there's no kitchen, oats can be soaked overnight in a thermos or a sealed container.
+2. **Mid-morning Snack**: Roasted chickpeas (approx. ₹10, 10g carbs, 5g protein) and a handful of nuts (almonds or walnuts, approx. ₹20, 5g carbs, 4g protein).
+3. **Lunch**: Whole grain bread with avocado, tomatoes, and cucumber (approx. ₹40, 30g carbs, 4g protein) from a nearby café or food stall that offers vegetarian options. Alternatively, consider pre-cooked, low-carb, vegetarian meal packets that can be heated without a kitchen.
+4. **Evening Snack**: Greek yogurt (approx. ₹30, 10g carbs, 10g protein) with berries (approx. ₹20, 10g carbs, 1g protein).
+5. **Dinner**: Pre-cooked lentil or vegetable soup (approx. ₹40, 30g carbs, 10g protein) from a food stall or café, paired with a side of roasted or sautéed vegetables (approx. ₹20, 5g carbs, 2g protein) that can be prepared without cooking.
+
+**Supplements**: Consider a daily multivitamin (approx. ₹10) to ensure all nutritional needs are met, given the dietary restrictions and limitations.
+
+**Physical Activity**: Aim for at least 30 minutes of moderate-intensity physical activity, such as brisk walking, per day to help manage blood sugar levels.
+
+**CONFLICT RESOLUTION:**
+- **Budget vs. Protein**: Utilizing plant-based protein sources like lentils, chickpeas, and nuts helps meet the protein requirement within the budget.
+- **No Kitchen vs. Nutrition**: Choosing foods that do not require cooking, such as soaked oats, nuts, whole grain bread, and pre-cooked meal packets, addresses the no kitchen constraint.
+- **Diet vs. Protein**: Incorporating a variety of plant-based protein sources ensures the protein requirement is met without compromising the diet's vegetarian and low-carb constraints.
+- **Medical Condition vs. Diet**: The plan's focus on low-carb, high-protein, and natural foods, along with portion control, aims to manage Type 2 diabetes and lower HbA1c levels.
+
+**CROSS-DOMAIN INSIGHTS:**
+The strategy of finding alternative paths within constraints, as seen in the cross-domain pattern from travel to health, is applied here. For instance, using plant-based proteins and pre-cooked meals as creative workarounds for the no kitchen and budget constraints.
+
+**TRADE-OFFS MADE:**
+- **Limited Food Variety**: Given the constraints, there might be a limited variety in the diet, which could affect long-term adherence. However, this is mitigated by incorporating different types of nuts, seeds, and vegetables.
+- **Reliance on Pre-cooked Meals**: While convenient, relying on pre-cooked meals might not always offer the healthiest options. Careful selection of low-carb, high-protein meals from reputable sources is essential.
+
+**FEASIBILITY SCORE:** 8/10
+This score is based on the plan's ability to meet all hard constraints (budget, diet type, no kitchen, specific nutritional requirements) and address each conflict with practical strategies. The plan is feasible but requires careful management of food choices and portions to ensure long-term sustainability and effectiveness in managing Type 2 diabetes. The score is not a perfect 10 due to potential challenges in maintaining dietary variety and ensuring all nutritional needs are met without professional nutritional advice.

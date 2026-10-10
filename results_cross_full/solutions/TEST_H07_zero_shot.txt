@@ -1,0 +1,26 @@
+TEST: TEST_H07
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 23F; Hypothyroidism + hair fall; Budget ₹140/day; Vegan; Shared kitchen (30min/day max); Need iodine, selenium, 50g protein; Avoid: goitrogens (soy, cabbage, broccoli)
+======================================================================
+
+**SOLUTION PLAN:**
+To address the user's requirements, I've created a daily meal plan that caters to their vegan diet, hypothyroidism, and hair fall concerns while avoiding goitrogens and staying within the budget of ₹140/day. Here's a sample meal plan:
+
+* Breakfast (₹40): Oatmeal with almond milk, walnuts (rich in selenium), and dried fruits (30 minutes to prepare)
+* Snack (₹20): Apple slices with sunflower seed butter (rich in protein and healthy fats)
+* Lunch (₹40): Quinoa and black bean bowl with roasted sweet potatoes, carrots, and a drizzle of olive oil (30 minutes to prepare)
+* Snack (₹20): Rice cakes with almond butter and banana slices
+* Dinner (₹20): Lentil soup with a side of brown rice and a sprinkle of iodized salt (30 minutes to prepare)
+
+To meet the daily requirements:
+* Iodine: Iodized salt (added to meals)
+* Selenium: Walnuts, sunflower seeds, and Brazil nuts (added to meals)
+* Protein: Black beans, lentils, quinoa, and sunflower seeds (approximately 50g)
+
+**TRADE-OFFS:**
+* Limited meal options due to the avoidance of goitrogens and the shared kitchen time constraint
+* Potential compromise on meal variety and taste due to the budget constraint
+
+**FEASIBILITY SCORE:** 8/10
+The solution plan is feasible because it provides a balanced and nutrient-rich diet within the given budget and time constraints. However, the limited meal options and potential compromise on taste and variety might affect the user's long-term adherence to the plan. With some flexibility and creativity, the user can explore other vegan options and recipes to maintain a balanced diet while managing their hypothyroidism and hair fall concerns.

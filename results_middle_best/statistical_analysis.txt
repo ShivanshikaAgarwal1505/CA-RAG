@@ -1,0 +1,169 @@
+================================================================================
+STATISTICAL ANALYSIS
+================================================================================
+
+1. PAIRED T-TESTS: Conflict-Aware vs Baselines
+--------------------------------------------------------------------------------
+
+Conflict-Aware vs Zero Shot (CSR):
+  Mean (Conflict-Aware): 0.765
+  Mean (zero_shot): 0.730
+  Difference: +0.036
+  t-statistic: 0.885
+  p-value: 0.3991 ns
+  Cohen's d: 0.280
+  Result: not significant
+
+Conflict-Aware vs Zero Shot (CRQ):
+  Mean (Conflict-Aware): 0.685
+  Mean (zero_shot): 0.338
+  Difference: +0.347
+  t-statistic: 3.721
+  p-value: 0.0048 **
+  Cohen's d: 1.177
+  Result: very significant
+
+Conflict-Aware vs Zero Shot (SF):
+  Mean (Conflict-Aware): 0.835
+  Mean (zero_shot): 0.810
+  Difference: +0.025
+  t-statistic: 1.861
+  p-value: 0.0957 ns
+  Cohen's d: 0.588
+  Result: not significant
+
+Conflict-Aware vs Zero Shot (OVERALL):
+  Mean (Conflict-Aware): 0.755
+  Mean (zero_shot): 0.613
+  Difference: +0.142
+  t-statistic: 4.763
+  p-value: 0.0010 **
+  Cohen's d: 1.506
+  Result: very significant
+
+Conflict-Aware vs Semantic (CSR):
+  Mean (Conflict-Aware): 0.765
+  Mean (semantic): 0.757
+  Difference: +0.008
+  t-statistic: 0.122
+  p-value: 0.9059 ns
+  Cohen's d: 0.038
+  Result: not significant
+
+Conflict-Aware vs Semantic (CRQ):
+  Mean (Conflict-Aware): 0.685
+  Mean (semantic): 0.426
+  Difference: +0.259
+  t-statistic: 2.694
+  p-value: 0.0247 *
+  Cohen's d: 0.852
+  Result: significant
+
+Conflict-Aware vs Semantic (SF):
+  Mean (Conflict-Aware): 0.835
+  Mean (semantic): 0.770
+  Difference: +0.065
+  t-statistic: 2.327
+  p-value: 0.0450 *
+  Cohen's d: 0.736
+  Result: significant
+
+Conflict-Aware vs Semantic (OVERALL):
+  Mean (Conflict-Aware): 0.755
+  Mean (semantic): 0.644
+  Difference: +0.110
+  t-statistic: 2.619
+  p-value: 0.0279 *
+  Cohen's d: 0.828
+  Result: significant
+
+Conflict-Aware vs Hybrid (CSR):
+  Mean (Conflict-Aware): 0.765
+  Mean (hybrid): 0.793
+  Difference: -0.027
+  t-statistic: -0.478
+  p-value: 0.6444 ns
+  Cohen's d: -0.151
+  Result: not significant
+
+Conflict-Aware vs Hybrid (CRQ):
+  Mean (Conflict-Aware): 0.685
+  Mean (hybrid): 0.655
+  Difference: +0.030
+  t-statistic: 0.745
+  p-value: 0.4754 ns
+  Cohen's d: 0.236
+  Result: not significant
+
+Conflict-Aware vs Hybrid (SF):
+  Mean (Conflict-Aware): 0.835
+  Mean (hybrid): 0.845
+  Difference: -0.010
+  t-statistic: -1.500
+  p-value: 0.1679 ns
+  Cohen's d: -0.474
+  Result: not significant
+
+Conflict-Aware vs Hybrid (OVERALL):
+  Mean (Conflict-Aware): 0.755
+  Mean (hybrid): 0.758
+  Difference: -0.003
+  t-statistic: -0.153
+  p-value: 0.8818 ns
+  Cohen's d: -0.048
+  Result: not significant
+
+
+2. CONFIDENCE INTERVALS (95%)
+--------------------------------------------------------------------------------
+
+Zero Shot:
+  Mean: 0.613
+  95% CI: [0.489, 0.736]
+  Margin of error: ±0.123
+
+Semantic:
+  Mean: 0.644
+  95% CI: [0.530, 0.759]
+  Margin of error: ±0.114
+
+Conflict Aware:
+  Mean: 0.755
+  95% CI: [0.675, 0.834]
+  Margin of error: ±0.080
+
+Hybrid:
+  Mean: 0.758
+  95% CI: [0.672, 0.844]
+  Margin of error: ±0.086
+
+
+3. EFFECT SIZES (Cohen's d)
+--------------------------------------------------------------------------------
+
+Interpretation:
+  Small effect:   d = 0.2
+  Medium effect:  d = 0.5
+  Large effect:   d = 0.8
+
+Conflict-Aware vs Zero Shot:
+  Cohen's d: 1.506 (large effect)
+
+Conflict-Aware vs Semantic:
+  Cohen's d: 0.828 (large effect)
+
+Conflict-Aware vs Hybrid:
+  Cohen's d: -0.048 (negligible effect)
+
+
+4. SUMMARY
+--------------------------------------------------------------------------------
+
+Significant improvements: 5/8
+Percentage: 62.5%
+
+================================================================================
+✓ Best performing system: Hybrid
+  Average overall score: 0.758
+================================================================================
+

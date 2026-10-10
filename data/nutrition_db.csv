@@ -1,0 +1,672 @@
+Food ID,Food Name,Category,Protein (g),Iron (mg),Calcium (mg),Vit C (mg),Biotin (mcg),Calories,Serving (g)
+M001,Egg,Animal Products,6,0,0,1.3,0,0,100
+M002,Egg,Animal Products,6,0,0,0,0.2,0,100
+M003,Egg,Animal Products,6,0,0,5,0.1,0,100
+M004,Egg,Animal Products,6,0,0,1.4,0,0,100
+M005,Egg,Animal Products,6,0,0,0,0,0,100
+M006,Egg,Animal Products,6,0,0,6.7,0.1,0,100
+M007,Egg,Animal Products,68.5,0.15,0,37.7,0.1,0,100
+M008,Egg,Animal Products,1,0,0,0,0,0,100
+M009,Egg,Animal Products,1,0,0,0,0,0,100
+M010,Egg,Animal Products,67.8,0.17,0,58.8,0.2,0,100
+M011,Egg,Animal Products,1,0,0,0,0,0,100
+M012,Egg,Animal Products,1,0,0,0,0,0,100
+M013,Egg,Animal Products,1,0,0,0,0,0,100
+M014,Egg,Animal Products,1,0,0,0,0,0,100
+M015,Egg,Animal Products,1,0,0,0,0,0,100
+N001,Chicken,Animal Products,4,0,0,0.7,0.2,0,100
+N002,Chicken,Animal Products,6,0,0,0.7,0.5,0,100
+N003,Chicken,Animal Products,5,0,0,0.5,0.2,0,100
+N004,Chicken,Animal Products,5,0,0,0.6,0.1,0,100
+N005,Poultry,Animal Products,73.2,0.29,0,1032,0.9,0,100
+N006,Poultry,Animal Products,78,0.2,0,8.7,0.1,0,100
+N007,Country hen,Animal Products,70,0.22,0,8.1,0.4,0,100
+N008,Country hen,Animal Products,67.5,0.4,0,10.4,0.4,0,100
+N009,Country hen,Animal Products,66.5,0.13,0,13,0.6,0,100
+N010,Country hen,Animal Products,68,0.15,0,9.2,0.4,0,100
+N011,Duck,Animal Products,73.5,1,0,28,0.3,0,100
+N012,Emu,Animal Products,71.7,0.65,0,7.1,0.3,0,100
+N013,Guinea fowl,Animal Products,75.2,0.17,0,5.7,0.6,0,100
+N014,Pigeon,Animal Products,74.6,0.1,0,8.4,0.5,0,100
+N015,Quail,Animal Products,71.6,0.2,0,9.3,0.6,0,100
+N016,Turkey,Animal Products,69.2,0.53,0,8.6,0.5,0,100
+N017,Turkey,Animal Products,72.2,0.47,0,10.9,0.5,0,100
+N018,Turkey,Animal Products,68.4,0.1,0,14.7,0.6,0,100
+N019,Turkey,Animal Products,66.2,0.2,0,10.4,0.5,0,100
+O001,Goat,Animal Products,66.4,0.11,0,0,0.3,0,100
+O002,Goat,Animal Products,1.1,0.01,0,0,0,0,100
+O003,Goat,Animal Products,0.9,0.02,0,0,0,0,100
+O004,Goat,Animal Products,1,0.06,0,0,0,0,100
+O005,Goat,Animal Products,1,0.03,0,0,0,0,100
+O006,Goat,Animal Products,1.2,0.01,0,0,0,0,100
+O007,Goat,Animal Products,1.2,0.04,0,0,0.1,0,100
+O008,Goat,Animal Products,1.2,1.67,0,0,0.3,0,100
+O009,Goat,Animal Products,0.8,0.02,0,0,0.1,0,100
+O010,Goat,Animal Products,0.5,0.02,0,0,0.1,0,100
+O011,Goat,Animal Products,1.1,0.03,0,0,0.1,0,100
+O012,Goat,Animal Products,0.6,0.03,0,0,0.1,0,100
+O013,Goat,Animal Products,0,0,0,0,0,0,100
+O014,Sheep,Animal Products,2.5,0.04,0,0,0,0,100
+O015,Sheep,Animal Products,2.8,0.02,0,0,0,0,100
+O016,Sheep,Animal Products,1,0.01,0,0,0,0,100
+O017,Sheep,Animal Products,0,0,0,0,0,0,100
+O018,Sheep,Animal Products,0,0,0,0,0,0,100
+O019,Sheep,Animal Products,0,0,0,0,0,0,100
+O020,Sheep,Animal Products,0,0,0,0,0,0,100
+O021,Sheep,Animal Products,1.1,1.99,0,0,0.1,0,100
+O022,Sheep,Animal Products,0,0,0,0,0,0,100
+O023,Sheep,Animal Products,0,0,0,0,0,0,100
+O024,Sheep,Animal Products,0,0,0,0,0,0,100
+O025,Beef,Animal Products,0.6,0.04,0,0,0,0,100
+O026,Beef,Animal Products,0.3,0.02,0,0,0,0,100
+O027,Beef,Animal Products,1.4,0.01,0,0,0.1,0,100
+O028,Beef,Animal Products,1.4,0.06,0,0,0,0,100
+O029,Beef,Animal Products,1.2,0.03,0,0,0,0,100
+O030,Beef,Animal Products,0.2,0.12,0,0,0,0,100
+O031,Beef,Animal Products,0.7,0.08,0,0,0.1,0,100
+O032,Beef,Animal Products,1.3,1.4,0,0,0.1,0,100
+O033,Beef,Animal Products,0.6,0.02,0,0,0.1,0,100
+O034,Beef,Animal Products,0.7,0.01,0,0,0,0,100
+O035,Beef,Animal Products,0.7,0.09,0,0,0,0,100
+O036,Calf,Animal Products,0,0,0,0,0,0,100
+O037,Calf,Animal Products,0,0,0,0,0,0,100
+O038,Calf,Animal Products,0,0,0,0,0,0,100
+O039,Calf,Animal Products,0,0,0,0,0,0,100
+O040,Calf,Animal Products,0,0,0,0,0,0,100
+O041,Calf,Animal Products,0,0,0,0,0,0,100
+O042,Calf,Animal Products,0,0,0,0,0,0,100
+O043,Calf,Animal Products,0,0,0,0,0,0,100
+O044,Calf,Animal Products,0,0,0,0,0,0,100
+O045,Mithun,Animal Products,0,0,0,0,0,0,100
+O046,Mithun,Animal Products,0,0,0,0,0,0,100
+O047,Mithun,Animal Products,0,0,0,0,0,0,100
+O048,Pork,Animal Products,0.7,0.17,0,0,0.1,0,100
+O049,Pork,Animal Products,1.3,0.13,0,0,0.1,0,100
+O050,Pork,Animal Products,0.4,0.19,0,0,0.1,0,100
+O051,Pork,Animal Products,0.7,0.12,0,0,0,0,100
+O052,Pork,Animal Products,0.9,0.04,0,0,0.1,0,100
+O053,Pork,Animal Products,1.2,0.31,0,0,0.2,0,100
+O054,Pork,Animal Products,0,0,0,0,0,0,100
+O055,Pork,Animal Products,1.1,0.01,0,0,0,0,100
+O056,Pork,Animal Products,0.9,0.19,0,0,0,0,100
+O057,Pork,Animal Products,0,0,0,0,0,0,100
+O058,Hare,Animal Products,0,0,0,0,0,0,100
+O059,Hare,Animal Products,0,0,0,0,0,0,100
+O060,Hare,Animal Products,0,0,0,0,0,0,100
+O061,Rabbit,Animal Products,0,0,0,0,0,0,100
+O062,Rabbit,Animal Products,0,0,0,0,0,0,100
+O063,Rabbit,Animal Products,0,0,0,0,0,0,100
+O064,Egg yolk (cooked),Animal Products,32,5.4,258,0,106,644,100
+O065,Liver (chicken),Animal Products,20,8.5,8,13,210,172,100
+O066,Pork liver (cooked),Animal Products,26,18,7,23,138,165,100
+O067,Beef liver (cooked),Animal Products,29,6.5,7,1.5,96,191,100
+O068,"Egg (whole, boiled)",Animal Products,13,1.2,50,0,25,155,50
+W001,"Chai (milk tea, no sugar)",Beverages,1.5,0.1,45,0.5,0.5,25,100
+W002,"Chai (milk tea, with sugar)",Beverages,1.4,0.1,42,0.5,0.5,60,100
+W003,Coffee (black),Beverages,0.3,0.02,2,0,0.1,2,100
+W004,"Coffee (with milk, sugar)",Beverages,1.8,0.08,50,0.5,0.6,65,100
+W005,Buttermilk (spiced),Beverages,3.2,0.1,110,1.5,1.4,38,100
+W006,Sugarcane juice,Beverages,0.2,0.8,11,20,0.1,58,100
+W007,Coconut water (fresh),Beverages,0.7,0.3,24,2.4,0.2,19,100
+W008,Nimbu pani (lemon water),Beverages,0.1,0.1,3,15,0.1,25,100
+W009,Jaljeera,Beverages,0.5,0.5,15,10,0.2,30,100
+W010,Aam panna (raw mango drink),Beverages,0.3,0.4,8,35,0.3,40,100
+A001,Amaranth seed,Cereals,0,0,0,0,0,0,100
+A002,Amaranth seed,Cereals,0.4,0.09,0,3.2,0,1,100
+A003,Bajra,Cereals,11,6.42,27,0,0.6,1456,100
+A004,Barley,Cereals,10.9,1.56,29,0,2.4,1321,100
+A005,Jowar,Cereals,10,3.95,28,0,0.7,1398,100
+A006,Maize,Cereals,0.6,0.23,0,1.4,0,2,100
+A007,Maize,Cereals,68.3,0.18,0,63,0.5,23,100
+A008,Maize,Cereals,74.4,0.11,0,59.7,0.4,16,100
+A009,Quinoa,Cereals,13.1,7.51,198,0,0.6,1374,100
+A010,Ragi,Cereals,7.2,4.62,364,0,0.9,1342,100
+A011,Rice flakes,Cereals,7.4,4.46,9,0,0.4,1480,100
+A012,Rice puffed,Cereals,7.5,4.55,15,0,1.3,1514,100
+A013,Rice,Cereals,9.3,0.37,0,11.5,0.4,75,100
+A014,Rice,Cereals,10.1,0.27,0,9.8,0.2,77,100
+A015,Rice,Cereals,9.9,0.23,0,9.3,0.1,78,100
+A016,Samai,Cereals,10.1,1.26,16,0,6,1449,100
+A017,Varagu,Cereals,8.9,2.34,15,0,1.5,1388,100
+A018,Wheat flour,Cereals,0.9,0.02,0,2.6,0,1,100
+A019,Wheat flour,Cereals,0.3,0.11,0,1.9,0,0,100
+A020,Wheat,Cereals,1.1,0.12,0,3.8,0,2,100
+A021,Wheat,Cereals,0.3,0.07,0,3.6,0,1,100
+A022,Wheat,Cereals,0.7,0.11,0,3.6,0,1,100
+A023,Wheat,Cereals,0.4,0.03,0,2.4,0,1,100
+A024,Wheat,Cereals,7.6,0.22,0,13.2,0,71,100
+A025,Oats (cooked),Cereals,2.5,1,9,0,13,71,100
+A026,Corn flakes (plain),Cereals,7,24,15,15,1.5,357,100
+A027,"Oats (instant, flavored)",Cereals,12,4,40,0,8,379,100
+A028,Muesli,Cereals,10,3.5,80,1,12,352,100
+A029,Bread (white),Cereals,8,1.2,150,0,2,265,100
+A030,Bread (whole wheat),Cereals,9,2.5,90,0,4.5,247,100
+A031,Biscuits (marie),Cereals,7,1.5,50,0,1.2,443,100
+A032,Biscuits (digestive),Cereals,6.5,2,110,0,2.8,471,100
+A033,White rice (cooked),Cereals,2.7,0.2,10,0,0.3,130,100
+A034,Brown rice (cooked),Cereals,2.6,0.5,10,0,1.5,112,100
+L001,Milk,Dairy,80.7,0.03,0,8.6,0,8,100
+L002,Milk,Dairy,86.6,0.03,0,7,0,5,100
+L003,Panner,Dairy,18.9,0.9,476,0,21,1079,100
+L004,Khoa,Dairy,16.3,2.32,602,0,20.4,1322,100
+L005,Curd (plain),Dairy,3.5,0.1,121,1,2,60,100
+L006,Greek yogurt,Dairy,10,0.04,110,0.8,2.2,59,100
+L007,Cheese (cheddar),Dairy,25,0.7,721,0,1.4,402,100
+L008,Buttermilk,Dairy,3.3,0.1,116,2,1.5,40,100
+L009,Milk powder (skimmed),Dairy,36,0.6,1257,7,24,352,100
+L010,Buffalo milk (whole),Dairy,3.7,0.2,169,2,3.5,97,100
+L011,Condensed milk (sweetened),Dairy,7.9,0.2,284,2,2.8,321,100
+L012,Evaporated milk,Dairy,6.8,0.1,261,1,2.3,134,100
+L013,Skimmed milk,Dairy,3.4,0.03,122,1,2,34,100
+L014,Paneer (fried),Dairy,20,1.2,480,0,22,265,100
+L015,Cottage cheese (low-fat),Dairy,11,0.1,83,0,6.2,72,100
+L016,Mozzarella cheese,Dairy,22,0.4,505,0,3.1,280,100
+L017,Processed cheese slice,Dairy,18,0.5,512,0,1.8,300,30
+L018,Cheese spread,Dairy,5.5,0.2,155,0,1.2,240,30
+L019,Lassi (plain),Dairy,3.2,0.1,110,1,1.8,58,100
+L020,Lassi (sweet),Dairy,2.8,0.08,95,0.5,1.5,85,100
+L021,Kheer (rice pudding),Dairy,4.5,0.3,125,1,2.5,140,100
+L022,Shrikhand,Dairy,5.2,0.2,140,0.5,2.8,180,100
+L023,Rasgulla,Dairy,1.8,0.1,35,0,0.8,186,50
+L024,Dahi vada,Dairy,4,0.8,85,2,1.5,150,100
+E001,Apple,Fruits,0.9,0.01,0,0.9,0,1,100
+E002,Apple,Fruits,1,0.04,0,0.7,0,1,100
+E003,Apple,Fruits,0.5,0.03,0,0.4,0,0,100
+E004,Apple,Fruits,82.8,0.06,0,4,0,14,100
+E005,Apricot,Fruits,0.6,0.04,0,1.6,0,0,100
+E006,Apricot,Fruits,0.8,0.04,0,1,0,1,100
+E007,Avocado fruit,Fruits,3,0.81,28,9.4,1.3,604,100
+E008,Bael fruit,Fruits,2.6,0.23,48,7.5,1.1,569,100
+E009,Banana,Fruits,70.1,0.12,0,17.9,0.5,25,100
+E010,Banana,Fruits,71.3,0.1,0,19.9,0.5,23,100
+E011,Banana,Fruits,70.3,0.06,0,18.9,0.5,25,100
+E012,Banana,Fruits,71.9,0.13,0,16.8,0.4,24,100
+E013,Black berry,Fruits,0.9,0.63,24,19.4,1.6,227,100
+E014,Cherries,Fruits,0.2,0.02,0,1.3,0,0,100
+E015,Currants,Fruits,0,0,0,0,0,0,100
+E016,Custard apple,Fruits,1.6,0.42,28,21.5,0.8,414,100
+E017,Dates,Fruits,11.1,0.36,0,18.6,0.1,75,100
+E018,Dates,Fruits,13.1,0.44,0,12.8,0.2,73,100
+E019,Dates,Fruits,0,0,0,0,0,0,100
+E020,Fig,Fruits,2,0.69,79,16.9,2.6,341,100
+E021,Goosberry,Fruits,0.3,1.25,20,252,1.4,99,100
+E022,Grapes,Fruits,4,0,0,0.2,0,0,100
+E023,Grapes,Fruits,5,0,0,0.1,0,0,100
+E024,Grapes,Fruits,5,0,0,0.3,0,0,100
+E025,Grapes,Fruits,5,0,0,0.1,0,0,100
+E026,Grapes,Fruits,5,0,0,0.2,0,0,100
+E027,Grapes,Fruits,5,0,0,0.2,0,0,100
+E028,Guava,Fruits,0.3,0.04,0,0.7,0,0,100
+E029,Guava,Fruits,0.5,0.02,0,2.7,0,0,100
+E030,Jack fruit,Fruits,0.3,0.09,0,2.3,0,1,100
+E031,Jambu fruit,Fruits,0,0,0,0,0,0,100
+E032,Karonda fruit,Fruits,1.1,0.87,11,135,1.6,141,100
+E033,Lemon,Fruits,0.5,0.01,0,1.9,0,0,100
+E034,Lime,Fruits,91.3,0.03,0,15.4,0.1,5,100
+E035,Litchi,Fruits,1,0.79,6,33.8,2.8,225,100
+E036,Mango,Fruits,88.4,0.1,0,82,0.1,8,100
+E037,Mango,Fruits,86.7,0.07,0,84.3,0.1,10,100
+E038,Mango,Fruits,88,0.08,0,91,0.1,9,100
+E039,Mango,Fruits,85.1,0.07,0,90.4,0.1,11,100
+E040,Mango,Fruits,88.4,0.08,0,68.7,0.1,8,100
+E041,Mango,Fruits,87.7,0.11,0,65.3,0.2,9,100
+E042,Mango,Fruits,84.1,0.08,0,77.7,0.1,13,100
+E043,Mangosteen,Fruits,0.6,0.28,5,26.3,0.8,219,100
+E044,Manila tamarind,Fruits,3.6,0.71,9,55.8,0.2,342,100
+E045,Musk melon,Fruits,0.4,0.02,0,2.5,0,0,100
+E046,Musk melon,Fruits,0.9,0.02,0,5.2,0,1,100
+E047,Orange,Fruits,0.2,0.01,0,1.1,0,0,100
+E048,Palm fruit,Fruits,0,0,0,0,0,0,100
+E049,Papaya,Fruits,0.8,0.01,0,6.6,0,0,100
+E050,Peach,Fruits,0.9,0.35,7,5.5,1.4,168,100
+E051,Pear,Fruits,0.4,0.28,7,3.3,1.4,157,100
+E052,Phalsa,Fruits,1.7,2.01,153,5.1,1.5,299,100
+E053,Pineapple,Fruits,0.5,0.28,11,36.4,1.1,180,100
+E054,Plum,Fruits,0.6,0.25,8,2.3,0.3,238,100
+E055,Pomegranate,Fruits,0.4,0.03,0,2.9,0,0,100
+E056,Pummelo,Fruits,0.7,0.06,14,48.9,1.8,210,100
+E057,Raisins,Fruits,19.7,0.47,0,38.3,0.2,71,100
+E058,Raisins,Fruits,21.5,0.39,0,34.7,0.2,69,100
+E059,Rambutan,Fruits,0.7,0.37,9,65,0.6,306,100
+E060,Sapota,Fruits,0.9,0.49,18,21,1.5,307,100
+E061,Soursop,Fruits,0.7,0.29,10,59.5,0.2,260,100
+E062,Star fruit,Fruits,0.8,0.45,5,33.5,0.1,110,100
+E063,Strawberry,Fruits,1,0.36,15,50.2,0.1,103,100
+E064,Tamarind,Fruits,0.6,0.09,0,0.8,0,0,100
+E065,Water melon,Fruits,0.6,0.01,0,0.6,0,1,100
+E066,Water melon,Fruits,0.2,0.01,0,1.6,0,0,100
+E067,Wood Apple,Fruits,3.1,0.45,56,22.2,1.6,327,100
+E068,Zizyphus,Fruits,1.3,0.4,47,60.9,2.2,204,100
+E069,Avocado,Fruits,2,0.6,12,10,3.6,160,100
+E070,Banana (ripe),Fruits,1.1,0.3,5,8.7,2.6,89,100
+E071,Raspberries,Fruits,1.2,0.7,25,26,1.5,52,100
+K001,Toddy,Miscellaneous,0.2,0.42,0,0.9,2,101,100
+K002,Coconut Water,Miscellaneous,0.3,0.06,27,0.6,0.2,64,100
+K003,Nutritional yeast,Miscellaneous,50,2,30,0,21,325,15
+J001,Button mushroom,Mushrooms,0,0,0,0,0,0,100
+J002,Chicken mushroom,Mushrooms,0,0,0,0,0,0,100
+J003,Shiitake mushroom,Mushrooms,0,0,0,0,0,0,100
+J004,Oyster mushroom,Mushrooms,0,0,0,0,0,0,100
+J005,Mushrooms (white),Mushrooms,3.1,0.5,3,2,16,22,100
+T001,Coconut oil,Oil,0,0,0,0,0,0,100
+T002,Corn oil,Oil,0,0,0,0,0,0,100
+T003,Cotton seed oil,Oil,0,0,0,0,0,0,100
+T004,Gingelly oil,Oil,0,0,0,0,0,0,100
+T005,Groundnut oil,Oil,0,0,0,0,0,0,100
+T006,Mustard oil,Oil,0,0,0,0,0,0,100
+T007,Palm oil,Oil,0,0,0,0,0,0,100
+T008,Rice bran oil,Oil,0,0,0,0,0,0,100
+T009,Safflower oil,Oil,0,0,0,0,0,0,100
+T010,Safflower oil (blended),Oil,0,0,0,0,0,0,100
+T011,Soyabean oil,Oil,0,0,0,0,0,0,100
+T012,Sunflower oil,Oil,0,0,0,0,0,0,100
+T013,Ghee,Oil,0,0,0,0,0,0,100
+T014,Vanaspati,Oil,0,0,0,0,0,0,100
+T001,Mustard oil,Oil,0,0,0,0,0,884,100
+T002,Coconut oil,Oil,0,0.04,0,0,0,862,100
+T003,Sunflower oil,Oil,0,0,0,0,0,884,100
+T004,Groundnut oil,Oil,0,0.01,0,0,0,884,100
+T005,Olive oil (extra virgin),Oil,0,0.4,1,0,0,884,100
+T006,Sesame oil,Oil,0,0,0,0,0,884,100
+T007,Rice bran oil,Oil,0,0.1,0,0,0,884,100
+T008,Ghee (clarified butter),Oil,0,0.02,4,0,1.5,876,100
+T009,Soybean oil,Oil,0,0.05,0,0,0,884,100
+T010,Palm oil,Oil,0,0.01,0,0,0,884,100
+V001,Dal tadka (typical),Prepared,6,1.5,25,2,1,120,150
+V002,Rajma curry,Prepared,8,2.5,45,5,2,180,150
+V003,Palak paneer,Prepared,11,2.8,180,15,3,210,150
+V004,Chole (chickpea curry),Prepared,9,3.2,60,8,2.5,200,150
+V005,Dosa (plain),Prepared,3.5,0.8,15,0,0.5,130,1
+V006,Idli (2 pieces),Prepared,4,0.5,20,0,0.3,80,2
+V007,Veg biryani,Prepared,5,1.2,35,3,1,250,200
+V008,Chapati (whole wheat),Prepared,3,0.8,10,0,0.4,80,1
+V009,Aloo gobi (potato-cauliflower),Prepared,2.5,0.8,25,18,0.8,110,150
+V010,Baingan bharta (mashed eggplant),Prepared,2,0.6,30,8,1.2,125,150
+V011,Bhindi masala (okra curry),Prepared,2.8,1.2,90,15,1.8,95,150
+V012,Kadhi (yogurt curry),Prepared,3.5,0.5,85,1,1.5,130,150
+V013,Sambar (lentil vegetable stew),Prepared,4.5,1.8,35,12,1.2,105,150
+V014,Vegetable pulao,Prepared,4,1,28,5,0.8,180,150
+V015,Pav bhaji,Prepared,3.5,1.5,45,25,1,220,200
+V016,Poha (flattened rice),Prepared,2.5,0.8,12,8,0.4,180,100
+V017,Upma (semolina),Prepared,3.8,1.2,15,3,0.6,150,100
+V018,Aloo paratha (stuffed),Prepared,5.5,1.5,35,8,1,250,1
+V019,Paneer butter masala,Prepared,12,1.5,195,5,3.5,280,150
+V020,Dal makhani,Prepared,8.5,2.8,55,3,2,175,150
+V021,Egg curry,Prepared,9,1.8,45,8,15,180,150
+V022,Chicken curry (typical),Prepared,15,1.2,25,5,2.5,210,150
+V023,Masala dosa,Prepared,4.5,1.5,20,5,0.8,168,1
+V024,Samosa (2 pieces),Prepared,4,1,15,3,0.5,262,100
+V025,Pakora (mixed vegetable),Prepared,3.5,1.2,25,8,0.6,180,100
+V026,Vada pav,Prepared,5,1.5,30,12,0.8,290,1
+V027,Pani puri (6 pieces),Prepared,2.5,0.5,10,5,0.3,120,100
+V028,Chaat (mixed),Prepared,4.5,1.2,35,15,1,150,100
+V029,Kachori (2 pieces),Prepared,6,1.8,25,2,1.2,300,100
+V030,Dhokla (4 pieces),Prepared,3,0.8,20,8,0.5,160,100
+V031,Medu vada (2 pieces),Prepared,5.5,1.5,25,1,1,210,100
+V032,Bread pakora,Prepared,4.5,1,40,3,1.5,230,100
+V033,"Momos (vegetable, 6 pieces)",Prepared,5,1.2,30,8,0.8,180,100
+V034,Instant noodles (cooked),Prepared,4.5,0.8,15,0,0.5,138,100
+B001,Bengal gram,Pulses,0.6,0.12,0,4.5,0,1,100
+B002,Bengal gram,Pulses,0.4,0.12,0,12.9,0,0,100
+B003,Black gram,Pulses,0.3,0.08,0,2.4,0,1,100
+B004,Black gram,Pulses,0.3,0.12,0,14.2,0,1,100
+B005,Cowpea,Pulses,0.4,0.16,0,27.3,0,0,100
+B006,Cowpea,Pulses,0,0,0,0,0,0,100
+B007,Field bean,Pulses,0,0,0,0,0,0,100
+B008,Field bean,Pulses,0,0,0,0,0,0,100
+B009,Field bean,Pulses,0.4,0.09,0,27,0,1,100
+B010,Green gram,Pulses,0.7,0.11,0,5.1,0,0,100
+B011,Green gram,Pulses,0.4,0.14,0,5.4,0,1,100
+B012,Horse gram,Pulses,0.6,0.09,0,5.3,0,1,100
+B013,Lentil dal,Pulses,24.4,7.06,44,0,1.3,1349,100
+B014,Lentil whole,Pulses,0.8,0.07,0,6.7,0,1,100
+B015,Lentil whole,Pulses,0,0,0,0,0,0,100
+B016,Moth bean,Pulses,19.8,7.9,154,0,2.1,1291,100
+B017,Peas,Pulses,0.6,0.06,0,9.3,0,0,100
+B018,Rajmah,Pulses,0,0,0,0,0,0,100
+B019,Rajmah,Pulses,0.8,0.12,0,29.6,0,1,100
+B020,Rajmah,Pulses,0.3,0.08,0,20.1,0,1,100
+B021,Red gram,Pulses,0.6,0.14,0,8.7,0,1,100
+B022,Red gram,Pulses,0.5,0.15,0,19,0,1,100
+B023,Ricebean,Pulses,20,4.76,200,1.1,2.6,1265,100
+B024,Soya bean,Pulses,0.1,0.22,0,26.1,0,1,100
+B025,Soya bean,Pulses,0,0,0,0,0,0,100
+B026,Soybeans (cooked),Pulses,16,5.1,102,0,9,173,100
+P001,Allathi,Seafood,21.8,0.62,14,0,1230,406,100
+P002,Aluva,Seafood,21.6,0.42,11,0,1132,434,100
+P003,Anchovy,Seafood,19.9,0.54,37,0,1170,367,100
+P004,Ari fish,Seafood,22,0.47,4,0,602,415,100
+P005,Betki,Seafood,15.3,0.31,9,0,2079,284,100
+P006,Black snapper,Seafood,19.5,0.56,10,0,1772,377,100
+P007,Bombay duck,Seafood,13.5,0.81,159,0,2784,287,100
+P008,Bommuralu,Seafood,22.3,0.43,47,0,1004,485,100
+P009,Cat fish,Seafood,22.2,0.72,6,0,1136,456,100
+P010,Chakla,Seafood,20.2,0.41,7,0,572,406,100
+P011,Chappal,Seafood,17.2,1.29,10,0,776,317,100
+P012,Chelu,Seafood,20,0.67,8,0,677,366,100
+P013,Chembali,Seafood,20.1,0.31,24,0,1221,406,100
+P014,Eri meen,Seafood,22.3,0.46,12,0,579,454,100
+P015,Gobro,Seafood,19.4,0.36,24,0,302,362,100
+P016,Guitar fish,Seafood,22.6,0.44,17,0,1532,400,100
+P017,Hilsa,Seafood,21.8,1.19,20,0,2875,1083,100
+P018,Jallal,Seafood,21.6,0.46,15,0,627,420,100
+P019,Jathi vela meen,Seafood,22.4,0.28,7,0,828,453,100
+P020,Kadal bral,Seafood,18.7,0.31,74,0,1178,368,100
+P021,Kadali,Seafood,22.1,0.38,9,0,1317,530,100
+P022,Kalamaara,Seafood,20.9,0.5,8,0,657,523,100
+P023,Kalava,Seafood,19.4,0.26,11,0,1194,374,100
+P024,Kanamayya,Seafood,20.2,0.36,8,0,1167,367,100
+P025,Kannadi paarai,Seafood,22.1,0.31,9,0,561,423,100
+P026,Karimeen,Seafood,19.7,0.6,12,0,1199,386,100
+P027,Karnagawala,Seafood,19.5,0.44,60,0,377,363,100
+P028,Kayrai,Seafood,20.1,0.98,6,0,884,454,100
+P029,Kiriyan,Seafood,22.5,1,19,0,604,556,100
+P030,Kite fish,Seafood,23.1,1.38,11,0,1334,413,100
+P031,Korka,Seafood,23.7,0.73,11,0,751,528,100
+P032,Kulam paarai,Seafood,21.6,0.5,15,0,699,501,100
+P033,Maagaa,Seafood,20.1,0.23,8,0,695,366,100
+P034,Mackerel,Seafood,21.5,1.46,31,0,713,423,100
+P035,Manda clathi,Seafood,21.3,0.43,11,0,738,398,100
+P036,Matha,Seafood,21.2,0.32,14,0,1157,389,100
+P037,Milk fish,Seafood,23.7,1.35,29,0,1132,442,100
+P038,Moon fish,Seafood,20.7,1.67,29,0,772,526,100
+P039,Mullet,Seafood,20.2,1.31,35,0,1189,393,100
+P040,Mural,Seafood,19,0.24,9,0,1146,345,100
+P041,Myil meen,Seafood,22.9,1.2,7,0,808,410,100
+P042,Nalla bontha,Seafood,19.8,0.31,9,0,1714,364,100
+P043,Narba,Seafood,21.9,1.11,7,0,1303,432,100
+P044,Paarai,Seafood,21.6,0.69,14,0,1612,435,100
+P045,Padayappa,Seafood,19.7,0.33,10,0,1337,360,100
+P046,Pali kora,Seafood,19.3,0.42,17,0,887,394,100
+P047,Pambada,Seafood,21.9,0.38,17,0,1163,537,100
+P048,Pandukopa,Seafood,19.7,0.47,12,0,1651,360,100
+P049,Parava,Seafood,21.5,3.58,29,0,796,467,100
+P050,Parcus,Seafood,19.9,0.28,21,0,488,361,100
+P051,Parrot fish,Seafood,20.8,0.38,9,0,556,375,100
+P052,Perinkilichai,Seafood,20.9,0.29,7,0,511,387,100
+P053,Phopat,Seafood,22.1,0.47,9,0,502,424,100
+P054,Piranha,Seafood,20.5,0.5,15,0,774,549,100
+P055,Pomfret,Seafood,0,0,0,0,0,0,100
+P056,Pomfret,Seafood,0,0,0,0,0,0,100
+P057,Pomfret,Seafood,0,0,0,0,0,0,100
+P058,Pranel,Seafood,19.7,0.41,22,0,1251,405,100
+P059,Pulli paarai,Seafood,20.1,0.35,22,0,1387,399,100
+P060,Queen fish,Seafood,21,0.49,6,0,1073,400,100
+P061,Raai fish,Seafood,21.6,0.46,11,0,1638,430,100
+P062,Raai vanthu,Seafood,19.4,0.36,9,0,1562,410,100
+P063,Rani,Seafood,18.8,0.87,38,0,1217,377,100
+P064,Ray fish,Seafood,80.3,0.03,0,0,120,0,100
+P065,Red snapper,Seafood,22.8,0.37,8,0,1386,437,100
+P066,Red snapper,Seafood,0,0,0,0,0,0,100
+P067,Sadaya,Seafood,20.7,0.47,9,0,459,462,100
+P068,Salmon,Seafood,21,0.98,24,0,1136,721,100
+P069,Sangada,Seafood,20.3,0.99,8,0,1675,443,100
+P070,Sankata paarai,Seafood,21.9,0.99,6,0,1076,434,100
+P071,Sardine,Seafood,17.9,0.83,42,0,2266,637,100
+P072,Shark,Seafood,21.6,0.38,8,0,857,398,100
+P073,Shark,Seafood,0,0,0,0,0,0,100
+P074,Shark,Seafood,0,0,0,0,0,0,100
+P075,Shelavu,Seafood,22.5,0.52,11,0,790,446,100
+P076,Silan,Seafood,22.7,0.56,29,0,2438,633,100
+P077,Silk fish,Seafood,20.6,0.3,10,0,802,408,100
+P078,Silver carp,Seafood,21.7,0.58,86,0,2462,555,100
+P079,Sole fish,Seafood,19.1,0.33,47,0,1393,367,100
+P080,Stingray,Seafood,24,0.74,9,0,2559,408,100
+P081,Tarlava,Seafood,21.7,0.53,12,0,1380,414,100
+P082,Tholam,Seafood,20.8,0.6,11,0,824,432,100
+P083,Tilapia,Seafood,18.5,2.84,99,0,829,349,100
+P084,Tuna,Seafood,24.5,1.6,10,0,1374,470,100
+P085,Tuna,Seafood,0,0,0,0,0,0,100
+P086,Valava,Seafood,21.8,0.24,37,0,1438,410,100
+P087,Vanjaram,Seafood,22.3,0.41,10,0,1545,570,100
+P088,Vela meen,Seafood,22.2,0.64,15,0,1632,537,100
+P089,Vora,Seafood,20.1,0.27,8,0,1480,422,100
+P090,Whale shark,Seafood,21.8,0.33,8,0,1605,401,100
+P091,Xiphinis,Seafood,19.8,0.54,12,0,820,370,100
+P092,Eggs,Seafood,0,0,0,0,0,0,100
+Q001,Crab,Seafood,10.2,1.1,128,0,2304,343,100
+Q002,Crab,Seafood,0,0,0,0,0,0,100
+Q003,Lobster,Seafood,0,0,0,0,0,0,100
+Q004,Lobster,Seafood,0,0,0,0,0,0,100
+Q005,Mud crab,Seafood,10,0.87,201,0,1383,190,100
+Q006,Oyster,Seafood,9.5,0.9,126,0,1612,252,100
+Q007,Tiger prawns,Seafood,0,0,0,0,0,0,100
+Q008,Tiger Prawns,Seafood,0,0,0,0,0,0,100
+R001,Clam,Seafood,0,0,0,0,0,0,100
+R002,Clam,Seafood,80.3,0.31,0,0,108,0,100
+R003,Octopus,Seafood,14.7,1.08,22,0,2087,334,100
+R004,Squid,Seafood,0,0,0,0,0,0,100
+R005,Squid,Seafood,0,0,0,0,0,0,100
+R006,Squid,Seafood,0,0,0,0,0,0,100
+R007,Squid,Seafood,79.4,1.1,0,0,118,0,100
+S001,Cat fish,Seafood,15.9,0.82,22,0,1395,518,100
+S002,Catla,Seafood,17.9,1.14,44,0,1926,394,100
+S003,Freshwater Eel,Seafood,20.4,1.54,53,0,1294,451,100
+S004,Gold fish,Seafood,16.9,0.76,48,0,2457,396,100
+S005,Pangas,Seafood,17.1,0.69,11,0,1323,852,100
+S006,Rohu,Seafood,19.7,1.04,39,0,1263,428,100
+S007,Crab,Seafood,13.2,1.1,199,0,1783,327,100
+S008,Prawns,Seafood,0,0,0,0,0,0,100
+S009,Prawns,Seafood,0,0,0,0,0,0,100
+S010,Tiger prawns,Seafood,14.2,0.84,58,0,1875,284,100
+S011,Salmon (cooked),Seafood,25,0.9,15,0,5,206,100
+H001,Almond,Seeds & Nuts,18.4,4.59,228,0.7,2.4,2549,100
+H002,Arecanut,Seeds & Nuts,6.6,1.27,0,7.5,0.3,70,100
+H003,Arecanut,Seeds & Nuts,6.3,1.57,0,8.6,0.2,70,100
+H004,Arecanut,Seeds & Nuts,0,0,0,0,0,0,100
+H005,Cashew nut,Seeds & Nuts,18.8,5.95,34,0,2.6,2438,100
+H006,Coconut,Seeds & Nuts,4,0.9,0,24.3,0.1,8,100
+H007,Coconut,Seeds & Nuts,36.1,0.36,0,25.4,0.1,6,100
+H008,Garden cress,Seeds & Nuts,0.2,0.09,0,6.3,0,1,100
+H009,Gingelly seeds,Seeds & Nuts,0.4,0.24,0,11.8,0,1,100
+H010,Gingelly seeds,Seeds & Nuts,0.3,0.18,0,5.9,0,1,100
+H011,Gingelly seeds,Seeds & Nuts,0.3,0.12,0,4.3,0,1,100
+H012,Ground nut,Seeds & Nuts,23.6,3.44,54,0,1.6,2176,100
+H013,Mustard seeds,Seeds & Nuts,19.5,13.49,402,0,1.4,2132,100
+H014,Linseeds,Seeds & Nuts,18.6,5.44,257,0,21.3,1857,100
+H015,Niger seeds,Seeds & Nuts,0.6,0.04,0,29.3,0.1,3,100
+H016,Niger seeds,Seeds & Nuts,0.3,0.15,0,4.6,0,2,100
+H017,Pine seed,Seeds & Nuts,12.6,4.5,17,0,18.5,2486,100
+H018,Pistachio nuts,Seeds & Nuts,23.4,4.5,135,0,11.8,2257,100
+H019,Safflower seeds,Seeds & Nuts,17.7,4.06,211,0,17.4,1981,100
+H020,Sunflower seeds,Seeds & Nuts,23.5,5.85,176,0,2.4,2453,100
+H021,Walnut,Seeds & Nuts,14.9,3.21,105,0.9,13.1,2809,100
+H022,Almonds (raw),Seeds & Nuts,21,3.7,264,0,96,579,100
+H023,Sunflower seeds,Seeds & Nuts,20.8,5.2,78,1.4,66,584,100
+H024,Peanut butter,Seeds & Nuts,25,1.9,49,0,88,588,100
+H025,Walnuts,Seeds & Nuts,15,2.9,98,1.3,19,654,100
+H026,Pecans,Seeds & Nuts,9,2.5,70,1.1,17.5,691,100
+H027,Peanuts (roasted),Seeds & Nuts,26,2.5,54,0,34,567,100
+H028,Cashews (raw),Seeds & Nuts,18,6.7,37,0.5,11,553,100
+G001,Chillies,Spices,0.3,0.06,0,2.5,0,0,100
+G002,Chillies,Spices,0.5,0.03,0,5.6,0,0,100
+G003,Chillies,Spices,0.8,0.06,0,1.7,0,1,100
+G004,Chillies,Spices,0.5,0.11,0,1.1,0,1,100
+G005,Chillies,Spices,0.1,0.03,0,2.4,0,0,100
+G006,Chillies,Spices,0,0,0,0,0,0,100
+G007,Chillies,Spices,0,0,0,0,0,0,100
+G008,Chillies,Spices,0.7,0.06,0,4.8,0.1,1,100
+G009,Coriander leaves,Spices,3.5,5.3,146,23.9,4.2,130,100
+G010,Curry leaves,Spices,7.4,8.67,659,6,1.8,266,100
+G011,Garlic,Spices,0.6,0.02,0,15.6,0,1,100
+G012,Garlic,Spices,0.3,0.09,0,22.8,0.1,1,100
+G013,Garlic,Spices,64.5,0.23,0,92.3,1,23,100
+G014,Ginger,Spices,0.2,0.02,0,1.6,0,0,100
+G015,Mango ginger,Spices,1.4,2.31,14,1.6,1.5,177,100
+G016,Mint leaves,Spices,4.7,8.56,205,17.2,2.2,155,100
+G017,Onion,Spices,0.4,0.09,0,2.9,0,0,100
+G018,Onion,Spices,0.1,0.02,0,2,0,0,100
+G019,Asafoetida,Spices,6.3,15.68,266,0,2.3,1387,100
+G020,Cardamom,Spices,0.5,0.3,0,1.1,0,0,100
+G021,Cardamom,Spices,0.5,0.09,0,1.6,0,2,100
+G022,Chillies,Spices,0.4,0.06,0,2.9,0,1,100
+G023,Cloves,Spices,5.9,9.41,567,0,2.4,781,100
+G024,Coriander seeds,Spices,10.7,17.64,718,0,1.5,1125,100
+G025,Cumin seeds,Spices,13.9,20.58,878,0,1.2,1274,100
+G026,Fenugreek seeds,Spices,25.4,8.47,135,0,1.5,983,100
+G027,Mace,Spices,6.2,22.69,174,0,1.8,1488,100
+G028,Nutmeg,Spices,6.3,2.33,148,0,1.6,1940,100
+G029,Omum,Spices,15.9,13.65,1034,0,1.8,1495,100
+G030,Pippali,Spices,10.5,7.99,414,0,2.3,906,100
+G031,Pepper,Spices,0.4,0.43,0,2.1,0,0,100
+G032,Poppy seeds,Spices,20.3,10.13,1372,0,3.3,1768,100
+G033,Turmeric powder,Spices,7.7,46.08,122,0,0.8,1174,100
+I001,Jaggery,Sugar,0.5,0.04,0,2.4,0.1,1,100
+I002,Sugarcane,Sugar,1,0.01,0,4.1,0.1,1,100
+U001,Biotin supplement (10000mcg),Supplements,0,0,0,0,10000,0,1
+U002,Iron supplement (ferrous sulfate),Supplements,0,65,0,0,0,0,1
+U003,Calcium + Vitamin D tablet,Supplements,0,0,500,0,0,0,1
+U004,Multivitamin tablet,Supplements,0,18,200,60,30,5,1
+U005,Protein powder (whey),Supplements,80,1,120,0,5,400,30
+U006,Vitamin C tablet (500mg),Supplements,0,0,0,500,0,0,1
+U007,Omega-3 fish oil capsule,Supplements,0,0,0,0,0,10,1
+U008,Vitamin B-complex tablet,Supplements,0,2,10,10,100,2,1
+U009,Zinc supplement (50mg),Supplements,0,0,0,0,0,0,1
+U010,Magnesium supplement (400mg),Supplements,0,0,400,0,0,0,1
+U011,Folic acid tablet (5mg),Supplements,0,0,0,0,0,0,1
+U012,Vitamin B12 tablet (1000mcg),Supplements,0,0,0,0,0,0,1
+U013,Vitamin D3 capsule (2000 IU),Supplements,0,0,0,0,0,0,1
+U014,Iron + Folic acid tablet,Supplements,0,100,0,0,0,0,1
+U015,Calcium carbonate (1250mg),Supplements,0,0,500,0,0,0,1
+U016,Vitamin E capsule (400 IU),Supplements,0,0,0,0,0,5,1
+U017,Selenium supplement (200mcg),Supplements,0,0,0,0,0,0,1
+U018,Vitamin K2 supplement,Supplements,0,0,0,0,0,0,1
+U019,Probiotic capsule (10 billion CFU),Supplements,0,0,0,0,0,2,1
+U020,Collagen peptides powder,Supplements,18,0,0,0,0,70,10
+U021,Spirulina powder,Supplements,8,3.6,15,1,0.5,26,10
+C001,Agathi leaves,Vegetables,8,4.36,901,121,7.8,295,100
+C002,Amaranth leaves,Vegetables,1.2,0.08,0,8.1,0,1,100
+C003,Amaranth leaves,Vegetables,0,0,0,0,0,0,100
+C004,Amaranth leaves,Vegetables,0.4,0.08,0,6.3,0,0,100
+C005,Amaranth spinosus,Vegetables,86.5,0.23,0,41.4,0.2,2,100
+C006,Amaranth spinosus,Vegetables,86.6,0.33,0,44.2,0.2,1,100
+C007,Basella leaves,Vegetables,1.6,4.2,94,63.4,1.1,82,100
+C008,Bathua leaves,Vegetables,2.5,2.66,211,41,1.3,116,100
+C009,Beet greens,Vegetables,2.4,5.8,151,35.8,4.7,145,100
+C010,Betel leaves,Vegetables,0.8,0.05,0,2.3,0,1,100
+C011,Betel leaves,Vegetables,0.2,0.02,0,2.7,0,0,100
+C012,Brussels sprouts,Vegetables,4.3,1.54,54,89.5,2.5,185,100
+C013,Cabbage,Vegetables,0,0,0,0,0,0,100
+C014,Cabbage,Vegetables,0,0,0,0,0,0,100
+C015,Cabbage,Vegetables,1,0.02,0,4.5,0,1,100
+C016,Cabbage,Vegetables,0,0,0,0,0,0,100
+C017,Cauliflower leaves,Vegetables,3.9,2.42,97,52.8,1.4,148,100
+C018,Colocasia leaves,Vegetables,0.6,0.06,0,18.5,0,0,100
+C019,Drumstick leaves,Vegetables,6.4,4.56,314,108,2.3,282,100
+C020,Fenugreek leaves,Vegetables,3.7,5.69,274,58.3,4.8,144,100
+C021,Garden cress,Vegetables,5.6,6.19,217,42.8,12,208,100
+C022,Gogu leaves,Vegetables,0.4,0.08,0,12.6,0,0,100
+C023,Gogu leaves,Vegetables,0,0,0,0,0,0,100
+C024,Knol-Khol,Vegetables,0,0,0,0,0,0,100
+C025,Lettuce,Vegetables,1.5,2.73,57,11.9,2.1,91,100
+C026,Mustard leaves,Vegetables,3.5,2.84,191,60.3,1.7,127,100
+C027,Pak Choi leaves,Vegetables,1.4,3.78,150,55.6,10.3,67,100
+C028,Parsley,Vegetables,5.5,5.51,288,133,13.5,305,100
+C029,Ponnaganni,Vegetables,5.3,3.88,388,103,11.2,213,100
+C030,Pumpkin leaves,Vegetables,1,0.06,0,4.7,0,1,100
+C031,Radish leaves,Vegetables,2.2,3.82,234,65.8,4.4,109,100
+C032,Rumex leaves,Vegetables,1.6,3.67,131,53.8,1.3,82,100
+C033,Spinach,Vegetables,2.1,2.95,82,30.3,4.1,102,100
+C034,Tamarind leaves,Vegetables,0.1,0.04,0,9.6,0,0,100
+D001,Ash gourd,Vegetables,0.8,0.47,19,11.4,2,73,100
+D002,Bamboo shoot,Vegetables,0,0,0,0,0,0,100
+D003,Bean scarlet,Vegetables,1.2,0.01,0,0.7,0,1,100
+D004,Bitter gourd,Vegetables,6,0,0,0.5,0.1,0,100
+D005,Bitter gourd,Vegetables,4,0,0,1.2,0,0,100
+D006,Bitter gourd,Vegetables,1,0,0,0,0,0,100
+D007,Bottle gourd,Vegetables,95.2,0.05,0,42,0,2,100
+D008,Bottle gourd,Vegetables,94.5,0.05,0,49.6,0,3,100
+D009,Bottle gourd,Vegetables,94.6,0.07,0,46.3,0,2,100
+D010,Brinjal-1,Vegetables,1.8,0.49,22,1.6,1.2,114,100
+D011,Brinjal-2,Vegetables,1.8,0.44,17,1,1.8,99,100
+D012,Brinjal-3,Vegetables,1.4,0.34,15,2.3,1.3,102,100
+D013,Brinjal-4,Vegetables,1.5,0.38,13,2.2,1.7,100,100
+D014,Brinjal-5,Vegetables,1.4,0.36,17,3.1,1.4,111,100
+D015,Brinjal-6,Vegetables,1.5,0.39,17,1.5,1.6,97,100
+D016,Brinjal-7,Vegetables,1.4,0.27,20,1.1,1.3,98,100
+D017,Brinjal-8,Vegetables,1.8,0.42,21,1.9,1.6,117,100
+D018,Brinjal-9,Vegetables,1.5,0.38,19,1.7,2.3,106,100
+D019,Brinjal-10,Vegetables,1.7,0.41,16,2.4,1.3,116,100
+D020,Brinjal-11,Vegetables,1.4,0.37,16,2.2,1.7,105,100
+D021,Brinjal-12,Vegetables,1.6,0.37,20,2.5,1.1,93,100
+D022,Brinjal-13,Vegetables,1.5,0.32,19,1.5,2.3,124,100
+D023,Brinjal-14,Vegetables,1.6,0.32,14,1.8,1.4,106,100
+D024,Brinjal-15,Vegetables,1.6,0.36,18,2,1.9,114,100
+D025,Brinjal-16,Vegetables,1.3,0.32,18,1.5,2.1,103,100
+D026,Brinjal-17,Vegetables,1.2,0.5,21,1.9,3.6,91,100
+D027,Brinjal-18,Vegetables,1.5,0.38,16,2,2.2,116,100
+D028,Brinjal-19,Vegetables,1.3,0.32,16,2.5,2.5,100,100
+D029,Brinjal-20,Vegetables,1.4,0.33,14,2.2,1.8,99,100
+D030,Brinjal-21,Vegetables,1.4,0.34,15,1.4,1.9,113,100
+D031,Brinjal - all varieties,Vegetables,1.5,0.37,17,2.1,1.8,106,100
+D032,Broad beans,Vegetables,3.9,0.94,64,11,10,123,100
+D033,Capsicum,Vegetables,0.3,0.01,0,3.4,0,0,100
+D034,Capsicum,Vegetables,1.5,0.01,0,2.1,0,1,100
+D035,Capsicum,Vegetables,0.4,0.02,0,2.6,0,0,100
+D036,Cauliflower,Vegetables,2.1,0.96,25,47.1,2.5,96,100
+D037,Celery stalk,Vegetables,1,1.36,39,12.3,2.1,69,100
+D038,Cho-cho-marrow,Vegetables,0.7,0.48,19,20.2,1.1,79,100
+D039,Cluster beans,Vegetables,3.5,3.9,121,18,5.3,168,100
+D040,Colocasia,Vegetables,91.2,0.05,0,30.9,0.1,4,100
+D041,Colocasia,Vegetables,92.7,0.08,0,25.3,0.1,3,100
+D042,Corn,Vegetables,1,0.03,0,11.7,0,1,100
+D043,Cucumber,Vegetables,93,0.04,0,16.8,0.1,3,100
+D044,Cucumber,Vegetables,93.5,0.07,0,14.7,0.1,3,100
+D045,Cucumber,Vegetables,92.8,0.04,0,18.8,0,3,100
+D046,Drumstick,Vegetables,2.6,0.73,33,71.9,4.3,123,100
+D047,Field beans,Vegetables,87,0.24,0,123,0.4,3,100
+D048,Field beans,Vegetables,85.6,0.2,0,127,0.4,3,100
+D049,French beans,Vegetables,0.5,0.03,0,9,0.1,0,100
+D050,French beans,Vegetables,0,0,0,0,0,0,100
+D051,Jack fruit,Vegetables,0.9,0.07,0,5.6,0,1,100
+D052,Jack fruit,Vegetables,72.3,0.21,0,54.6,0.1,12,100
+D053,Knol - Khol,Vegetables,1.6,0.24,35,64.7,2.5,67,100
+D054,Kovai,Vegetables,0.6,0.01,0,5.1,0,1,100
+D055,Kovai,Vegetables,0,0,0,0,0,0,100
+D056,Ladies finger,Vegetables,2.1,0.84,86,22.5,1.6,115,100
+D057,Mango,Vegetables,85.1,0.08,0,25.9,0.1,11,100
+D058,Onion,Vegetables,0.8,0.03,0,11.9,0.1,1,100
+D059,Papaya,Vegetables,0.4,0.04,0,2.2,0,0,100
+D060,Parwar,Vegetables,1.4,0.5,31,19.2,9.9,101,100
+D061,Peas,Vegetables,1.1,0.03,0,12,0,1,100
+D062,Plantain,Vegetables,0.6,0.01,0,7.3,0,0,100
+D063,Plantain,Vegetables,0.4,0.03,0,1.3,0,0,100
+D064,Plantain,Vegetables,1,0.02,0,2.2,0,1,100
+D065,Pumpkin,Vegetables,91.7,0.04,0,31.6,0.1,4,100
+D066,Pumpkin,Vegetables,91.8,0.06,0,24.1,0.1,4,100
+D067,Red gram,Vegetables,64,0.45,0,94.2,0.3,19,100
+D068,Ridge gourd,Vegetables,0.9,0.42,14,5.4,2.3,55,100
+D069,Ridge gourd,Vegetables,0.6,0.02,0,3,0,0,100
+D070,Snake gourd,Vegetables,94.8,0.09,0,18.3,0.1,1,100
+D071,Snake gourd,Vegetables,94.9,0.11,0,16.5,0.1,1,100
+D072,Snake gourd,Vegetables,0,0,0,0,0,0,100
+D073,Tinda,Vegetables,0.3,0.01,0,5.7,0,0,100
+D074,Tomato,Vegetables,0.5,0.02,0,4,0,0,100
+D075,Tomato,Vegetables,93.8,0.04,0,15.4,0.1,3,100
+D076,Tomato,Vegetables,93.6,0.06,0,19.5,0.1,3,100
+D077,Zucchini,Vegetables,0,0,0,0,0,0,100
+D078,Zucchini,Vegetables,0,0,0,0,0,0,100
+F001,Beet root,Vegetables,1.9,0.76,17,5.3,2.6,149,100
+F002,Carrot,Vegetables,0.6,0.01,0,2.1,0,0,100
+F003,Carrot,Vegetables,1.3,0.03,0,3.3,0,1,100
+F004,Colocasia,Vegetables,3.3,0.66,30,1.8,3.7,372,100
+F005,Lotus root,Vegetables,1.9,3.34,38,26.6,2.9,332,100
+F006,Potato,Vegetables,80.7,0.09,0,15.5,0.1,15,100
+F007,Potato,Vegetables,83,0.14,0,13.8,0.1,13,100
+F008,Potato,Vegetables,0,0,0,0,0,0,100
+F009,Radish,Vegetables,89.3,0.03,0,24.6,0.1,7,100
+F010,Radish,Vegetables,89,0.03,0,29.8,0.1,7,100
+F011,Radish,Vegetables,89.7,0.03,0,24.6,0.1,6,100
+F012,Radish,Vegetables,89.8,0.04,0,22.6,0.1,6,100
+F013,Sweet potato,Vegetables,0.8,0.02,0,2.1,0,1,100
+F014,Sweet potato,Vegetables,0.2,0.03,0,2.1,0,0,100
+F015,Tapioca,Vegetables,1,0.81,26,15.5,1.9,334,100
+F016,Water Chestnut,Vegetables,0.9,0.77,37,5.3,1.1,400,100
+F017,Yam,Vegetables,0.3,0.04,0,2.4,0,1,100
+F018,Yam,Vegetables,0.6,0.08,0,1.6,0.1,1,100
+F019,Yam,Vegetables,0,0,0,0,0,0,100
+F020,Sweet potato (baked),Vegetables,2,0.7,38,20,5.6,90,100
+F021,Spinach (cooked),Vegetables,3,2.7,99,9,6.9,23,100
+F022,Broccoli (cooked),Vegetables,2.8,0.7,47,89,5,35,100
+F023,Cauliflower (raw),Vegetables,1.9,0.4,22,48,4,25,100
+F024,Tomatoes (raw),Vegetables,0.9,0.3,10,13.7,1.2,18,100

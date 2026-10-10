@@ -1,0 +1,37 @@
+TEST: TEST_H09
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 25F; Marathon training; Budget ₹160/day; Vegan; Shared kitchen (20min/day); Need 70g protein, high carb (400g), electrolytes; Running 60km/week
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the hard constraints and address the conflicts, I propose the following daily plan:
+
+* Morning (pre-run): Overnight oats with almond milk, rolled oats, and chopped nuts (250 calories, 10g protein, 40g carbs)
+* Post-run: Banana with peanut butter and a glass of coconut water (150 calories, 8g protein, 30g carbs, high electrolytes)
+* Breakfast: Whole grain bread with avocado and a glass of soy milk (300 calories, 10g protein, 40g carbs)
+* Mid-morning: Fruit salad with nuts and seeds (150 calories, 5g protein, 30g carbs)
+* Lunch: Brown rice with lentil soup, mixed vegetables, and a side of whole grain roti (500 calories, 20g protein, 80g carbs)
+* Evening: Smoothie bowl with soy milk, banana, spinach, and almond butter topping (300 calories, 15g protein, 40g carbs)
+* Dinner: Quinoa with roasted vegetables, chickpeas, and a side of whole grain roti (500 calories, 20g protein, 80g carbs)
+* Before bed: Warm soy milk with turmeric and a handful of almonds (150 calories, 5g protein, 20g carbs)
+
+**CONFLICT RESOLUTION:**
+- BUDGET_VS_PROTEIN: Prioritized affordable protein sources like lentils (₹50/kg), chickpeas (₹40/kg), and soy milk (₹50/liter) instead of expensive whey protein (₹300) or meat alternatives.
+- DIET_VS_PROTEIN: Focused on vegan high-protein foods like lentils, chickpeas, soy milk, and nuts to meet the daily protein requirement.
+- VEGAN_VS_PROTEIN: Incorporated a variety of plant-based protein sources, including legumes, nuts, and seeds, to ensure adequate protein intake.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Lentil-based protein INSTEAD OF: Meat alternatives or whey protein
+- CHOSE: Soy milk INSTEAD OF: Almond milk or other non-dairy alternatives
+- CHOSE: Whole grain roti INSTEAD OF: Refined flour roti or other low-fiber options
+- CHOSE: Shared kitchen optimization INSTEAD OF: Home cooking or relying on expensive protein supplements
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it:
+* Meets the daily protein requirement of 70g through a variety of affordable, plant-based sources
+* Provides high carb intake (400g) through whole grains, fruits, and vegetables
+* Includes electrolyte-rich foods like coconut water, bananas, and avocados
+* Stays within the daily budget of ₹160
+* Can be prepared within the 20-minute time frame in a shared kitchen
+However, it may require some adjustments to the individual's taste preferences and food habits. Additionally, the plan relies on the availability of certain ingredients, which may vary depending on the location and season.

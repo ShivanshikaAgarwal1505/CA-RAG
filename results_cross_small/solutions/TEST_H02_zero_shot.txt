@@ -1,0 +1,39 @@
+TEST: TEST_H02
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 22M; Gain 12kg muscle in 3 months; Budget ₹100/day; Vegetarian (eggs ok); No kitchen; Gym 6x/week; Currently underweight (BMI 16.8); Need 120g protein daily
+======================================================================
+
+**SOLUTION PLAN:**
+To gain 12kg muscle in 3 months, we'll focus on a calorie-surplus diet with adequate protein, and a consistent gym routine. Given the constraints, here's a plan:
+
+1. **Daily Caloric Intake:** 2500-2800 calories (to support muscle gain and weight increase)
+2. **Protein Intake:** 120g/day (from a combination of sources)
+3. **Meal Plan:**
+	* Breakfast: 2 whole eggs (14g protein), 2 egg whites (14g protein), and 2 slices of whole-grain bread with peanut butter (₹50)
+	* Mid-Morning Snack: 1 cup Greek yogurt (20g protein), 1 cup mixed nuts (₹30)
+	* Lunch: 1 cup cooked lentils (18g protein), 1 cup mixed veggies, and 2 whole-grain rotis (₹60)
+	* Pre-Workout Snack: 1 scoop whey protein (25g protein), 1 banana (₹20)
+	* Post-Workout Snack: 1 cup soy milk (8g protein), 1 cup mixed fruits (₹30)
+	* Dinner: 1 cup cooked chickpeas (15g protein), 1 cup mixed veggies, and 2 whole-grain rotis (₹60)
+4. **Supplements:**
+	* Whey protein powder (1 scoop/day, ₹20)
+	* Mass gainer (1 scoop/day, ₹30)
+5. **Gym Routine:**
+	* 6 days/week, with a focus on compound exercises like squats, deadlifts, bench press, and rows
+6. **Budget Allocation:**
+	* Food: ₹80/day
+	* Supplements: ₹20/day
+	* Total: ₹100/day
+
+**TRADE-OFFS:**
+* Limited food variety due to no kitchen access and reliance on readily available, high-protein foods
+* Potential digestive issues due to high protein intake and whey protein supplementation
+* Limited social life due to strict diet and gym schedule
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible due to the following reasons:
+* The daily caloric intake and protein requirements are met within the budget constraint
+* The meal plan is simple, yet effective, and can be followed without a kitchen
+* The gym routine is consistent and focused on compound exercises
+However, the plan's feasibility is limited by the potential digestive issues and social life constraints. Additionally, gaining 12kg muscle in 3 months is an ambitious goal, and the plan's success depends on the individual's genetic predisposition, consistency, and overall health.

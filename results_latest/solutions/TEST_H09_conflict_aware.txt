@@ -1,0 +1,33 @@
+TEST: TEST_H09
+SYSTEM: conflict_aware
+DOMAIN: health
+QUERY: 25F; Marathon training; Budget ₹160/day; Vegan; Shared kitchen (20min/day); Need 70g protein, high carb (400g), electrolytes; Running 60km/week
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the hard constraints and address the conflicts, I propose the following daily plan:
+
+- **Morning (15 minutes)**: Oatmeal with banana, almond milk, and a scoop of vegan protein powder (20g protein, 40g carbs) - ₹30
+- **Mid-morning (5 minutes)**: 30g of peanuts and a medium-sized apple (8g protein, 30g carbs) - ₹20
+- **Lunch (10 minutes)**: Brown rice, lentil soup, and mixed vegetables (20g protein, 80g carbs) - ₹40 (using shared kitchen facilities)
+- **Evening (5 minutes)**: Smoothie with frozen berries, banana, spinach, and almond milk (15g protein, 60g carbs) - ₹30
+- **Dinner (10 minutes)**: Quinoa, chickpea curry, and sautéed spinach (25g protein, 100g carbs) - ₹50 (using shared kitchen facilities)
+- **Before Bed (5 minutes)**: Almond milk with a tablespoon of peanut butter and a medium-sized banana (8g protein, 30g carbs) - ₹25
+
+Total daily cost: ₹145
+Total daily protein intake: 76g
+Total daily carb intake: 420g
+Electrolyte intake: High (from bananas, spinach, and almond milk)
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like lentils, chickpeas, and peanuts instead of expensive vegan protein supplements.
+- **DIET_VS_PROTEIN**: Focused on vegan high-protein foods like lentils, chickpeas, and tofu.
+- **VEGAN_VS_PROTEIN**: Incorporated a variety of plant-based protein sources, including legumes, nuts, and seeds, to meet the daily protein requirement.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Lentil-based protein (affordable) INSTEAD OF: Vegan protein supplements (expensive)
+- CHOSE: Shared kitchen optimization INSTEAD OF: Home cooking with a personal kitchen
+- CHOSE: Quick and easy recipes INSTEAD OF: Complex and time-consuming meals
+
+**FEASIBILITY SCORE:** 8.5/10
+This solution plan is feasible because it stays within the budget, satisfies the protein and carb requirements, and incorporates high electrolyte intake. The plan also prioritizes convenience and quick meals, which is important for the user. However, the plan may require some adjustments based on individual preferences and dietary needs. Additionally, the user may need to explore other affordable protein sources to maintain variety in their diet.

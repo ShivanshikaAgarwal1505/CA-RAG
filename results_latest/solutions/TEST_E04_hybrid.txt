@@ -1,0 +1,23 @@
+TEST: TEST_E04
+SYSTEM: hybrid
+DOMAIN: education
+QUERY: PhD 1st year; Need 2 courses; Topics: must align with thesis (RL in robotics); Need: theory depth, hands-on projects; Prof: must allow flex attendance (thesis work); Max 15hrs/week
+======================================================================
+
+**SOLUTION PLAN:**
+To address the query, I recommend the following two courses that align with the thesis topic of Reinforcement Learning (RL) in robotics, while satisfying the hard constraints and addressing the conflicts:
+
+1. **Reinforcement Learning for Robotics** (Tue/Thu 2-4PM, 8h/wk, 4.0 avg): This course provides a comprehensive introduction to RL in robotics, covering theoretical foundations and hands-on projects. It aligns perfectly with the thesis topic and satisfies the importance scores for theory depth (1.0/1.0) and hands-on projects (1.0/1.0).
+2. **Robotics Systems and Control** (Mon/Wed 10-12PM, 7h/wk, 4.1 avg): This course focuses on the systems and control aspects of robotics, providing a solid understanding of the underlying principles. It complements the RL course and allows for flexible attendance, accommodating the thesis work requirements.
+
+Both courses have a combined workload of 15 hours/week, satisfying the time constraint. The professor for these courses is known to be flexible with attendance, allowing for adjustments to accommodate thesis work.
+
+**CONFLICT RESOLUTION:**
+- **THEORY_HEAVY_VS_TIME**: To resolve this conflict, I prioritized courses that balance theory depth with practical projects, ensuring that the student can manage the workload within the 15 hours/week constraint. The Reinforcement Learning for Robotics course, for example, includes hands-on projects that apply theoretical concepts, making the learning experience more efficient and manageable.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: **Reinforcement Learning for Robotics** INSTEAD OF: A more advanced, theory-heavy RL course that might have required more time and effort.
+- CHOSE: **Robotics Systems and Control** INSTEAD OF: A course on computer vision, which, although relevant to robotics, would not have aligned as closely with the thesis topic and might have added unnecessary workload.
+
+**FEASIBILITY SCORE:** 9/10
+The solution plan is feasible because it satisfies all hard constraints, addresses the conflicts with practical strategies, and prioritizes based on soft constraint importance scores. The only potential issue could be the need for slight adjustments in the workload or attendance schedule if the thesis work demands more time than anticipated. However, the flexibility in attendance and the focus on two rather than three courses should mitigate this risk.

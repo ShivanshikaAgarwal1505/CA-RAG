@@ -1,0 +1,43 @@
+TEST: TEST_H09
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 25F; Marathon training; Budget ₹160/day; Vegan; Shared kitchen (20min/day); Need 70g protein, high carb (400g), electrolytes; Running 60km/week
+======================================================================
+
+**SOLUTION PLAN:**
+
+To meet the requirements of a 25F marathon training individual with a budget of ₹160/day, who follows a vegan diet, has access to a shared kitchen for 20 minutes a day, and needs 70g of protein, high carb (400g), and electrolytes while running 60km/week, the following plan is suggested:
+
+1. **Breakfast (8:00 AM)**: Overnight oats made with 1 cup of rolled oats, 1 cup of water or plant-based milk (such as soy milk or almond milk), 1 tablespoon of chia seeds, and 1 tablespoon of peanut butter. This provides approximately 10g of protein, 60g of carbs, and healthy fats. (Prep time: 5 minutes, the night before)
+
+2. **Mid-morning Snack (11:00 AM)**: Banana with 1 tablespoon of almond butter and a handful of dates. This snack provides potassium-rich bananas for electrolytes, along with carbs and protein. (Prep time: 2 minutes)
+
+3. **Lunch (1:30 PM)**: Whole wheat wrap filled with 1/2 cup of cooked chickpeas, 1 cup of mixed greens, sliced cucumber, tomato, and avocado. This meal provides about 15g of protein, 40g of carbs, and healthy fats. (Prep time: 10 minutes)
+
+4. **Pre-run Snack (4:00 PM)**: Apple slices with 1 tablespoon of cashew butter. This provides a quick source of carbs and some protein. (Prep time: 2 minutes)
+
+5. **Post-run Recovery (6:00 PM)**: Smoothie made with 1 cup of frozen berries, 1/2 cup of plant-based milk, 1 scoop of vegan protein powder (approximately 25g of protein), and 1 tablespoon of chia seeds. This helps in recovery and provides necessary protein and carbs. (Prep time: 5 minutes)
+
+6. **Dinner (7:30 PM)**: Quinoa and black bean bowl with roasted vegetables (such as sweet potatoes, broccoli). This meal provides about 20g of protein, 60g of carbs, and essential electrolytes. (Prep time: 15 minutes, can be cooked in bulk and reheated)
+
+7. **Before Bed Snack (9:30 PM)**: Rice cakes with almond butter and a banana. This provides sustained carbs and protein through the night. (Prep time: 3 minutes)
+
+**Electrolyte Intake**: Include electrolyte-rich foods like bananas (potassium), dates (potassium), and avocado (potassium). Consider a vegan electrolyte supplement or coconut water for additional support during and after long runs.
+
+**Shared Kitchen Utilization**: Given the 20-minute daily limit in the shared kitchen, focus on quick meals like wraps, overnight oats, and smoothies that require minimal cooking time. Use a portable electric kettle for heating water or a thermos to keep foods warm.
+
+**Budget Allocation**:
+- Grains (oats, quinoa, whole wheat wraps): ₹40/day
+- Proteins (chickpeas, black beans, vegan protein powder): ₹30/day
+- Fruits and vegetables: ₹30/day
+- Nuts and seeds (almond butter, chia seeds, cashew butter): ₹20/day
+- Plant-based milk and other essentials: ₹40/day
+
+Total: ₹160/day
+
+**TRADE-OFFS**:
+- Due to the budget constraint, some variety in the diet might be limited, relying on staple foods that are cost-effective yet nutritious.
+- The use of a shared kitchen restricts cooking time, necessitating quick and simple meal preparations.
+
+**FEASIBILITY SCORE: 8/10**
+This score is based on the plan's ability to meet the nutritional requirements within the given budget and time constraints. The plan is feasible because it utilizes cost-effective, nutrient-dense foods and minimizes cooking time by focusing on simple, quick meals. However, it might require some adjustments based on personal preferences and could benefit from additional variety to ensure long-term sustainability and satisfaction. The score reflects the balance between nutritional needs, budget, and practicality, with a slight deduction for potential limitations in dietary variety and the challenge of consistently preparing meals within a short kitchen time frame.

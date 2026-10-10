@@ -1,0 +1,40 @@
+TEST: TEST_H10
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 30M; Fatty liver + high cholesterol; Budget ₹200/day; Veg; Home kitchen; Avoid: oil, fried foods, saturated fats; Need 65g protein, <30g total fat; Prefer tasty food (0.8)
+======================================================================
+
+**SOLUTION PLAN:**
+To address the user's requirements, I've created a 7-day meal plan that incorporates vegetarian options, avoids oil, fried foods, and saturated fats, and meets the daily protein and fat targets. Here's a sample meal plan:
+
+* Breakfast: Oatmeal with almond milk, banana, and walnuts (250 calories, 10g protein, 10g fat)
+* Lunch: Lentil soup with quinoa, mixed vegetables, and a side of steamed spinach (400 calories, 20g protein, 10g fat)
+* Snack: Fresh fruit salad with a dollop of low-fat yogurt (150 calories, 5g protein, 0g fat)
+* Dinner: Grilled tofu with roasted vegetables, brown rice, and a side of sautéed mushrooms (400 calories, 20g protein, 10g fat)
+
+To stay within the budget of ₹200/day, consider the following shopping list:
+
+* Oatmeal (₹50/kg)
+* Almond milk (₹100/liter)
+* Bananas (₹20/kg)
+* Walnuts (₹150/kg)
+* Lentils (₹50/kg)
+* Quinoa (₹100/kg)
+* Mixed vegetables (₹20/kg)
+* Fresh spinach (₹10/bunch)
+* Low-fat yogurt (₹50/kg)
+* Tofu (₹100/kg)
+* Brown rice (₹20/kg)
+* Mushrooms (₹30/kg)
+
+To increase the protein content, consider adding other protein-rich foods like chickpeas, black beans, or seitan. To enhance the flavor, use herbs and spices like turmeric, cumin, and coriander.
+
+**TRADE-OFFS:**
+To meet the user's requirements, the following trade-offs were made:
+
+* Limited use of nuts and seeds due to their high fat content
+* Avoidance of high-fat dairy products and saturated fat-rich foods
+* Emphasis on plant-based protein sources, which may be less efficient than animal-based sources
+
+**FEASIBILITY SCORE:** 8/10
+The meal plan is feasible and can be implemented with minimal adjustments to the user's daily routine. However, the limited budget and avoidance of certain food groups may require some creativity and flexibility in meal planning. The score is reduced by 2 points due to the potential difficulty in sourcing some ingredients, such as almond milk and low-fat yogurt, within the budget constraint. Additionally, the user may need to invest time in meal planning and preparation to ensure they meet their nutritional targets.

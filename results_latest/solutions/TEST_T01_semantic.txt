@@ -1,0 +1,50 @@
+TEST: TEST_T01
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+Given the solo traveler's preferences and constraints, I recommend a 5-day trip to Goa, a popular beach destination in India. To fit within the ₹8000 budget, I've prioritized affordable accommodations and local food.
+
+Day 1: Arrival and Check-in
+- Arrive at Goa Airport (Dabolim)
+- Take a taxi or bus to the hotel (approximately ₹500-₹1000)
+- Check-in at a budget-friendly hotel or hostel in Calangute or Baga (₹800-₹1200 per night)
+- Explore local markets and beaches
+
+Day 2: Scuba Diving
+- Book a scuba diving session in Grande Island (approximately ₹2500-₹3500)
+- Spend the day diving and exploring the underwater world
+- Return to the hotel in the evening and enjoy local seafood
+
+Day 3: Parasailing and Jet Ski
+- Head to Baga Beach for parasailing (approximately ₹800-₹1200) and jet ski (approximately ₹500-₹800)
+- Spend the day enjoying water sports and relaxing on the beach
+- Try local street food for lunch and dinner
+
+Day 4: Beach Hopping
+- Visit nearby beaches like Anjuna, Vagator, and Morjim (approximately ₹500-₹1000 for transportation)
+- Explore the local markets, try water sports, and relax on the beaches
+- Return to the hotel in the evening and enjoy a local dinner
+
+Day 5: Departure
+- Spend the morning shopping for souvenirs or relaxing at the hotel
+- Check-out of the hotel and head to the airport for departure (approximately ₹500-₹1000 for transportation)
+
+**TRADE-OFFS:**
+To fit within the budget, I've compromised on the following:
+- Accommodation: Budget-friendly hotels or hostels instead of luxury resorts
+- Food: Local street food and mid-range restaurants instead of fine dining
+- Activities: Prioritized scuba diving, parasailing, and jet ski, but had to limit the number of other activities
+
+**FEASIBILITY SCORE:** 8/10
+Justification:
+The plan is feasible, but there are some risks and uncertainties:
+- The budget is relatively tight, and any unexpected expenses could put a strain on the finances.
+- The traveler will need to be mindful of their spending and prioritize their activities.
+- Safety is a concern, especially when engaging in water sports, but Goa is generally a safe destination for solo travelers.
+- The plan assumes that the traveler will be able to find affordable accommodations and activities, which may not always be available during peak season.
+- The traveler should research and book their activities and accommodations in advance to ensure availability and get the best prices.
+
+Overall, with careful planning and budgeting, this trip should be feasible and enjoyable for the solo traveler.

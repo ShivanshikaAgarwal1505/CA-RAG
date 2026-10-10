@@ -1,0 +1,34 @@
+TEST: TEST_H09
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 25F; Marathon training; Budget ₹160/day; Vegan; Shared kitchen (20min/day); Need 70g protein, high carb (400g), electrolytes; Running 60km/week
+======================================================================
+
+**SOLUTION PLAN:**
+
+To meet the nutritional requirements of a 25F marathon runner on a vegan diet with a budget of ₹160/day, shared kitchen, and limited time, here's a daily plan:
+
+- **Morning (15 minutes)**: Overnight oats with almond milk, rolled oats, and fruits (₹20) - 10g protein, 60g carbs
+- **Mid-morning (5 minutes)**: Handful of nuts (almonds, walnuts) and dried fruits (₹15) - 8g protein, 20g carbs
+- **Lunch (Shared Kitchen, 20 minutes)**: Whole grain roti, lentil soup, mixed vegetables, and a side of avocado (₹40) - 20g protein, 80g carbs
+- **Evening (10 minutes)**: Fruit smoothie with banana, spinach, almond milk, and chia seeds (₹25) - 10g protein, 40g carbs
+- **Dinner (Shared Kitchen, 20 minutes)**: Quinoa and black bean bowl with roasted vegetables and a citrus vinaigrette dressing (₹50) - 20g protein, 100g carbs
+- **Before Bed (5 minutes)**: Warm almond milk with turmeric and a tablespoon of almond butter (₹10) - 4g protein, 10g carbs
+
+**Total Cost:** ₹160
+**Total Protein:** 72g
+**Total Carbohydrates:** 410g
+**Electrolytes:** Included through avocado, banana, and citrus fruits
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like lentils, black beans, and nuts instead of expensive vegan protein powders.
+- **DIET_VS_PROTEIN**: Focused on vegan high-protein foods like lentils, chickpeas, quinoa, and nuts to meet the protein requirement.
+- **VEGAN_VS_PROTEIN**: Utilized a variety of plant-based protein sources to ensure a balanced amino acid profile, including whole grains, legumes, nuts, and seeds.
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE**: Lentil-based meals INSTEAD OF: Vegan protein supplements for affordability and natural nutrient profile.
+- **CHOSE**: Shared kitchen meals INSTEAD OF: Home cooking for convenience and time-saving, despite the limitation.
+- **CHOSE**: Nuts and seeds INSTEAD OF: Soy products for convenience, cost, and variety in protein sources.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it satisfies all hard constraints, including budget, dietary requirements, and time. It also addresses the soft constraints by providing quick and relatively easy meal preparations. However, achieving exactly 400g of carbs and 70g of protein daily might require some adjustments based on individual calorie needs and hunger levels, which could slightly affect the feasibility score. Overall, this plan offers a balanced and practical approach to supporting marathon training on a vegan diet within the given constraints.

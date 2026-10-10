@@ -1,0 +1,30 @@
+TEST: TEST_H07
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 23F; Hypothyroidism + hair fall; Budget ₹140/day; Vegan; Shared kitchen (30min/day max); Need iodine, selenium, 50g protein; Avoid: goitrogens (soy, cabbage, broccoli)
+======================================================================
+
+**SOLUTION PLAN:**
+
+To address the user's requirements, considering hypothyroidism, hair fall, vegan diet, budget of ₹140/day, and the need for iodine, selenium, and 50g of protein while avoiding goitrogens, here's a tailored plan:
+
+1. **Morning (7:00 AM)**: Start with a glass of warm water with a squeeze of lemon (use a non-goitrogenic source for iodine, such as iodized salt in water, if available) and 10 minutes of sunlight exposure for vitamin D.
+2. **Breakfast (8:00 AM)**: Oatmeal with almond milk, topped with sliced banana and a drizzle of maple syrup (approximately ₹20). Include a teaspoon of chia seeds for omega-3 fatty acids (₹5).
+3. **Mid-morning Snack (11:00 AM)**: Apple slices with almond butter (₹15 for a serving).
+4. **Lunch (1:30 PM)**: Brown rice (₹10 for a serving) with mixed lentil soup (dal, ₹15 for a serving, ensure it's prepared without goitrogenic vegetables) and a side of sautéed spinach with garlic (₹10).
+5. **Evening Snack (4:00 PM)**: Roasted chickpeas seasoned with iodized salt (₹10) for a crunchy snack rich in protein and iodine.
+6. **Dinner (7:30 PM)**: Quinoa (₹20 for a serving) with a mixed vegetable stir-fry (excluding goitrogens, ₹25 for a serving) and a small side of cucumber raita (₹10).
+
+**Supplements**:
+- Consider a vegan selenium supplement (approximately ₹5 per day, depending on the brand and quality).
+- If possible, include a vitamin B12 supplement (approximately ₹5 per day) since vegan diets often lack this essential nutrient.
+
+**Total Estimated Cost**: Approximately ₹125-₹135 per day, leaving some room for adjustments or additional snacks within the ₹140/day budget.
+
+**TRADE-OFFS**:
+- The plan avoids goitrogenic foods as requested but may not include all possible vegan sources of iodine and selenium due to the goitrogen restriction.
+- The use of supplements is minimal but necessary to ensure adequate selenium and potentially vitamin B12 intake.
+- Preparation time is kept under 30 minutes per meal to accommodate the shared kitchen constraint.
+
+**FEASIBILITY SCORE**: 8/10
+Justification: The plan is feasible given the constraints, providing a balanced vegan diet that avoids goitrogens while attempting to meet the protein, iodine, and selenium requirements. However, achieving exactly 50g of protein daily with these constraints might require careful portioning and could be a challenge. Additionally, access to specific ingredients like iodized salt, selenium supplements, and a variety of non-goitrogenic vegetables could vary, affecting the plan's efficacy. Regular monitoring of thyroid function and adjustment of the diet plan as necessary, potentially with the help of a healthcare provider or a dietitian, is recommended.

@@ -1,0 +1,35 @@
+TEST: TEST_E02
+SYSTEM: hybrid
+DOMAIN: education
+QUERY: Final year B.Tech; Need 4 courses; All must be: easy (for GPA), project-based (no exams), interesting topics; Max 12hrs/week; Prerequisites: basic programming only
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the hard constraints and prioritize the soft constraints, I recommend the following 4 courses for the final year B.Tech student:
+
+* Course 1: Human-Computer Interaction (HCI) - 3 hours/week (Mon 10-12 PM, project-based, easy, and interesting)
+* Course 2: Web Development - 3 hours/week (Tue 10-12 PM, project-based, easy, and interesting)
+* Course 3: Data Visualization - 3 hours/week (Wed 10-12 PM, project-based, easy, and interesting)
+* Course 4: Technical Writing - 3 hours/week (Online, project-based, easy, and interesting)
+
+These courses fulfill the hard constraints:
+- Time: The total time commitment is 12 hours/week, within the limit.
+- Prerequisites: All courses only require basic programming knowledge.
+- Course count: 4 courses are recommended.
+
+The soft constraints are prioritized as follows:
+- Easy (importance: 0.8/1.0): All courses are project-based and have a reputation for being easy.
+- Project-based (importance: 0.9/1.0): All courses are project-based, aligning with the student's preference.
+- Interesting topics (importance: 0.7/1.0): The courses cover a range of interesting topics, including HCI, web development, data visualization, and technical writing.
+
+**CONFLICT RESOLUTION:**
+- TIME_VS_COURSES: To resolve this conflict, I prioritized courses with a lower time commitment (3 hours/week each) to ensure the student can manage their workload within the 12 hours/week limit.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Human-Computer Interaction (HCI) INSTEAD OF: Machine Learning (ML) - While ML is an interesting topic, it may require more time and effort, potentially conflicting with the 12 hours/week limit.
+- CHOSE: Web Development INSTEAD OF: Cloud Computing - Web development is a more accessible and easier topic for students with basic programming knowledge, aligning with the easy and project-based preferences.
+- CHOSE: Data Visualization INSTEAD OF: Data Structures - Data visualization is a more interesting and project-based topic, requiring less intense programming efforts compared to data structures.
+- CHOSE: Technical Writing INSTEAD OF: Software Engineering - Technical writing is a valuable skill, easy to learn, and project-based, making it a suitable choice to fulfill the course requirements within the given constraints.
+
+**FEASIBILITY SCORE:** 9/10
+The solution plan is feasible because it satisfies all hard constraints, prioritizes the soft constraints, and provides a balanced workload. However, the student must remain committed to managing their time effectively to ensure they can complete all course requirements within the 12 hours/week limit.

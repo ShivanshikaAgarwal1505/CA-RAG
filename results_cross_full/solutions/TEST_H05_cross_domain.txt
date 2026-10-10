@@ -1,0 +1,30 @@
+TEST: TEST_H05
+SYSTEM: cross_domain
+DOMAIN: health
+QUERY: 20F; Severe iron deficiency (Hb: 7.8); Budget ₹70/day; Vegetarian; Hostel mess; Avoid: dairy (lactose intolerant); Need 25mg iron daily; Currently taking iron pills but not working
+======================================================================
+
+**SOLUTION PLAN:**
+To address the severe iron deficiency in a 20F individual with a budget of ₹70/day, who is a vegetarian, lactose intolerant, and relies on a hostel mess for meals, the following plan is proposed:
+
+1. **Morning**: Start with a glass of warm water with a squeeze of lemon (to enhance iron absorption) and a handful of soaked almonds (rich in iron and protein).
+2. **Breakfast**: Opt for iron-rich foods like poha with nuts (e.g., almonds, cashews) or iron-fortified cereals available in the hostel mess. If possible, include a small serving of vitamin C-rich fruits like orange or kiwi to aid iron absorption.
+3. **Lunch**: Focus on dark leafy greens like spinach, which are rich in iron. Pair these with legumes like lentils (dal) or chickpeas, which are not only a good source of iron but also protein. Ensure that the meal includes a source of vitamin C (e.g., lemon juice in salad dressing, tomatoes) to enhance iron absorption.
+4. **Evening Snack**: Include a serving of dried fruits like apricots, raisins, or dates, which are good sources of iron, along with a handful of nuts.
+5. **Dinner**: Similar to lunch, focus on iron-rich foods. If the mess provides options like soybean or other legume-based dishes, these can be excellent sources of iron.
+6. **Supplementation**: Continue with the iron pills but consider consulting a healthcare provider about the possibility of switching to a more absorbable form of iron or adding a vitamin C supplement to enhance absorption, given the dietary constraints.
+
+**CONFLICT RESOLUTION:**
+- **Budget vs. Protein Conflict**: Addressed by focusing on affordable, protein-rich foods like legumes (lentils, chickpeas), nuts, and seeds that are also good sources of iron. Utilizing the hostel mess to the fullest by selecting meals that are nutrient-dense and budget-friendly.
+- **Lactose Intolerance**: Managed by avoiding dairy products altogether and focusing on non-dairy sources of calcium and protein.
+- **Effective Iron Intake**: Enhanced by consuming vitamin C-rich foods alongside iron-rich foods to improve absorption, and considering the adjustment of iron supplementation under medical guidance.
+
+**CROSS-DOMAIN INSIGHTS:**
+Adapting strategies from the provided examples, such as enhancing nutrient absorption through dietary combinations (e.g., vitamin C with iron-rich foods), utilizing affordable and accessible food options, and considering the individual's lifestyle constraints (e.g., time, kitchen availability) to create a feasible plan. The approach to solving the problem learns from both same-domain (nutrition and health) and cross-domain (lifestyle management, budgeting) strategies to ensure a holistic and practical solution.
+
+**TRADE-OFFS MADE:**
+- **Supplemental Dependence**: While the plan attempts to maximize dietary iron intake, it still relies on iron supplementation due to the severity of the deficiency and the challenges in achieving the required daily iron intake solely through diet within the given constraints.
+- **Limited Food Variety**: The plan might not offer a wide variety of foods due to budget and lactose intolerance constraints, which could affect long-term adherence and satisfaction.
+
+**FEASIBILITY SCORE: 8/10**
+Justification: The plan is feasible given the constraints, as it utilizes available and affordable food options, considers the individual's dietary restrictions, and aims to enhance iron absorption through dietary combinations. However, the reliance on supplementation and potential limitations in food variety might affect long-term sustainability and adherence, hence not scoring a perfect 10.

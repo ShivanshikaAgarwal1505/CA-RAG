@@ -1,0 +1,32 @@
+TEST: TEST_T04
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN:**
+
+To accommodate the group of 5 friends with a budget of ₹12,000 per person for 5 days, seeking an adventure destination with trekking, camping, rafting, and paragliding, I propose the following plan:
+
+1. **Destination:** Manali, Himachal Pradesh. Manali offers a variety of adventure activities, including trekking, camping, rafting, and paragliding, making it an ideal destination for this group.
+
+2. **Accommodation:** Budget-friendly options like Zostel Manali or similar hostels can provide dormitory accommodation. The cost can be estimated around ₹800-₹1,200 per night. For 4 nights, the total would be approximately ₹3,200 to ₹4,800 for the entire group, which fits within the budget.
+
+3. **Transportation:** The most cost-effective way to reach Manali from Delhi is by taking an overnight Volvo bus, which costs around ₹1,500 to ₹2,000 per person for a return ticket. This option is not only budget-friendly but also saves time.
+
+4. **Activities:**
+   - **Trekking:** The group can opt for the Hampta Pass trek, a 4-day trek that includes camping. The cost for the trek, including guide, camping, and food, can range from ₹8,000 to ₹12,000 per person, depending on the operator and services included.
+   - **Rafting:** In Manali, the group can enjoy rafting in the Beas River. The cost per person can range from ₹500 to ₹1,000, depending on the length of the rafting trip.
+   - **Paragliding:** Paragliding in Manali can cost between ₹1,500 to ₹3,000 per person for a short flight, depending on the operator and the type of flight (tandem or solo).
+
+5. **Itinerary:**
+   - Day 1: Travel from Delhi to Manali by Volvo bus.
+   - Day 2: Explore Manali, visit the Hadimba Devi Temple, and enjoy rafting in the Beas River.
+   - Day 3-5: Hampta Pass trek, which includes trekking and camping.
+
+**TRADE-OFFS:**
+- The budget for food and miscellaneous expenses is tight, so the group might need to opt for budget-friendly eating options and limit their shopping or other expenses.
+- The itinerary is packed, which might leave little time for relaxation or exploring other attractions in Manali.
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible because it includes all the requested activities and stays within the budget. However, the budget for food and other expenses is somewhat tight, and the group will need to be mindful of their spending. Additionally, the weather in June can be unpredictable, and the group should be prepared for potential changes in the itinerary due to weather conditions. Overall, with some careful planning and flexibility, this trip can be a great adventure for the group.

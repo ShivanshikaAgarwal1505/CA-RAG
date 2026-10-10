@@ -1,0 +1,40 @@
+TEST: TEST_T04
+SYSTEM: hybrid
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the given constraints and preferences, I recommend a 5-day trip to Rishikesh, a popular adventure destination in India. Here's a detailed plan:
+
+Day 1: Arrival and Acclimatization
+- Arrive in Rishikesh and check-in to a budget-friendly accommodation like Zostel Rishikesh (approximately ₹800 per night for a dorm).
+- Spend the day exploring the city, visiting the Ram Jhula and Lakshman Jhula, and getting accustomed to the surroundings.
+
+Day 2: Trekking and Camping
+- Embark on a guided trek to the nearby hills (approximately ₹1,200 per person, including camping and meals).
+- Set up camp in the evening and enjoy a bonfire under the stars.
+
+Day 3: Rafting
+- Return to Rishikesh in the morning and get ready for a thrilling rafting experience in the Ganges River (approximately ₹1,000 per person).
+- Enjoy the scenic views and adventure of navigating through the river rapids.
+
+Day 4: Paragliding
+- Take a day trip to the nearby town of Bir (approximately ₹2,000 per person, including paragliding and transportation).
+- Experience the thrill of paragliding and take in the breathtaking views of the Himalayas.
+
+Day 5: Recovery and Departure
+- Spend the day relaxing and recovering from the previous day's adventures.
+- Depart for home in the evening, bringing back memories of an exciting adventure trip.
+
+**CONFLICT RESOLUTION:**
+- BUDGET_VS_ACTIVITIES: Prioritized affordable adventure activities like trekking, camping, rafting, and paragliding, which fit within the given budget of ₹12,000 per person.
+- ACCOMMODATION_VS_BUDGET: Chose budget-friendly accommodation options like Zostel Rishikesh to stay within the budget.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Rishikesh as the destination INSTEAD OF: More expensive destinations like Leh or Ladakh.
+- CHOSE: Guided trekking and camping INSTEAD OF: Independent trekking, which might require more planning and resources.
+- CHOSE: Budget-friendly accommodation INSTEAD OF: Luxury or mid-range hotels, which would exceed the budget.
+
+**FEASIBILITY SCORE:** 9/10
+The proposed plan is feasible and satisfies all the hard constraints, including budget, time, and activities. However, there might be some trade-offs in terms of accommodation quality and the number of activities that can be done within the given time frame. Overall, the plan provides a good balance of adventure, comfort, and affordability.

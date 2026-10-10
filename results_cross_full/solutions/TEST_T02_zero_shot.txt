@@ -1,0 +1,31 @@
+TEST: TEST_T02
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Couple (honeymoon); ₹25000 budget; 4 days; Mountain destination; Want: luxury resort (5-star), romantic dinners, spa, privacy; December travel
+======================================================================
+
+**SOLUTION PLAN:**
+For a luxurious 4-day honeymoon in a mountain destination within a budget of ₹25,000, I recommend the following plan:
+
+1. **Destination:** Mussoorie, Uttarakhand. It's a picturesque hill station with a romantic atmosphere, offering stunning views of the Himalayas.
+2. **Accommodation:** Book a 5-star luxury resort like the Jaypee Residency Manor or the Royal Orchid Fort Resort. These resorts offer luxurious rooms, romantic dinners, and spa facilities. However, to fit the budget, consider booking a room for 3 nights and 4 days, and opt for a package that includes breakfast and dinner.
+3. **Romantic Dinners:** Book a romantic dinner at the resort's fine-dining restaurant, which usually offers a candlelit setup and a personalized menu. You can also consider booking a private dinner at a secluded spot with a beautiful view.
+4. **Spa:** Book a couples' spa session at the resort's spa center, which usually offers a range of treatments like massages, facials, and body wraps.
+5. **Privacy:** Request a room with a private balcony or a suite with a separate living area to ensure maximum privacy.
+6. **Activities:** Take a romantic walk in the nearby woods, visit the Kempty Falls, or take a cable car ride to the top of Gun Hill for a breathtaking view.
+
+To fit the budget, consider the following:
+
+* Travel to Mussoorie by bus or train instead of flying, which can save around ₹5,000 - ₹10,000 per person.
+* Book a room in the off-season (December is considered off-season in Mussoorie), which can lead to discounts of up to 20-30% on the room tariff.
+* Opt for a package that includes breakfast and dinner, which can help save around ₹2,000 - ₹3,000 per day.
+
+**TRADE-OFFS:**
+To fit the budget, the following trade-offs have been made:
+
+* Traveling by bus or train instead of flying, which can take longer.
+* Booking a room in the off-season, which may mean cooler weather and limited outdoor activities.
+* Opting for a package that includes breakfast and dinner, which may limit the flexibility to try other restaurants.
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible, but it requires some adjustments to fit the budget. Mussoorie is a beautiful destination that offers a romantic atmosphere, and the suggested resorts provide luxurious amenities. However, traveling by bus or train and booking a room in the off-season may require some compromise. Overall, the plan offers a good balance of luxury, romance, and affordability.

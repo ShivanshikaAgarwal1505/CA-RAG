@@ -1,0 +1,36 @@
+TEST: TEST_H04
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 28M; Type 2 diabetes (HbA1c: 8.2); Budget ₹150/day; Veg; No kitchen; Need <150g carbs/day, 60g protein, no sugar spikes; Prefer natural foods (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+Given the constraints and preferences, a practical approach to managing Type 2 diabetes with a vegetarian diet, no kitchen facility, and a budget of ₹150/day is as follows:
+
+1. **Breakfast**: Start with a high-protein, low-carb option like roasted chana (40g, ₹10) and a small serving of nuts (almonds or walnuts, 10g, ₹20). This provides approximately 20g of protein and 10g of carbs. Supplement with a low-carb, high-fiber fruit like berries (₹10).
+
+2. **Mid-Morning Snack**: Opt for a low-carb, high-protein snack such as Greek yogurt (100g, ₹20) with a sprinkle of chia seeds (5g, ₹5) for added fiber and protein.
+
+3. **Lunch**: Utilize the no-kitchen constraint by relying on pre-prepared or easily accessible foods. A serving of mixed lentils (dal, 100g, ₹20) with a small serving of whole grain roti (20g, ₹5) and a variety of roasted or sautéed vegetables (broccoli, cauliflower, ₹10) can provide a balanced mix of protein, carbs, and fiber.
+
+4. **Evening Snack**: Choose a snack that's low in carbs and rich in protein and healthy fats, such as a handful of peanuts (20g, ₹10) and a small serving of cucumber slices (₹5).
+
+5. **Dinner**: For dinner, rely on pre-cooked or easy-to-prepare meals like a vegetable and lentil bowl (₹30) or a serving of whole grain poha (20g, ₹10) with nuts and vegetables.
+
+**Total Daily Cost**: Approximately ₹120, leaving ₹30 for any adjustments or additional snacks.
+
+**CONFLICT RESOLUTION:**
+
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like dal, chana, and nuts instead of expensive protein supplements.
+- **NO_KITCHEN_VS_NUTRITION**: Focused on pre-prepared, easily accessible foods, and utilized snacks that do not require cooking.
+- **DIET_VS_PROTEIN**: Emphasized high-protein vegetarian foods such as lentils, Greek yogurt, and nuts to meet protein requirements.
+- **MEDICAL_CONDITION_VS_DIET**: Managed Type 2 diabetes by controlling carb intake, focusing on low-carb and high-fiber foods, and avoiding sugar spikes through balanced meals and snacks.
+
+**SPECIFIC TRADE-OFFS:**
+
+- **CHOSE**: Dal and lentil-based proteins (affordable) INSTEAD OF: Protein supplements or non-vegetarian protein sources (expensive or not preferred).
+- **CHOSE**: Pre-prepared and no-cook meals INSTEAD OF: Home-cooked meals (no kitchen facility).
+- **CHOSE**: Nuts and seeds for snack INSTEAD OF: Fresh fruits or high-carb snacks to manage carb intake.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it stays within the budget, satisfies the protein requirement, limits carb intake, avoids sugar spikes, and prefers natural foods. However, it might require some adjustments based on individual preferences and the availability of specific food items. The score reflects the potential need for minor adjustments to fully meet all preferences and constraints.

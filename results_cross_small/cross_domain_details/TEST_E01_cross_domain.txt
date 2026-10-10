@@ -1,0 +1,13 @@
+CROSS-DOMAIN TRANSFER DETAILS
+======================================================================
+
+Test ID: TEST_E01
+Target Domain: education
+Total Examples Retrieved: 3
+Same-Domain Examples: 2
+Cross-Domain Examples: 1
+
+Retrieved Cases:
+  1. ED_001
+  2. ED_002
+  3. HC_002

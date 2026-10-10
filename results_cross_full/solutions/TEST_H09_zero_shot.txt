@@ -1,0 +1,31 @@
+TEST: TEST_H09
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 25F; Marathon training; Budget ₹160/day; Vegan; Shared kitchen (20min/day); Need 70g protein, high carb (400g), electrolytes; Running 60km/week
+======================================================================
+
+**SOLUTION PLAN:**
+To meet the requirements of a 25-year-old female marathon trainee with a budget of ₹160/day, following a vegan diet, and having access to a shared kitchen for 20 minutes a day, I've devised a plan that balances protein, carbohydrate, and electrolyte intake. Given the constraints, the focus will be on whole, nutrient-dense foods that are affordable and can be prepared quickly.
+
+1. **Breakfast**: Overnight oats made with rolled oats (50g carbs, 5g protein), almond milk, and chia seeds (5g protein, 10g carbs) can be prepared in 5 minutes the night before. Add a banana (20g carbs, 2g protein) and a handful of nuts (10g carbs, 5g protein) for added carbs and protein. Cost: ₹40. Time: 5 minutes (night before) + 2 minutes (morning).
+
+2. **Mid-Morning Snack**: Fresh fruits (e.g., apple, orange) with a tablespoon of peanut butter (8g carbs, 4g protein). Cost: ₹20. Time: 2 minutes.
+
+3. **Lunch**: Whole wheat wrap (40g carbs, 10g protein) filled with roasted vegetables (broccoli, bell peppers), hummus (10g carbs, 5g protein), and a sprinkle of chia seeds. This can be prepared in the morning and taken to go. Cost: ₹50. Time: 10 minutes.
+
+4. **Pre-Run Snack**: Energy balls made from oats (20g carbs, 5g protein), nuts (10g carbs, 5g protein), and dried fruits (20g carbs, 2g protein). Cost: ₹30. Time: 5 minutes (can be made in bulk).
+
+5. **Post-Run Recovery**: Smoothie bowl with frozen banana (20g carbs, 2g protein), spinach, almond milk, and almond butter topping (8g carbs, 4g protein). Cost: ₹40. Time: 5 minutes.
+
+6. **Dinner**: Quinoa (30g carbs, 8g protein) and black bean (30g carbs, 15g protein) bowl with roasted vegetables. This can be cooked in bulk and reheated. Cost: ₹50. Time: 15 minutes (initial cooking), 2 minutes (reheating).
+
+7. **Electrolytes and Hydration**: Coconut water (₹20) and lemon water throughout the day for hydration and natural electrolyte replenishment.
+
+**Total Cost**: ₹280/day is not feasible with the given budget. To adjust, consider buying in bulk (oats, nuts, quinoa) and planning meals that use similar ingredients to reduce waste and cost. The revised daily cost could look like this: ₹40 (breakfast) + ₹20 (snack) + ₹40 (lunch) + ₹30 (pre-run snack) + ₹40 (post-run) + ₹50 (dinner) + ₹20 (electrolytes) = ₹240/day. To further reduce costs, opt for seasonal fruits and vegetables, and use water or homemade electrolyte drinks instead of coconut water.
+
+**TRADE-OFFS**:
+- The initial plan exceeds the budget, requiring adjustments such as bulk purchases and optimizing meal planning to reduce costs.
+- Preparation time is a limiting factor, so meals are chosen for their quick preparation and potential for being made in bulk.
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible with careful budgeting and time management. The vegan diet requirement and the need for high carbs and protein are met, and electrolyte replenishment is addressed. However, the budget constraint requires meticulous planning and possibly some compromises on food variety. The score reflects the challenge of meeting all nutritional needs within the given budget and time constraints, but with careful planning, it's largely achievable.

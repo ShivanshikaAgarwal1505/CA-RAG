@@ -1,0 +1,25 @@
+TEST: TEST_E05
+SYSTEM: conflict_aware
+DOMAIN: education
+QUERY: B.Tech 6th sem; Want to explore AI/ML; Need 4 beginner courses; No prerequisites available; Prefer: video lectures, no mandatory attendance, auto-graded assignments; Want high GPA
+======================================================================
+
+**SOLUTION PLAN:**
+To address the query, I recommend the following four beginner courses that align with the constraints and preferences:
+
+1. **Introduction to Artificial Intelligence** (Online, 4h/wk, 4.2 avg, video lectures, auto-graded assignments) - This course provides a foundation in AI concepts, satisfying the interest in AI/ML.
+2. **Machine Learning Basics** (Online, 5h/wk, 4.1 avg, video lectures, auto-graded assignments) - This course introduces machine learning fundamentals, aligning with the AI/ML interest.
+3. **Data Analysis and Visualization** (Online, 4h/wk, 4.3 avg, video lectures, auto-graded assignments) - This course teaches data analysis and visualization skills, which are essential for AI/ML applications.
+4. **Programming for Data Science** (Online, 5h/wk, 4.4 avg, video lectures, auto-graded assignments) - This course focuses on programming skills required for data science and AI/ML, ensuring a strong foundation.
+
+These courses are designed to be completed within the 6th semester, with no mandatory attendance and auto-graded assignments, satisfying the soft constraints. The total workload is approximately 22h/wk, allowing for a manageable schedule.
+
+**CONFLICT RESOLUTION:**
+- **PREREQUISITES_VS_INTERESTS**: Addressed by selecting courses with no prerequisites that still align with the AI/ML interest. This strategy ensures that the student can explore AI/ML without being limited by prerequisite requirements.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Online courses with video lectures and auto-graded assignments INSTEAD OF: On-campus courses with mandatory attendance and manually graded assignments, to satisfy the convenience and preference constraints.
+- CHOSE: Beginner courses in AI/ML INSTEAD OF: Advanced courses that may require prerequisites, to address the prerequisites_vs_interests conflict.
+
+**FEASIBILITY SCORE:** 9/10
+The proposed solution plan is feasible because it satisfies all hard constraints (no prerequisites, 6th semester) and addresses the soft constraints (video lectures, no mandatory attendance, auto-graded assignments, AI/ML interest). The courses are designed to be manageable within the given timeframe, and the workload is reasonable. However, the feasibility score is not perfect (10/10) because the solution relies on online courses, which may not be as engaging as on-campus courses for some students. Nonetheless, the benefits of flexibility and convenience outweigh this potential drawback.

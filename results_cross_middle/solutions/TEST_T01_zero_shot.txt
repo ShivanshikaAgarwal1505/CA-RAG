@@ -1,0 +1,37 @@
+TEST: TEST_T01
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To accommodate the solo traveler's preferences and budget, I recommend a 5-day trip to Goa, a popular beach destination in India. Here's a breakdown of the plan:
+
+* **Accommodation:** Book a budget-friendly hostel or guesthouse in North Goa, such as Anjuna or Calangute, for an average cost of ₹800-₹1,200 per night. This will ensure a safe and social environment for the solo traveler.
+* **Food:** Explore local eateries and street food stalls to try authentic Goan cuisine, which is affordable and delicious. Average meal costs will be around ₹100-₹200 per meal.
+* **Activities:**
+	+ **Scuba diving:** Book a scuba diving session with a reputable operator in Goa, such as Barracuda Diving or Goa Diving, for around ₹4,500-₹5,500 per person.
+	+ **Parasailing:** Enjoy parasailing at Calangute or Baga Beach for approximately ₹800-₹1,200 per person.
+	+ **Jet ski:** Rent a jet ski at Calangute or Baga Beach for around ₹600-₹1,000 per person for 15-30 minutes.
+* **Safety:** To ensure safety, choose reputable operators for water sports and follow all instructions carefully. Additionally, stay in well-lit and crowded areas, especially at night, and keep valuables secure.
+* **Transportation:** Use public transport or rent a scooter (around ₹300-₹500 per day) to explore Goa and travel between destinations.
+
+**Budget Breakdown:**
+
+* Accommodation (4 nights): ₹3,200-₹4,800
+* Food (5 days): ₹2,000-₹3,000
+* Activities: ₹6,100-₹7,700 (scuba diving, parasailing, jet ski)
+* Transportation: ₹1,000-₹2,000
+* Total: ₹7,300-₹9,500
+
+Since the total budget is ₹8,000, some adjustments will be necessary to stay within the budget.
+
+**TRADE-OFFS:**
+To accommodate the budget constraint, consider the following trade-offs:
+
+* Opt for a more basic accommodation option to reduce costs.
+* Limit the number of activities or choose more affordable alternatives, such as snorkeling instead of scuba diving.
+* Use public transport instead of renting a scooter to reduce transportation costs.
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible, but some adjustments are necessary to stay within the budget. Goa is a popular destination, and prices may vary depending on the season. With careful planning and flexibility, the solo traveler can have a fun and safe experience within the given budget. However, there is a slight risk of exceeding the budget if not planned carefully, hence the score of 8/10.

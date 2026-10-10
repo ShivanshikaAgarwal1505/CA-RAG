@@ -1,0 +1,45 @@
+TEST: TEST_T05
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Senior couple (68M, 65F); ₹40000 budget; 4 days; Spiritual/peaceful; Need: easy walking (max 1km), AC transport, 3-star+ hotels, pure veg food, morning temple visits; Avoid: crowds, noise
+======================================================================
+
+**SOLUTION PLAN:**
+
+To cater to the senior couple's requirements, I've planned a 4-day spiritual and peaceful getaway to the city of Nashik, known for its serene surroundings, ancient temples, and tranquil atmosphere.
+
+Day 1: Arrival and Check-in
+- Travel from the origin city to Nashik by AC train or bus (approximately ₹2,000 - ₹3,000 per person for a round trip, depending on the mode of transport and class of service).
+- Check-in at a 3-star hotel like Hotel Panchvati or similar, ensuring it has pure veg food options and is within walking distance to major temples (approximately ₹4,000 per night).
+- Visit the nearby Kalaram Temple in the morning (entry free, but donations welcome).
+- Spend the evening relaxing at the hotel or taking a short walk around the Panchvati area.
+
+Day 2: Temple Visits
+- Start the day with a morning visit to the Trimbakeshwar Temple (approximately 30 km from Nashik city, ₹1,500 for an AC taxi round trip).
+- Return to Nashik city and have lunch at a pure veg restaurant.
+- Visit the Muktidham Temple in the afternoon (entry free, but donations welcome).
+- Evening at leisure.
+
+Day 3: Spiritual Experiences
+- Morning visit to the Someshwar Temple (approximately 5 km from Nashik city, ₹500 for an AC taxi round trip).
+- Participate in a yoga or meditation session at a local ashram or wellness center (approximately ₹500 per person).
+- Spend the evening exploring the local market for spiritual books or artifacts.
+
+Day 4: Departure
+- Spend the morning at leisure or visit any last-minute temples.
+- Depart for the origin city by AC train or bus.
+
+**COST BREAKDOWN:**
+- Transportation (round trip): ₹4,000 - ₹6,000
+- Accommodation (3 nights): ₹12,000
+- Food (approximating ₹1,000 per day for pure veg meals): ₹4,000
+- Local Transport and Temple Visits: ₹3,000
+- Miscellaneous (souvenirs, donations): ₹1,000
+Total: ₹24,000 - ₹30,000
+
+**TRADE-OFFS:**
+- To stay within the budget, the couple might have to choose between visiting all the desired temples or opting for a more affordable accommodation option.
+- The travel plan assumes that the couple is relatively mobile and can handle short walks and car rides. However, if mobility is a significant issue, adjustments might be needed, such as hiring a car for the entire trip.
+
+**FEASIBILITY SCORE:** 8/10
+Justification: The plan is feasible as it meets most of the couple's requirements, including spiritual experiences, pure veg food, and comfortable, peaceful accommodations. However, the budget constraint might necessitate some compromises on the choice of hotels or the frequency of using AC taxis for local transport. Additionally, the plan assumes good health and moderate mobility of the couple, which is crucial for the success of the trip.

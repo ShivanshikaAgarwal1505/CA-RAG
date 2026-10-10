@@ -1,0 +1,70 @@
+{
+  "test_id": "TEST_H01",
+  "domain": "health",
+  "query": "19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)",
+  "expected_conflicts": [
+    "budget_vs_protein",
+    "diet_vs_protein",
+    "no_kitchen_vs_nutrition",
+    "budget_vs_supplements"
+  ],
+  "timestamp": "2026-02-15T20:39:12.949714",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2114,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 0.6,
+        "crq": 0.0,
+        "sf": 0.8,
+        "overall": 0.44
+      }
+    },
+    "semantic": {
+      "solution_length": 1984,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 0.6,
+        "crq": 0.13999999999999999,
+        "sf": 0.7,
+        "overall": 0.46399999999999997
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 3270,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.8,
+        "crq": 0.7,
+        "sf": 0.8,
+        "overall": 0.7650000000000001
+      }
+    },
+    "hybrid": {
+      "solution_length": 2636,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 0.8,
+        "crq": 0.65,
+        "sf": 0.8,
+        "overall": 0.7475
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3446,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 0.6,
+        "crq": 0.7,
+        "sf": 0.8,
+        "overall": 0.685
+      },
+      "cross_domain_count": 1
+    }
+  }
+}

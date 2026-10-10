@@ -1,0 +1,50 @@
+{
+  "test_id": "TEST_E02",
+  "domain": "education",
+  "timestamp": "2026-02-15T20:29:32.720776",
+  "systems": {
+    "zero_shot": {
+      "num_examples": 0,
+      "retrieved_cases": [],
+      "method": "zero-shot"
+    },
+    "semantic": {
+      "num_examples": 3,
+      "retrieved_cases": [
+        "ED_010",
+        "ED_005",
+        "ED_018"
+      ],
+      "method": "semantic"
+    },
+    "conflict_aware": {
+      "num_examples": 0,
+      "retrieved_cases": [
+        "ED_010",
+        "ED_005",
+        "ED_018"
+      ],
+      "method": "conflict-aware"
+    },
+    "hybrid": {
+      "num_examples": 3,
+      "retrieved_cases": [
+        "ED_010",
+        "ED_005",
+        "ED_018"
+      ],
+      "method": "hybrid"
+    },
+    "cross_domain": {
+      "num_examples": 3,
+      "retrieved_cases": [
+        "ED_001",
+        "ED_002",
+        "HC_002"
+      ],
+      "method": "cross-domain",
+      "cross_domain_count": 1,
+      "same_domain_count": 2
+    }
+  }
+}

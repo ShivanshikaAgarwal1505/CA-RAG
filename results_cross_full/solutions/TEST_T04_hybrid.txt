@@ -1,0 +1,42 @@
+TEST: TEST_T04
+SYSTEM: hybrid
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the hard constraints and prioritize the soft constraints, I recommend a 5-day trip to Rishikesh, a popular adventure destination in India. Here's a step-by-step plan:
+
+Day 1: Arrival and Acclimatization
+- Arrive in Rishikesh and check-in to a budget-friendly hostel like Zostel Rishikesh (₹800/night) or similar.
+- Spend the day exploring the city, visiting the Ram Jhula and Lakshman Jhula, and getting accustomed to the surroundings.
+
+Day 2: Trekking and Camping
+- Start the day with a guided trek to the nearby waterfall (₹500/person) or a self-guided trek to the Neer Garh waterfall (free).
+- Set up camp near the waterfall or at a designated campsite (₹1,500/night for the group) and enjoy the scenic views.
+- Engage in campfire activities and stargazing at night.
+
+Day 3: Rafting
+- Embark on a white-water rafting adventure (₹1,200/person) in the Ganges River, which offers a thrilling experience.
+- Spend the evening relaxing at the campsite or exploring the local market.
+
+Day 4: Paragliding
+- Take a day trip to the nearby town of Bir (₹1,500/group for transportation) for paragliding (₹2,000/person).
+- Enjoy the breathtaking views of the Himalayas while paragliding.
+
+Day 5: Departure
+- Spend the morning at leisure, exploring the local market or visiting the Beatles Ashram.
+- Depart for the airport or bus station for the return journey.
+
+**CONFLICT RESOLUTION:**
+- BUDGET_VS_DESTINATION: Chose Rishikesh as the destination, which offers a range of adventure activities within the budget.
+- ACTIVITIES_VS_BUDGET: Prioritized the most important activities (trekking, camping, rafting, and paragliding) and allocated the budget accordingly.
+- ACCOMMODATION_VS_BUDGET: Opted for budget-friendly hostels and camping to stay within the accommodation budget.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Rishikesh as the destination INSTEAD OF: More expensive destinations like Leh or Ladakh.
+- CHOSE: Budget-friendly hostels and camping INSTEAD OF: Luxury hotels or resorts.
+- CHOSE: Guided trekking and rafting INSTEAD OF: Self-guided activities to ensure safety and convenience.
+
+**FEASIBILITY SCORE:** 9/10
+The solution plan satisfies all the hard constraints and prioritizes the soft constraints. However, the budget for paragliding is slightly higher than expected, which might require some adjustments in other areas of the trip. Overall, the plan offers a great balance of adventure activities, budget-friendly accommodation, and scenic views, making it a feasible and exciting option for the group.

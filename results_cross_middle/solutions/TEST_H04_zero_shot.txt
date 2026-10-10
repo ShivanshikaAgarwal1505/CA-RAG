@@ -1,0 +1,26 @@
+TEST: TEST_H04
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 28M; Type 2 diabetes (HbA1c: 8.2); Budget ₹150/day; Veg; No kitchen; Need <150g carbs/day, 60g protein, no sugar spikes; Prefer natural foods (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To manage Type 2 diabetes with the given constraints, I recommend the following meal plan:
+
+* Breakfast: Oatmeal with nuts and seeds (30g carbs, 10g protein, ₹50) - 1 cup cooked oatmeal with 1 tablespoon almond butter, 1 tablespoon chia seeds, and 1 tablespoon walnuts.
+* Mid-morning snack: Fresh fruits and nuts (15g carbs, 5g protein, ₹20) - 1 small apple, 1 tablespoon almonds.
+* Lunch: Veggie and paneer wrap (30g carbs, 20g protein, ₹50) - 1 whole wheat tortilla, 1/2 cup cooked paneer, 1 cup mixed veggies (cucumber, bell peppers, carrots), 1 tablespoon hummus.
+* Evening snack: Roasted makhana (10g carbs, 5g protein, ₹20) - 1 cup roasted makhana.
+* Dinner: Lentil soup with whole grain bread (30g carbs, 20g protein, ₹50) - 1 cup cooked lentil soup, 1 slice whole grain bread.
+
+Beverages: Drink plenty of water throughout the day. Consider having green tea or black coffee without sugar.
+
+To minimize sugar spikes, choose whole, unprocessed foods as much as possible. Since there's no kitchen, opt for ready-to-eat or easy-to-prepare options. The above meal plan provides approximately 120g carbs, 60g protein, and stays within the budget of ₹150/day.
+
+**TRADE-OFFS:**
+1. Limited food variety due to the no-kitchen constraint.
+2. Reliance on some processed foods like whole wheat tortilla and hummus to meet protein and carb requirements.
+3. Potential difficulty in finding sugar-free and low-carb options while eating out or purchasing ready-to-eat meals.
+
+**FEASIBILITY SCORE:** 8/10
+The proposed meal plan is feasible, given the constraints, but may require some adjustments based on personal preferences and availability of specific food items. The plan prioritizes natural foods, stays within the budget, and meets the nutritional requirements. However, the limited food variety and reliance on some processed foods might affect long-term adherence to the plan. Regular monitoring of HbA1c levels and adjustments to the meal plan as needed will help ensure the plan's effectiveness.

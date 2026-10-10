@@ -1,0 +1,31 @@
+TEST: TEST_H01
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN:**
+To address the constraints and conflicts, I recommend the following daily plan:
+
+- Morning: Start with a glass of freshly squeezed orange juice (100ml) and a handful of raisins (10g) to boost iron intake. Have a bowl of oatmeal with fruits and nuts (including dates and apricots) for a mix of carbohydrates, protein, and fiber.
+- Breakfast (Hostel Mess): Opt for whole grain roti or paratha with a generous serving of lentil-based curry (such as chana masala or rajma) to meet protein needs. Include a side of sautéed spinach or other leafy greens for additional iron.
+- Mid-morning: Snack on a mix of nuts and seeds like almonds, pumpkin seeds, and sunflower seeds (about 20g) for a protein and healthy fat boost.
+- Lunch (Hostel Mess): Focus on legume-based dishes like dal, chickpea curry, or kidney bean salad, paired with brown rice or whole grain roti. Ensure a serving of mixed vegetables for a broad spectrum of nutrients.
+- Evening: Enjoy a fruit salad with a dollop of peanut butter or a handful of roasted chickpeas for a protein-rich snack.
+- Dinner (Hostel Mess): Similar to lunch, prioritize legume-based dishes and whole grains. Include a side of steamed broccoli or other iron-rich vegetables.
+- Before Bed: Have a warm glass of lemon water with a teaspoon of jaggery to aid digestion and provide a small iron boost.
+
+**CONFLICT RESOLUTION:**
+- BUDGET_VS_PROTEIN: Prioritized affordable protein sources like lentils, chickpeas, and whole grains instead of expensive protein supplements or meat products.
+- BUDGET_VS_SUPPLEMENTS: Given the no-supplement constraint, focused on whole food sources rich in iron and protein to meet daily requirements.
+- DIET_VS_PROTEIN: Emphasized vegan high-protein foods such as lentils, chickpeas, nuts, and seeds to meet the 50g protein goal.
+- VEGAN_VS_PROTEIN: Utilized a variety of plant-based protein sources to ensure adequate protein intake without compromising the vegan diet.
+- MEDICAL_CONDITION_VS_DIET: Addressed the severe anemia by incorporating iron-rich foods like spinach, beans, and fortified cereals, and vitamin C sources like citrus fruits and bell peppers to enhance iron absorption.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Lentil-based curries and whole grains INSTEAD OF: Protein supplements or expensive vegan protein powders.
+- CHOSE: Nuts and seeds as snack options INSTEAD OF: Fresh fruits alone to boost protein intake.
+- CHOSE: Hostel mess optimization by selecting appropriate dishes INSTEAD OF: Home cooking, which is not feasible.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it utilizes commonly available foods in a hostel setting, stays within the budget, and adheres to the vegan diet. However, it may require some planning and coordination with the hostel mess to ensure the availability of suitable options. The score is not a perfect 10 due to potential limitations in consistently accessing a wide variety of iron and protein-rich foods in a hostel mess setting, but the plan is designed to be as flexible and adaptable as possible.

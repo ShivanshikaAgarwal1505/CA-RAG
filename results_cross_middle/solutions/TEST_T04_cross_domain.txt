@@ -1,0 +1,32 @@
+TEST: TEST_T04
+SYSTEM: cross_domain
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN:**
+To cater to the group of 5 friends with a budget of ₹12,000 per person for a 5-day adventure trip in June, focusing on trekking, camping, rafting, and paragliding, I propose the following plan:
+
+1. **Destination:** Manali, Himachal Pradesh, offers a mix of adventure activities like trekking, camping, rafting, and paragliding, making it an ideal destination for this trip.
+2. **Accommodation:** Budget-friendly options like Zostel Manali or similar hostels can provide dormitory accommodations. The cost would be approximately ₹800-₹1,200 per night. For 5 nights, this would amount to ₹4,000-₹6,000 for the group, which is within the budget.
+3. **Activities:**
+   - **Trekking:** A guided trek to Hampta Pass or similar trails can be arranged. The cost for a 2-day trek, including camping, would be around ₹4,000-₹5,000 per person.
+   - **Camping:** Included in the trekking package.
+   - **Rafting:** In Kullu, a day of rafting can cost approximately ₹1,000-₹1,500 per person.
+   - **Paragliding:** In Solang Valley, a session of paragliding can cost around ₹1,500-₹2,000 per person.
+4. **Transportation:** The group can travel from their origin to Manali by bus or car, depending on their starting location. From Delhi, a Volvo bus ticket can cost around ₹1,500-₹2,000 per person for a one-way journey. Local transportation in Manali for activities can be arranged at an additional cost of ₹1,000-₹2,000 for the group for the entire trip.
+
+**CONFLICT RESOLUTION:**
+- **Budget Constraint:** By choosing budget-friendly accommodations and optimizing activity costs, the plan stays within the ₹12,000 per person budget.
+- **Activity Inclusion:** All requested activities (trekking, camping, rafting, paragliding) are included in the plan.
+- **Time Constraint:** The 5-day duration allows for a balanced experience of all activities without feeling rushed.
+
+**CROSS-DOMAIN INSIGHTS:**
+From the provided examples, especially the ones related to travel and adventure, the strategy of balancing budget with experience, optimizing costs by choosing the right accommodations and activities, and ensuring all must-have experiences are included, has been adapted. The idea of compromising on certain aspects (like luxury) to fit the budget while prioritizing the core experiences (adventure activities) is key.
+
+**TRADE-OFFS MADE:**
+- **Luxury:** The plan does not include high-end accommodations or gourmet meals to stay within the budget.
+- **Personalized Guided Tours:** While guided tours are included for trekking and other activities, highly personalized tours are not feasible within the given budget.
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible as it addresses all hard constraints (budget, time, activities) and soft constraints (adventure destination, budget accommodation) effectively. However, the success of the plan heavily depends on the group's flexibility and the actual costs of activities and transportation, which might vary. Therefore, a score of 8/10 reflects the potential for minor adjustments based on real-time pricing and availability.

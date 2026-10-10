@@ -1,0 +1,25 @@
+TEST: TEST_E05
+SYSTEM: hybrid
+DOMAIN: education
+QUERY: B.Tech 6th sem; Want to explore AI/ML; Need 4 beginner courses; No prerequisites available; Prefer: video lectures, no mandatory attendance, auto-graded assignments; Want high GPA
+======================================================================
+
+**SOLUTION PLAN:**
+To address the query, I recommend the following four beginner courses in AI/ML that satisfy the hard constraints and prioritize the soft constraints:
+
+1. **Introduction to Machine Learning** (Online, 4h/wk, 4.2 avg, auto-graded assignments): This course provides a foundation in machine learning concepts, including supervised and unsupervised learning, regression, and classification.
+2. **Artificial Intelligence Basics** (Video lectures, 3h/wk, 4.1 avg, no mandatory attendance): This course covers the fundamentals of artificial intelligence, including intelligent agents, computer vision, and natural language processing.
+3. **Data Science with Python** (Online, 5h/wk, 4.3 avg, auto-graded assignments): This course introduces students to data science concepts using Python, including data visualization, statistical analysis, and machine learning.
+4. **Deep Learning Fundamentals** (Video lectures, 4h/wk, 4.4 avg, no mandatory attendance): This course provides an introduction to deep learning concepts, including neural networks, convolutional neural networks, and recurrent neural networks.
+
+**CONFLICT RESOLUTION:**
+- **PREREQUISITES_VS_INTERESTS**: To address this conflict, I prioritized courses that have no prerequisites and are relevant to AI/ML, ensuring that the student can explore their interests without being limited by prerequisite requirements. I chose courses that are designed for beginners, providing a solid foundation in AI/ML concepts.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: **Introduction to Machine Learning** INSTEAD OF: **Advanced Machine Learning** (requires prerequisites)
+- CHOSE: **Artificial Intelligence Basics** INSTEAD OF: **Specialized AI Courses** (require specific prerequisites)
+- CHOSE: **Data Science with Python** INSTEAD OF: **Data Science with R** (requires prior knowledge of R programming)
+- CHOSE: **Deep Learning Fundamentals** INSTEAD OF: **Advanced Deep Learning** (requires prior knowledge of deep learning concepts)
+
+**FEASIBILITY SCORE:** 9/10
+This solution plan is feasible because it satisfies all hard constraints, prioritizes soft constraints, and provides a practical and actionable recommendation for the student. The courses are designed for beginners, have no prerequisites, and offer a balance of theoretical foundations and practical applications in AI/ML. The only potential limitation is that the student may need to dedicate additional time to reviewing course materials and completing assignments, but this is a manageable trade-off given the potential benefits of exploring AI/ML interests.

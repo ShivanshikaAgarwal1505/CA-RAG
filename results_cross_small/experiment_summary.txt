@@ -1,0 +1,72 @@
+
+================================================================================
+EXPERIMENT RESULTS SUMMARY
+================================================================================
+
+Total experiments: 6
+
+CONSTRAINT SATISFACTION:
+--------------------------------------------------------------------------------
+  zero_shot      : Mean=0.725 Std=0.162 Min=0.500 Max=1.000
+  semantic       : Mean=0.758 Std=0.153 Min=0.500 Max=1.000
+  conflict_aware : Mean=0.786 Std=0.178 Min=0.500 Max=1.000
+  hybrid         : Mean=0.767 Std=0.192 Min=0.500 Max=1.000
+  cross_domain   : Mean=0.753 Std=0.190 Min=0.500 Max=1.000
+
+CONFLICT RESOLUTION:
+--------------------------------------------------------------------------------
+  zero_shot      : Mean=0.087 Std=0.094 Min=0.000 Max=0.220
+  semantic       : Mean=0.205 Std=0.164 Min=0.000 Max=0.480
+  conflict_aware : Mean=0.592 Std=0.221 Min=0.150 Max=0.850
+  hybrid         : Mean=0.500 Std=0.200 Min=0.100 Max=0.700
+  cross_domain   : Mean=0.442 Std=0.209 Min=0.150 Max=0.700
+
+SOLUTION FEASIBILITY:
+--------------------------------------------------------------------------------
+  zero_shot      : Mean=0.825 Std=0.038 Min=0.800 Max=0.900
+  semantic       : Mean=0.775 Std=0.056 Min=0.700 Max=0.850
+  conflict_aware : Mean=0.817 Std=0.037 Min=0.750 Max=0.850
+  hybrid         : Mean=0.833 Std=0.037 Min=0.800 Max=0.900
+  cross_domain   : Mean=0.742 Std=0.106 Min=0.600 Max=0.850
+
+OVERALL SCORE:
+--------------------------------------------------------------------------------
+  zero_shot      : Mean=0.527 Std=0.084 Min=0.400 Max=0.625
+  semantic       : Mean=0.569 Std=0.090 Min=0.400 Max=0.656
+  conflict_aware : Mean=0.726 Std=0.065 Min=0.665 Max=0.818
+  hybrid         : Mean=0.690 Std=0.068 Min=0.588 Max=0.778
+  cross_domain   : Mean=0.641 Std=0.113 Min=0.490 Max=0.833
+
+================================================================================
+IMPROVEMENT ANALYSIS
+================================================================================
+
+Constraint Satisfaction:
+  Semantic baseline:     0.758
+  Conflict-aware:        0.786
+  Improvement:           +3.7%
+  Cross-domain:          0.753
+  Cross-domain improvement: -0.7%
+
+Conflict Resolution:
+  Semantic baseline:     0.205
+  Conflict-aware:        0.592
+  Improvement:           +188.6%
+  Cross-domain:          0.442
+  Cross-domain improvement: +115.4%
+
+Solution Feasibility:
+  Semantic baseline:     0.775
+  Conflict-aware:        0.817
+  Improvement:           +5.4%
+  Cross-domain:          0.742
+  Cross-domain improvement: -4.3%
+
+Overall Score:
+  Semantic baseline:     0.569
+  Conflict-aware:        0.726
+  Improvement:           +27.6%
+  Cross-domain:          0.641
+  Cross-domain improvement: +12.7%
+
+================================================================================

@@ -1,0 +1,42 @@
+======================================================================
+CASE PREPROCESSING SUMMARY
+======================================================================
+
+Total cases: 66
+
+Health: 23 cases
+Education: 20 cases
+Travel: 23 cases
+
+======================================================================
+CONSTRAINT STATISTICS
+======================================================================
+
+Total hard constraints: 237
+Total soft constraints: 179
+Total goals: 95
+Avg hard per case: 3.6
+Avg soft per case: 2.7
+
+======================================================================
+CONFLICT STATISTICS
+======================================================================
+
+Total conflicts detected: 34
+Cases with conflicts: 24/66
+Avg conflicts per case: 0.5
+
+Conflict types:
+  diet_vs_protein: 8
+  budget_vs_protein: 6
+  medical_condition_vs_diet: 6
+  budget_vs_supplements: 5
+  time_vs_meal_prep: 1
+  research_vs_coursework: 1
+  prerequisites_vs_timeline: 1
+  exam_schedule_vs_workload: 1
+  theory_heavy_vs_time: 1
+  math_anxiety_vs_requirements: 1
+  family_vs_adventure: 1
+  solo_vs_safety: 1
+  flight_budget_vs_destination: 1

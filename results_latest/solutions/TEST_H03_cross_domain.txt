@@ -1,0 +1,30 @@
+TEST: TEST_H03
+SYSTEM: cross_domain
+DOMAIN: health
+QUERY: 24F; PCOS + insulin resistance; Budget ₹90/day; Vegan; Hostel mess; Avoid: soy, gluten, sugar; Need low GI, high fiber, 40g protein; Time <10min/meal
+======================================================================
+
+**SOLUTION PLAN:**
+To manage PCOS and insulin resistance, a 24-year-old female with a budget of ₹90/day, following a vegan, soy-free, gluten-free, and sugar-free diet, can consider the following meal plan:
+
+- Breakfast: Oatmeal (gluten-free oats) with almond milk, topped with fruits and nuts (e.g., almonds, walnuts) (₹20, 10g protein, 10min prep)
+- Mid-morning Snack: Fresh fruits with a handful of pumpkin seeds (₹10, 7g protein, 2min prep)
+- Lunch: Hostel mess - opt for brown rice, lentils (dal), and a variety of vegetables, ensuring no soy or gluten-containing foods (₹30, 15g protein, 5min selection)
+- Evening Snack: Smoothie made with almond milk, banana, spinach, and chia seeds (₹20, 5g protein, 5min prep)
+- Dinner: Similar to lunch, focusing on vegan, soy-free, gluten-free options from the hostel mess, possibly adding a small side of nuts or seeds for extra protein (₹30, 10g protein, 5min selection)
+
+**CONFLICT RESOLUTION:**
+1. **BUDGET VS PROTEIN**: Utilizing affordable protein sources like lentils, pumpkin seeds, almonds, and chia seeds helps meet the protein requirement without exceeding the budget.
+2. **DIET VS PROTEIN**: Focusing on vegan, soy-free, and gluten-free protein sources such as nuts, seeds, and specific grains ensures dietary restrictions are met while attempting to fulfill protein needs.
+3. **VEGAN VS PROTEIN**: Incorporating a variety of plant-based protein sources like lentils, nuts, and seeds into each meal helps achieve the daily protein goal.
+4. **MEDICAL CONDITION VS DIET**: The meal plan is designed to manage PCOS and insulin resistance by including low GI, high fiber foods and avoiding soy, gluten, and sugar, which aligns with the requirements for these conditions.
+
+**CROSS-DOMAIN INSIGHTS:**
+Adapting strategies from the provided examples, particularly the emphasis on portion control, timing of meals, and selection of specific foods that are nutrient-dense and low in GI, helps in creating a balanced meal plan. The use of fenugreek (as seen in Example 2) for improving insulin sensitivity is also considered, though it's not directly included in the meal plan due to the focus on food items. However, incorporating such herbal remedies could be beneficial as an additional strategy.
+
+**TRADE-OFFS MADE:**
+- **Time vs. Meal Preparation**: While the goal is to keep meal prep under 10 minutes, some meals might slightly exceed this time due to the need for smoothie preparation or selecting appropriate options at the mess.
+- **Protein Targets**: Given the constraints, achieving exactly 40g of protein might be challenging. The plan aims to get as close as possible while staying within the budget and dietary restrictions.
+
+**FEASIBILITY SCORE: 8/10**
+The plan is feasible considering the constraints, but it requires careful selection of foods at the hostel mess and some preparation time for smoothies and snacks. The protein target might not be fully met due to the limitations imposed by the diet and budget, but the plan should provide a good balance of nutrients for managing PCOS and insulin resistance. Regular monitoring and adjustments based on nutritional feedback and health progress will be necessary.

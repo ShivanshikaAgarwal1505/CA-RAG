@@ -1,0 +1,34 @@
+TEST: TEST_H05
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 20F; Severe iron deficiency (Hb: 7.8); Budget ₹70/day; Vegetarian; Hostel mess; Avoid: dairy (lactose intolerant); Need 25mg iron daily; Currently taking iron pills but not working
+======================================================================
+
+**SOLUTION PLAN:**
+
+To address the severe iron deficiency, I've created a daily plan that incorporates iron-rich foods, vitamin C to enhance iron absorption, and avoids dairy products due to lactose intolerance.
+
+DAILY:
+
+1. **Morning (empty stomach)**: 5 dates + 2 figs soaked overnight with warm water. Dates and figs are rich in iron and fiber, which can help alleviate constipation.
+2. **Breakfast (hostel mess)**: Opt for a breakfast option that includes beetroot, spinach, or other leafy greens, which are rich in iron. Add a squeeze of lemon or amla juice to enhance iron absorption.
+3. **Mid-morning**: Jaggery ladoo (20g) + 10 raisins + pomegranate juice (100ml). Jaggery is a good source of iron, and raisins are rich in fiber and iron.
+4. **Lunch (hostel mess)**: Include 150g of lentils (chana, rajma, or moong dal) in your meal, which are rich in iron. Add a side of salad with lemon juice to enhance iron absorption.
+5. **Evening**: Roasted chickpeas (20g) + 10 almonds + pomegranate juice (100ml). Chickpeas are a good source of iron, and almonds provide healthy fats and fiber.
+6. **Dinner (hostel mess)**: Include an iron-rich food like spinach, beetroot, or broccoli in your meal. Avoid tea for at least 2 hours after dinner, as it can inhibit iron absorption.
+
+**TRADE-OFFS:**
+
+* The plan relies on hostel mess food, which may have limited options. However, by choosing iron-rich foods and adding supplements like lemon juice and amla, we can maximize iron intake.
+* The plan does not include any dairy products due to lactose intolerance, which may limit calcium intake. However, dark leafy greens and fortified plant-based milk can provide adequate calcium.
+
+**FEASIBILITY SCORE:** 8/10
+
+The plan is feasible because it:
+
+* Incorporates iron-rich foods that are commonly available in hostel mess
+* Avoids dairy products due to lactose intolerance
+* Includes vitamin C-rich foods to enhance iron absorption
+* Provides a balanced mix of protein, healthy fats, and complex carbohydrates
+
+However, the plan may require some flexibility and creativity to accommodate the hostel mess food options and ensure adequate iron intake. Additionally, it is essential to monitor the individual's iron levels and adjust the plan as needed to achieve the desired 25mg iron daily intake.

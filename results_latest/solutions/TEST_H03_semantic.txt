@@ -1,0 +1,31 @@
+TEST: TEST_H03
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 24F; PCOS + insulin resistance; Budget ₹90/day; Vegan; Hostel mess; Avoid: soy, gluten, sugar; Need low GI, high fiber, 40g protein; Time <10min/meal
+======================================================================
+
+**SOLUTION PLAN:**
+
+To address the requirements of a 24F individual with PCOS and insulin resistance, following a vegan diet, avoiding soy, gluten, and sugar, and needing low GI, high fiber, and 40g protein within a budget of ₹90/day and time constraint of <10min/meal, the plan is as follows:
+
+- **Morning (within 10 minutes):** Start with a glass of warm water, followed by a serving of overnight soaked almonds (10-12) and pumpkin seeds (about 10g) for healthy fats, protein, and fiber. This combination helps in managing blood sugar levels and provides a feeling of fullness.
+
+- **Breakfast (mess, with modifications):** Opt for a gluten-free option if available, or choose a breakfast item that is naturally gluten-free like idlis (made from rice and lentils) or poha (flattened rice). Add a serving of avocado (if available) for healthy fats, or ask for an extra serving of sautéed vegetables (like spinach, bell peppers) to increase the fiber and nutrient content. Aim for about 15g of protein in this meal.
+
+- **Mid-morning Snack (within 5 minutes):** Have a small serving of nuts and seeds like cashews (10g) and chia seeds (10g mixed with water) to boost fiber and protein intake. Chia seeds are particularly beneficial for their high fiber and omega-3 fatty acid content.
+
+- **Lunch (mess, with modifications):** Choose a low GI, high fiber option like brown rice or millets if available. Ask for an extra serving of lentils (dal) or chickpea curry, which are high in protein and fiber. Include a variety of sautéed or steamed vegetables to increase the nutrient density of the meal. Aim for about 15g of protein in this meal.
+
+- **Evening Snack (within 5 minutes):** Prepare a smoothie with coconut water, frozen berries (for antioxidants), and a scoop of vegan protein powder (about 10g protein) if it fits within the budget. Alternatively, have a serving of roasted chana (10g) and a small apple for a quick, satisfying snack.
+
+- **Dinner (mess, with modifications):** Similar to lunch, opt for a low GI, high fiber option, and include a source of protein like lentils or chickpeas. Ensure a variety of vegetables are included. Aim for about 10g of protein in this meal.
+
+**TRADE-OFFS:**
+
+1. **Vegan protein powder:** While ideal for meeting protein requirements quickly, it may stretch the budget. Consider it if there's room for adjustment or find a cheaper alternative.
+2. **Gluten-free options:** Depending on the hostel mess, gluten-free options might be limited. In such cases, choosing naturally gluten-free foods or asking for special preparation might be necessary.
+3. **Avocado:** While nutritious, avocados can be expensive and might not always be available in the hostel mess. Consider them a bonus when available.
+
+**FEASIBILITY SCORE: 8/10**
+
+Justification: The plan is designed to be as feasible as possible given the constraints. It focuses on whole, nutrient-dense foods that are likely available in a hostel setting, with an emphasis on quick preparation times and staying within the budget. However, the availability of certain items like gluten-free options, avocados, and vegan protein powder might vary, which could affect the plan's success. Additionally, ensuring the exact protein and fiber targets are met daily might require some flexibility and adjustment based on what is available. Overall, with some creativity and willingness to adapt, this plan can be quite effective in managing PCOS and insulin resistance within the given parameters.

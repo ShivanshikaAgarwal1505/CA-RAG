@@ -1,0 +1,34 @@
+TEST: TEST_H01
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN:**
+
+To address the severe anemia and PCOS while adhering to a strict vegan diet and hostel mess constraints, we'll focus on iron and protein-rich foods that can be easily incorporated into the mess menu or prepared with minimal cooking. Given the budget and dietary restrictions, here's a daily plan:
+
+1. **Morning (empty stomach):** Start with 5 dates and 2 figs soaked overnight in warm water to help increase iron absorption.
+2. **Breakfast:** Opt for mess breakfast options like poha or upma, and add a squeeze of lemon and a side of amla (Indian gooseberry) or orange slices to enhance iron absorption.
+3. **Mid-morning:** Prepare a jaggery ladoo (20g) and have it with 10 raisins and a 100ml glass of pomegranate juice to provide a natural boost of iron.
+4. **Lunch:** Focus on legume-based dishes like chana (chickpea) or rajma (kidney bean) curry with roti and a side salad dressed with lemon juice. Ensure to have a serving of dark leafy greens like spinach or kale if available in the mess.
+5. **Evening:** Snack on roasted chickpeas (100g) seasoned with herbs and a squeeze of lemon. This will not only provide protein but also help meet the iron requirement.
+6. **Dinner:** In addition to the regular mess dinner, request an extra serving of lentil soup or dal to increase protein intake.
+
+**Additional Tips:**
+
+- **Vitamin C:** Include vitamin C-rich foods like lemon, amla, or oranges with meals to enhance iron absorption.
+- **Avoid Tea:** For 2 hours after meals, avoid consuming tea as it can inhibit iron absorption.
+- **Hydration:** Drink plenty of water throughout the day to help with digestion and overall health.
+
+**TRADE-OFFS:**
+
+- **Limited Control:** With hostel mess food, there's limited control over the exact ingredients and their quantities, which might affect meeting the exact protein and iron targets daily.
+- **Vegan Constraints:** Strict veganism limits the use of common iron and protein sources like eggs and dairy products, requiring more creativity with plant-based options.
+- **Supplement Avoidance:** Not using iron supplements due to religious reasons means relying entirely on dietary sources, which can be challenging to manage consistently.
+
+**FEASIBILITY SCORE:** 7/10
+
+**Justification:**
+
+The plan is feasible given the constraints, but its success heavily depends on the hostel mess's ability to provide or accommodate the suggested meals and the individual's ability to adhere strictly to the plan. The lack of control over exact nutrient intake due to the mess food system and the avoidance of supplements introduce variability in meeting the daily iron and protein targets. However, with careful selection of foods and adherence to the plan, it's possible to manage anemia and support overall health within the given budget and dietary preferences. Regular monitoring of hemoglobin levels and adjustment of the diet as needed will be crucial.

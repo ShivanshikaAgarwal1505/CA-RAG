@@ -1,0 +1,41 @@
+TEST: TEST_T04
+SYSTEM: conflict_aware
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the constraints and preferences, I recommend a 5-day trip to Bir Billing in Himachal Pradesh, India. Bir Billing is an adventure destination that offers trekking, camping, rafting, and paragliding.
+
+Day 1: Arrival and Acclimatization
+- Arrive in Bir and check-in to a budget-friendly accommodation like Zostel Bir or a similar hostel (₹800-₹1,200 per night).
+- Spend the day exploring Bir, visiting the Bir Monastery, and getting accustomed to the local environment.
+
+Day 2: Trekking and Camping
+- Start a guided trek to the Rajgundha Valley (approx. 10 km, 5-6 hours), which offers breathtaking views of the Himalayas.
+- Set up camp in the valley and enjoy a bonfire under the stars.
+- Cost: ₹2,500 per person for the guided trek and camping.
+
+Day 3: Paragliding
+- Take a paragliding session from Bir to Billing (approx. 30 minutes), which offers stunning views of the valley.
+- Cost: ₹2,000 per person for the paragliding session.
+
+Day 4: Rafting
+- Go rafting in the Beas River (approx. 10 km, 2-3 hours), which offers a thrilling experience.
+- Cost: ₹1,500 per person for the rafting session.
+
+Day 5: Departure
+- Spend the morning at leisure, exploring Bir or visiting the local market.
+- Depart for the nearest bus station or airport for the return journey.
+
+**CONFLICT RESOLUTION:**
+- BUDGET_VS_ACTIVITIES: Prioritized affordable adventure activities like trekking, camping, rafting, and paragliding, which are available in Bir Billing within the budget.
+- ACCOMMODATION_VS_BUDGET: Chose budget-friendly accommodations like Zostel Bir or similar hostels, which offer dorms and private rooms within the budget.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Bir Billing INSTEAD OF: Leh-Ladakh (due to budget constraints and travel time).
+- CHOSE: Guided trekking and camping INSTEAD OF: Self-guided trekking (to ensure safety and convenience).
+- CHOSE: Budget-friendly accommodations INSTEAD OF: Luxury hotels (to stay within the budget).
+
+**FEASIBILITY SCORE:** 9/10
+The solution plan is feasible, as it satisfies all the hard constraints and most of the soft constraints. The trip to Bir Billing offers a great adventure experience within the budget, with a good balance of trekking, camping, rafting, and paragliding. However, the plan may require some adjustments based on the weather conditions and availability of activities. The total cost for the 5-day trip is estimated to be around ₹11,500 per person, which is within the budget of ₹12,000 per person.

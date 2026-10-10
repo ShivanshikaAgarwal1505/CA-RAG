@@ -1,0 +1,45 @@
+TEST: TEST_T01
+SYSTEM: conflict_aware
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To create a 5-day beach destination trip for a solo traveler with a budget of ₹8000, prioritizing scuba diving, parasailing, jet ski, budget stays, local food, and high safety, I recommend the following itinerary:
+
+Day 1: Arrival and Acclimatization
+- Arrive at Goa, a popular beach destination in India known for its safety and variety of water sports.
+- Check-in at a budget-friendly hostel or guesthouse in North Goa, such as Zostel Goa or a similar option, which should cost around ₹800-₹1,200 for the entire stay.
+- Spend the day exploring local markets, trying local cuisine, and getting accustomed to the environment.
+
+Day 2: Water Sports
+- Start the day with a scuba diving session at Grande Island, which can cost around ₹2,500-₹3,000, including equipment and guidance.
+- After lunch, try parasailing at Calangute Beach, priced around ₹800-₹1,200.
+- End the day with a relaxing walk on the beach and trying local seafood.
+
+Day 3: Jet Ski and Local Exploration
+- Begin the day with a jet ski ride at Baga Beach, costing approximately ₹600-₹1,000.
+- After lunch, visit the Fort Aguada, a historical site, and then explore the local markets for some shopping.
+- Enjoy a local dinner and consider attending a beach party, if interested.
+
+Day 4: South Goa Exploration
+- Take a day trip to South Goa, visiting the Colva Beach and the Benaulim Beach.
+- Try snorkeling or simply relax at these less crowded beaches.
+- Return to North Goa in the evening and enjoy a quiet dinner.
+
+Day 5: Leisure and Departure
+- Spend the morning at leisure, either relaxing at the hostel or visiting a nearby beach.
+- Check out from the accommodation and head to the airport or bus station for your departure.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_WATER_SPORTS**: Prioritized affordable water sports options and budget stays to fit within the ₹8000 budget.
+- **SAFETY_VS_ADVENTURE**: Chose a destination like Goa, which is known for its safety and has numerous options for adventure sports, ensuring a balance between thrill and security.
+- **LOCAL_FOOD_VS_EXPENSE**: Focused on eating at local eateries and trying street food to save money and experience the local cuisine.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Budget hostels and guesthouses INSTEAD OF: Luxury resorts or hotels.
+- CHOSE: Local eateries and street food INSTEAD OF: Dining at high-end restaurants.
+- CHOSE: A mix of popular and less crowded beaches INSTEAD OF: Only visiting the most popular beaches, to balance experience and cost.
+
+**FEASIBILITY SCORE:** 8.5/10
+This plan is feasible because it stays within the budget by choosing affordable accommodations and dining options. It also prioritizes safety by selecting a well-known destination for water sports and ensuring that the traveler has time to acclimatize and enjoy the local culture. The only potential drawback could be the time spent traveling between different parts of Goa, but given the itinerary, this should be manageable. Overall, this plan offers a good balance of adventure, culture, and relaxation within the given constraints.

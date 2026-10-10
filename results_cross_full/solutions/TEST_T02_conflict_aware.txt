@@ -1,0 +1,31 @@
+TEST: TEST_T02
+SYSTEM: conflict_aware
+DOMAIN: travel
+QUERY: Couple (honeymoon); ₹25000 budget; 4 days; Mountain destination; Want: luxury resort (5-star), romantic dinners, spa, privacy; December travel
+======================================================================
+
+**SOLUTION PLAN:**
+Given the constraints and preferences, a feasible solution for the couple's 4-day honeymoon in a mountain destination within the ₹25,000 budget would be challenging, especially considering the high importance of luxury, romantic dinners, spa, and privacy. However, a practical approach could involve the following steps:
+
+1. **Destination Selection:** Choose a less expensive mountain destination that still offers luxury and romance. Considering the budget, places like Manali, Shimla, or Mussoorie might be more feasible than expensive locations like Shimla's premium areas or Kashmir.
+
+2. **Accommodation:** Opt for a 4-star resort instead of a 5-star, as it might fit better within the budget while still offering luxury and privacy. Resorts that are slightly off-season or less popular might offer better rates. For example, a resort in Manali that offers a luxurious stay with a mountain view could cost around ₹8,000 to ₹12,000 for 3 nights, depending on the season and availability.
+
+3. **Romantic Dinners:** Instead of dining at the most expensive restaurants every night, consider having one or two special dinners at a luxury restaurant and other meals at the resort or local eateries that offer a romantic ambiance without the hefty price tag.
+
+4. **Spa and Activities:** Many resorts offer spa facilities and couples' massages. While these might be included in some packages, if not, consider budgeting specifically for a spa day or activity that promotes relaxation and togetherness, like a sunset view or a nature walk.
+
+5. **Privacy:** To ensure privacy, book a room with a private balcony or one that is more secluded within the resort. Some resorts might offer private villas or cottages at a premium; however, given the budget, focusing on a room that provides a good view and enough seclusion might be more practical.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_LUXURY:** Prioritized 4-star resorts over 5-star to reduce costs while maintaining a level of luxury.
+- **ROMANCE_VS_EXPENSE:** Focused on having one or two special romantic dinners and opted for more budget-friendly yet romantic settings for other meals.
+- **PRIVACY_VS_COST:** Chose rooms or accommodations that offer privacy without necessarily opting for the most expensive private villas.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: 4-star resort INSTEAD OF: 5-star resort to save on accommodation costs.
+- CHOSE: One or two luxury dinners INSTEAD OF: Every meal being at a high-end restaurant to balance romance with budget.
+- CHOSE: Local, romantic walks and resort facilities INSTEAD OF: Expensive, guided tours or activities to maintain the romantic ambiance without overspending.
+
+**FEASIBILITY SCORE:** 7/10
+This score reflects the challenge in fully meeting all the high-importance preferences (luxury resort, romantic dinners, spa, privacy) within the given budget. The plan involves compromises, such as opting for a 4-star resort and limiting the number of luxury dinners, to stay within the ₹25,000 budget. The solution prioritizes the most important aspects of the honeymoon while making necessary adjustments to ensure feasibility.

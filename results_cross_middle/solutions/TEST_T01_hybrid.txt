@@ -1,0 +1,41 @@
+TEST: TEST_T01
+SYSTEM: hybrid
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the given constraints and goals, I propose a 5-day itinerary to Goa, a popular beach destination in India. Given the budget constraint of ₹8000, I've prioritized affordable options for stays, food, and activities.
+
+Day 1: Arrival and Acclimatization
+- Arrive in Goa and check-in to a budget-friendly hostel in Calangute, such as the Calangute Hostel, which costs approximately ₹800 for 5 nights (₹160 per night).
+- Spend the day relaxing on Calangute Beach and trying local street food, which is affordable and delicious.
+
+Day 2: Water Sports
+- Start the day with a parasailing session at Calangute Beach, which costs around ₹800 per person.
+- Follow it up with a jet ski ride, priced at approximately ₹600 per person.
+- In the evening, enjoy the local seafood at a budget-friendly restaurant.
+
+Day 3: Scuba Diving
+- Take a scuba diving course in Grande Island, which costs around ₹2500 per person, including equipment and guidance.
+- This will be the most expensive activity, but it's a must-have for the traveler.
+
+Day 4: Exploration
+- Spend the day exploring other beaches in Goa, such as Baga and Anjuna, using public transport, which is affordable.
+- Try local cuisine at eateries and food stalls.
+
+Day 5: Relaxation and Departure
+- Spend the morning relaxing on the beach or shopping for souvenirs.
+- Depart for the airport and head back home.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_ACTIVITIES**: Prioritized the most important activities (scuba diving, parasailing, and jet ski) and allocated the budget accordingly. Compromised on the stay and food options to accommodate the activity costs.
+- **SAFETY_VS_ADVENTURE**: Ensured that all activities are conducted with proper safety equipment and guidance, while still providing an adventurous experience.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Budget-friendly hostel (₹160 per night) INSTEAD OF: Luxury resort (₹500 per night)
+- CHOSE: Local street food and eateries INSTEAD OF: Fine dining restaurants
+- CHOSE: Public transport INSTEAD OF: Taxi or rental car
+
+**FEASIBILITY SCORE:** 8.5/10
+The proposed solution should be feasible, given the budget and time constraints. However, there might be some minor adjustments needed based on real-time availability and prices. The itinerary provides a good balance of adventure, relaxation, and local experience, while prioritizing safety and budget constraints. The only potential issue could be the cost of the scuba diving course, which might fluctuate. But overall, the plan should provide a great experience for the solo traveler.

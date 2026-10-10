@@ -1,0 +1,25 @@
+TEST: TEST_H01
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN:**
+To address the user's requirements, I've devised a meal plan that can be implemented within the hostel mess setting, considering the vegan diet, budget, and nutritional needs. 
+
+1. **Breakfast**: Oatmeal with dates and almonds (₹20) - 250g oats, 2 dates, 1 oz almonds. This provides approximately 10g of protein, 4mg of iron, and complex carbohydrates.
+2. **Lunch**: Lentil soup with brown rice and mixed vegetables (₹25) - 1 cup cooked lentils, 1 cup brown rice, 1 cup mixed vegetables. This provides approximately 18g of protein, 6mg of iron, and complex carbohydrates.
+3. **Dinner**: Chickpea and spinach curry with quinoa (₹30) - 1 cup cooked chickpeas, 1 cup cooked quinoa, 1 cup spinach. This provides approximately 15g of protein, 5mg of iron, and complex carbohydrates.
+4. **Snacks**: Roasted chickpeas (₹5) - 1/2 cup roasted chickpeas, providing approximately 5g of protein and 2mg of iron.
+
+**Total Cost**: ₹80
+**Total Protein**: 48g (short of 2g, can be made up by adding other plant-based sources like beans or peas to meals)
+**Total Iron**: 17mg (short of 1mg, can be made up by consuming vitamin C-rich foods like citrus fruits or bell peppers along with iron-rich foods to enhance absorption)
+
+**TRADE-OFFS:**
+- The user may not exactly meet the daily protein requirement of 50g, falling short by 2g.
+- The user may not exactly meet the daily iron requirement of 18mg, falling short by 1mg.
+- Some flexibility in food choices might be required to accommodate the hostel mess menu and availability of ingredients.
+
+**FEASIBILITY SCORE:** 8/10
+The solution plan is feasible because it provides a balanced and nutritious meal plan within the given budget and dietary constraints. However, it falls short of the exact protein and iron requirements. The plan's feasibility score is high due to its practicality and the potential for minor adjustments to meet the nutritional needs more closely. Regular monitoring and adjustments to the meal plan, as well as considering other iron and protein sources available in the hostel mess, can help in achieving the desired nutritional intake.

@@ -1,0 +1,27 @@
+TEST: TEST_E04
+SYSTEM: cross_domain
+DOMAIN: education
+QUERY: PhD 1st year; Need 2 courses; Topics: must align with thesis (RL in robotics); Need: theory depth, hands-on projects; Prof: must allow flex attendance (thesis work); Max 15hrs/week
+======================================================================
+
+**SOLUTION PLAN:**
+To address the PhD student's needs, I recommend the following two courses that align with their thesis on Reinforcement Learning (RL) in robotics:
+
+1. **Robotics and Autonomous Systems** (6 hours/week, theory depth: 0.6, hands-on projects: 0.4): This course covers the fundamentals of robotics, including perception, control, and navigation. It has a moderate theory depth and includes hands-on projects to apply RL concepts.
+2. **Deep Learning for Robotics** (6 hours/week, theory depth: 0.4, hands-on projects: 0.6): This course focuses on the application of deep learning techniques in robotics, including RL. It has a lower theory depth and emphasizes hands-on projects to develop practical skills.
+
+Both courses allow for flexible attendance, considering the student's thesis work. The total weekly commitment is 12 hours, which is within the 15-hour limit.
+
+**CONFLICT RESOLUTION:**
+
+* **THEORY HEAVY VS TIME**: To address this conflict, I selected courses with a balanced theory depth and hands-on projects. This approach ensures that the student gains a solid understanding of the concepts while also having time for practical applications.
+* **MULTIPLE PROJECTS VS CAPACITY**: To resolve this conflict, I chose courses with a moderate number of projects, allowing the student to focus on quality rather than quantity. This approach enables the student to develop a deeper understanding of the subject matter and apply RL concepts effectively.
+
+**CROSS-DOMAIN INSIGHTS:**
+The cross-domain pattern of "Limited resource (budget/time) conflicts with quality/quantity goal" is applicable in this scenario. The strategy of "Optimize for efficiency: prioritize high-value options within resource constraint" can be adapted to this problem. By selecting courses with a balanced theory depth and hands-on projects, the student can optimize their time and focus on high-value learning experiences.
+
+**TRADE-OFFS MADE:**
+To stay within the 15-hour limit, I compromised on the number of courses and selected two courses with a moderate time commitment. This trade-off allows the student to focus on quality over quantity and develop a deeper understanding of the subject matter.
+
+**FEASIBILITY SCORE:** 8/10
+The proposed solution is feasible because it satisfies all hard constraints, addresses each conflict with practical strategies, and adapts cross-domain insights to optimize the learning experience. However, the student may need to adjust their schedule or seek additional support to ensure they can complete the coursework and progress in their thesis work.

@@ -1,0 +1,38 @@
+TEST: TEST_H05
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 20F; Severe iron deficiency (Hb: 7.8); Budget ₹70/day; Vegetarian; Hostel mess; Avoid: dairy (lactose intolerant); Need 25mg iron daily; Currently taking iron pills but not working
+======================================================================
+
+**SOLUTION PLAN:**
+To address the severe iron deficiency, I recommend a multi-faceted approach that incorporates dietary changes, supplementation, and lifestyle adjustments. Given the constraints, here's a practical plan:
+
+1. **Iron-rich food sources**: Focus on consuming iron-rich, lactose-free, and vegetarian foods such as:
+	* Dark leafy greens (spinach, kale, collard greens)
+	* Legumes (lentils, chickpeas, black beans)
+	* Nuts and seeds (pumpkin seeds, sesame seeds, sunflower seeds)
+	* Whole grains (quinoa, brown rice, whole wheat)
+	* Dried fruits (apricots, prunes, raisins)
+2. **Hostel mess modifications**: Request the hostel mess to provide lactose-free alternatives and incorporate iron-rich foods into their menu. This might include:
+	* Adding spinach or kale to curries and sautéed dishes
+	* Serving lentil or chickpea-based dishes
+	* Offering whole grain options like brown rice or quinoa
+3. **Supplementation**: Continue taking iron pills, but consider adding a vitamin C supplement to enhance iron absorption. Vitamin C can be found in foods like citrus fruits, bell peppers, or tomatoes. Alternatively, take a vitamin C tablet (about ₹5-10 per day) with iron pills to improve absorption.
+4. **Meal planning and tracking**: Plan meals in advance to ensure adequate iron intake. Use a food diary or mobile app to track daily iron consumption and adjust the diet as needed.
+5. **Additional tips**:
+	* Cook in cast iron cookware to increase iron intake
+	* Avoid tea or coffee with meals, as they can inhibit iron absorption
+	* Drink water rich in vitamin C (e.g., lemon water) with meals
+
+**TRADE-OFFS:**
+To accommodate the budget constraint and lactose intolerance, some compromises were made:
+* The plan relies on relatively affordable, iron-rich foods, which might not be as expensive as other options.
+* Some convenience foods or ready-to-eat options might be limited due to the lactose-free requirement.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it:
+* Incorporates affordable, iron-rich foods
+* Offers flexible meal planning options
+* Utilizes existing resources (hostel mess, iron pills)
+* Provides additional tips for enhancing iron absorption
+However, the plan's success relies on the individual's ability to stick to the meal plan, track iron intake, and make adjustments as needed. Additionally, the effectiveness of the plan might be influenced by the hostel mess's willingness to accommodate dietary requests.

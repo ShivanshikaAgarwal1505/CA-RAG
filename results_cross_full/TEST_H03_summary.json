@@ -1,0 +1,70 @@
+{
+  "test_id": "TEST_H03",
+  "domain": "health",
+  "query": "24F; PCOS + insulin resistance; Budget ₹90/day; Vegan; Hostel mess; Avoid: soy, gluten, sugar; Need low GI, high fiber, 40g protein; Time <10min/meal",
+  "expected_conflicts": [
+    "budget_vs_protein",
+    "diet_vs_protein",
+    "no_kitchen_vs_nutrition",
+    "time_vs_meal_prep"
+  ],
+  "timestamp": "2026-02-15T20:40:14.457918",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2386,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 0.8571428571428571,
+        "crq": 0.1,
+        "sf": 0.7,
+        "overall": 0.5528571428571428
+      }
+    },
+    "semantic": {
+      "solution_length": 3003,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 0.8571428571428571,
+        "crq": 0.33999999999999997,
+        "sf": 0.8,
+        "overall": 0.6618571428571429
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 3711,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.8571428571428571,
+        "crq": 0.8,
+        "sf": 0.8,
+        "overall": 0.8228571428571427
+      }
+    },
+    "hybrid": {
+      "solution_length": 3039,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 0.8571428571428571,
+        "crq": 0.6000000000000001,
+        "sf": 0.8,
+        "overall": 0.7528571428571429
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3141,
+      "num_examples": 2,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 0.8571428571428571,
+        "crq": 0.55,
+        "sf": 0.8,
+        "overall": 0.7353571428571428
+      },
+      "cross_domain_count": 0
+    }
+  }
+}

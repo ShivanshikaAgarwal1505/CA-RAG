@@ -1,0 +1,28 @@
+TEST: TEST_H04
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 28M; Type 2 diabetes (HbA1c: 8.2); Budget ₹150/day; Veg; No kitchen; Need <150g carbs/day, 60g protein, no sugar spikes; Prefer natural foods (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+
+To manage Type 2 diabetes with the given constraints, the focus will be on natural, low-carb, high-protein foods that can be easily prepared without a kitchen. Given the preference for natural foods and the need to avoid sugar spikes, the plan will include:
+
+1. **Breakfast**: Idlis (2-3) made from brown rice or ragi, which are relatively low in carbs and can be found in many mess halls or food stalls. Pair this with a cup of green tea and a small serving of nuts like almonds (5-6) for added protein and healthy fats.
+
+2. **Lunch**: Opt for a mess meal that includes dal (lentil soup), which is a good source of protein, and pair it with mixed vegetables that are low in carbs (such as bell peppers, cucumbers, and leafy greens). Aim for a small serving of brown rice or millet roti if available. Include a small bowl of raita (yogurt with cucumber and cumin) to help manage blood sugar levels.
+
+3. **Evening Snack**: Buttermilk with a sprinkle of chia seeds or flaxseeds for added fiber and omega-3 fatty acids. This can help in feeling full and managing blood sugar levels.
+
+4. **Dinner**: Focus on vegetable-rich meals that are low in carbs, such as sautéed spinach with garlic and ginger, served with a small portion of brown rice or a millet roti. Ensure that the portion sizes are controlled to keep carb intake under 150g.
+
+5. **Before Bed**: A warm glass of milk with a pinch of turmeric can help in improving insulin sensitivity and providing a good night's sleep.
+
+**TRADE-OFFS:**
+
+- **Limited Control Over Ingredients**: Without access to a kitchen, there's limited control over the ingredients used in meals, which might affect the exact carb and protein content.
+- **Reliance on External Food Sources**: The plan relies heavily on the quality and availability of low-carb, high-protein options in mess halls or food stalls, which can vary.
+
+**FEASIBILITY SCORE: 8/10**
+
+The plan is feasible because it incorporates readily available, natural foods that are suitable for managing Type 2 diabetes. The emphasis on portion control, avoidance of high-carb foods, and inclusion of protein-rich foods like dal, nuts, and seeds can help in managing blood sugar levels. However, the lack of direct control over meal preparation and ingredients, along with potential variability in food options, might pose some challenges in strictly adhering to the carb and protein goals. Regular monitoring of blood sugar levels and adjustments to the diet plan as needed will be crucial for the success of this plan.

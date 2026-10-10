@@ -1,0 +1,48 @@
+{
+  "query": "22M; Hair fall; Budget ₹150/day; Veg; No kitchen; Bangalore",
+  "domain": "health",
+  "constraints": {
+    "hard_constraints": [
+      {
+        "type": "budget",
+        "value": 150,
+        "unit": "₹/day"
+      },
+      {
+        "type": "diet",
+        "value": "veg",
+        "unit": "type"
+      },
+      {
+        "type": "facility",
+        "value": "no kitchen",
+        "unit": "access"
+      }
+    ],
+    "soft_constraints": [],
+    "goals": [
+      {
+        "type": "health",
+        "value": "reduce hair fall",
+        "unit": "outcome"
+      }
+    ]
+  },
+  "conflicts": [
+    {
+      "type": "budget_vs_protein",
+      "severity": 0.8,
+      "description": "Low budget conflicts with high protein requirement",
+      "resolution_strategy": "Address budget_vs_protein conflict"
+    }
+  ],
+  "retrieved_cases": [
+    "HC_001",
+    "HC_002",
+    "HC_004"
+  ],
+  "prompt": "You are an expert nutrition and health planning assistant.\n\nQUERY:\n22M; Hair fall; Budget ₹150/day; Veg; No kitchen; Bangalore\n\nCONSTRAINT ANALYSIS:\n\nHard Constraints (MUST satisfy):\n  • budget: 150 ₹/day\n  • diet: veg type\n  • facility: no kitchen access\n\nGoals:\n  • reduce hair fall\n\n⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ \nDETECTED CONFLICTS (require trade-offs):\n⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ \n\n  ⚠️  BUDGET_VS_PROTEIN (severity: 0.80)\n      Low budget conflicts with high protein requirement\n      Strategy hint: Address budget_vs_protein conflict\n\n======================================================================\nSIMILAR RESOLVED CASES (learn from these):\n======================================================================\n\n[EXAMPLE 1] - Case HC_001\n----------------------------------------------------------------------\nProblem: 22M; Severe hair fall (100+ strands/day), visible scalp thinning; Budget: ₹150/day; Veg (eggs ok); No kitchen; Bangalore; Hard water; Time <15min (0.8...\n\nConflicts faced: budget_vs_protein\n\nSolution:\nDAILY: Biotin 10mg (AM); 2 eggs + banana (AM); Extra dal + buttermilk (Mess); 30g peanuts (Evening); Paneer 3x/week. WEEKLY: 2x Coconut oil massage. ONE-TIME: Shower Filter (reduce TDS 60%). REASONING: Hair is 95% keratin; targeting 1.6g protein/kg (91g/day) + 10mg Biotin to counter hard water mineral coating. TRADE-OFF: Rejected expensive collagen (₹2k) for shower filter (₹800) and mess-based pro...\n\nResolution Quality: 0.8/1.0\n\n======================================================================\n\n[EXAMPLE 2] - Case HC_002\n----------------------------------------------------------------------\nProblem: 24F; Chronic fatigue, low energy; Budget: ₹180/day; Veg; Shared kitchen; Pune; Minimal supplements (0.7); Home-style (0.8); Time <30min (0.6); Current...\n\nConflicts faced: budget_vs_protein, budget_vs_supplements\n\nSolution:\nDAILY PLAN: Morning (7AM empty stomach): Warm water + lemon (½ lemon) + 10 soaked almonds wait 30min. Breakfast (8AM): 2 rotis + peanut butter 1tbsp OR chana dal paratha NO TEA (tannins block iron 60%). Mid-morning (11AM): Orange/kiwi + 10 raisins. Lunch (1:30PM): 150g chana curry + 2 rotis + spinach sabzi 100g + salad + lemon dressing NO TEA for 2hrs after. Evening (5PM): NOW tea ok + roasted cha...\n\nResolution Quality: 0.6/1.0\n\n======================================================================\n\n[EXAMPLE 3] - Case HC_004\n----------------------------------------------------------------------\nProblem: 19M; Underweight, poor muscle mass; Budget: ₹120/day; Veg; Hostel mess; No cooking; No cooking (0.9); Simple routine (0.8); Minimal time (0.7); Curren...\n\nConflicts faced: budget_vs_protein, diet_vs_protein\n\nSolution:\nDAILY: Morning: Milk + 2 bananas + mess breakfast. Mid-morning: 40g peanuts. Lunch: Mess + double dal. Evening: Milk-banana smoothie. Dinner: Mess + extra roti. Bed: Milk. Bodyweight exercises 20min 4x/week. COST: ₹93/day. REASONING: +500 cal surplus, 88g protein target. Milk (24g) + peanuts (10g) + dal (18g) = 72g base. TRADE-OFF: Rejected protein powder (₹2000/mo) for affordable milk-based appro...\n\nResolution Quality: 0.6/1.0\n\n======================================================================\n\n\nYOUR TASK:\nBased on the similar resolved cases above, generate a practical and feasible solution for the query.\n\nREQUIREMENTS:\n1. ✅ MUST satisfy ALL hard constraints (non-negotiable)\n2. ⚡ Address each identified conflict with practical strategies\n3. 📋 Provide specific, actionable recommendations\n4. 💡 Explain trade-offs when conflicts cannot be fully resolved\n5. 💰 Stay within budget and other resource constraints\n6. 🎯 Prioritize based on soft constraint importance scores\n\nOUTPUT FORMAT:\n\n**SOLUTION PLAN:**\n[Your detailed day-by-day or step-by-step plan]\n\n**CONFLICT RESOLUTION:**\nFor each conflict detected, explain your resolution strategy:\n- [CONFLICT_NAME]: [How you resolved it]\nExample:\n- BUDGET_VS_PROTEIN: Prioritized affordable protein sources like dal (₹80) instead of expensive whey protein (₹300)\n- DIET_VS_PROTEIN: Focused on vegetarian high-protein foods (lentils, paneer, nuts)\n\n**SPECIFIC TRADE-OFFS:**\nList concrete items you chose and rejected:\n- CHOSE: [Specific item/strategy] INSTEAD OF: [Alternative you rejected]\nExample:\n- CHOSE: Dal-based protein (affordable) INSTEAD OF: Protein supplements (expensive)\n- CHOSE: Mess optimization INSTEAD OF: Home cooking (no kitchen)\n\n**FEASIBILITY SCORE:** [X/10]\n[Brief justification]\n\nGenerate your solution now:\n",
+  "solution": "**SOLUTION PLAN:**\nTo address the hair fall issue within the given constraints, the following plan is recommended:\n\n1. **Daily Routine:**\n   - Morning: Start with a biotin supplement (10mg) and a fruit (e.g., banana) that is readily available and affordable.\n   - Breakfast: Utilize the mess facility for a protein-rich breakfast. Opt for extra dal (lentils) which are a good source of protein and affordable. Additionally, include a banana for easy-to-get carbohydrates and potassium.\n   - Lunch: Continue to use the mess facility, focusing on meals that include vegetables and whole grains. Request for buttermilk, which is a good source of protein and can help with digestion.\n   - Evening: Consume 30g of peanuts as a snack. Peanuts are a good source of healthy fats and protein.\n   - Dinner: Again, utilize the mess facility, ensuring a balanced meal with a focus on protein and complex carbohydrates.\n\n2. **Weekly Routine:**\n   - Incorporate coconut oil massage twice a week. Coconut oil is known for its benefits to hair health and is within the budget.\n   - Consider adding paneer (Indian cheese) to your diet 3 times a week, as it is a good protein source and can be found in many mess facilities or purchased within the budget.\n\n3. **One-Time Investment:**\n   - Invest in a shower filter to reduce the Total Dissolved Solids (TDS) in the water, which can help reduce mineral buildup on the hair. This is a one-time investment that can be made within the budget by possibly adjusting other expenses for the month.\n\n**CONFLICT RESOLUTION:**\n- **BUDGET_VS_PROTEIN:** Prioritized affordable protein sources like dal, peanuts, and buttermilk instead of expensive protein supplements. Additionally, biotin supplements are chosen for their affordability and direct benefit to hair health.\n\n**SPECIFIC TRADE-OFFS:**\n- **CHOSE:** Dal-based protein and mess optimization **INSTEAD OF:** Protein supplements and home cooking.\n- **CHOSE:** Biotin supplements **INSTEAD OF:** More expensive hair growth supplements.\n- **CHOSE:** Shower filter **INSTEAD OF:** Continuing with hard water that could exacerbate hair fall.\n\n**FEASIBILITY SCORE:** 8/10\nThis plan is feasible because it utilizes readily available and affordable food options, supplements, and a one-time investment in a shower filter to address the hard water issue. The biotin supplement directly targets hair health, and the protein-rich diet supports overall hair growth and health. The only potential drawback is the reliance on the mess facility for protein-rich meals, which might not always offer consistent options. However, by focusing on dal, buttermilk, and peanuts, the plan provides a balanced approach to addressing protein needs within the budget.",
+  "model": "llama-3.3-70b-versatile",
+  "k_examples": 3
+}

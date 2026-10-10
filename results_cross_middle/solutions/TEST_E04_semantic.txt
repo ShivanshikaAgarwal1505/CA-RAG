@@ -1,0 +1,25 @@
+TEST: TEST_E04
+SYSTEM: semantic
+DOMAIN: education
+QUERY: PhD 1st year; Need 2 courses; Topics: must align with thesis (RL in robotics); Need: theory depth, hands-on projects; Prof: must allow flex attendance (thesis work); Max 15hrs/week
+======================================================================
+
+**SOLUTION PLAN:**
+To align with your PhD thesis on Reinforcement Learning (RL) in robotics, I recommend the following two courses that offer a balance of theoretical depth and hands-on projects, considering your constraints:
+
+1. **Reinforcement Learning and Decision Making** (Tue/Thu 2-4PM, 6h/wk, 4.1 avg): This course will provide in-depth theoretical knowledge of RL and its applications in robotics. The hands-on projects will allow you to implement and experiment with various RL algorithms.
+2. **Robotics and Autonomous Systems** (Mon 10-1PM, 4h/wk, 4.3 avg): This course will focus on the practical aspects of robotics, including autonomous systems, control, and perception. The projects will enable you to apply RL concepts to real-world robotics problems.
+
+Both courses are expected to have flexible attendance policies, allowing you to manage your thesis work and coursework effectively. The total weekly commitment for these courses will be approximately 10 hours, leaving you with 5 hours for self-study, project work, and thesis-related activities, thus keeping your total weekly commitment under 15 hours.
+
+**TRADE-OFFS:**
+To accommodate your constraints, the following trade-offs have been made:
+
+* Only two courses are recommended to ensure that your thesis work remains the priority.
+* The courses are selected to provide a balance between theoretical depth and hands-on projects, rather than covering a broad range of topics.
+* The flexible attendance policy is a must to accommodate your thesis work, which might require unpredictable time commitments.
+
+**FEASIBILITY SCORE:** 8.5/10
+The feasibility score is high because the recommended courses are well-aligned with your thesis topic, and the professors are expected to be understanding of your flexible attendance needs. However, there is a slight risk that the course workload might be higher than expected, or that the professors might not be as flexible as anticipated. To mitigate this risk, it is essential to communicate your needs and constraints with the professors and your thesis advisor to ensure that everyone is on the same page.
+
+Overall, this solution plan should provide a good balance between coursework, hands-on projects, and thesis work, allowing you to make progress on your PhD while meeting your constraints.

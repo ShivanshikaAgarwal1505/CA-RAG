@@ -1,0 +1,51 @@
+TEST: TEST_T03
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN:**
+To cater to the family's requirements, I've planned a 6-day itinerary to Jim Corbett National Park, a destination that offers a mix of adventure, education, and animal encounters. 
+
+Day 1: Delhi to Jim Corbett National Park
+- Morning: Take a private cab from Delhi to Jim Corbett National Park (approx. 6 hours) - ₹8,000 (including fuel and tolls)
+- Check-in at a kid-friendly resort, such as the Corbett Jungle Club Resort - ₹4,000/night (for a family suite)
+- Afternoon: Visit the Corbett Museum (a small museum that focuses on the park's wildlife, might be tolerable for the kids) - ₹50/person
+- Evening: Enjoy a bonfire and dinner at the resort - ₹1,500 (for a family dinner)
+
+Day 2: Jungle Safari
+- Morning: Take a guided jungle safari in Corbett National Park - ₹5,000 (for a full-day safari in a private jeep)
+- Afternoon: Have lunch at a nearby restaurant - ₹1,000 (for a family lunch)
+- Evening: Return to the resort and relax
+
+Day 3: Elephant Safari and Adventure Activities
+- Morning: Take an elephant safari - ₹3,000 (for a family of four)
+- Afternoon: Engage in adventure activities like rock climbing, rappelling, or zip lining - ₹2,000 (for a family of four)
+- Evening: Enjoy dinner at the resort - ₹1,500
+
+Day 4: Wildlife Film and Nature Walk
+- Morning: Watch a wildlife film at the resort - free
+- Afternoon: Go on a guided nature walk - ₹1,000 (for a family of four)
+- Evening: Enjoy dinner at the resort - ₹1,500
+
+Day 5: Visit to the Corbett Falls
+- Morning: Visit the Corbett Falls - ₹100/person (entry fee)
+- Afternoon: Have a picnic lunch near the falls - ₹1,000 (for a family lunch)
+- Evening: Return to the resort and relax
+
+Day 6: Return to Delhi
+- Morning: Check-out of the resort and take a private cab back to Delhi - ₹8,000 (including fuel and tolls)
+
+**TRADE-OFFS:**
+- The kids might not enjoy the Corbett Museum, but it's a small and relevant museum that can provide some educational value.
+- The family will have to compromise on the budget for activities and stay, as the initial budget of ₹35,000 is relatively tight for a 6-day trip.
+
+**FEASIBILITY SCORE:** 7/10
+The plan is feasible, but it requires some compromises on the budget and activities. The family will have to be flexible with their expectations and prioritize their preferences. The total cost for the 6-day trip will be approximately ₹34,500, which is within the budget. However, any additional activities or expenses will require further compromises. 
+
+Breakdown of estimated costs:
+- Transportation (cab): ₹16,000 (to and fro)
+- Accommodation (5 nights): ₹20,000 (avg. ₹4,000/night)
+- Food and activities: ₹8,500 (avg. ₹1,417/day)
+- Miscellaneous: ₹1,000 (souvenirs, tips, etc.)
+Total: ₹34,500

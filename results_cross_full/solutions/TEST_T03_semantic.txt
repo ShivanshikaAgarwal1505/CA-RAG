@@ -1,0 +1,52 @@
+TEST: TEST_T03
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN:**
+
+To cater to the family's preferences, I suggest a 6-day trip to Jim Corbett National Park, a renowned destination for wildlife enthusiasts. The itinerary will include a mix of educational and adventure activities, ensuring the kids have a fun and learning experience.
+
+Day 1: Arrival and Check-in
+- Morning: Arrive at Delhi and take a private cab to Jim Corbett National Park (approximately 5 hours, ₹6,000).
+- Afternoon: Check-in at a kid-friendly resort, such as the Corbett Riverside Resort (₹4,000/night for a family suite).
+- Evening: Nature walk and bonfire at the resort.
+
+Day 2: Wildlife Safari
+- Morning: Take a guided jungle safari (₹2,500 for the family) to spot wildlife, including tigers, elephants, and various bird species.
+- Afternoon: Visit the Corbett Museum (free entry, but donations welcome) to learn about the park's history and conservation efforts.
+- Evening: Enjoy a campfire and share stories about the day's adventures.
+
+Day 3: Elephant Safari and Village Visit
+- Morning: Take an elephant safari (₹3,000 for the family) to explore the forest and get up close to these majestic animals.
+- Afternoon: Visit a nearby village to learn about the local culture and traditions.
+- Evening: Relax at the resort and enjoy a family-friendly movie night.
+
+Day 4: River Rafting and Bird Watching
+- Morning: Go river rafting (₹2,000 for the family) in the Kosi River, a fun and exhilarating experience.
+- Afternoon: Take a guided bird-watching tour (₹1,500 for the family) to spot various bird species in the park.
+- Evening: Enjoy a picnic dinner by the river.
+
+Day 5: Horse Riding and Nature Walk
+- Morning: Take a guided horse-riding tour (₹1,500 for the family) through the forest.
+- Afternoon: Go on a nature walk (free) to explore the surrounding areas and spot local flora and fauna.
+- Evening: Enjoy a campfire and share stories about the day's adventures.
+
+Day 6: Departure
+- Morning: Check-out of the resort and take a private cab back to Delhi (approximately 5 hours, ₹6,000).
+
+**Budget Breakdown:**
+
+- Transportation: ₹12,000 (private cab to and from Jim Corbett National Park)
+- Accommodation: ₹24,000 (₹4,000/night for 6 nights at Corbett Riverside Resort)
+- Food and activities: ₹10,000 (approximate cost of meals, safaris, and other activities)
+- Total: ₹34,000 (within the budget of ₹35,000)
+
+**TRADE-OFFS:**
+
+- To stay within the budget, I had to compromise on the accommodation options. Instead of a luxury resort, I chose a more affordable, kid-friendly option.
+- The itinerary is packed with activities, but there is some flexibility to adjust the schedule if the family wants to spend more time relaxing at the resort.
+
+**FEASIBILITY SCORE:** 8/10
+The solution plan is feasible, considering the budget and preferences of the family. However, there is a slight risk of exceeding the budget if the family decides to opt for additional activities or upgrades. The score is 8/10 because the plan is well-structured, and the activities are kid-friendly, but there is a minor compromise on the accommodation to stay within the budget.

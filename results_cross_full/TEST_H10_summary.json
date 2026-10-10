@@ -1,0 +1,67 @@
+{
+  "test_id": "TEST_H10",
+  "domain": "health",
+  "query": "30M; Fatty liver + high cholesterol; Budget ₹200/day; Veg; Home kitchen; Avoid: oil, fried foods, saturated fats; Need 65g protein, <30g total fat; Prefer tasty food (0.8)",
+  "expected_conflicts": [
+    "diet_vs_protein"
+  ],
+  "timestamp": "2026-02-15T20:46:43.357764",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2084,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 0.6666666666666666,
+        "crq": 0.2,
+        "sf": 0.8,
+        "overall": 0.5366666666666666
+      }
+    },
+    "semantic": {
+      "solution_length": 2195,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 0.1,
+        "sf": 0.8,
+        "overall": 0.5683333333333334
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 2263,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 0.8,
+        "sf": 0.85,
+        "overall": 0.8258333333333333
+      }
+    },
+    "hybrid": {
+      "solution_length": 2246,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.8,
+        "sf": 0.85,
+        "overall": 0.8925
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3584,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 0.55,
+        "sf": 0.8,
+        "overall": 0.7258333333333333
+      },
+      "cross_domain_count": 1
+    }
+  }
+}

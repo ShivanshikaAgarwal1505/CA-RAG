@@ -1,0 +1,30 @@
+TEST: TEST_H06
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 26M; Lose 15kg in 4 months; Budget ₹120/day; Veg; Hostel mess; Need 80g protein, <1500 cal/day; Hate: salads, raw vegetables; Gym 4x/week
+======================================================================
+
+**SOLUTION PLAN:**
+To achieve the goal of losing 15kg in 4 months with a daily budget of ₹120, while ensuring 80g of protein intake and staying under 1500 calories, considering the constraints and preferences, the following plan is suggested:
+
+- **Morning**: Start with a glass of milk (₹15, 10g protein) and 2 bananas (₹10, 100 calories) from the hostel mess.
+- **Mid-morning**: Consume 40g of peanuts (₹20, 10g protein) as a snack.
+- **Lunch**: Eat the regular mess meal plus ask for an extra serving of dal (₹10, 10g protein) to increase protein intake.
+- **Evening**: Prepare a milk-banana smoothie (using milk from the mess and bananas) for an additional 10g of protein and 100 calories.
+- **Dinner**: Consume the regular mess dinner and request an extra roti (₹5) if needed, to ensure calorie intake is met without exceeding the budget.
+- **Before Bed**: Have a glass of milk (₹15, 10g protein) to meet the protein goal.
+
+This plan focuses on optimizing mess food, using affordable protein sources like dal and milk, and incorporating nuts for additional protein and calories.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like dal (₹10 per serving), milk (₹15 per glass), and peanuts (₹20 for 40g) instead of expensive protein supplements.
+- **DIET_VS_PROTEIN**: Focused on vegetarian high-protein foods available in the mess like lentils (dal), and supplemented with nuts and milk to meet the protein requirement.
+- **EXTREME_GOAL_VS_TIMELINE**: Adjusted expectations by focusing on a sustainable weight loss of 3.75kg per month, which is more realistic given the calorie and protein constraints. This requires a deficit of approximately 500 calories per day through a combination of diet and exercise.
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE**: Dal-based protein (affordable) **INSTEAD OF**: Protein supplements (expensive).
+- **CHOSE**: Mess optimization (asking for extra servings of specific items) **INSTEAD OF**: Home cooking (no kitchen facility available).
+- **CHOSE**: Peanuts as a snack **INSTEAD OF**: Fresh fruits and raw vegetables due to personal preference.
+
+**FEASIBILITY SCORE:** 8/10
+This score is based on the practicality of the plan given the constraints. The plan is feasible because it utilizes affordable and accessible food sources, optimizes mess food, and incorporates physical activity. However, achieving the exact goal of losing 15kg in 4 months while adhering to all constraints might be challenging without any flexibility in the diet or additional support like professional coaching or more significant lifestyle adjustments. The plan's success heavily relies on consistency and potentially making further adjustments based on progress.

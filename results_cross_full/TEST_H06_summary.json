@@ -1,0 +1,69 @@
+{
+  "test_id": "TEST_H06",
+  "domain": "health",
+  "query": "26M; Lose 15kg in 4 months; Budget ₹120/day; Veg; Hostel mess; Need 80g protein, <1500 cal/day; Hate: salads, raw vegetables; Gym 4x/week",
+  "expected_conflicts": [
+    "budget_vs_protein",
+    "diet_vs_protein",
+    "no_kitchen_vs_nutrition"
+  ],
+  "timestamp": "2026-02-15T20:42:50.362721",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 1768,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 0.6666666666666666,
+        "crq": 0.15,
+        "sf": 0.8,
+        "overall": 0.5191666666666667
+      }
+    },
+    "semantic": {
+      "solution_length": 2467,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.15,
+        "sf": 0.8,
+        "overall": 0.6525000000000001
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 3055,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 0.8666666666666667,
+        "sf": 0.8,
+        "overall": 0.8366666666666667
+      }
+    },
+    "hybrid": {
+      "solution_length": 3150,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 0.8666666666666667,
+        "sf": 0.8,
+        "overall": 0.8366666666666667
+      }
+    },
+    "cross_domain": {
+      "solution_length": 2827,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.5666666666666667,
+        "sf": 0.8,
+        "overall": 0.7983333333333333
+      },
+      "cross_domain_count": 1
+    }
+  }
+}

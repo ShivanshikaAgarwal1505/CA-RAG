@@ -1,0 +1,49 @@
+TEST: TEST_T03
+SYSTEM: hybrid
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN:**
+To address the query, I've planned a 6-day trip to Jim Corbett National Park, which offers a mix of adventure, education, and animal-related activities suitable for a family with kids aged 6 and 9. The itinerary is designed to satisfy all hard constraints and prioritize soft constraints based on their importance scores.
+
+Day 1: Arrival and Acclimatization
+- Arrive at Ramnagar, the gateway to Jim Corbett National Park.
+- Check-in at a kid-friendly resort, such as the Corbett Jungle Lodge or similar, which offers comfortable stays and activities for children (approx. ₹4,000 per night for a family suite).
+- Spend the day relaxing and enjoying the resort's facilities, such as a swimming pool and indoor games.
+
+Day 2: Wildlife Adventure
+- Early morning, go on a guided jungle safari in Corbett National Park (approx. ₹5,000 for a full-day safari, including guide and vehicle).
+- This activity combines adventure, education, and animal-related experiences, allowing the family to see various wildlife species in their natural habitat.
+- Return to the resort in the evening and enjoy a campfire (if available) and share stories of the day's adventures.
+
+Day 3: Educational and Fun Activities
+- Visit the Corbett Museum (though museums are less preferred, this one is small and focuses on the park's history and conservation, approx. ₹10 entry fee per person).
+- Engage in a nature walk or birdwatching tour around the resort or nearby areas, which can be both educational and fun for the kids (approx. ₹500 for a guided tour).
+- In the afternoon, participate in a wildlife conservation workshop or a similar educational program tailored for children (approx. ₹800 per family).
+
+Day 4: Adventure Day
+- Plan a day trip to the nearby Garjiya Devi Temple and take a short trek to a nearby waterfall (free entry, but may require approx. ₹500 for a local guide).
+- This activity provides an adventure experience and the opportunity to learn about local culture and nature.
+- Return to the resort in the evening and enjoy quality family time.
+
+Day 5: More Wildlife and Leisure
+- Spend another day on a jungle safari, exploring different zones of the Corbett National Park (approx. ₹5,000, as on Day 2).
+- Alternatively, consider a river rafting or a boat ride in the Kosi River (approx. ₹1,200 per person for rafting, depending on the season and availability).
+- The evening can be spent at leisure, enjoying the resort's facilities or planning a family game night.
+
+Day 6: Departure
+- Spend the morning at leisure or visit any local market for souvenir shopping.
+- Check out from the resort and depart for Ramnagar to catch the return train or bus.
+
+**CONFLICT RESOLUTION:**
+- **FAMILY_VS_ADVENTURE:** Resolved by selecting activities that are adventurous yet safe and enjoyable for the entire family, such as guided jungle safaris and nature walks.
+- **BUDGET CONSTRAINT:** Managed by choosing affordable accommodations and activities that fit within the ₹35,000 budget, prioritizing experiences over luxury.
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE:** Jim Corbett National Park INSTEAD OF: Other destinations that might offer more luxury but are beyond the budget.
+- **CHOSE:** Guided jungle safaris and nature walks INSTEAD OF: More expensive adventure activities like river rafting or private wildlife tours.
+- **CHOSE:** Kid-friendly resort INSTEAD OF: Luxury hotels or lodges that might not cater as well to children's needs.
+
+**FEASIBILITY SCORE:** 8.5/10
+This score is based on the ability to meet all hard constraints (budget, time, kid-friendly stays, and safe activities) and most soft constraints (educational, adventure, and animal-related activities). The minor deduction is due to the potential need for slight adjustments based on the family's specific interests or unforeseen circumstances like weather conditions affecting outdoor activities. Overall, the plan is practical, feasible, and tailored to provide a balanced experience for the family.

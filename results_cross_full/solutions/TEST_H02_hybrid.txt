@@ -1,0 +1,35 @@
+TEST: TEST_H02
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 22M; Gain 12kg muscle in 3 months; Budget ₹100/day; Vegetarian (eggs ok); No kitchen; Gym 6x/week; Currently underweight (BMI 16.8); Need 120g protein daily
+======================================================================
+
+**SOLUTION PLAN:**
+
+To address the user's requirements, I've created a daily plan that satisfies all hard constraints and attempts to resolve the identified conflicts.
+
+* Morning (7:00 AM): Banana milkshake (canteen, ₹20) + 1 boiled egg (mess, ₹10)
+* Breakfast (8:30 AM): Mess breakfast (₹30) + 1 cup curd (₹20)
+* Mid-morning (11:00 AM): Flavored milk pack (200cal, ₹25) + 5 dates (₹10)
+* Lunch (1:00 PM): Mess lunch (₹40) + extra dal (₹20) + buttermilk (₹15)
+* Evening (4:00 PM): Smoothie (canteen, ₹30) + 30g peanuts (₹25)
+* Dinner (8:00 PM): Mess dinner (₹40) + extra roti (₹10) + curd (₹20)
+* Bedtime (10:00 PM): Warm milk (canteen, ₹20) + 5 almonds (₹10)
+
+**CONFLICT RESOLUTION:**
+
+* BUDGET_VS_PROTEIN: Prioritized affordable protein sources like dal (₹80) and curd (₹40) instead of expensive whey protein (₹300). Also, included eggs (₹10) and peanuts (₹25) as additional protein sources.
+* NO_KITCHEN_VS_NUTRITION: Utilized mess facilities and canteen options to ensure nutritional needs are met without requiring a kitchen.
+* TIME_VS_MEAL_PREP: Optimized meal preparation by relying on mess food and canteen options, minimizing the need for extensive meal planning and preparation.
+* DIET_VS_PROTEIN: Focused on vegetarian high-protein foods like dal, curd, eggs, and peanuts to meet the daily protein requirement of 120g.
+* EXTREME_GOAL_VS_TIMELINE: Acknowledged that the goal of gaining 12kg muscle in 3 months is extremely challenging. Prioritized a balanced diet and regular exercise to support muscle growth, but also emphasized the importance of patience and consistency.
+
+**SPECIFIC TRADE-OFFS:**
+
+* CHOSE: Dal-based protein (affordable) INSTEAD OF: Protein supplements (expensive)
+* CHOSE: Mess optimization INSTEAD OF: Home cooking (no kitchen)
+* CHOSE: Canteen options (convenient) INSTEAD OF: Preparing meals from scratch (time-consuming)
+
+**FEASIBILITY SCORE:** 7.5/10
+
+Justification: The proposed solution plan addresses all hard constraints and attempts to resolve the identified conflicts. However, the extreme goal of gaining 12kg muscle in 3 months may still be challenging to achieve, even with a well-structured diet and exercise plan. Additionally, the limited budget and no-kitchen constraint may require some compromises on food variety and quality. Nevertheless, the plan provides a practical and feasible approach to supporting the user's muscle gain goals while working within the given constraints.

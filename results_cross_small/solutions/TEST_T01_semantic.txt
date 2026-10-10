@@ -1,0 +1,37 @@
+TEST: TEST_T01
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+
+Given the solo traveler's preferences and budget constraints, I recommend a 5-day trip to Diveagar, a beach destination in Maharashtra, India. Here's a detailed plan:
+
+* **Accommodation:** Budget-friendly options like guesthouses or hostels are available in Diveagar, with prices starting from ₹800-₹1,200 per night. For a 5-day stay, the total cost would be approximately ₹4,000-₹6,000.
+* **Food:** Local cuisine is affordable, with meals starting from ₹50-₹100 per person. For a 5-day stay, the total food cost would be approximately ₹1,500-₹2,500.
+* **Scuba diving:** Diveagar offers scuba diving experiences with certified instructors. The cost of a single dive is approximately ₹2,500-₹3,500.
+* **Parasailing and jet ski:** These activities are also available in Diveagar, with prices starting from ₹800-₹1,200 per person.
+
+Itinerary:
+
+Day 1: Arrival and check-in at the guesthouse. Spend the day relaxing on the beach and exploring the local area.
+
+Day 2: Scuba diving experience in the morning, followed by parasailing in the afternoon.
+
+Day 3: Jet ski ride in the morning, followed by a visit to the nearby Harihareshwar temple.
+
+Day 4: Spend the day relaxing on the beach or trying other water sports like kayaking or paddleboarding.
+
+Day 5: Departure from Diveagar.
+
+**TRADE-OFFS:**
+
+* The budget for accommodation and food is relatively tight, which might limit the options for luxury or high-end experiences.
+* The scuba diving experience might be a shallow dive, as the deeper dives might exceed the budget.
+* The itinerary is packed with activities, which might leave limited time for relaxation or exploring other nearby attractions.
+
+**FEASIBILITY SCORE:** 8/10
+
+Justification:
+The solution plan is feasible within the given budget of ₹8,000. The costs for accommodation, food, and activities are estimated to be around ₹7,500-₹8,000, leaving some buffer for unexpected expenses. However, the plan is quite packed, and the solo traveler might need to adjust their expectations or compromise on some activities to fit within the budget. The safety aspect is also considered, as Diveagar is a relatively safe destination, and the activities are conducted by certified instructors. Overall, the plan provides a good balance of adventure, relaxation, and budget-friendliness.

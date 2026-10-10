@@ -1,0 +1,30 @@
+TEST: TEST_T04
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN:**
+For a group of 5 friends looking for an adventure destination with trekking, camping, rafting, and paragliding activities, I recommend Manali, Himachal Pradesh, as the ideal location. Given the budget of ₹12,000 per person for 5 days, here's a detailed plan:
+
+- Day 1: Arrival in Manali and check-in at a budget-friendly campsite or hostel. Explore the local market and acclimatize to the high altitude.
+- Day 2: Trek to the nearby Solang Valley, which offers breathtaking views and is a perfect spot for trekking. In the evening, enjoy a campfire and stargazing at the campsite.
+- Day 3: Go rafting in the Beas River, which offers an exhilarating experience. After rafting, head to the campsite for lunch and relaxation.
+- Day 4: Try paragliding in Solang Valley, which offers a thrilling bird's-eye view of the valley. In the evening, enjoy a bonfire and share stories of the day's adventures.
+- Day 5: Trek to the nearby villages or explore the Manali market for some last-minute shopping before departing.
+
+The cost breakdown will be approximately:
+- Accommodation (camping): ₹2,000 - ₹2,500 per person for 4 nights
+- Food: ₹1,500 - ₹2,000 per person for 5 days
+- Trekking: ₹500 - ₹1,000 per person (depending on the trek)
+- Rafting: ₹800 - ₹1,200 per person
+- Paragliding: ₹1,500 - ₹2,500 per person
+- Transportation: ₹1,000 - ₹1,500 per person (depending on the mode of transport)
+
+Total cost per person: ₹7,300 - ₹10,700
+
+**TRADE-OFFS:**
+To stay within the budget, the group might have to compromise on the quality of accommodation and food. Additionally, the cost of transportation to and from Manali is not included in the above estimate, as it depends on the group's location and mode of transport.
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible, considering the budget and the activities included. However, the group might have to adjust their expectations regarding accommodation and food quality. Additionally, the weather in June can be unpredictable, and the group should be prepared for any last-minute changes in the itinerary. Overall, Manali offers an excellent combination of adventure activities and natural beauty, making it an ideal destination for this group.

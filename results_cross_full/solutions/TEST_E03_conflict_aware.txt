@@ -1,0 +1,27 @@
+TEST: TEST_E03
+SYSTEM: conflict_aware
+DOMAIN: education
+QUERY: M.Tech 3rd sem; Need 3 advanced courses; Focus: Computer Vision; Must have: research component, publication potential; Prof must be: active researcher, good mentor; Workload: 25-30hrs/week acceptable
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the hard constraints and prioritize the soft constraints, I recommend the following three advanced courses for the M.Tech 3rd semester with a focus on Computer Vision:
+
+1. **Computer Vision** (Mon/Wed 10-12PM, 12h/wk, 4.0 avg): This course is a fundamental requirement for Computer Vision and has a research component with publication potential. The professor is an active researcher and a good mentor.
+2. **Deep Learning for Computer Vision** (Tue/Thu 2-4PM, 10h/wk, 4.2 avg): This course is an advanced course that focuses on the application of deep learning techniques in Computer Vision. It has a research component and publication potential, and the professor is an active researcher and a good mentor.
+3. **Research Project in Computer Vision** (Self-paced, 8h/wk, 4.5 avg): This course is a research-oriented course that allows students to work on a project in Computer Vision under the guidance of a professor who is an active researcher and a good mentor. It has a high potential for publication and satisfies the research component requirement.
+
+The total workload for these courses is 30h/wk, which is within the acceptable range of 25-30h/wk.
+
+**CONFLICT RESOLUTION:**
+- **TIME CONSTRAINT**: Managed by selecting courses with a total workload of 30h/wk, which is within the acceptable range.
+- **RESEARCH COMPONENT**: Satisfied by selecting courses with a research component, such as Computer Vision, Deep Learning for Computer Vision, and Research Project in Computer Vision.
+- **PUBLICATION POTENTIAL**: Satisfied by selecting courses with publication potential, such as Computer Vision, Deep Learning for Computer Vision, and Research Project in Computer Vision.
+- **ACTIVE RESEARCHER AND GOOD MENTOR**: Satisfied by selecting courses taught by professors who are active researchers and good mentors.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Computer Vision, Deep Learning for Computer Vision, and Research Project in Computer Vision INSTEAD OF: Other courses that may not have a research component or publication potential.
+- CHOSE: Courses with a total workload of 30h/wk INSTEAD OF: Courses with a higher workload that may exceed the acceptable range.
+
+**FEASIBILITY SCORE:** 9/10
+The solution plan satisfies all the hard constraints and prioritizes the soft constraints. The courses selected have a research component, publication potential, and are taught by professors who are active researchers and good mentors. The total workload is within the acceptable range, and the courses are focused on Computer Vision, which is the preferred area of study. The only potential drawback is that the workload may be slightly high, but it is still within the acceptable range.

@@ -1,0 +1,27 @@
+TEST: TEST_H04
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 28M; Type 2 diabetes (HbA1c: 8.2); Budget ₹150/day; Veg; No kitchen; Need <150g carbs/day, 60g protein, no sugar spikes; Prefer natural foods (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To manage Type 2 diabetes with the given constraints, I recommend the following meal plan:
+
+* Breakfast: Veggie-packed idlis (steamed rice cakes) made with brown rice and lentils, served with a dollop of low-fat curd (150 calories, 20g carbs, 10g protein) - ₹50
+* Mid-morning Snack: Roasted chana (Bengal gram) - ₹20 (100 calories, 10g carbs, 5g protein)
+* Lunch: Whole grain roti (2 medium) with mixed veg sabzi (broccoli, cauliflower, bell peppers) cooked in minimal oil, and a small serving of low-fat curd - ₹60 (300 calories, 30g carbs, 15g protein)
+* Evening Snack: Handful of nuts (almonds, walnuts) and seeds (pumpkin, sunflower) - ₹30 (150 calories, 5g carbs, 5g protein)
+* Dinner: Quinoa and vegetable bowl (quinoa, bell peppers, onions, tomatoes) cooked in minimal oil, with a small serving of low-fat curd - ₹60 (300 calories, 30g carbs, 15g protein)
+
+Beverages: Drink plenty of water throughout the day. Consider having green tea or herbal tea for their potential health benefits.
+
+To minimize sugar spikes, focus on whole, unprocessed foods, and avoid added sugars. Since no kitchen is available, consider pre-cooked or ready-to-eat options from local vendors or meal delivery services that cater to diabetic patients.
+
+**TRADE-OFFS:**
+Given the constraints, some trade-offs were made:
+* Limited variety in meals to ensure carb and protein targets are met within the budget.
+* No kitchen available, so reliance on pre-cooked or ready-to-eat meals.
+* Some compromises on the natural food preference (0.9) due to the need for convenient, ready-to-eat options.
+
+**FEASIBILITY SCORE:** 8/10
+Justification: The proposed meal plan is feasible, given the constraints. It provides a balanced mix of carbohydrates, protein, and healthy fats, while keeping sugar spikes in check. However, the lack of a kitchen and reliance on pre-cooked meals might limit the ability to strictly adhere to natural food preferences. Additionally, the plan's effectiveness depends on the individual's ability to stick to the recommended portion sizes and food choices.

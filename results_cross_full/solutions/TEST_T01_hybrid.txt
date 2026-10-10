@@ -1,0 +1,42 @@
+TEST: TEST_T01
+SYSTEM: hybrid
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To accommodate the solo traveler's preferences within the given budget of ₹8000 and 5-day duration, I recommend the following itinerary:
+
+Day 1: Arrival and Check-in
+- Arrive at Goa (the closest beach destination that can offer scuba diving, parasailing, and jet ski within the budget).
+- Check-in to a budget-friendly hostel or guesthouse in North Goa, which is closer to most water sports activities. Cost: Approximately ₹800 per night.
+
+Day 2: Water Sports
+- Morning: Scuba diving at Grande Island (approximately ₹2500 per person, including equipment and guide).
+- Afternoon: Relax on the beach or explore local markets.
+- Evening: Enjoy local seafood at a budget-friendly restaurant. Cost: Approximately ₹200-300 per meal.
+
+Day 3: More Water Sports
+- Morning: Parasailing at Calangute Beach (approximately ₹800 per person).
+- Afternoon: Jet ski at Baga Beach (approximately ₹600 per person).
+- Evening: Explore the local night market and try some street food. Cost: Approximately ₹100-200 per snack.
+
+Day 4: Beach Relaxation and Local Exploration
+- Spend the day relaxing on less crowded beaches like Morjim or Ashvem.
+- Try local cuisine for lunch and dinner. Cost: Approximately ₹200-300 per meal.
+
+Day 5: Departure
+- Morning: Last-minute shopping for souvenirs or a quick visit to a nearby attraction.
+- Departure from Goa.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_WATER_SPORTS**: Prioritized the most desired water sports (scuba diving, parasailing, jet ski) and allocated the budget accordingly, ensuring at least one experience per day for the first three days.
+- **SAFETY_VS_COST**: Chose reputable and safety-conscious water sports operators, even if they were slightly more expensive, to ensure a high level of safety.
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE**: Goa as the destination INSTEAD OF other beach destinations like Kerala or Andaman & Nicobar Islands, which are more expensive to reach and might exceed the budget.
+- **CHOSE**: Budget-friendly accommodations and local food INSTEAD OF luxury resorts and fine dining to stay within the budget.
+- **CHOSE**: Prioritized water sports experiences INSTEAD OF other activities like visiting historical sites or taking a cruise, to align with the traveler's goals.
+
+**FEASIBILITY SCORE:** 8.5/10
+This score is based on the ability to fulfill all hard constraints (budget and duration), most soft constraints (budget stays, local food, safety), and goals (beach destination, scuba diving, parasailing, jet ski). The only potential drawback is the limited budget for extensive exploration of Goa beyond water sports, but the chosen activities and accommodations should provide a satisfying experience within the given constraints.

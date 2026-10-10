@@ -1,0 +1,43 @@
+TEST: TEST_T03
+SYSTEM: hybrid
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the given constraints and preferences, I've planned a 6-day trip to Jim Corbett National Park, Uttarakhand. This destination offers a mix of educational, adventure, and animal-related activities suitable for a family with kids.
+
+Day 1: Arrival and Check-in
+- Arrive at Ramnagar, the nearest town to Jim Corbett National Park.
+- Check-in at a kid-friendly resort like Corbett Jungle Club or similar, which offers comfortable stay and amenities suitable for families. (Cost: Approximately ₹4,000 per night for a family suite)
+
+Day 2: Jungle Safari
+- Morning: Go on a guided jungle safari in Jim Corbett National Park. This will provide an educational experience about wildlife and conservation. (Cost: ₹4,500 for a full-day safari in a canter, which can accommodate up to 16 people)
+- Evening: Enjoy a campfire (if allowed by the resort) and share stories about the day's adventures.
+
+Day 3: Elephant Safari and Corbett Museum Replacement
+- Given the preference against museums, replace the Corbett Museum visit with an elephant safari. This will provide a unique adventure experience and an opportunity to learn about elephant conservation. (Cost: Approximately ₹3,500 for a family of four)
+- Afternoon: Visit the Garjiya Devi Temple and take a short trek around the area for some adventure.
+
+Day 4: Nature Walk and Bird Watching
+- Morning: Engage in a guided nature walk and bird watching tour. Jim Corbett is known for its rich biodiversity, making it an excellent spot for bird watching. (Cost: Approximately ₹1,500 for a guided tour)
+- Afternoon: Relax at the resort or engage in resort activities like swimming, archery, or a mini obstacle course for kids.
+
+Day 5: Adventure Activities
+- Day: Participate in adventure activities like rock climbing, rappelling, or zip lining at an adventure park near the resort. Ensure that the activities are kid-friendly and safe. (Cost: Approximately ₹2,500 per person for a full-day package)
+- Evening: Enjoy a family movie night or a bonfire at the resort, if available.
+
+Day 6: Departure
+- Spend the morning at leisure.
+- Check out from the resort and depart for Ramnagar to catch your return journey.
+
+**CONFLICT RESOLUTION:**
+- **FAMILY_VS_ADVENTURE**: Addressed by choosing activities that are both adventurous and kid-friendly, ensuring safety and enjoyment for all family members. For example, the jungle safari and elephant safari are exciting yet safe for children.
+- **BUDGET_CONSTRAINT**: Managed by selecting accommodations and activities that fit within the ₹35,000 budget, prioritizing value for money over luxury.
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE**: Jim Corbett National Park **INSTEAD OF**: Other destinations that might offer more luxury but at a higher cost and less focus on wildlife and adventure.
+- **CHOSE**: Resort activities and nature walks **INSTEAD OF**: Visiting museums or engaging in very high-risk adventure sports that might not be suitable for young children.
+
+**FEASIBILITY SCORE:** 9/10
+This solution is highly feasible as it meets all the hard constraints (budget, time, kid-friendly stays, and safe activities) and most of the soft constraints (educational, adventure, animal-related activities, and non-museum preferences). The only trade-off is in the luxury aspect, where the focus is on experiencing nature and adventure over high-end amenities.

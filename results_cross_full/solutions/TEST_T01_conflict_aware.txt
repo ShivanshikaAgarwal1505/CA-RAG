@@ -1,0 +1,43 @@
+TEST: TEST_T01
+SYSTEM: conflict_aware
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the solo traveler's requirements within the given budget of ₹8000 for 5 days, I recommend the following plan:
+
+Day 1: Arrival and Check-in
+- Arrive at Goa, a popular beach destination in India.
+- Check-in at a budget-friendly hostel or guesthouse in North Goa, such as Zostel Goa or a similar option, which should cost around ₹800-₹1000 per night.
+
+Day 2: Water Sports
+- Start the day with a filling local breakfast.
+- Head to Baga Beach for water sports. Opt for a package that includes parasailing and jet ski, which can cost around ₹1200-₹1500 per person for a single session.
+- Spend the evening relaxing on the beach or exploring local markets.
+
+Day 3: Scuba Diving
+- Book a scuba diving session at Grande Island, which should cost around ₹2500-₹3000 per person, including equipment and instructor fees.
+- Spend the rest of the day at leisure, enjoying local cuisine and exploring Goa's culture.
+
+Day 4: Local Exploration
+- Visit Old Goa to explore its historical and cultural significance, which can be done at a minimal cost.
+- Enjoy a traditional Goan lunch at a local eatery.
+- Spend the evening at a local beach, enjoying sunset and perhaps some live music.
+
+Day 5: Leisure and Departure
+- Spend the morning at leisure, possibly visiting a local spice plantation or taking a yoga class.
+- Check out from the accommodation and head to the airport or bus station for departure.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_ACTIVITIES**: Prioritized activities based on cost and interest, focusing on one major water sport per day to stay within budget.
+- **SAFETY_VS_ADVENTURE**: Chose reputable operators for water sports and scuba diving to ensure safety, even if it meant spending a bit more.
+- **FOOD_VS_BUDGET**: Opted for local food and eateries, which are not only budget-friendly but also offer a taste of the local culture.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Budget-friendly hostel accommodation INSTEAD OF: Luxury resorts.
+- CHOSE: Local food and eateries INSTEAD OF: Fine dining restaurants.
+- CHOSE: Select water sports and activities INSTEAD OF: Trying all available options to stay within budget.
+
+**FEASIBILITY SCORE:** 8.5/10
+This plan is feasible as it satisfies all hard constraints (budget and time) and most soft constraints (budget stays, local food, and high safety). However, to fully meet the budget constraint, some trade-offs were necessary, such as limiting the number of water sports activities. The plan prioritizes safety and budget-friendliness while still offering a fulfilling experience of Goa's beaches and culture.

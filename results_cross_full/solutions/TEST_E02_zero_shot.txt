@@ -1,0 +1,23 @@
+TEST: TEST_E02
+SYSTEM: zero_shot
+DOMAIN: education
+QUERY: Final year B.Tech; Need 4 courses; All must be: easy (for GPA), project-based (no exams), interesting topics; Max 12hrs/week; Prerequisites: basic programming only
+======================================================================
+
+**SOLUTION PLAN:**
+To cater to the requirements of a final year B.Tech student needing 4 courses that are easy for GPA, project-based with no exams, interesting, and requiring no more than 12 hours of study per week with only basic programming prerequisites, I recommend the following courses:
+
+1. **Introduction to Web Development**: This course focuses on building simple web applications using HTML, CSS, and JavaScript. It's project-based, allowing students to create their own websites, and typically requires about 3 hours of study per week. The ease of learning and the creative freedom in web development projects make it an interesting and manageable choice.
+
+2. **Fundamentals of Data Analysis**: This course introduces students to the basics of data analysis using tools like Excel or Python libraries such as Pandas. It's project-oriented, where students work on analyzing and presenting data from various sources. This course usually demands about 3 hours of study per week and leverages basic programming skills, making it accessible and engaging.
+
+3. **Computer Graphics**: For students interested in the creative side of computer science, a project-based course in Computer Graphics can be fascinating. It involves learning the basics of graphics programming and creating visual projects. The course typically requires about 3 hours of study per week and can be tailored to fit the skill level of students with basic programming knowledge.
+
+4. **Human-Computer Interaction (HCI)**: This course delves into the design and evaluation of user interfaces for software applications. It's often project-based, with students designing and prototyping interfaces. HCI requires about 3 hours of study per week and focuses more on design principles and user experience, making it accessible to students with basic programming backgrounds.
+
+**TRADE-OFFS:**
+- The selection of courses might not be as diverse as desired due to the constraints on prerequisites and the project-based, no-exam criteria.
+- Some courses might have slight variations in study hour requirements based on the institution and the specific syllabus.
+
+**FEASIBILITY SCORE:** 8/10
+This solution is feasible because it offers a balanced selection of courses that are interesting, project-based, and manageable within the given time frame. However, the score is not a perfect 10 because the availability of these exact courses and their formats (project-based, no exams) might vary between institutions. Additionally, while these courses are generally considered easy and interesting, individual experiences can differ based on personal interests and aptitudes.

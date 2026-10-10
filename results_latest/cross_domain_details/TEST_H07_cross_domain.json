@@ -1,0 +1,13 @@
+{
+  "test_id": "TEST_H07",
+  "target_domain": "health",
+  "timestamp": "2026-04-08T18:06:05.614242",
+  "retrieved_cases": [
+    "HC_004",
+    "HC_005",
+    "ED_005"
+  ],
+  "cross_domain_count": 1,
+  "total_examples": 3,
+  "same_domain_count": 2
+}

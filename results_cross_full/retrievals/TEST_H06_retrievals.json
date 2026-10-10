@@ -1,0 +1,50 @@
+{
+  "test_id": "TEST_H06",
+  "domain": "health",
+  "timestamp": "2026-02-15T20:42:50.357097",
+  "systems": {
+    "zero_shot": {
+      "num_examples": 0,
+      "retrieved_cases": [],
+      "method": "zero-shot"
+    },
+    "semantic": {
+      "num_examples": 3,
+      "retrieved_cases": [
+        "HC_004",
+        "HC_019",
+        "HC_007"
+      ],
+      "method": "semantic"
+    },
+    "conflict_aware": {
+      "num_examples": 0,
+      "retrieved_cases": [
+        "HC_004",
+        "HC_014",
+        "HC_019"
+      ],
+      "method": "conflict-aware"
+    },
+    "hybrid": {
+      "num_examples": 3,
+      "retrieved_cases": [
+        "HC_004",
+        "HC_014",
+        "HC_019"
+      ],
+      "method": "hybrid"
+    },
+    "cross_domain": {
+      "num_examples": 3,
+      "retrieved_cases": [
+        "HC_004",
+        "HC_014",
+        "TR_005"
+      ],
+      "method": "cross-domain",
+      "cross_domain_count": 1,
+      "same_domain_count": 2
+    }
+  }
+}

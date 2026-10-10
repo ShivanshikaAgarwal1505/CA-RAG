@@ -1,0 +1,34 @@
+TEST: TEST_H05
+SYSTEM: conflict_aware
+DOMAIN: health
+QUERY: 20F; Severe iron deficiency (Hb: 7.8); Budget ₹70/day; Vegetarian; Hostel mess; Avoid: dairy (lactose intolerant); Need 25mg iron daily; Currently taking iron pills but not working
+======================================================================
+
+**SOLUTION PLAN:**
+To address the severe iron deficiency, I recommend the following daily plan, considering the constraints and conflicts:
+
+1. **Breakfast (Mess)**: Opt for iron-rich foods available in the hostel mess, such as puffed rice with jaggery, or oats with fruits. If possible, include vitamin C-rich foods like oranges, bell peppers, or tomatoes to enhance iron absorption.
+2. **Mid-morning**: Consume 30g of iron-fortified nuts like almonds or cashews, which are affordable and provide about 2-3 mg of iron.
+3. **Lunch (Mess)**: Choose iron-rich foods like lentil soup, chickpea curry, or spinach with beans. Ask the mess staff to provide extra servings of these dishes.
+4. **Evening**: Have a glass of freshly squeezed orange or grapefruit juice (rich in vitamin C) with 30g of roasted chickpeas or soy nuts, which provide about 2-3 mg of iron.
+5. **Dinner (Mess)**: Repeat the iron-rich food choices from lunch and include a serving of dark leafy greens like spinach or kale.
+
+**CONFLICT RESOLUTION:**
+
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like lentils (₹50/kg), chickpeas (₹60/kg), and soy nuts (₹100/kg) instead of expensive protein supplements. These foods are rich in iron and protein, making them a cost-effective choice.
+- **DIET_VS_PROTEIN**: Focused on vegetarian high-protein foods like lentils, chickpeas, and soy nuts, which are rich in iron and affordable.
+
+**SPECIFIC TRADE-OFFS:**
+
+- **CHOSE**: Iron-fortified nuts and seeds (affordable) **INSTEAD OF**: Protein supplements (expensive)
+- **CHOSE**: Mess optimization (utilizing available iron-rich foods) **INSTEAD OF**: Home cooking (no kitchen)
+- **CHOSE**: Vitamin C-rich foods (oranges, bell peppers, tomatoes) **INSTEAD OF**: Vitamin C supplements (expensive)
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible because it utilizes affordable and available iron-rich foods in the hostel mess, along with some additional iron-fortified nuts and seeds. However, the plan's effectiveness may vary depending on the mess food quality and the individual's iron absorption rate. Regular monitoring of iron levels and adjustments to the plan may be necessary to achieve the desired outcome.
+
+**ADDITIONAL RECOMMENDATIONS:**
+
+- Consult with the mess staff to ensure that iron-rich foods are prepared in a way that maximizes iron absorption (e.g., using iron cookware, avoiding overcooking).
+- Consider taking a vitamin C supplement (about ₹10-20 per day) if it's difficult to consume enough vitamin C-rich foods.
+- Monitor iron levels regularly and adjust the plan as needed to achieve the target iron intake of 25mg per day.

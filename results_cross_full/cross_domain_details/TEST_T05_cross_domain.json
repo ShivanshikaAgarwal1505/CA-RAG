@@ -1,0 +1,13 @@
+{
+  "test_id": "TEST_T05",
+  "target_domain": "travel",
+  "timestamp": "2026-02-15T20:54:35.121618",
+  "retrieved_cases": [
+    "TR_005",
+    "TR_018",
+    "TR_011"
+  ],
+  "cross_domain_count": 0,
+  "total_examples": 3,
+  "same_domain_count": 3
+}

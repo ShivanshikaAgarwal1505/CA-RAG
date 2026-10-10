@@ -1,0 +1,69 @@
+{
+  "test_id": "TEST_H07",
+  "domain": "health",
+  "query": "23F; Hypothyroidism + hair fall; Budget ₹140/day; Vegan; Shared kitchen (30min/day max); Need iodine, selenium, 50g protein; Avoid: goitrogens (soy, cabbage, broccoli)",
+  "expected_conflicts": [
+    "diet_vs_protein",
+    "budget_vs_supplements",
+    "time_vs_meal_prep"
+  ],
+  "timestamp": "2026-04-08T18:06:05.616659",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2334,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.15,
+        "sf": 0.8,
+        "overall": 0.6525000000000001
+      }
+    },
+    "semantic": {
+      "solution_length": 3206,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.24333333333333332,
+        "sf": 0.8,
+        "overall": 0.6851666666666667
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 2290,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.9,
+        "crq": 0.4833333333333334,
+        "sf": 0.8,
+        "overall": 0.7291666666666667
+      }
+    },
+    "hybrid": {
+      "solution_length": 2683,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.4833333333333334,
+        "sf": 0.8,
+        "overall": 0.7691666666666668
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3242,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.7333333333333334,
+        "sf": 0.8,
+        "overall": 0.8566666666666667
+      },
+      "cross_domain_count": 1
+    }
+  }
+}

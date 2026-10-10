@@ -1,0 +1,46 @@
+TEST: TEST_H02
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 22M; Gain 12kg muscle in 3 months; Budget ₹100/day; Vegetarian (eggs ok); No kitchen; Gym 6x/week; Currently underweight (BMI 16.8); Need 120g protein daily
+======================================================================
+
+**SOLUTION PLAN:**
+
+To gain 12kg of muscle in 3 months, the individual requires a calorie surplus and sufficient protein intake. Given the constraints, here's a practical solution:
+
+DAILY:
+
+1. **Breakfast** (Post-workout, 8AM): 4 eggs (24g protein, ₹20) + 2 bananas (₹10) + 1 cup milk (₹15) = ₹45
+2. **Lunch** (1PM): Extra dal (1.5 cups, ₹20) + 2 rotis (₹10) + mixed veggies (₹15) + curd (₹20) = ₹65
+3. **Evening Snack** (4PM): 30g peanuts (₹25) + 1 banana (₹5) = ₹30
+4. **Dinner** (8PM): 2 rotis (₹10) + dal (1 cup, ₹15) + mixed veggies (₹15) + paneer (100g, 3x/week, ₹50) = ₹50 (avg.)
+5. **Before Bedtime Snack** (10PM): 1 cup milk (₹15) + 2 eggs (12g protein, ₹10) = ₹25
+
+WEEKLY:
+
+1. **Paneer** (100g, 3x/week): ₹150
+2. **Egg** (1 dozen): ₹60
+
+ONE-TIME:
+
+1. **Protein Powder** (optional, 1kg): ₹1,200 ( approx. 30-day supply)
+
+**TRADE-OFFS:**
+
+1. Limited meal variety due to no kitchen access.
+2. No control over oil used in cooking.
+3. Reliance on eggs and paneer as primary protein sources.
+4. No fruits other than bananas due to budget constraints.
+
+**FEASIBILITY SCORE:** 8/10
+
+Justification:
+The plan provides approximately 120g of protein per day, meeting the daily requirement. The calorie surplus from the extra dal, rotis, and snacks should support muscle gain. However, the lack of kitchen access and limited meal variety might lead to nutrient deficiencies. Additionally, the reliance on eggs and paneer as primary protein sources might not provide all essential amino acids. The one-time investment in protein powder can help supplement the diet, but it's not essential. Overall, the plan is feasible, but it requires careful monitoring of progress and adjustments as needed.
+
+**Budget Breakdown:**
+
+* Daily: ₹45 (breakfast) + ₹65 (lunch) + ₹30 (evening snack) + ₹50 (dinner) + ₹25 (before bedtime snack) = ₹215
+* Weekly: ₹150 (paneer) + ₹60 (eggs) = ₹210
+* Monthly: ₹1,200 (protein powder, optional)
+
+The daily budget exceeds the allocated ₹100/day, but the weekly and monthly expenses are manageable. To stay within the daily budget, consider reducing the portion sizes or substituting some items with more affordable alternatives.

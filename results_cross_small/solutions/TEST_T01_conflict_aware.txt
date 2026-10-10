@@ -1,0 +1,44 @@
+TEST: TEST_T01
+SYSTEM: conflict_aware
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To meet the requirements of a solo traveler with a budget of ₹8000 for 5 days, seeking a beach destination with activities like scuba diving, parasailing, and jet ski, while prioritizing budget stays, local food, and safety, I propose the following itinerary:
+
+Day 1: Arrival at Goa
+- Stay at a budget-friendly hostel in North Goa (approx. ₹800 for 4 nights)
+- Explore local cuisine for dinner (approx. ₹200)
+
+Day 2: Water Sports
+- Morning: Jet Ski at Baga Beach (approx. ₹600)
+- Afternoon: Parasailing at Calangute Beach (approx. ₹800)
+- Evening: Local food for dinner (approx. ₹200)
+
+Day 3: Scuba Diving
+- Take a scuba diving course or session at Grande Island (approx. ₹2500, including equipment and instructor)
+- Lunch: Pack local food or eat at a budget-friendly restaurant near the diving spot (approx. ₹200)
+- Evening: Relaxation and local exploration
+
+Day 4: Beach Hopping
+- Visit Anjuna Beach and Vagator Beach (entry free, but may need to pay for parking or transportation, approx. ₹100)
+- Lunch and dinner at local eateries (approx. ₹400 total)
+
+Day 5: Leisure and Departure
+- Morning: Leisure time at the hostel or a nearby beach
+- Afternoon: Check out and depart for the airport or bus station
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_ACTIVITIES**: Prioritized affordable water sports and scuba diving options, choosing Grande Island for diving due to its relatively lower cost compared to other locations.
+- **SAFETY_VS_FUN**: Ensured that all activities are conducted with reputable and safety-conscious operators to maintain a high level of safety.
+- **FOOD_VS_BUDGET**: Focused on local, budget-friendly food options to save on dining expenses without compromising on the experience of trying local cuisine.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Budget hostel stay INSTEAD OF: Luxury resort
+- CHOSE: Local food and street eateries INSTEAD OF: Fine dining restaurants
+- CHOSE: Shared or public transportation for short distances INSTEAD OF: Renting a vehicle for the entire duration
+- CHOSE: Grande Island for scuba diving INSTEAD OF: More expensive locations like the Andamans
+
+**FEASIBILITY SCORE:** 8.5/10
+This score reflects the ability to meet all hard constraints (budget and time) while addressing soft constraints (preference for budget stays, local food, and safety) to a significant extent. The only trade-offs were in the choice of accommodation and dining options, which, while not luxurious, provide a safe, local, and budget-friendly experience. The scuba diving and other activities are well within the budget, and the itinerary allows for a good balance of adventure and relaxation. However, the score is not a perfect 10 due to the compromises made on luxury and the potential for slight variations in costs based on seasonal fluctuations or unforeseen expenses.

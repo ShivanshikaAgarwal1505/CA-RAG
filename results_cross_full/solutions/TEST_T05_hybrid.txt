@@ -1,0 +1,42 @@
+TEST: TEST_T05
+SYSTEM: hybrid
+DOMAIN: travel
+QUERY: Senior couple (68M, 65F); ₹40000 budget; 4 days; Spiritual/peaceful; Need: easy walking (max 1km), AC transport, 3-star+ hotels, pure veg food, morning temple visits; Avoid: crowds, noise
+======================================================================
+
+**SOLUTION PLAN:**
+To cater to the senior couple's preferences for a spiritual and peaceful trip, I recommend a 4-day itinerary to the city of Tirupati, known for its revered temples and serene surroundings. Given the constraints, here's a day-by-day plan:
+
+Day 1: Arrival and Acclimatization
+- Arrive at Tirupati Airport or Railway Station.
+- Check-in at a 3-star hotel like the Fortune Select Grand Ridge or similar, which offers pure veg food and is within the budget (approximately ₹6,000 per night).
+- After lunch, take a short walk (less than 1 km) to the nearby Kapila Theertham, a peaceful spot with a temple and a waterfall.
+- Spend the evening at leisure, enjoying the hotel's amenities or exploring the local area on foot.
+
+Day 2: Morning Temple Visit
+- Start the day early with a visit to the famous Tirumala Venkateswara Temple, located about 20 km from Tirupati. Use AC transport (approximately ₹1,500 for a round trip) to reach the temple.
+- Since the couple prefers to avoid crowds and noise, plan the visit during the less crowded morning hours.
+- Return to the hotel for lunch and rest.
+- In the evening, visit the ISKCON Tirupati temple, which is known for its peaceful ambiance and is within walking distance from most hotels.
+
+Day 3: Spiritual Exploration
+- Dedicate this day to exploring more spiritual sites in and around Tirupati, such as the Alipiri Temple or the Sri Govindarajaswamy Temple.
+- Use AC transport for all travels to ensure comfort.
+- Ensure that all meals are pure veg and taken at restaurants or the hotel that cater to the couple's dietary preferences.
+
+Day 4: Leisure and Departure
+- Spend the morning at leisure or visit any local spots that the couple might have missed.
+- Check out of the hotel and depart for the airport or railway station for the return journey.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_LUXURY**: Prioritized 3-star hotels over 5-star to stay within the budget while ensuring comfort and pure veg food options.
+- **CROWD_AVOIDANCE**: Planned temple visits during less crowded hours and chose less crowded temples for a more peaceful experience.
+- **NOISE_AVOIDANCE**: Selected a hotel in a relatively quieter area and planned activities that minimize exposure to loud noises.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: 3-star hotels INSTEAD OF: 5-star hotels to save on costs and allocate budget to other aspects of the trip.
+- CHOSE: AC transport for all trips INSTEAD OF: Using public transport to ensure comfort and convenience.
+- CHOSE: Pure veg restaurants and hotel food INSTEAD OF: Exploring non-veg options to adhere to the dietary preference.
+
+**FEASIBILITY SCORE:** 9/10
+This plan is feasible as it meets all the hard constraints (budget, diet, accommodation, transport, and time) and addresses the soft constraints (spiritual/peaceful experience, easy walking, morning temple visits, avoiding crowds and noise) to a high degree. The only potential challenge could be unforeseen crowds at the temples, but planning visits during less crowded hours mitigates this risk. The budget allocation allows for a comfortable and peaceful trip, with a focus on spiritual experiences and easy mobility.

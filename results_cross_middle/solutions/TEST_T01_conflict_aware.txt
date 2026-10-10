@@ -1,0 +1,45 @@
+TEST: TEST_T01
+SYSTEM: conflict_aware
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the solo traveler's requirements within the ₹8000 budget and 5-day time frame, I recommend the following itinerary:
+
+Day 1: Arrival and Acclimatization
+- Arrive at Goa (the most affordable beach destination for the given activities)
+- Check-in at a budget-friendly hostel (₹800 per night)
+- Explore local markets and try street food for dinner (₹200)
+
+Day 2: Scuba Diving
+- Book a scuba diving session (₹2500, including equipment and instructor)
+- Spend the rest of the day relaxing on the beach
+- Dinner at a local eatery (₹250)
+
+Day 3: Parasailing and Jet Ski
+- Book parasailing (₹1200) and jet ski (₹800) sessions at a water sports facility
+- Lunch at a nearby café (₹300)
+- Evening: Explore the local nightlife (free entry, budget ₹500 for snacks and drinks)
+
+Day 4: Beach Relaxation and Water Activities
+- Spend the day relaxing at the beach or trying other water activities like snorkeling (₹500) or kayaking (₹400)
+- Dinner at a local restaurant (₹350)
+
+Day 5: Departure
+- Check-out from the hostel
+- Spend the morning shopping for souvenirs or visiting a local attraction (₹200)
+- Depart for the airport/railway station (₹500 for taxi fare)
+
+**CONFLICT RESOLUTION:**
+- BUDGET_VS_ACTIVITIES: Prioritized the most important activities (scuba diving, parasailing, and jet ski) and allocated the budget accordingly.
+- SAFETY_VS_ADVENTURE: Chose a reputable water sports facility with good safety records to ensure the traveler's safety while participating in adventure activities.
+- ACCOMMODATION_VS_BUDGET: Selected a budget-friendly hostel to stay within the allocated budget for accommodation.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Budget-friendly hostel (₹800 per night) INSTEAD OF: Luxury resort (₹2500 per night)
+- CHOSE: Local eateries and street food (₹200-₹350 per meal) INSTEAD OF: Fine dining restaurants (₹800-₹1200 per meal)
+- CHOSE: Shared water sports facilities INSTEAD OF: Private instructors (more expensive)
+
+**FEASIBILITY SCORE:** 8.5/10
+The solution plan stays within the budget and satisfies all the hard constraints. However, the traveler might have to compromise on the quality of accommodation and dining experiences to stay within the budget. Additionally, the itinerary is quite packed, leaving limited time for relaxation or exploring other attractions in Goa. Nevertheless, the plan prioritizes the traveler's preferences and ensures a safe and enjoyable experience.

@@ -1,0 +1,31 @@
+TEST: TEST_E02
+SYSTEM: conflict_aware
+DOMAIN: education
+QUERY: Final year B.Tech; Need 4 courses; All must be: easy (for GPA), project-based (no exams), interesting topics; Max 12hrs/week; Prerequisites: basic programming only
+======================================================================
+
+**SOLUTION PLAN:**
+To address the query, I recommend the following 4 courses that satisfy all hard constraints and prioritize soft constraints:
+
+1. **Human-Computer Interaction (HCI)**: This project-based course focuses on designing intuitive user interfaces, which is an interesting topic (importance: 0.9/1.0) and relatively easy (importance: 0.8/1.0). It requires basic programming skills and can be completed within 3 hours/week.
+2. **Web Development**: This course is project-based, easy (importance: 0.8/1.0), and covers an interesting topic (importance: 0.9/1.0). It requires basic programming skills and can be completed within 3 hours/week.
+3. **Data Visualization**: This project-based course is easy (importance: 0.8/1.0) and covers an interesting topic (importance: 0.9/1.0). It requires basic programming skills and can be completed within 3 hours/week.
+4. **Introduction to Cybersecurity**: This course is project-based, relatively easy (importance: 0.7/1.0), and covers an interesting topic (importance: 0.8/1.0). It requires basic programming skills and can be completed within 3 hours/week.
+
+These courses are scheduled as follows:
+- Monday: HCI (10:00 AM - 1:00 PM, 3 hours/week)
+- Tuesday: Web Development (10:00 AM - 1:00 PM, 3 hours/week)
+- Wednesday: Data Visualization (10:00 AM - 1:00 PM, 3 hours/week)
+- Thursday: Introduction to Cybersecurity (10:00 AM - 1:00 PM, 3 hours/week)
+
+**CONFLICT RESOLUTION:**
+- **TIME_VS_COURSES**: To resolve this conflict, I prioritized courses that can be completed within a limited time frame (3 hours/week per course) while ensuring that they meet the requirements of being project-based, easy, and interesting. This allows the student to manage their time effectively and complete all 4 courses within the 12 hours/week limit.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Human-Computer Interaction INSTEAD OF: Artificial Intelligence (requires more time and has a higher difficulty level)
+- CHOSE: Web Development INSTEAD OF: Machine Learning (requires more time and has a higher difficulty level)
+- CHOSE: Data Visualization INSTEAD OF: Data Mining (requires more time and has a higher difficulty level)
+- CHOSE: Introduction to Cybersecurity INSTEAD OF: Advanced Cybersecurity (requires more time and has a higher difficulty level)
+
+**FEASIBILITY SCORE:** 8.5/10
+This solution plan is feasible because it satisfies all hard constraints and prioritizes soft constraints. The courses are project-based, easy, and cover interesting topics, which should help the student achieve a high GPA. However, the limited time frame (12 hours/week) may require the student to manage their time effectively to complete all 4 courses.

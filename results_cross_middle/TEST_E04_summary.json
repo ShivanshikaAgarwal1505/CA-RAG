@@ -1,0 +1,67 @@
+{
+  "test_id": "TEST_E04",
+  "domain": "education",
+  "query": "PhD 1st year; Need 2 courses; Topics: must align with thesis (RL in robotics); Need: theory depth, hands-on projects; Prof: must allow flex attendance (thesis work); Max 15hrs/week",
+  "expected_conflicts": [
+    "time_vs_courses"
+  ],
+  "timestamp": "2026-02-15T20:30:47.463075",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2872,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 0.3333333333333333,
+        "crq": 0.15,
+        "sf": 0.8,
+        "overall": 0.38583333333333336
+      }
+    },
+    "semantic": {
+      "solution_length": 2305,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 0.3333333333333333,
+        "crq": 0.1,
+        "sf": 0.85,
+        "overall": 0.38083333333333336
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 2678,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.6666666666666666,
+        "crq": 0.15,
+        "sf": 0.85,
+        "overall": 0.5316666666666666
+      }
+    },
+    "hybrid": {
+      "solution_length": 2873,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 0.6666666666666666,
+        "crq": 0.15,
+        "sf": 0.85,
+        "overall": 0.5316666666666666
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3347,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 0.3333333333333333,
+        "crq": 0.4,
+        "sf": 0.85,
+        "overall": 0.48583333333333334
+      },
+      "cross_domain_count": 1
+    }
+  }
+}

@@ -1,0 +1,24 @@
+TEST: TEST_E05
+SYSTEM: zero_shot
+DOMAIN: education
+QUERY: B.Tech 6th sem; Want to explore AI/ML; Need 4 beginner courses; No prerequisites available; Prefer: video lectures, no mandatory attendance, auto-graded assignments; Want high GPA
+======================================================================
+
+**SOLUTION PLAN:**
+To explore AI/ML as a B.Tech 6th sem student with no prerequisites, I recommend the following 4 beginner courses that align with your preferences:
+
+1. **Andrew Ng's Machine Learning (Coursera)**: This course covers the basics of machine learning, including supervised and unsupervised learning, neural networks, and deep learning. It features video lectures, auto-graded assignments, and no mandatory attendance.
+2. **Introduction to Artificial Intelligence (edX)**: This course provides an introduction to AI, covering topics such as machine learning, computer vision, and robotics. It offers video lectures, auto-graded assignments, and flexible deadlines.
+3. **Python for Everybody (Coursera)**: As Python is a popular language used in AI/ML, this course will help you develop a strong foundation in Python programming. It features video lectures, auto-graded assignments, and no mandatory attendance.
+4. **Deep Learning (Coursera)**: This course covers the basics of deep learning, including convolutional neural networks, recurrent neural networks, and natural language processing. It offers video lectures, auto-graded assignments, and flexible deadlines.
+
+All of these courses are designed to be beginner-friendly and can be completed with minimal prerequisites. To achieve a high GPA, I recommend dedicating 10-12 hours per week to each course and actively participating in discussion forums to clarify doubts.
+
+**TRADE-OFFS:**
+While these courses meet your preferences, you may need to compromise on:
+
+* Limited interaction with instructors and peers, as these courses are primarily self-paced.
+* No direct university credits, as these courses are offered on online platforms (Coursera and edX).
+
+**FEASIBILITY SCORE:** 8.5/10
+I score this solution plan 8.5/10 because it provides a well-structured and beginner-friendly introduction to AI/ML, aligning with your preferences. However, the lack of direct university credits and limited interaction with instructors and peers might be a drawback for some students. Overall, this plan offers a high-quality learning experience with flexible deadlines and auto-graded assignments, making it feasible for you to achieve a high GPA while exploring AI/ML.

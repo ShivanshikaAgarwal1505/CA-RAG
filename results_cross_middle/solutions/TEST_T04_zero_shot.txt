@@ -1,0 +1,34 @@
+TEST: TEST_T04
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN:**
+For a group of 5 friends looking for an adventure-filled trip in June, I recommend a 5-day trip to Rishikesh, Uttarakhand. Rishikesh offers a perfect blend of trekking, camping, rafting, and paragliding activities. Here's a detailed plan:
+
+* Day 1: Arrival in Rishikesh, check-in at a budget-friendly campsite, and spend the day exploring the city.
+* Day 2: Trek to the Neer Garh waterfall (approx. 4-5 hours) and return to the campsite for overnight stay.
+* Day 3: White water rafting in the Ganges River (approx. 16 km, 2-3 hours) and camping on the riverbank.
+* Day 4: Paragliding in Rishikesh (approx. 10-15 minutes flight) and a visit to the Jumpin Heights for a thrilling experience.
+* Day 5: Camping and a leisure day to explore the nearby areas or relax at the campsite.
+
+The total cost per person for the 5-day trip would be approximately ₹11,500, which is within the budget of ₹12,000. This includes:
+
+* Accommodation: Budget campsite (₹1,500 per person for 4 nights)
+* Food: ₹2,000 per person for the entire trip (approx. ₹400 per day)
+* Activities:
+	+ Trekking: ₹500 per person
+	+ Rafting: ₹800 per person
+	+ Paragliding: ₹1,500 per person
+	+ Camping: ₹1,000 per person (included in the campsite cost)
+* Transportation: ₹1,200 per person (depending on the mode of transport from the hometown to Rishikesh)
+
+**TRADE-OFFS:**
+To fit the budget, some compromises have been made:
+* The accommodation is a budget-friendly campsite, which may not offer luxurious amenities.
+* The food options are limited to local cuisine and may not be as diverse as expected.
+* The paragliding experience is for a shorter duration (10-15 minutes) to fit the budget.
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible, considering the budget and the activities included. However, the weather in June can be unpredictable, and the rafting activity may be affected by the water level in the Ganges River. Additionally, the paragliding experience may be dependent on the weather conditions. With some flexibility and adaptability, the group can still have a memorable and adventurous trip.

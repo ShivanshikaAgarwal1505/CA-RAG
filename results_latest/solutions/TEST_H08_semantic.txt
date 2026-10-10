@@ -1,0 +1,47 @@
+TEST: TEST_H08
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 21M; Bulking (gain 8kg muscle); Budget ₹180/day; Vegetarian (no eggs due to allergy); No kitchen; Need 110g protein, 3000 calories; Lactose intolerant
+======================================================================
+
+**SOLUTION PLAN:**
+
+To address the query, I'll provide a practical solution that meets the requirements of a 21-year-old male looking to bulk up (gain 8kg muscle) on a vegetarian diet (no eggs due to allergy), with a budget of ₹180/day, and no kitchen. The individual requires 110g of protein and 3000 calories per day and is lactose intolerant.
+
+Given the constraints, here's a daily meal plan:
+
+1. **Breakfast (8AM)**: 
+   - 2 cups of oats with almond milk (or any lactose-free milk alternative) and 1 banana (approx. ₹40, 400 calories, 10g protein)
+   - 1 scoop of lactose-free whey protein or pea protein mixed with water (approx. ₹50, 120 calories, 25g protein)
+
+2. **Mid-morning Snack (11AM)**:
+   - 1 cup of mixed nuts (almonds, cashews, walnuts) (approx. ₹30, 170 calories, 4g protein)
+   - 1 apple (approx. ₹10, 95 calories, 0.3g protein)
+
+3. **Lunch (1PM)**:
+   - 2 whole wheat rotis (can be purchased pre-made or from a nearby restaurant) (approx. ₹10, 140 calories, 4g protein)
+   - 1 cup of lentil soup (dal) (can be purchased pre-cooked) (approx. ₹20, 230 calories, 18g protein)
+   - 1 cup of mixed vegetables (can be pre-cooked and purchased) (approx. ₹20, 50 calories, 2g protein)
+   - 100g of tofu or tempeh (approx. ₹30, 100 calories, 10g protein)
+
+4. **Evening Snack (4PM)**:
+   - 1 cup of fruit salad with 1 tablespoon of almond butter (approx. ₹40, 190 calories, 4g protein)
+
+5. **Dinner (8PM)**:
+   - 2 whole wheat rotis (approx. ₹10, 140 calories, 4g protein)
+   - 1 cup of chickpea curry (can be pre-cooked and purchased) (approx. ₹30, 225 calories, 15g protein)
+   - 1 cup of mixed greens salad with 1/4 cup of almonds (approx. ₹40, 170 calories, 6g protein)
+
+**Supplements**:
+- Considering the lactose intolerance and the need for additional protein, a lactose-free protein supplement is essential. This can be taken twice a day, once in the morning and once post-workout, to help meet the protein requirements.
+
+**Workout**:
+- Given the goal of bulking up, it's crucial to have a consistent workout routine that focuses on muscle gain. This should include a mix of compound exercises like squats, deadlifts, bench press, etc., and should be done 4-5 times a week.
+
+**TRADE-OFFS**:
+- The lack of a kitchen limits the ability to cook a wide variety of meals, necessitating reliance on pre-cooked or easily prepared foods.
+- The lactose intolerance and egg allergy restrict dietary options, making it necessary to rely on lactose-free and egg-free protein sources.
+- The budget of ₹180/day is relatively tight for the caloric and protein requirements, necessitating careful selection of nutrient-dense foods.
+
+**FEASIBILITY SCORE: 7/10**
+Justification: The solution plan is feasible given the constraints, but it requires careful management of the budget and reliance on pre-cooked or easily prepared foods due to the lack of a kitchen. The lactose intolerance and egg allergy also limit food options, but there are sufficient alternatives available to meet the nutritional requirements. The key challenge will be consistently meeting the high caloric and protein requirements within the given budget, which might necessitate occasional adjustments to the meal plan based on availability and cost of ingredients.

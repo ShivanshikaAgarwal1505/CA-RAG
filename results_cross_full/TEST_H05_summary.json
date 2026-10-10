@@ -1,0 +1,69 @@
+{
+  "test_id": "TEST_H05",
+  "domain": "health",
+  "query": "20F; Severe iron deficiency (Hb: 7.8); Budget ₹70/day; Vegetarian; Hostel mess; Avoid: dairy (lactose intolerant); Need 25mg iron daily; Currently taking iron pills but not working",
+  "expected_conflicts": [
+    "budget_vs_supplements",
+    "diet_vs_protein",
+    "no_kitchen_vs_nutrition"
+  ],
+  "timestamp": "2026-02-15T20:41:52.330992",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2454,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 0.6,
+        "crq": 0.35,
+        "sf": 0.8,
+        "overall": 0.5625
+      }
+    },
+    "semantic": {
+      "solution_length": 2290,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 0.6,
+        "crq": 0.15,
+        "sf": 0.8,
+        "overall": 0.4925
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 2623,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.8,
+        "crq": 0.5333333333333334,
+        "sf": 0.8,
+        "overall": 0.7066666666666668
+      }
+    },
+    "hybrid": {
+      "solution_length": 2808,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 0.6,
+        "crq": 0.6333333333333333,
+        "sf": 0.8,
+        "overall": 0.6616666666666666
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3623,
+      "num_examples": 2,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.4,
+        "sf": 0.8,
+        "overall": 0.74
+      },
+      "cross_domain_count": 0
+    }
+  }
+}

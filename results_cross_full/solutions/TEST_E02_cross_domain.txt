@@ -1,0 +1,33 @@
+TEST: TEST_E02
+SYSTEM: cross_domain
+DOMAIN: education
+QUERY: Final year B.Tech; Need 4 courses; All must be: easy (for GPA), project-based (no exams), interesting topics; Max 12hrs/week; Prerequisites: basic programming only
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy all hard constraints and address the conflicts, I recommend the following four courses for the final year B.Tech student:
+
+1. **Introduction to Web Development** (3 hours/week, project-based, basic programming prerequisites): This course is a great way to learn web development skills, which are in high demand in the industry. It's a project-based course, so there are no exams, and it's relatively easy to manage with a basic programming background.
+2. **Data Visualization** (3 hours/week, project-based, basic programming prerequisites): This course is an interesting topic that combines data analysis and visualization. It's a project-based course that can be completed with basic programming skills, and it's a great way to develop skills in data visualization.
+3. **Human-Computer Interaction** (3 hours/week, project-based, basic programming prerequisites): This course is an interesting topic that focuses on designing user interfaces and user experiences. It's a project-based course that can be completed with basic programming skills, and it's a great way to develop skills in HCI.
+4. **Computing for Social Good** (3 hours/week, project-based, basic programming prerequisites): This course is an interesting topic that focuses on using computing skills to solve social problems. It's a project-based course that can be completed with basic programming skills, and it's a great way to develop skills in social impact.
+
+These courses are all project-based, have no exams, and are relatively easy to manage with a basic programming background. They also cover interesting topics and can be completed within the 12 hours/week time constraint.
+
+**CONFLICT RESOLUTION:**
+To address the conflict between limited time and course requirements, I prioritized courses that are project-based and have no exams, which reduces the time required for studying and exam preparation. I also chose courses that are relatively easy to manage with a basic programming background, which reduces the time required for learning new concepts.
+
+To address the conflict between interesting topics and GPA-friendly courses, I chose courses that are both interesting and have a relatively high GPA average. I also considered the course workload and chose courses that have a manageable workload, which reduces the stress and time required for completing assignments and projects.
+
+**CROSS-DOMAIN INSIGHTS:**
+The cross-domain pattern of limited resource (time) conflicts with quality/quantity goal is applicable in this scenario. The strategy of optimizing for efficiency by prioritizing high-value options within the resource constraint is useful. In this case, I prioritized courses that are project-based, have no exams, and are relatively easy to manage with a basic programming background, which optimizes the use of time and resources.
+
+**TRADE-OFFS MADE:**
+To satisfy all hard constraints and address the conflicts, I made the following trade-offs:
+
+* I chose courses that are relatively easy to manage with a basic programming background, which may not be as challenging as other courses.
+* I prioritized courses that are project-based and have no exams, which may not provide the same level of theoretical knowledge as other courses.
+* I chose courses that have a relatively high GPA average, which may not be as interesting or relevant to the student's career goals as other courses.
+
+**FEASIBILITY SCORE:** 8.5/10
+The solution plan is feasible because it satisfies all hard constraints and addresses the conflicts in a practical way. The courses chosen are project-based, have no exams, and are relatively easy to manage with a basic programming background. The solution plan also optimizes the use of time and resources by prioritizing high-value options within the resource constraint. However, the trade-offs made may compromise the level of challenge, theoretical knowledge, and relevance to career goals, which reduces the feasibility score to 8.5/10.

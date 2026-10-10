@@ -1,0 +1,31 @@
+TEST: TEST_H10
+SYSTEM: conflict_aware
+DOMAIN: health
+QUERY: 30M; Fatty liver + high cholesterol; Budget ₹200/day; Veg; Home kitchen; Avoid: oil, fried foods, saturated fats; Need 65g protein, <30g total fat; Prefer tasty food (0.8)
+======================================================================
+
+**SOLUTION PLAN:**
+To manage fatty liver and high cholesterol within the given constraints, the following daily plan is recommended:
+
+- **Breakfast (8:00 AM):** Oatmeal with fruits and nuts (250 calories, 10g protein, 10g fat) - ₹30
+- **Mid-Morning (11:00 AM):** Roasted makhana (fox nuts) with a glass of low-fat milk (150 calories, 5g protein, 2g fat) - ₹20
+- **Lunch (1:30 PM):** Brown rice (1 cup cooked), mixed vegetable sabzi (broccoli, carrots, bell peppers), and dal (1 cup cooked) (500 calories, 20g protein, 10g fat) - ₹50
+- **Evening Snack (4:00 PM):** Boiled chickpeas with cucumber and tomato slices (100 calories, 5g protein, 2g fat) - ₹10
+- **Dinner (7:30 PM):** Quinoa (1 cup cooked) with mixed vegetable curry (spinach, cauliflower, green beans) and a small serving of low-fat curd (400 calories, 15g protein, 10g fat) - ₹40
+
+**Total Daily Cost:** ₹150
+**Total Daily Calories:** Approximately 1400 calories
+**Total Daily Protein:** 65g
+**Total Daily Fat:** Less than 30g
+
+**CONFLICT RESOLUTION:**
+- **DIET_VS_PROTEIN:** Focused on vegetarian high-protein foods like dal, low-fat milk, chickpeas, and nuts to meet the protein requirement without exceeding the fat limit.
+- **BUDGET_VS_NUTRITION:** Prioritized affordable and nutrient-dense foods like brown rice, oats, mixed vegetables, and dal to stay within the budget while meeting nutritional needs.
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE:** Dal and chickpeas as primary protein sources **INSTEAD OF:** Tofu or meat alternatives which are more expensive.
+- **CHOSE:** Brown rice and quinoa **INSTEAD OF:** White rice or refined grains for better nutritional value.
+- **CHOSE:** Low-fat milk and curd **INSTEAD OF:** Full-fat dairy products to reduce saturated fat intake.
+
+**FEASIBILITY SCORE:** 8.5/10
+This plan is feasible because it meets all the hard constraints (vegetarian diet, home kitchen, budget, avoids oil and fried foods, meets protein and fat requirements) and prioritizes taste with a variety of foods. The soft constraint of taste is partially satisfied with the inclusion of fruits, nuts, and spices in meals. However, the score is not perfect because achieving the exact balance of taste and nutrition can be subjective and may require adjustments based on personal preferences.

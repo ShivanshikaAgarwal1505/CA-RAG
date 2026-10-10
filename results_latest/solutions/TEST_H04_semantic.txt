@@ -1,0 +1,36 @@
+TEST: TEST_H04
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 28M; Type 2 diabetes (HbA1c: 8.2); Budget ₹150/day; Veg; No kitchen; Need <150g carbs/day, 60g protein, no sugar spikes; Prefer natural foods (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+
+To manage Type 2 diabetes with an HbA1c of 8.2, on a budget of ₹150/day, with a preference for natural foods, and no access to a kitchen, the following plan is suggested:
+
+DAILY:
+
+1. **Breakfast**: Idlis (2-3) made from brown rice or oats, with sambar (lentil-based vegetable stew) and a glass of green tea. This provides approximately 30g of carbohydrates and 10g of protein. (Cost: ₹30)
+2. **Mid-Morning Snack**: Fresh fruits like apple or orange, which are rich in fiber and antioxidants, helping to regulate blood sugar levels. (Cost: ₹10)
+3. **Lunch**: Whole grain rotis (2) with mixed vegetable sabzi (stir-fry) and a bowl of dal (lentil soup). This meal should provide about 40g of carbohydrates and 15g of protein. (Cost: ₹40)
+4. **Evening Snack**: Roasted chana (black chickpeas) or makhana (fox nuts), both of which are low in carbohydrates and rich in fiber and protein. (Cost: ₹15)
+5. **Dinner**: Whole grain rotis (2) with mixed vegetable sabzi and a bowl of dal, similar to lunch. Aim for another 40g of carbohydrates and 15g of protein. (Cost: ₹40)
+6. **Before Bed**: A glass of lukewarm water with a squeeze of lemon to help with digestion and possibly improve insulin sensitivity.
+
+WEEKLY:
+
+- **Consultation with a Dietician**: Once a week, to monitor progress and make necessary adjustments to the meal plan. (Cost: ₹50/week, assuming a one-time consultation fee that can be adjusted based on the dietician's advice)
+
+**TRADE-OFFS:**
+
+- Due to the constraint of no kitchen, the plan relies heavily on foods that can be prepared without cooking, such as fruits, or foods that can be purchased pre-cooked, like idlis and rotis with sabzi from a local eatery or food vendor.
+- The preference for natural foods limits the inclusion of processed foods or supplements, which might be easier to manage but could spike blood sugar levels.
+- The budget constraint means opting for cost-effective, locally available foods that meet the nutritional requirements, possibly at the expense of variety.
+
+**FEASIBILITY SCORE: 8/10**
+
+Justification:
+- The plan is feasible because it incorporates locally available, affordable foods that can be easily accessed without the need for a kitchen.
+- It meets the daily requirements of less than 150g of carbohydrates and 60g of protein, while avoiding sugar spikes.
+- However, the score is not a perfect 10 because achieving such a specific diet without any flexibility in food choice or preparation method can be challenging and may require significant discipline and planning.
+- Additionally, the ongoing monitoring and potential need for adjustments based on health progress might require additional expenses or time commitments not fully accounted for in the initial plan.

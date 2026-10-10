@@ -1,0 +1,27 @@
+TEST: TEST_E02
+SYSTEM: conflict_aware
+DOMAIN: education
+QUERY: Final year B.Tech; Need 4 courses; All must be: easy (for GPA), project-based (no exams), interesting topics; Max 12hrs/week; Prerequisites: basic programming only
+======================================================================
+
+**SOLUTION PLAN:**
+To address the query, I recommend the following four courses that satisfy all hard constraints and prioritize soft constraints:
+
+1. **Human-Computer Interaction (HCI)**: This course focuses on designing intuitive and user-friendly interfaces, which is an interesting topic. It's a project-based course that requires basic programming knowledge. Time commitment: 3 hours/week.
+2. **Web Development**: This course teaches students how to build dynamic web applications using popular frameworks. It's a project-based course that requires basic programming knowledge and is considered easy. Time commitment: 3 hours/week.
+3. **Data Visualization**: This course covers the principles and techniques of data visualization, which is an interesting topic. It's a project-based course that requires basic programming knowledge and is considered easy. Time commitment: 3 hours/week.
+4. **Introduction to Game Development**: This course introduces students to the basics of game development using popular game engines. It's a project-based course that requires basic programming knowledge and is considered easy and interesting. Time commitment: 3 hours/week.
+
+Total time commitment: 12 hours/week.
+
+**CONFLICT RESOLUTION:**
+- **TIME_VS_COURSES**: To resolve this conflict, I prioritized courses that require minimal time commitment while still satisfying the hard constraints. I chose courses with a total time commitment of 12 hours/week, which is within the allowed limit.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Human-Computer Interaction (HCI) INSTEAD OF: Artificial Intelligence (requires more time and has a higher difficulty level)
+- CHOSE: Web Development INSTEAD OF: Mobile App Development (requires more time and has a higher difficulty level)
+- CHOSE: Data Visualization INSTEAD OF: Machine Learning (requires more time and has a higher difficulty level)
+- CHOSE: Introduction to Game Development INSTEAD OF: Advanced Game Development (requires more time and has a higher difficulty level)
+
+**FEASIBILITY SCORE:** 9/10
+This solution is feasible because it satisfies all hard constraints and prioritizes soft constraints. The chosen courses are project-based, easy, and interesting, and they require basic programming knowledge. The total time commitment is within the allowed limit, and the courses are likely to contribute to a high GPA. However, the solution may not be perfect, as the student may need to make some adjustments to their schedule to accommodate the courses.

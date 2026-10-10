@@ -1,0 +1,65 @@
+{
+  "test_id": "TEST_T03",
+  "domain": "travel",
+  "query": "Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities",
+  "expected_conflicts": [],
+  "timestamp": "2026-02-15T20:53:13.986952",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2498,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 0.5,
+        "crq": 1.0,
+        "sf": 0.85,
+        "overall": 0.7625000000000001
+      }
+    },
+    "semantic": {
+      "solution_length": 3084,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 0.5,
+        "crq": 1.0,
+        "sf": 0.8,
+        "overall": 0.75
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 3493,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.75,
+        "crq": 1.0,
+        "sf": 0.85,
+        "overall": 0.8625
+      }
+    },
+    "hybrid": {
+      "solution_length": 3315,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 0.75,
+        "crq": 1.0,
+        "sf": 0.85,
+        "overall": 0.8625
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3732,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 0.75,
+        "crq": 1.0,
+        "sf": 0.8,
+        "overall": 0.8500000000000001
+      },
+      "cross_domain_count": 1
+    }
+  }
+}

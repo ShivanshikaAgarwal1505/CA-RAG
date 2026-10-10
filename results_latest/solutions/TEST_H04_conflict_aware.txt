@@ -1,0 +1,28 @@
+TEST: TEST_H04
+SYSTEM: conflict_aware
+DOMAIN: health
+QUERY: 28M; Type 2 diabetes (HbA1c: 8.2); Budget ₹150/day; Veg; No kitchen; Need <150g carbs/day, 60g protein, no sugar spikes; Prefer natural foods (0.9)
+======================================================================
+
+**SOLUTION PLAN:**
+To manage Type 2 diabetes and satisfy all constraints, the following plan is proposed:
+
+- **Breakfast**: Oatmeal with fruits and nuts (30g carbs, 10g protein, ₹20) from a nearby café or store, as no kitchen is available. This choice is natural, fits within the carb limit, and provides some protein.
+- **Mid-morning Snack**: 20g of almonds and 20g of peanuts (8g protein, 6g carbs, ₹15) to increase protein intake without spiking sugar levels. Nuts are natural and can be easily consumed without needing a kitchen.
+- **Lunch**: Vegetarian sandwich (whole wheat bread, paneer or tofu, cucumber, tomato, and lettuce) (40g carbs, 20g protein, ₹40) from a deli or café that offers vegetarian options. This meal is within the carb limit and provides a moderate amount of protein.
+- **Evening Snack**: Yogurt (curd) with honey substitute (e.g., stevia) and mixed nuts (15g carbs, 15g protein, ₹25). This snack is natural, controls sugar spikes, and contributes to the daily protein goal.
+- **Dinner**: Whole grain wrap with roasted vegetables and a bean or lentil filling (40g carbs, 15g protein, ₹40) from a restaurant that offers vegetarian and can customize to avoid added sugars. This meal stays within the carb limit and adds to the protein intake.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like nuts (almonds, peanuts), bean or lentil fillings, and yogurt instead of expensive protein supplements.
+- **NO_KITCHEN_VS_NUTRITION**: Focused on purchasing prepared meals from cafes, delis, or restaurants that can be customized to meet dietary needs, ensuring no kitchen is needed.
+- **DIET_VS_PROTEIN**: Emphasized vegetarian high-protein foods such as paneer, tofu, lentils, beans, nuts, and yogurt to meet the protein requirement without compromising on the diet type.
+- **MEDICAL_CONDITION_VS_DIET**: Managed Type 2 diabetes by controlling carbohydrate intake (<150g/day), avoiding sugar spikes, and choosing natural foods to help regulate blood sugar levels.
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE**: Nuts and seeds as protein sources INSTEAD OF: Protein shakes or supplements due to budget constraints.
+- **CHOSE**: Customizable meals from cafes and restaurants INSTEAD OF: Home-cooked meals to accommodate the no-kitchen constraint.
+- **CHOSE**: Natural sweeteners like stevia INSTEAD OF: Refined sugars to control sugar spikes.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it satisfies all hard constraints (budget, diet type, no kitchen, carb limit, protein requirement, and no sugar spikes). It also addresses the soft constraint of preferring natural foods. The plan requires some discipline in selecting appropriate meals and snacks, but it is practical and can be adjusted based on personal preferences and dietary needs. The only potential issue could be the consistency of finding suitable meals at restaurants or cafes, but this can be mitigated by identifying a few reliable options and building a routine around them.

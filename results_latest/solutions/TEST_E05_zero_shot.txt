@@ -1,0 +1,33 @@
+TEST: TEST_E05
+SYSTEM: zero_shot
+DOMAIN: education
+QUERY: B.Tech 6th sem; Want to explore AI/ML; Need 4 beginner courses; No prerequisites available; Prefer: video lectures, no mandatory attendance, auto-graded assignments; Want high GPA
+======================================================================
+
+**SOLUTION PLAN:**
+To explore AI/ML as a B.Tech 6th sem student with no prerequisites, I recommend the following 4 beginner courses that cater to your preferences:
+
+1. **Machine Learning** by Andrew Ng on Coursera: This course provides a comprehensive introduction to machine learning, including supervised and unsupervised learning, neural networks, and deep learning. It features video lectures, auto-graded assignments, and no mandatory attendance. (Duration: 12 weeks, Effort: 4-6 hours/week)
+2. **Introduction to Artificial Intelligence (AI)** by Microsoft on edX: This course covers the basics of AI, including machine learning, computer vision, and natural language processing. It offers video lectures, auto-graded assignments, and no mandatory attendance. (Duration: 4 weeks, Effort: 2-3 hours/week)
+3. **Python for Data Science** by IBM on Coursera: This course focuses on Python programming skills for data science and AI applications. It includes video lectures, auto-graded assignments, and no mandatory attendance. (Duration: 4 weeks, Effort: 2-3 hours/week)
+4. **Deep Learning** by deeplearning.ai on Coursera: This course provides an introduction to deep learning, including convolutional and recurrent neural networks. It features video lectures, auto-graded assignments, and no mandatory attendance. (Duration: 4 weeks, Effort: 2-3 hours/week)
+
+To achieve a high GPA, I suggest:
+
+* Allocating 10-12 hours per week for course work
+* Actively participating in discussion forums to clarify doubts and learn from peers
+* Submitting assignments on time to ensure maximum grades
+* Reviewing course materials regularly to reinforce understanding
+
+**TRADE-OFFS:**
+To accommodate your preferences, some trade-offs were made:
+
+* The courses are online, which may lack the interaction and feedback of traditional classroom settings.
+* The courses are designed for beginners, so they may not provide the same level of depth as more advanced courses.
+
+**FEASIBILITY SCORE:** 8.5/10
+The proposed solution plan is feasible because it:
+* Offers courses with video lectures, auto-graded assignments, and no mandatory attendance, aligning with your preferences.
+* Provides a balanced mix of introductory courses in AI, ML, and Python programming, which are essential for building a strong foundation in AI/ML.
+* Allows for a manageable workload, with 10-12 hours of study per week, to help you achieve a high GPA.
+However, the score is not 10/10 because the courses may not provide the same level of interaction and feedback as traditional classroom settings, and the trade-offs made may affect the overall learning experience.

@@ -1,0 +1,34 @@
+TEST: TEST_H01
+SYSTEM: conflict_aware
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN:**
+To address the query, I've created a daily plan that satisfies the hard constraints and provides a feasible approach to meet the protein and iron requirements.
+
+DAILY:
+
+* Morning: 2 cups of fortified plant-based milk (soy milk or almond milk with added iron and vitamins) with 2 tablespoons of peanut butter and 1 tablespoon of jaggery (₹15)
+* Breakfast (hostel mess): Opt for whole grain roti or paratha with lentil-based curry (dal) and a serving of sautéed spinach (₹10)
+* Mid-morning: 1 cup of pomegranate juice (₹10) with 1/4 cup of roasted chickpeas (₹5)
+* Lunch (hostel mess): Choose brown rice with mixed vegetable curry, lentil soup, and a side of sautéed greens (₹15)
+* Evening: 1 cup of roasted makhana (fox nuts) with 1 tablespoon of almond butter (₹10)
+* Dinner (hostel mess): Select whole grain roti or paratha with mixed lentil curry, sautéed vegetables, and a side of steamed broccoli (₹15)
+
+**CONFLICT RESOLUTION:**
+
+* BUDGET_VS_PROTEIN: Prioritized affordable protein sources like lentils (dal), chickpeas, and peanut butter instead of expensive protein supplements or meat alternatives.
+* BUDGET_VS_SUPPLEMENTS: Rejected supplements due to the "no supplements" constraint and focused on whole food sources to meet nutritional requirements.
+* DIET_VS_PROTEIN: Focused on vegan high-protein foods like lentils, chickpeas, and nuts to meet the daily protein requirement.
+* VEGAN_VS_PROTEIN: Incorporated a variety of plant-based protein sources, including legumes, nuts, and seeds, to ensure adequate protein intake.
+* MEDICAL_CONDITION_VS_DIET: Addressed the severe anemia and PCOS by including iron-rich foods like fortified plant-based milk, lentils, and spinach, as well as vitamin C-rich foods like pomegranate juice to enhance iron absorption.
+
+**SPECIFIC TRADE-OFFS:**
+
+* CHOSE: Fortified plant-based milk INSTEAD OF: Regular plant-based milk to increase iron and vitamin intake.
+* CHOSE: Lentil-based curry INSTEAD OF: Other protein sources like tofu or tempeh, which may be more expensive or less available in the hostel mess.
+* CHOSE: Peanut butter and almond butter INSTEAD OF: Other nut butters or seeds, which may be more expensive or less convenient.
+
+**FEASIBILITY SCORE:** 8/10
+The plan is feasible because it uses affordable and accessible ingredients, stays within the budget, and meets the protein and iron requirements. However, the plan's effectiveness may be limited by the availability of specific ingredients in the hostel mess and the individual's ability to consistently follow the plan.

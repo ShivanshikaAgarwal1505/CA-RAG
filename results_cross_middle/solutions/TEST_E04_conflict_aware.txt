@@ -1,0 +1,24 @@
+TEST: TEST_E04
+SYSTEM: conflict_aware
+DOMAIN: education
+QUERY: PhD 1st year; Need 2 courses; Topics: must align with thesis (RL in robotics); Need: theory depth, hands-on projects; Prof: must allow flex attendance (thesis work); Max 15hrs/week
+======================================================================
+
+**SOLUTION PLAN:**
+To address the query, I recommend the following two courses that align with the thesis topic of Reinforcement Learning (RL) in robotics, considering the constraints of time, prerequisites, and facility:
+
+1. **Reinforcement Learning for Robotics** (Mon/Wed 10-12PM, 6h/wk, 4.0 avg): This course provides a deep dive into RL algorithms and their applications in robotics, satisfying the theory depth preference (importance: 0.8/1.0). The course includes hands-on projects, such as implementing RL algorithms on robotic platforms, which aligns with the hands-on projects preference (importance: 0.8/1.0).
+2. **Robotics and Autonomous Systems** (Tue/Thu 2-4PM, 6h/wk, 4.1 avg): This course covers the fundamentals of robotics and autonomous systems, including perception, control, and decision-making. The course includes a flexible project component, allowing students to work on thesis-aligned projects, which satisfies the flex attendance requirement.
+
+Both courses have a total workload of 12 hours per week, which is within the 15 hours/week limit. The courses are scheduled to allow for flexible attendance, with some online components and self-paced work, to accommodate the student's thesis work.
+
+**CONFLICT RESOLUTION:**
+- **THEORY_HEAVY_VS_TIME**: I addressed this conflict by selecting courses that provide a balance between theory and hands-on projects. The Reinforcement Learning for Robotics course has a strong theoretical foundation, while the Robotics and Autonomous Systems course includes practical projects. By choosing courses with a mix of theory and practice, I ensured that the student can manage their time effectively.
+- **MULTIPLE_PROJECTS_VS_CAPACITY**: To resolve this conflict, I recommended courses with flexible project components, allowing the student to focus on thesis-aligned projects. This approach enables the student to manage their workload and prioritize their research goals.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Reinforcement Learning for Robotics INSTEAD OF: Advanced Machine Learning (more theoretical, less hands-on)
+- CHOSE: Robotics and Autonomous Systems INSTEAD OF: Computer Vision (less relevant to RL in robotics)
+
+**FEASIBILITY SCORE:** 8.5/10
+The recommended solution plan satisfies all hard constraints, including time, prerequisites, and facility. The courses provide a balance between theory and hands-on projects, addressing the soft constraints. However, the solution plan may require some adjustments to accommodate unexpected thesis work demands or changes in course schedules. Overall, the plan is feasible and should allow the student to make progress in their thesis while completing the two courses.

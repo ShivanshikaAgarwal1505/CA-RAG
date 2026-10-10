@@ -1,0 +1,70 @@
+{
+  "test_id": "TEST_H02",
+  "domain": "health",
+  "query": "22M; Gain 12kg muscle in 3 months; Budget ₹100/day; Vegetarian (eggs ok); No kitchen; Gym 6x/week; Currently underweight (BMI 16.8); Need 120g protein daily",
+  "expected_conflicts": [
+    "budget_vs_protein",
+    "time_vs_nutrition",
+    "no_kitchen_vs_nutrition",
+    "diet_vs_protein"
+  ],
+  "timestamp": "2026-02-15T20:15:58.454384",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 2074,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 0.21999999999999997,
+        "sf": 0.8,
+        "overall": 0.6103333333333334
+      }
+    },
+    "semantic": {
+      "solution_length": 2148,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 0.35,
+        "sf": 0.8,
+        "overall": 0.6558333333333334
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 2261,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.65,
+        "sf": 0.75,
+        "overall": 0.815
+      }
+    },
+    "hybrid": {
+      "solution_length": 2570,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 0.8333333333333334,
+        "crq": 0.7,
+        "sf": 0.8,
+        "overall": 0.7783333333333333
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3925,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.7,
+        "sf": 0.75,
+        "overall": 0.8325
+      },
+      "cross_domain_count": 1
+    }
+  }
+}

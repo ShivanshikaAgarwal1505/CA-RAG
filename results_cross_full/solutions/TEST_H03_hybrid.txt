@@ -1,0 +1,29 @@
+TEST: TEST_H03
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 24F; PCOS + insulin resistance; Budget ₹90/day; Vegan; Hostel mess; Avoid: soy, gluten, sugar; Need low GI, high fiber, 40g protein; Time <10min/meal
+======================================================================
+
+**SOLUTION PLAN:**
+To address the requirements and constraints, I've created a daily meal plan that incorporates vegan, gluten-free, sugar-free, and high-fiber foods, while also meeting the protein requirement of 40g. Given the hostel mess facility, I've focused on optimizing the mess food and adding supplements to meet the nutritional needs.
+
+- **Morning**: Start with a glass of warm water and a squeeze of lemon. Have 10 almonds and 5 walnuts soaked overnight with their peels.
+- **Breakfast (mess)**: Choose the gluten-free and sugar-free options available, such as oatmeal with fruits and nuts. Add an extra serving of dal (lentils) or chickpeas for protein.
+- **Mid-morning**: Have a mix of 30g of pumpkin seeds and 1 medium-sized fruit (like an apple or orange).
+- **Lunch (mess)**: Opt for brown rice, a variety of vegetables, and an extra serving of dal or chickpeas for protein. Include a side of sautéed greens.
+- **Evening**: Prepare a smoothie with 1 cup of coconut water, 1/2 cup of frozen berries, 1 tablespoon of chia seeds, and 1 scoop of vegan, gluten-free protein powder (approximately ₹50 per serving, stays within budget).
+- **Dinner (mess)**: Similar to lunch, choose brown rice, a variety of vegetables, and an extra serving of dal or chickpeas. Ensure a side of sautéed greens.
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_PROTEIN**: Prioritized affordable protein sources like dal (approximately ₹20 per serving), chickpeas, almonds, and walnuts. Also, opted for a cost-effective vegan protein powder.
+- **DIET_VS_PROTEIN**: Focused on vegan high-protein foods such as lentils, chickpeas, nuts, and seeds.
+- **VEGAN_VS_PROTEIN**: Utilized a variety of vegan protein sources including legumes, nuts, seeds, and a vegan protein supplement to meet the daily protein requirement.
+- **MEDICAL_CONDITION_VS_DIET**: For managing PCOS and insulin resistance, emphasized low GI foods like brown rice, oats, fruits, and a variety of vegetables. Also, included foods that help regulate insulin levels such as pumpkin seeds and chia seeds.
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE**: Dal-based protein and vegan protein powder **INSTEAD OF**: Expensive protein supplements.
+- **CHOSE**: Mess optimization with addition of nuts and seeds **INSTEAD OF**: Home cooking due to the constraint of no kitchen facility.
+- **CHOSE**: Gluten-free, sugar-free options in mess **INSTEAD OF**: Regular mess food to adhere to dietary restrictions.
+
+**FEASIBILITY SCORE:** 8/10
+This plan is feasible because it utilizes affordable and accessible food options within the hostel mess, supplements with nuts and seeds for added protein and fiber, and incorporates a cost-effective vegan protein powder. The trade-offs made ensure that the plan stays within the budget and adheres to all the specified dietary restrictions and preferences. However, the score is not a perfect 10 due to the limitations in completely avoiding all potential gluten and sugar sources in a hostel mess setting and the reliance on a supplement for part of the protein intake.

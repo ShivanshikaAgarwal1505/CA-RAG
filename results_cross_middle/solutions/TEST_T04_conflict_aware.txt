@@ -1,0 +1,44 @@
+TEST: TEST_T04
+SYSTEM: conflict_aware
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN:**
+To satisfy the given constraints and preferences, I recommend a 5-day trip to Rishikesh, a popular adventure destination in India. Here's a detailed plan:
+
+Day 1: Arrival and Acclimatization
+- Arrive in Rishikesh by bus or train (approximately ₹1,500 - ₹3,000 per person from major cities, depending on the mode of transport and booking time)
+- Check-in at a budget-friendly hostel like Zostel Rishikesh (approximately ₹800 per night for a dorm)
+- Spend the day exploring Rishikesh, visiting the Ram Jhula, and getting accustomed to the environment
+
+Day 2: Trekking and Camping
+- Start early for a trek to the nearby waterfall or a short hike to a scenic spot
+- Set up camp near the trekking site or return to Rishikesh for a camping experience by the Ganges (approximately ₹1,200 per person for camping, including meals)
+- Enjoy the evening with campfire, music, and team bonding activities
+
+Day 3: Rafting
+- Begin the day with a thrilling white-water rafting experience in the Ganges (approximately ₹1,000 - ₹1,500 per person, depending on the rafting package and operator)
+- Post-rafting, relax and enjoy lunch at one of the riverside cafes
+- Spend the evening at leisure, exploring the local market or attending a yoga session
+
+Day 4: Paragliding and Leisure
+- Take a day trip to a nearby paragliding site (approximately ₹2,500 - ₹3,500 per person for a tandem paragliding experience)
+- Return to Rishikesh in the evening and spend time relaxing by the river or exploring the local cuisine
+
+Day 5: Adventure Activities and Departure
+- Spend the morning engaging in other adventure activities like bungee jumping, zip lining, or rock climbing (approximately ₹1,500 - ₹3,000 per person, depending on the activity)
+- Depart for your return journey in the afternoon, bringing back memories of an adventurous trip
+
+**CONFLICT RESOLUTION:**
+- **BUDGET_VS_ADVENTURE_ACTIVITIES**: Prioritized activities based on cost-effectiveness and the importance of adventure, ensuring all required activities (trekking, camping, rafting, paragliding) are included within the budget.
+- **TIME_CONSTRAINT**: Planned the itinerary to ensure all activities and travel are completed within the 5-day time frame, with some flexibility for unexpected delays or changes in plans.
+- **ACCOMMODATION_CONSTRAINT**: Chose budget-friendly accommodation options like Zostel, which offers dorms and private rooms at affordable prices, fitting the budget constraint.
+
+**SPECIFIC TRADE-OFFS:**
+- **CHOSE**: Rishikesh as the destination INSTEAD OF: More expensive or distant locations like Leh-Ladakh, to stay within budget and ensure all activities can be covered.
+- **CHOSE**: Budget-friendly accommodation and transportation INSTEAD OF: Luxury options, to allocate more budget to adventure activities.
+- **CHOSE**: A mix of guided and self-guided activities INSTEAD OF: Fully guided tours, to save costs and have more flexibility in the itinerary.
+
+**FEASIBILITY SCORE:** 8.5/10
+The plan is feasible as it satisfies all hard constraints (budget, time, all activities included, June travel, and budget accommodation) and prioritizes the soft constraints (trekking, camping, rafting, paragliding, and adventure destination). However, the score is not a perfect 10 due to potential unforeseen expenses or changes in activity costs that could slightly exceed the budget. Flexibility in the itinerary and some contingency planning can help mitigate these risks.

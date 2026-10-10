@@ -1,0 +1,39 @@
+TEST: TEST_H02
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 22M; Gain 12kg muscle in 3 months; Budget ₹100/day; Vegetarian (eggs ok); No kitchen; Gym 6x/week; Currently underweight (BMI 16.8); Need 120g protein daily
+======================================================================
+
+**SOLUTION PLAN:**
+To address the user's requirements, I propose the following daily plan:
+
+* Morning: Start with a banana milkshake (canteen) or a packet of flavored milk (200cal) with 2 bananas (₹20)
+* Breakfast: Utilize the gym's protein-rich food options or opt for a mess breakfast with curd, buttermilk, and banana (Easy to digest) (₹30)
+* Mid-morning: Consume 40g of peanuts (₹15) and a fruit
+* Lunch: Optimize mess food by adding extra dal (₹10), buttermilk, and a banana
+* Evening: Prepare a milk-banana smoothie (₹20) with 30g of peanuts
+* Dinner: Utilize mess food with extra roti (₹10) and curd
+* Bedtime: Consume warm milk (₹10) with sugar and 5 almonds
+
+To meet the 120g protein daily requirement, prioritize the following protein sources:
+- Dal (₹80 for 1kg, approximately 20g protein per serving)
+- Peanuts (₹100 for 250g, approximately 10g protein per serving)
+- Milk (₹20 per liter, approximately 8g protein per cup)
+- Curd (₹20 per kg, approximately 10g protein per serving)
+- Banana (₹5 per piece, approximately 2g protein per serving)
+
+**CONFLICT RESOLUTION:**
+- BUDGET_VS_PROTEIN: Prioritized affordable protein sources like dal, peanuts, and milk instead of expensive whey protein or other supplements.
+- NO_KITCHEN_VS_NUTRITION: Utilized mess food and optimized it by adding extra protein-rich components like dal, curd, and buttermilk. Also, relied on easily accessible and preparation-free foods like bananas, peanuts, and flavored milk packets.
+- TIME_VS_MEAL_PREP: Chose quick and easy-to-prepare meals like bananas, peanuts, and milk-based smoothies to save time.
+- DIET_VS_PROTEIN: Focused on vegetarian high-protein foods like lentils (dal), peanuts, and milk to meet the daily protein requirement.
+- EXTREME_GOAL_VS_TIMELINE: Although the goal is ambitious, the solution prioritizes progress and feasibility. The user should aim to gain 0.5-1 kg per week for a sustainable weight gain.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Dal-based protein (affordable) INSTEAD OF: Protein supplements (expensive)
+- CHOSE: Mess optimization INSTEAD OF: Home cooking (no kitchen)
+- CHOSE: Peanuts as a primary snack INSTEAD OF: Other snacks like chips or biscuits
+- CHOSE: Banana-milk smoothies INSTEAD OF: Protein shakes or other commercial supplements
+
+**FEASIBILITY SCORE:** 7/10
+Justification: This plan is feasible given the constraints, but it may require some adjustments based on the user's personal preferences and the actual nutritional content of the mess food. Additionally, the plan relies on the user's ability to optimize their mess food and make healthy choices. The budget of ₹100/day is relatively tight, but the plan prioritizes affordable and protein-rich food sources to meet the daily requirements.

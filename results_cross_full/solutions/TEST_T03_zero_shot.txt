@@ -1,0 +1,32 @@
+TEST: TEST_T03
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN:**
+To cater to the family's requirements, I suggest a 6-day trip to Jim Corbett National Park and Nainital, Uttarakhand. This destination offers a mix of educational, adventurous, and kid-friendly activities.
+
+Day 1-2: Jim Corbett National Park
+- Stay at a kid-friendly resort like Corbett Jungle Resort or The Riverview Retreat, which offer activities like nature walks, bird watching, and outdoor games.
+- Take a guided jungle safari to spot animals like tigers, elephants, and deer. This will be an exciting and educational experience for the kids.
+- Visit the Corbett Falls and engage in a nature walk to learn about the local flora and fauna.
+
+Day 3-4: Nainital
+- Stay at a family-friendly hotel like The Manu Maharani or Hotel Himalaya, which offer comfortable rooms and amenities like game rooms and kids' play areas.
+- Take a ride on the Nainital Ropeway, which offers breathtaking views of the surrounding hills and lakes.
+- Visit the Nainital Zoo, which is home to a variety of animals like tigers, bears, and monkeys. The kids will love the interactive sessions and animal feeding activities.
+- Engage in boating and paddle-boating at the Naini Lake, which will be a fun and relaxing experience for the family.
+
+Day 5-6: Bhimtal and surrounding areas
+- Visit the Bhimtal Lake and take a boat ride to the nearby island, which has a beautiful aquarium and a variety of fish species.
+- Take a short trek to the nearby villages and engage in activities like pottery-making and traditional crafts.
+- Visit the High Altitude Zoo at Bhimtal, which is home to a variety of animals like red pandas, snow leopards, and Himalayan black bears.
+
+**TRADE-OFFS:**
+To stay within the budget, I've compromised on the following:
+- Instead of staying at luxury resorts, I've opted for mid-range, kid-friendly stays that offer comfortable amenities and activities.
+- I've skipped visiting museums and historical sites, as per the kids' preference, and focused on outdoor activities and animal-related experiences.
+
+**FEASIBILITY SCORE:** 8.5/10
+This plan is feasible because it offers a mix of educational, adventurous, and kid-friendly activities that cater to the family's interests and budget. The destinations are relatively close to each other, reducing travel time and costs. However, the plan may require some flexibility in case of unexpected weather changes or other unforeseen circumstances. Overall, this solution plan should provide a fun and memorable experience for the family.

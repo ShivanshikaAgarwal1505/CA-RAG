@@ -1,0 +1,379 @@
+[
+  {
+    "case_id": "HC_001",
+    "status": "success",
+    "constraints": {
+      "hard_constraints": [
+        {
+          "type": "budget",
+          "value": "150",
+          "unit": "\u20b9/day"
+        },
+        {
+          "type": "diet",
+          "value": "vegetarian",
+          "unit": "none"
+        },
+        {
+          "type": "facility",
+          "value": "hostel mess",
+          "unit": "none"
+        }
+      ],
+      "soft_constraints": [
+        {
+          "type": "preference",
+          "value": "quick meals",
+          "strength": 0.8
+        }
+      ],
+      "goals": [
+        {
+          "type": "health",
+          "value": "reduce hair fall"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "HC_002",
+    "status": "success",
+    "constraints": {
+      "hard_constraints": [
+        {
+          "type": "budget",
+          "value": 300,
+          "unit": "\u20b9/day"
+        },
+        {
+          "type": "diet",
+          "value": "non-veg",
+          "unit": null
+        },
+        {
+          "type": "facility",
+          "value": "gym",
+          "unit": null
+        }
+      ],
+      "soft_constraints": [
+        {
+          "type": "preference",
+          "value": "willing to cook",
+          "strength": 1.0
+        }
+      ],
+      "goals": [
+        {
+          "type": "health",
+          "value": "gain muscle"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "HC_003",
+    "status": "success",
+    "constraints": {
+      "hard_constraints": [
+        {
+          "type": "diet",
+          "value": "vegetarian",
+          "unit": "none"
+        },
+        {
+          "type": "budget",
+          "value": "200",
+          "unit": "\u20b9/day"
+        },
+        {
+          "type": "time",
+          "value": "no time for elaborate meals",
+          "unit": "none"
+        },
+        {
+          "type": "health",
+          "value": "anemia (iron deficiency)",
+          "unit": "none"
+        }
+      ],
+      "soft_constraints": [
+        {
+          "type": "convenience",
+          "value": "home cooking",
+          "strength": 0.8
+        },
+        {
+          "type": "preference",
+          "value": "simple meals",
+          "strength": 0.7
+        }
+      ],
+      "goals": [
+        {
+          "type": "health",
+          "value": "manage anemia (iron deficiency)",
+          "unit": "none"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "HC_004",
+    "status": "success",
+    "constraints": {
+      "hard_constraints": [
+        {
+          "type": "diet",
+          "value": "low carb",
+          "unit": "diet type"
+        },
+        {
+          "type": "budget",
+          "value": 250,
+          "unit": "\u20b9/day"
+        }
+      ],
+      "soft_constraints": [
+        {
+          "type": "taste",
+          "value": "tasty food",
+          "strength": 0.8
+        }
+      ],
+      "goals": [
+        {
+          "type": "health",
+          "value": "manage pre-diabetic condition"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "HC_005",
+    "status": "success",
+    "constraints": {
+      "hard_constraints": [
+        {
+          "type": "budget",
+          "value": "100",
+          "unit": "\u20b9/day"
+        },
+        {
+          "type": "diet",
+          "value": "vegan",
+          "unit": null
+        },
+        {
+          "type": "facility",
+          "value": "hostel mess",
+          "unit": null
+        }
+      ],
+      "soft_constraints": [
+        {
+          "type": "preference",
+          "value": "vegan",
+          "strength": 1.0
+        }
+      ],
+      "goals": [
+        {
+          "type": "health",
+          "value": "weight loss",
+          "unit": null
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "EC_001",
+    "status": "success",
+    "constraints": {
+      "hard_constraints": [
+        {
+          "type": "prerequisites",
+          "value": "ML basics",
+          "unit": "course"
+        },
+        {
+          "type": "semester",
+          "value": "3rd",
+          "unit": "semester"
+        },
+        {
+          "type": "number_of_courses",
+          "value": "4",
+          "unit": "courses"
+        }
+      ],
+      "soft_constraints": [
+        {
+          "type": "interest_area",
+          "value": "CV",
+          "strength": 0.5
+        },
+        {
+          "type": "interest_area",
+          "value": "NLP",
+          "strength": 0.5
+        },
+        {
+          "type": "professor_preference",
+          "value": "high GPA",
+          "strength": 1.0
+        }
+      ],
+      "goals": [
+        {
+          "type": "academic",
+          "value": "learn CV and NLP"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "EC_002",
+    "status": "success",
+    "constraints": {
+      "hard_constraints": [
+        {
+          "type": "time",
+          "value": "15",
+          "unit": "hours/week"
+        },
+        {
+          "type": "prerequisites",
+          "value": "done",
+          "unit": "null"
+        }
+      ],
+      "soft_constraints": [
+        {
+          "type": "preference",
+          "value": "easy courses",
+          "strength": 0.8
+        }
+      ],
+      "goals": [
+        {
+          "type": "academic",
+          "value": "high GPA"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "TR_001",
+    "status": "success",
+    "constraints": {
+      "hard_constraints": [
+        {
+          "type": "budget",
+          "value": 15000,
+          "unit": "INR"
+        },
+        {
+          "type": "time",
+          "value": 5,
+          "unit": "days"
+        },
+        {
+          "type": "facility",
+          "value": "water sports",
+          "unit": "availability"
+        },
+        {
+          "type": "facility",
+          "value": "nightlife",
+          "unit": "availability"
+        }
+      ],
+      "soft_constraints": [
+        {
+          "type": "preference",
+          "value": "beach destination",
+          "strength": 1.0
+        }
+      ],
+      "goals": [
+        {
+          "type": "experience",
+          "value": "enjoy water sports and nightlife"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "TR_002",
+    "status": "success",
+    "constraints": {
+      "hard_constraints": [
+        {
+          "type": "budget",
+          "value": 8000,
+          "unit": "INR"
+        },
+        {
+          "type": "time",
+          "value": 3,
+          "unit": "days"
+        }
+      ],
+      "soft_constraints": [
+        {
+          "type": "preference",
+          "value": "mountains",
+          "strength": 0.8
+        },
+        {
+          "type": "preference",
+          "value": "spiritual destination",
+          "strength": 0.9
+        }
+      ],
+      "goals": [
+        {
+          "type": "experience",
+          "value": "spiritual trip"
+        }
+      ]
+    }
+  },
+  {
+    "case_id": "TR_003",
+    "status": "success",
+    "constraints": {
+      "hard_constraints": [
+        {
+          "type": "budget",
+          "value": 30000,
+          "unit": "INR"
+        },
+        {
+          "type": "time",
+          "value": 7,
+          "unit": "days"
+        },
+        {
+          "type": "facility",
+          "value": "kid-friendly",
+          "unit": "destination"
+        }
+      ],
+      "soft_constraints": [
+        {
+          "type": "preference",
+          "value": "educational activities",
+          "strength": 0.8
+        }
+      ],
+      "goals": [
+        {
+          "type": "experience",
+          "value": "family trip"
+        }
+      ]
+    }
+  }
+]

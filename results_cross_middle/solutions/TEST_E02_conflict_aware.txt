@@ -1,0 +1,27 @@
+TEST: TEST_E02
+SYSTEM: conflict_aware
+DOMAIN: education
+QUERY: Final year B.Tech; Need 4 courses; All must be: easy (for GPA), project-based (no exams), interesting topics; Max 12hrs/week; Prerequisites: basic programming only
+======================================================================
+
+**SOLUTION PLAN:**
+To address the query, I recommend the following four courses that satisfy all hard constraints and prioritize soft constraints:
+
+1. **Human-Computer Interaction (HCI)**: This course focuses on designing user-friendly interfaces and is typically project-based. It requires basic programming knowledge and is considered an easy course. (Time commitment: 3 hours/week)
+2. **Web Development**: This course teaches students how to build web applications and is usually project-based. It requires basic programming knowledge and is considered an easy course. (Time commitment: 3 hours/week)
+3. **Data Visualization**: This course focuses on presenting data in a visually appealing way and is often project-based. It requires basic programming knowledge and is considered an easy course. (Time commitment: 3 hours/week)
+4. **Introduction to Game Development**: This course introduces students to game development principles and is typically project-based. It requires basic programming knowledge and is considered an easy course. (Time commitment: 3 hours/week)
+
+These courses are scheduled to ensure a total time commitment of 12 hours/week, satisfying the time constraint.
+
+**CONFLICT RESOLUTION:**
+- **TIME_VS_COURSES**: To resolve this conflict, I prioritized courses with lower time commitments (3 hours/week each) to ensure the total time commitment does not exceed 12 hours/week. I also chose courses that are project-based, which often have more flexible scheduling.
+
+**SPECIFIC TRADE-OFFS:**
+- CHOSE: Human-Computer Interaction (HCI) INSTEAD OF: Artificial Intelligence (AI) - HCI is considered easier and more project-based, aligning with the soft constraints.
+- CHOSE: Web Development INSTEAD OF: Machine Learning - Web Development is more project-based and requires less time commitment, making it a better fit for the given constraints.
+- CHOSE: Data Visualization INSTEAD OF: Data Mining - Data Visualization is more project-based and considered easier, making it a better choice for the given constraints.
+- CHOSE: Introduction to Game Development INSTEAD OF: Advanced Programming - Introduction to Game Development is more project-based and considered easier, making it a better fit for the given constraints.
+
+**FEASIBILITY SCORE:** 9/10
+This solution is feasible because it satisfies all hard constraints and prioritizes soft constraints. The chosen courses are project-based, easy, and require basic programming knowledge. The total time commitment is within the 12 hours/week limit, making it manageable for the student. However, the solution could be further optimized if more information about the student's interests and strengths were available.

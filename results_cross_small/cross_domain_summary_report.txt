@@ -1,0 +1,68 @@
+================================================================================
+CROSS-DOMAIN TRANSFER SUMMARY REPORT
+================================================================================
+
+Generated: 2026-02-15 20:18:36
+Total Test Cases: 6
+
+TEST_E01:
+  Domain: education
+  Cross-domain examples: 1/3
+  Cases: ED_001, ED_002, HC_002
+
+TEST_E02:
+  Domain: education
+  Cross-domain examples: 1/3
+  Cases: ED_001, ED_002, HC_002
+
+TEST_H01:
+  Domain: health
+  Cross-domain examples: 1/3
+  Cases: HC_002, HC_004, ED_005
+
+TEST_H02:
+  Domain: health
+  Cross-domain examples: 1/3
+  Cases: HC_019, HC_004, ED_011
+
+TEST_T01:
+  Domain: travel
+  Cross-domain examples: 0/3
+  Cases: TR_022, TR_016, TR_021
+
+TEST_T02:
+  Domain: travel
+  Cross-domain examples: 0/3
+  Cases: TR_023, TR_018, TR_019
+
+
+================================================================================
+SUMMARY BY DOMAIN
+================================================================================
+
+EDUCATION:
+  Test cases: 2
+  Total retrievals: 6
+  Cross-domain: 2
+  Cross-domain rate: 33.3%
+
+HEALTH:
+  Test cases: 2
+  Total retrievals: 6
+  Cross-domain: 2
+  Cross-domain rate: 33.3%
+
+TRAVEL:
+  Test cases: 2
+  Total retrievals: 6
+  Cross-domain: 0
+  Cross-domain rate: 0.0%
+
+
+================================================================================
+OVERALL STATISTICS
+================================================================================
+
+Total retrievals: 18
+Cross-domain retrievals: 4
+Cross-domain rate: 22.2%

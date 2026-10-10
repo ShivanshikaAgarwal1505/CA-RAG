@@ -1,0 +1,29 @@
+TEST: TEST_E01
+SYSTEM: zero_shot
+DOMAIN: education
+QUERY: M.Tech 2nd sem; Need exactly 5 courses; Must include: Deep Learning, NLP; Avoid: Math-heavy courses; Need 8.5+ GPA; Max 20hrs/week workload; No Saturday classes
+======================================================================
+
+**SOLUTION PLAN:**
+To meet the requirements, I suggest the following 5 courses for the M.Tech 2nd semester:
+
+1. Deep Learning (3 credits) - This course is a must-have as per the requirements.
+2. Natural Language Processing (NLP) (3 credits) - Another required course that aligns with the user's needs.
+3. Computer Vision (3 credits) - This course complements Deep Learning and has applications in image and video processing.
+4. Human-Computer Interaction (3 credits) - This course focuses on designing user-friendly interfaces and has minimal math requirements.
+5. Software Engineering for AI (3 credits) - This course teaches software development principles for AI applications, with a focus on practical implementation.
+
+To achieve an 8.5+ GPA, it's essential to:
+- Attend all classes and participate in discussions
+- Submit quality assignments and projects
+- Prepare well for exams and quizzes
+
+Given the 20hrs/week workload constraint, I've chosen courses with a moderate workload. Assuming 4 hours of classes per course per week, this leaves 4 hours for self-study, assignments, and projects.
+
+No Saturday classes are included in this plan, as per the user's request.
+
+**TRADE-OFFS:**
+To avoid math-heavy courses, I've excluded courses like Advanced Machine Learning, Statistical Modeling, and Optimization Techniques. While these courses might be beneficial, they may not align with the user's preferences.
+
+**FEASIBILITY SCORE:** 8.5/10
+This plan is feasible because it meets all the specified requirements, including the must-have courses, GPA target, workload constraint, and no Saturday classes. However, the user may need to put in extra effort to achieve an 8.5+ GPA, and some flexibility might be required to accommodate any unexpected changes in the course schedule or workload.
