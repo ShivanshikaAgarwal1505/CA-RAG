@@ -1,0 +1,50 @@
+{
+  "test_id": "TEST_T03",
+  "domain": "travel",
+  "timestamp": "2026-10-20T20:38:38.988407",
+  "systems": {
+    "zero_shot": {
+      "num_examples": 0,
+      "retrieved_cases": [],
+      "method": "zero-shot"
+    },
+    "semantic": {
+      "num_examples": 3,
+      "retrieved_cases": [
+        "TR_005",
+        "TR_023",
+        "TR_010"
+      ],
+      "method": "semantic"
+    },
+    "conflict_aware": {
+      "num_examples": 0,
+      "retrieved_cases": [
+        "TR_005",
+        "TR_023",
+        "TR_010"
+      ],
+      "method": "conflict-aware"
+    },
+    "hybrid": {
+      "num_examples": 3,
+      "retrieved_cases": [
+        "TR_005",
+        "TR_023",
+        "TR_010"
+      ],
+      "method": "hybrid"
+    },
+    "cross_domain": {
+      "num_examples": 3,
+      "retrieved_cases": [
+        "TR_005",
+        "TR_001",
+        "HC_005"
+      ],
+      "method": "cross-domain",
+      "cross_domain_count": 1,
+      "same_domain_count": 2
+    }
+  }
+}
