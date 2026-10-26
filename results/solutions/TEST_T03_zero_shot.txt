@@ -1,0 +1,69 @@
+TEST: TEST_T03
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN**
+
+| Day | Destination & Base | Morning Activity | Mid‑day / Lunch | Afternoon Activity | Evening / Dinner | Accommodation |
+|-----|--------------------|------------------|----------------|--------------------|------------------|----------------|
+| **1** | **Ramnagar (entry point to Jim Corbett National Park)** – travel by train / state bus from home city | Depart early by train/bus (overnight if needed) – enjoy the scenery | Packed lunch on board or simple dhaba stop | Arrive in Ramnagar, check‑in, freshen up | Walk along the **Kosi River** promenade, dinner at a local dhaba (try Kumaoni thali) | **Budget family guesthouse / homestay** – ₹1,200 / night (family room, 2‑bed, attached bathroom) |
+| **2** | **Jim Corbett – Core Zone** | Early‑morning **Jeep Safari** (Zone A – best for tigers, leopards, elephants) – 3 hrs | Picnic lunch (sandwiches, fruits) inside the park (carry from guesthouse) | Guided **Nature Walk** with a forest guard – learn about flora, animal tracks, bird calls | Return to Ramnagar, dinner at guesthouse kitchen (self‑cooked) | Same guesthouse |
+| **3** | **Jim Corbett – Buffer Zone** | Visit **Corbett Museum & Indo‑British Forest Office** – short 30‑min talk (kids can see historic rifles, not a typical museum) – focus on forest‑ranger life | Lunch at **Kashipur** (budget restaurant, ₹600 for family) | **Elephant Breeding Centre** (Kashipur) – interactive session with caretakers, feeding demonstration (kids love animals) | Evening walk in **Bhalu‑Danda** viewpoint, dinner back in Ramnagar | Same guesthouse |
+| **4** | **Ramnagar & Nearby Villages** | **Village School Visit** – arrange through local NGO (30 min talk on wildlife conservation, kids get to interact with school children) | Lunch at a **farm‑stay kitchen** – simple thali (₹500) | **Bird‑watching boat ride** on the **Kosi River** (guided by local fisherman) – spot kingfishers, herons, water‑birds | Return, light dinner, optional bonfire (if guesthouse allows) | Same guesthouse |
+| **5** | **Kashipur – Day‑trip** | **Kashipur Zoo (Kashipur Wildlife Sanctuary)** – small but well‑maintained, kids can see rescued deer, bears, birds | Lunch at **Kashipur market** (street food, ₹400) | **Adventure Activity** – zip‑line & rope‑course at **Kashipur Adventure Park** (kids 6+) – safe, supervised, teaches confidence | Return to Ramnagar, dinner at **local dhaba** (₹500) | Same guesthouse |
+| **6** | **Return Home** | Pack, checkout | Breakfast at guesthouse (included) | Travel back by train/bus | Arrive home, end of trip | – |
+
+### Cost Breakdown (₹)
+
+| Item | Approx. Cost |
+|------|--------------|
+| **Transport (round‑trip train/bus for 4)** | ₹4,000 |
+| **Local transport (auto‑rickshaws, shared taxis, 2‑hour jeep for safari)** | ₹3,500 |
+| **Accommodation (5 nights @ ₹1,200)** | ₹6,000 |
+| **Jim Corbett Jeep Safari (2 adults + 2 kids)** | ₹2,500 |
+| **Elephant Centre entry & feeding** | ₹800 |
+| **Kashipur Zoo entry** | ₹300 |
+| **Adventure Park zip‑line** | ₹1,200 |
+| **Meals (breakfast often included, lunch & dinner)** | ₹9,000 |
+| **Miscellaneous (snacks, water, entry fees for nature walk, small souvenirs)** | ₹1,200 |
+| **Contingency (10 % of total)** | ₹2,500 |
+| **Total** | **≈ ₹31,000** |
+
+*Remaining ~₹4,000 can be used for extra treats, a second safari, or as a safety buffer.*
+
+### Why This Works for the Kids
+
+- **Animals first:** Safari, elephant centre, zoo, and rescued‑animal interactions give plenty of live‑animal exposure.
+- **Adventure, not museums:** Zip‑line, rope‑course, boat ride, and nature walks keep them moving.
+- **Learning opportunities:** Forest‑ranger talk, village‑school visit, guided nature walk teach ecology and conservation.
+- **Kid‑friendly stays:** Guesthouse provides family room, attached bathroom, and a small kitchen for simple meals – safe and comfortable.
+- **Safety:** All activities are supervised by certified guides; travel by reputable state transport; accommodation vetted via recent reviews.
+
+### Practical Tips
+
+1. **Book train tickets early** (e‑ticket, sleeper class for comfort).  
+2. **Reserve the jeep safari** at the park office a week in advance (online if possible).  
+3. **Ask the guesthouse** to arrange the village‑school visit and nature‑walk – many homestays have tie‑ups with NGOs.  
+4. **Carry cash** (small denominations) for entry fees and local transport; ATMs are limited in the park area.  
+5. **Pack light**: quick‑dry clothing, rain jacket (monsoon season), sturdy shoes, hats, sunscreen, and a reusable water bottle.  
+6. **Health safety:** Carry basic first‑aid kit, any child‑specific meds, and a copy of immunisation records.
+
+---
+
+**TRADE‑OFFS**
+
+| Compromise | Reason |
+|------------|--------|
+| **Limited luxury** – staying in a budget guesthouse rather than a resort | Keeps total cost within ₹35 k; still safe and clean. |
+| **Only one full‑day jeep safari** (instead of two) | Safari slots are pricey; one good safari plus many other animal interactions balances budget and experience. |
+| **No overnight stay inside the national park** (which would be pricier) | Saves ~₹2,000‑₹3,000; still allows daily park entry for activities. |
+| **Self‑cooked breakfasts & some packed lunches** | Reduces food cost; ensures kids have familiar meals. |
+| **Shorter travel distance** (Ramnagar is reachable by train/bus) | Avoids expensive flights; limits travel fatigue for kids. |
+
+---
+
+**FEASIBILITY SCORE:** **8/10**
+
+*Justification:* The itinerary stays comfortably under the ₹35,000 budget while delivering a mix of

@@ -1,0 +1,69 @@
+TEST: TEST_H03
+SYSTEM: zero_shot
+DOMAIN: health
+QUERY: 24F; PCOS + insulin resistance; Budget ₹90/day; Vegan; Hostel mess; Avoid: soy, gluten, sugar; Need low GI, high fiber, 40g protein; Time <10min/meal
+======================================================================
+
+**SOLUTION PLAN**
+
+| Time | Meal | Menu (Vegan, Gluten‑free, Soy‑free, No added sugar) | Approx. Protein | Approx. Cost (₹) | Prep‑time |
+|------|------|------------------------------------------------------|----------------|------------------|-----------|
+| 07:30 am | **Breakfast** | 1️⃣ **Gluten‑free rolled oats** (30 g) cooked in water + 1 Tbsp **chia seeds** + 10 g **almonds** (chopped) + ½ cup frozen mixed berries (defrosted) + pinch cinnamon | 10 g | 10 | 5 min (microwave/boil) |
+| 10:00 am | **Mid‑morning snack** | ½ cup **Roasted Bengal gram (chana)** (dry‑roasted, unsalted) | 6 g | 4 | 0 (ready‑to‑eat) |
+| 01:00 pm | **Lunch** | 1 cup **Brown rice** (cooked) + ½ cup **Mixed dal** (masoor + toor, pressure‑cooked) + 1 cup **Stir‑fried veg** (carrot, beans, spinach) with ½ tsp mustard seeds, curry leaves, 1 tsp oil | 15 g | 20 | 8 min (reheat rice & dal, quick veg stir) |
+| 04:00 pm | **Afternoon snack** | 1 medium **Apple** + 1 Tbsp **Pumpkin seeds** | 5 g | 5 | 0 |
+| 07:30 pm | **Dinner** | **Millet‑khichdi**: ½ cup **Ragi (finger millet) flakes** + ¼ cup **Moong dal** + ½ cup mixed veg (pumpkin, zucchini, peas) cooked together in a pressure‑cooker (5 min) + drizzle of lemon juice | 12 g | 20 | 7 min (use pre‑soaked dal) |
+| **Total** |  |  | **≈ 48 g protein** | **≈ ₹ 59** |  |
+
+### Grocery List (weekly – cost split ~₹ 85‑90 per week)
+
+| Item | Quantity (weekly) | Approx. Cost (₹) |
+|------|-------------------|------------------|
+| Gluten‑free rolled oats | 500 g | 30 |
+| Chia seeds | 100 g | 15 |
+| Almonds (raw) | 100 g | 15 |
+| Frozen mixed berries (optional, can replace with fresh seasonal) | 250 g | 20 |
+| Roasted Bengal gram (chana) | 200 g | 12 |
+| Brown rice | 1 kg | 45 |
+| Mixed dal (masoor + toor) | 500 g | 40 |
+| Moong dal | 250 g | 20 |
+| Ragi flakes (or bajra millet) | 500 g | 30 |
+| Fresh veg (carrot, beans, spinach, pumpkin, zucchini, peas) | 2 kg total | 80 |
+| Apple / seasonal fruit | 7 pcs | 35 |
+| Pumpkin seeds | 100 g | 25 |
+| Mustard seeds, curry leaves, turmeric, cinnamon, salt, pepper, oil | – | 20 |
+| **Weekly total** | – | **≈ ₹ 382** → **≈ ₹ 55 / day** (well under ₹ 90) |
+
+### Daily Routine Tips (≤10 min per meal)
+
+1. **Batch‑cook** brown rice, mixed dal, and moong dal every 2‑3 days in a small electric pressure‑cooker or rice cooker. Store in airtight containers in the hostel fridge.
+2. **Pre‑soak** moong dal for 30 min the night before; it cooks in ≤5 min under pressure.
+3. Keep **ready‑to‑eat snacks** (roasted chana, nuts, pumpkin seeds) in small zip‑locks for quick grab‑and‑go.
+4. Use a **microwave** or electric kettle to heat oats, rice, and khichdi – no stovetop needed.
+5. Add a squeeze of **lemon** or a sprinkle of **cinnamon** for flavor without sugar.
+
+### How the Plan Meets the Requirements
+
+| Requirement | How It Is Met |
+|-------------|---------------|
+| **PCOS & Insulin‑resistance** – low GI | Brown rice, millet, lentils, oats, and most veg have low‑to‑moderate GI; no refined carbs or added sugar. |
+| **Vegan** | No animal products. |
+| **Avoid soy, gluten, sugar** | All ingredients are soy‑free; millet, rice, oats (certified gluten‑free) replace wheat; no sweeteners added. |
+| **≥ 40 g protein** | Combined daily protein ≈ 48 g from legumes, nuts, seeds, and millet. |
+| **High fiber** | Lentils, millet, brown rice, veggies, nuts, seeds provide >30 g fiber/day. |
+| **Budget ≤ ₹ 90/day** | Total daily cost ≈ ₹ 55, leaving margin for occasional extras. |
+| **Prep time <10 min** | All meals are reheated or assembled in ≤10 min using pre‑cooked staples. |
+| **Hostel mess friendly** | Requires only a small electric kettle/ microwave and a fridge – typical hostel amenities. |
+
+**Optional Variations (keep within budget & constraints)**
+- Swap **almonds** with **walnuts** or **peanut butter** (≈ ₹ 5 extra) for variety.
+- Use **certified gluten‑free quinoa** once a week instead of millet for a protein boost (≈ ₹ 15 extra/day on that day).
+- Replace berries with **local seasonal fruit** (e.g., papaya) to cut cost further.
+
+---
+
+**TRADE‑OFFS**
+
+| Compromise | Reason |
+|------------|--------|
+| **Millet instead of quinoa** | Quinoa is a complete protein but costs ~₹ 15‑20 per serving, pushing daily

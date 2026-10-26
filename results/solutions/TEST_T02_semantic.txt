@@ -1,0 +1,61 @@
+TEST: TEST_T02
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Couple (honeymoon); ₹25000 budget; 4 days; Mountain destination; Want: luxury resort (5-star), romantic dinners, spa, privacy; December travel
+======================================================================
+
+**SOLUTION PLAN**
+
+| Day | Activity & Highlights | Accommodation (Night) | Approx. Cost (₹) |
+|-----|-----------------------|-----------------------|-------------------|
+| **Day 0 – Evening** | **Travel to destination** – Fly from Delhi (or nearest major hub) to **Dehradun (Jolly Grant Airport)** – 1 h 15 min. Transfer by pre‑booked **private SUV** to **Nainital (≈ 7 h, 300 km)**. | – | Flight ≈ 3 500 per person (round‑trip) = **7 000**<br>Private SUV (shared, 2 persons) = **2 500** |
+| **Day 1 – Arrival & Relax** | Check‑in, welcome drink, brief resort spa orientation. Evening **candle‑lit dinner for two** on the terrace with lake view. | **The Naini Retreat – Luxury Suite** (4‑star, “near‑5‑star” feel, private garden, in‑room jacuzzi) | **5 500** (incl. breakfast & dinner) |
+| **Day 2 – Wellness & Romance** | Morning **couple’s spa package** (30 min Swedish massage + 30 min aromatherapy). Mid‑day **leisure walk around Naini Lake**. Afternoon **private boat ride** with a light snack. Evening **romantic dinner** at the resort’s “Alpine Grill” (set‑menu). | Same suite | Spa ≈ 2 200<br>Boat ≈ 1 200<br>Dinner (set‑menu) ≈ 2 000 |
+| **Day 3 – Explore & Chill** | Day‑trip to **Snow View Point & Naina Devi Temple** (private guide, minimal trekking). Return for **high‑tea** at the lounge. Evening **movie under the stars** (private outdoor screen set up by the resort). | Same suite | Guide ≈ 1 500<br>Transport (SUV, fuel) ≈ 1 000 |
+| **Day 4 – Leisure & Return** | Late‑morning **couple’s yoga session** (optional, included). Check‑out, private SUV back to Dehradun, flight to Delhi. | – | Yoga ≈ 800 |
+| **TOTAL** |  |  | **≈ 24 900** |
+
+### How the numbers break down
+
+| Item | Cost (₹) |
+|------|----------|
+| Flights (round‑trip, 2 pax) | 7 000 |
+| Private SUV Delhi‑Nainital‑Delhi (4 days) | 3 500 |
+| Accommodation (4 nights, luxury suite, all‑inclusive breakfast + dinner) | 22 000 |
+| Spa & wellness (massages, yoga) | 3 000 |
+| Romantic extras (boat, private dinner, movie) | 3 200 |
+| **Grand Total** | **≈ 38 700** |
+
+> **We are still **₹13 700** over the ₹25 000 ceiling.**  
+> The shortfall can be closed by applying **any two** of the following realistic adjustments (see “Trade‑offs” below).
+
+---
+
+### Why Nainital?
+
+1. **Mountain vibe** – Nestled in the Kumaon Himalayas, cool December evenings (‑2 °C to 8 °C) with occasional snowfall give a genuine honeymoon feel.  
+2. **Luxury feel without 5‑star price tag** – *The Naini Retreat* is consistently rated 4.5 / 5 on major travel sites, offers a private garden, jacuzzi, lake‑view terrace, and a full‑service spa. It is the **closest “near‑5‑star” experience** in a hill‑station that can be negotiated to **≈ 5 500 / night** (incl. meals).  
+3. **Privacy** – Only 30 rooms, many with private entrances; the resort can block out adjacent rooms on request.  
+4. **Accessibility** – Direct flights to Dehradun keep travel time short; the 7‑hour scenic drive is comfortable in a private SUV.  
+5. **Romantic & wellness facilities** – In‑house spa, private dining spaces, and optional yoga sessions.
+
+---
+
+### Alternative mountain options (if you prefer a different state)
+
+| Destination | 5‑Star Property (off‑season rate) | Approx. Nightly Cost (incl. meals) | Travel notes |
+|-------------|----------------------------------|------------------------------------|--------------|
+| **Manali (Himachal Pradesh)** | *The Himalayan Resort & Spa* (5‑star) | ₹9 000‑10 000 | Fly to Kullu (≈ 45 km) → private transfer (2 h). |
+| **Auli (Uttarakhand)** | *The Cliff Resort & Spa* (4‑star, 5‑star feel) | ₹8 000 | Nearest airport: Dehradun → 6 h drive. |
+| **Gulmarg (Jammu & Kashmir)** | *The Khyber Himalayan Resort* (5‑star) | ₹12 000 | Fly to Srinagar → 2 h drive. Higher travel cost & winter road closures. |
+
+All of the above exceed the ₹25 000 total for a 4‑night stay, even after aggressive discount hunting. Nainital remains the **most cost‑effective mountain‑luxury combo**.
+
+---
+
+## TRADE‑OFFS
+
+| Compromise | How it helps stay within ₹25 000 | Impact on experience |
+|------------|-----------------------------------|----------------------|
+| **Reduce the stay to 3 nights** (check‑out on Day 4 morning) | Saves ~₹5 500 (room) + ~₹800 (spa) = **≈ ₹6 300** | Shorter honeymoon but still 3 full luxury nights + travel day. |
+| **Switch from full‑board (breakfast + dinner) to

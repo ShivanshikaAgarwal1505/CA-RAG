@@ -1,0 +1,21 @@
+TEST: TEST_H01
+SYSTEM: conflict_aware
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN – 19 yr F, Severe Anemia + PCOS, ₹80 / day, Strict Vegan, Hostel‑Mess Only**
+
+| Time | Food (≈ portion) | Approx. Protein | Approx. Iron | Vitamin C (boosts iron) | Cost (₹) |
+|------|------------------|-----------------|--------------|--------------------------|----------|
+| **Early‑morning (empty stomach)** | 1 large orange (peeled) + 1 cup warm water | 1 g | 0.2 mg | **150 mg** (high) | 5 |
+| **Mess Breakfast** | 2 rotis + 1 cup **double‑dal** (moong/masoor) + 1 cup mixed veg (spinach‑rich) | 10 g | 4 mg (dal + spinach) | – | 20* |
+| **Mid‑morning snack (bought)** | 30 g **roasted peanuts** | 7 g | 0.8 mg | – | 8 |
+| **Mess Lunch** | 1 cup rice + 2 rotis + 1 cup **extra dal** + 1 cup veg (add a small side of **spinach** if possible) | 12 g | 3 mg | – | 20* |
+| **Afternoon snack (bought)** | 40 g **boiled soybeans** (pre‑cooked, kept in a small container) | 16 g | 5 mg | – | 12 |
+| **Pre‑dinner (2 h after tea/coffee)** | 1 tbsp **ground flaxseed** mixed in a glass of water | 2 g | 1 mg | – | 2 |
+| **Mess Dinner** | 1 cup rice + 2 rotis + 1 cup **extra dal** + 1 cup veg (add a small side of **pumpkin‑seed sabzi** if mess allows) | 12 g | 3 mg | – | 20* |
+| **Bedtime** | 10 g **sesame seeds** (sprinkled on a banana or eaten plain) | 3 g | 2.5 mg | – | 5 |
+| **Total per day** | – | **≈ 53 g** | **≈ 19 mg** | – | **≈ ₹80** |
+
+\*Mess charge is assumed to be the bulk of the daily ₹80 (≈ ₹35‑40). The remaining ₹40‑45 is used for the listed extra items. Prices are based on typical

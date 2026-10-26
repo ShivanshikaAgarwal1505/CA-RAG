@@ -1,0 +1,51 @@
+TEST: TEST_E04
+SYSTEM: zero_shot
+DOMAIN: education
+QUERY: PhD 1st year; Need 2 courses; Topics: must align with thesis (RL in robotics); Need: theory depth, hands-on projects; Prof: must allow flex attendance (thesis work); Max 15hrs/week
+======================================================================
+
+**SOLUTION PLAN**
+
+| Step | Action | Details | Time Commitment (hrs/week) |
+|------|--------|---------|----------------------------|
+| **1. Define Course Requirements** | • Core RL theory (MDPs, policy/value function approximation, convergence proofs)  <br>• Robotics integration (sim‑to‑real transfer, dynamics, perception)  <br>• Substantial project (≥30 h of coding/experimentation)  <br>• Instructor willing to approve a “flex‑attendance” arrangement (e.g., optional labs, recorded lectures) | – | – |
+| **2. Scan Institutional Catalog & External Options** | • Look for **graduate‑level** courses that satisfy the above and are **≤ 7 hrs/week** (lecture + lab + assignment).  <br>• Prioritize courses **taught by faculty who supervise PhD students** (easier to negotiate flexibility).  <br>• Keep a shortlist of 4‑5 candidates. | – | – |
+| **3. Shortlist (example) – 2024‑25 Fall Semester** | 1️⃣ **CS / EE  763 – “Reinforcement Learning for Autonomous Systems”**  <br>   • 3 × 1‑hr lectures + 1 × 2‑hr lab (recorded) per week  <br>   • Project: design a RL controller for a 6‑DoF manipulator in PyBullet → real‑robot transfer (≈40 h)  <br>   • Instructor: Prof. A. Miller (Robotics Lab PI) – known to grant flexible lab attendance.  <br><br>2️⃣ **ME / CS  724 – “Learning‑Based Control & Simulation”**  <br>   • 2 × 1.5‑hr lectures + 1 × 2‑hr weekly “simulation studio” (optional, recordings provided)  <br>   • Project: implement Model‑Based RL for a quadruped (≈35 h)  <br>   • Instructor: Prof. L. Chen (co‑advisor on several RL‑robotics theses). | – | – |
+| **4. Verify Workload Compatibility** | • **Theoretical work** – 3 hrs/week per course (reading, problem sets).  <br>• **Project implementation** – 5 hrs/week per course (coding, debugging, data analysis).  <br>• **Flex‑attendance** – labs can be done asynchronously; only 1‑2 live sessions per week for Q&A (≈1 hr each).  <br>**Total** = 3 + 5 + 1 ≈ 9 hrs/week per course → **18 hrs** total → exceeds 15 hrs.  <br>**Adjustment:** Choose **one “lab‑heavy”** (≈5 h project) and **one “theory‑heavy”** (≈3 h project).  <br>Resulting load: 9 + 6 = 15 hrs/week. | – | – |
+| **5. Map Courses to Thesis Milestones** | • **Course 1 (RL for Autonomous Systems)** → Provides the **policy‑gradient & actor‑critic** foundation; project becomes the **baseline RL controller** for your manipulator, directly feeding into Chapter 2 of the thesis.  <br>• **Course 2 (Learning‑Based Control & Simulation)** → Supplies **model‑based RL & system identification** tools; project supplies the **sim‑to‑real pipeline** you will later extend with curriculum learning. | – | – |
+| **6. Negotiate Flex‑Attendance** | 1. **Email the professor** (copy the graduate coordinator) → present: <br>   • Your thesis title & timeline <br>   • Desired weekly hours (max 15 h total) <br>   • Request for recorded labs + 1‑hr weekly office‑hour slot for progress checks. <br>2. **Sign a “Course‑Flex Agreement”** (similar to a teaching‑assistant contract) outlining deliverables (project report, code repo) and attendance expectations. | – | – |
+| **7. Schedule & Time‑boxing** | **Monday** – 2 hrs lecture reading (Course 1) <br>**Tuesday** – 2 hrs project work (Course 1) <br>**Wednesday** – 1 hr live lab Q&A (Course 1) + 2 hrs lecture reading (Course 2) <br>**Thursday** – 3 hrs project work (Course 2) <br>**Friday** – 2 hrs project work (Course 1) <br>**Saturday** – 2 hrs project work (Course 2) <br>**Sunday** – 1 hr review & thesis integration | – | – |
+| **8. Monitoring & Contingency** | • **Bi‑weekly check‑in** with each professor (via Zoom) to confirm you are on track. <br>• If workload spikes (> 15 h) during exam periods, **swap a 2‑hr lab slot** for an extra recorded session and extend the project deadline (professor approval). <br>• Keep a **shared Kanban board** (e.g., Trello) to visualize tasks across both courses and thesis. | – | – |
+| **9. Deliverables** | • **Course 1:** 10‑page technical report + open‑source code (GitHub) → can be a conference workshop paper. <br>• **Course 2:** 8‑page report + simulation package → serves as Chapter 3 baseline. <br>Both deliverables count toward **publications** and **thesis chapters**, reducing future writing load. | – | – |
+
+---
+
+### QUICK REFERENCE CHECKLIST
+
+| ✔️ | Item |
+|----|------|
+| **Course selection** | Two graduate courses with RL‑robotics focus, theory + hands‑on. |
+| **Professor flexibility** | Professors identified who regularly allow asynchronous labs and have prior PhD‑student flex agreements. |
+| **Weekly hour cap** | Structured to stay ≤ 15 hrs/week (9 hrs + 6 hrs). |
+| **Thesis alignment** | Projects directly generate baseline algorithms and code for the dissertation. |
+| **Milestone integration** | Each course’s deliverable maps to a specific thesis chapter. |
+| **Contingency plan** | Built‑in weekly check‑ins and deadline extensions. |
+
+---
+
+**TRADE‑OFFS**
+
+| Trade‑off | Reason & Impact |
+|-----------|-----------------|
+| **Reduced live lab time** (1 hr/week instead of 2‑3 hrs) | Saves time but limits real‑time troubleshooting with peers; mitigated by weekly office‑hour and recorded sessions. |
+| **Choosing one “lab‑heavy” and one “theory‑heavy” course** | Keeps total hours ≤ 15 h but narrows exposure to a broader set of RL algorithms (e.g., you may miss a deep‑RL specialization). |
+| **Potentially lower GPA weighting** (flex courses sometimes graded on project only) | May affect GPA slightly; however, project publications offset the academic impact for a PhD. |
+| **Reliance on professor goodwill** | Flex‑attendance is not guaranteed by policy; requires early negotiation and clear deliverables. |
+| **Limited semester‑long depth** (each course ≈ 6 weeks of intensive work) | You may not achieve mastery of every theoretical nuance; you’ll need to supplement with self‑study later. |
+
+---
+
+**FEASIBILITY SCORE:** **8.5 / 10**
+
+**Justification:**  
+The plan meets all explicit constraints (two courses, strong theory + hands‑on, professor flexibility, ≤ 15 h/week) and tightly integrates coursework with thesis milestones, providing immediate research value. The main risks are dependence on professor approval for flexible attendance and the tight weekly hour budget, which are mitigated by a clear agreement and a well‑structured schedule. The score is slightly below perfect because the solution sacrifices some breadth of RL topics and live interaction, but overall it is highly practical and implementable for a first‑year PhD.

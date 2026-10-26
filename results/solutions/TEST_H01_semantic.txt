@@ -1,0 +1,45 @@
+TEST: TEST_H01
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN**
+
+Below is a **day‑to‑day eating‑strategy that can be followed while you eat the regular hostel mess meals** (rice, roti, dal, veg).  
+All extra items are **vegan, cheap, easy‑to‑carry and require no cooking** (so they fit a “mess‑only” situation).  
+
+| Time | What to eat (≈ portion) | Why it helps you hit **≥ 50 g protein** & **≥ 18 mg iron** | Approx. cost (₹) |
+|------|--------------------------|-----------------------------------------------------------|-------------------|
+| **06:00 – 07:00** (empty stomach) | **Warm water + juice of ½ lemon** (≈ 30 ml) | Vitamin C boosts non‑heme iron absorption from the rest of the day. | 0.5 |
+| **07:30 – 08:00** (mess breakfast) | **1 cup (≈ 200 ml) cooked dal**  +  **2 medium rotis** + **1 small bowl of mixed veg (include any green leafy veg – spinach, methi, sarson)** | Dal (yellow/masoor) → ~9 g protein, ~3 mg Fe per cup.  Rotis add ~3 g protein.  Greens add extra Fe (1–2 mg) and Vitamin C (if tomato/pepper present). | Mess (free) |
+| **09:30 – 10:00** (mid‑morning snack – bring from home) | **30 g roasted peanuts** (≈ ¼ cup) + **5 dates** | Peanuts → ~7 g protein, ~1 mg Fe. Dates give quick energy & a little iron. | ~₹8 |
+| **12:30 – 13:30** (mess lunch) | **1 cup cooked rajma / chana** + **2 rotis** + **1 small bowl of cucumber‑tomato salad with a squeeze of lemon** | Rajma/chana → ~8 g protein, ~3 mg Fe per cup.  Extra roti adds ~3 g protein.  Tomato & lemon provide Vitamin C. | Mess (free) |
+| **15:30 – 16:00** (afternoon snack – bring from home) | **½ cup (≈ 70 g) roasted soy‑nuggets (soya chunks) soaked in warm water** + **1 small orange or ½ cup papaya** | Soy nuggets → ~12 g protein, ~5 mg Fe per ½ cup.  Fruit supplies Vitamin C for the iron in soy. | ~₹12 |
+| **19:00 – 20:00** (mess dinner) | **1 cup cooked mixed dal (different from breakfast if possible)** + **2 rotis** + **1 small bowl of stir‑fried leafy veg (spinach or mustard greens) with a dash of lemon** | Second dal serving adds another ~9 g protein, ~3 mg Fe.  Leafy veg adds 2–3 mg Fe + Vitamin C. | Mess (free) |
+| **21:30** (pre‑bed) | **Warm water with a pinch of black salt & a squeeze of lemon** | Keeps stomach gentle & adds a final Vitamin C boost before sleep. | 0.5 |
+| **Throughout the day** | **Drink 2–3 L water** (avoid tea/coffee within 2 h of the main protein‑iron meals). | Adequate hydration helps iron transport and reduces constipation (common with low‑iron diets). | Free |
+
+### Daily Totals (approx.)
+
+| Nutrient | Amount | Target |
+|----------|--------|--------|
+| **Protein** | 9 (g dal) + 3 (g roti) + 7 (g peanuts) + 8 (g rajma) + 3 (g roti) + 12 (g soy) + 9 (g second dal) + 3 (g roti) ≈ **54 g** | **≥ 50 g** |
+| **Iron** | 3 (mg dal) + 1 (mg peanuts) + 3 (mg rajma) + 5 (mg soy) + 3 (mg second dal) + 2 (mg leafy veg) ≈ **17 mg** + **≈ 2 mg from dates & figs** = **≈ 19 mg** | **≥ 18 mg** |
+| **Vitamin C** | Lemon juice (breakfast) + lemon in salad + orange/papaya + lemon before bed ≈ **80–100 mg** (well above the 30 mg needed for iron absorption). | ✔️ |
+| **Cost** | **≈ ₹21 / day** (snacks & extra soy‑nuggets). | **Well under ₹80** – the remaining ₹59 can cover occasional extra fruit, a small packet of pumpkin seeds (iron‑rich) or a weekly bulk purchase of lentils/beans. |
+
+---
+
+#### How to make the plan work in a hostel mess
+
+1. **Talk to the mess cook** (once a week) and ask:
+   * Add a **small portion of soy‑chunks (soya nuggets)** to the dal or make a “soy‑dal” on a day of your choice.  
+   * Include **leafy greens** (spinach, methi, sarson) in the vegetable mix at least **3 times a week**.  
+   * Use **tomato or bell‑pepper** in the salad or veg curry for Vitamin C.
+
+2. **Carry a small insulated bag** with your **snacks** (peanuts, dates, soy‑chunks, fruit). They need only soaking in water (for soy) or can be eaten straight.
+
+3. **Avoid tea/coffee** (or strong black tea) within **2 h before/after** each dal/bean meal – the tannins cut iron absorption. If you crave tea, have it **after 12 pm** when the iron‑rich lunch is already digested.
+
+4. **If you can use a hostel kettle**, soak the soy‑chunks in hot water for 5 min before

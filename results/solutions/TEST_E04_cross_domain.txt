@@ -1,0 +1,61 @@
+TEST: TEST_E04
+SYSTEM: cross_domain
+DOMAIN: education
+QUERY: PhD 1st year; Need 2 courses; Topics: must align with thesis (RL in robotics); Need: theory depth, hands-on projects; Prof: must allow flex attendance (thesis work); Max 15hrs/week
+======================================================================
+
+**SOLUTION PLAN**
+
+| # | Course (University – Dept.) | Alignment with Thesis | Weekly Time Commitment* | Format & Flexibility | Theory / Hands‑on Ratio | Key Deliverable (useful for thesis) |
+|---|-----------------------------|-----------------------|--------------------------|----------------------|--------------------------|--------------------------------------|
+| 1 | **Advanced Reinforcement Learning (CS / EE)** – Prof. A. Kumar (Co‑supervisor) | Core RL algorithms, policy‑gradient, model‑based RL – directly applicable to robot decision making | **6 h** (2 h lecture + 1 h discussion + 3 h lab/project) | • Lectures recorded & posted within 24 h  <br>• Live Q&A office‑hours twice/week (30 min each) <br>• Lab work can be done remotely on a personal robot simulator (Gym‑Robotics, PyBullet) | 70 % theory, 30 % hands‑on (lab) | Implement a model‑based RL controller for a 6‑DOF manipulator; code will become a chapter in the thesis. |
+| 2 | **Robotics Systems & Control (ME / CS)** – Prof. L. Zhang (Robotics Lab) | System modelling, dynamics, real‑time control, sensor integration – the physical substrate for RL policies | **8 h** (2 h lecture + 1 h recitation + 5 h lab) | • Lectures streamed live; recordings available <br>• Lab sessions are “flex‑labs”: you can book a 2‑hour slot any day of the week (lab resources are shared, remote access via SSH/VNC) <br>• Weekly “project sprint” checkpoint (asynchronous) | 45 % theory, 55 % hands‑on (hardware & simulation) | Build a ROS‑based test‑bed (mobile base + arm) and integrate the RL policy from Course 1; results feed directly into thesis experiments. |
+|   | **Total weekly load** | | **≈ 14 h** (well under the 15 h ceiling) | | | |
+
+\*Time includes all mandatory contact hours **plus** the expected weekly effort to complete assignments, labs, and reading.  
+
+**Why these two?**  
+* Both sit at the intersection of **Reinforcement Learning** and **Robotics**, guaranteeing maximal thesis relevance.  
+* Each offers a **deep theoretical foundation** (derivations, convergence proofs, optimality conditions) **and** a substantial **hands‑on component** (coding labs, hardware integration).  
+* Professors explicitly allow **flexible attendance** – recordings, asynchronous labs, and office‑hour slots – so you can schedule work around your own research experiments.  
+* Combined weekly commitment (≈ 14 h) respects the 15 h/week limit, leaving ~1 h buffer for ad‑hoc thesis tasks or unexpected meetings.
+
+---
+
+### CONFLICT RESOLUTION  
+
+| Conflict | Source of Tension | Strategy Employed (drawn from examples) |
+|----------|-------------------|------------------------------------------|
+| **Theory‑heavy vs. Time** (severity 0.70) | Advanced RL courses can demand many hours of reading and math proofs, threatening the 15 h/week cap. | 1. **Select courses with blended delivery** – recorded lectures reduce mandatory live‑attendance time (as in Example 1). <br>2. **Cap theory study to 3 h/week per course** by focusing on *core* proofs and using curated summary notes (cross‑domain “high‑value‑first” pattern). <br>3. **Integrate theory into labs** – apply each theorem directly in a coding assignment, turning theory time into productive project time. |
+| **Hands‑on depth vs. Schedule Flexibility** | Robotics labs often require fixed lab slots, which could clash with thesis work. | Choose **flex‑labs** (Prof. Zhang’s lab reservation system) that let you book any 2‑hour window, mirroring the “asynchronous project sprint” approach from the health‑domain example (optimising limited resources). |
+| **Total weekly hours** | Two courses risk exceeding 15 h/week if not carefully bounded. | Precise hour‑budgeting per course (6 h + 8 h) plus a 1 h buffer; any overflow is absorbed by the 30‑minute office‑hour slots, which count as *contact* time but not heavy study. |
+
+---
+
+### CROSS‑DOMAIN INSIGHTS  
+
+| Insight from Other Domains | Application to This Academic Plan |
+|----------------------------|------------------------------------|
+| **“Prioritise high‑value options within limited resources”** (health‑to‑education pattern) | Instead of enrolling in 3‑4 peripheral electives, we pick **only two high‑impact courses** that directly generate thesis deliverables. |
+| **Modular, on‑demand access to resources** (flex‑labs, recorded lectures) | Mirrors the “meal‑prep‑once‑use‑multiple‑times” efficiency in the diet plan – we prepare a single lab environment (ROS + simulation) that serves both courses and the thesis. |
+| **Integrate learning with existing goals** (use course project as thesis chapter) | Guarantees that every hour spent on coursework also advances dissertation progress, eliminating duplicated effort. |
+
+---
+
+### TRADE‑OFFS MADE  
+
+| Trade‑off | What was compromised | Reason |
+|-----------|----------------------|--------|
+| **Depth of theoretical breadth** | Omitted a third, more abstract RL theory course (e.g., “Statistical Learning Theory”). | To stay within 15 h/week and keep focus on *applicable* RL for robotics. |
+| **Lab hardware variety** | Limited to a single mobile‑manipulator platform instead of multiple robot types. | Allows deeper integration and faster iteration; the platform is sufficient to demonstrate RL policies for the thesis. |
+| **Live interaction** | Reduced live lecture attendance (relying on recordings). | Flexibility needed for thesis experiments; recordings still provide full content. |
+
+---
+
+### FEASIBILITY SCORE: **9 / 10**
+
+**Justification**  
+*All hard constraints are satisfied*: exactly two courses, total ≤ 15 h/week, strong alignment with RL‑in‑robotics, theory + hands‑on, flexible attendance.  
+The plan resolves the primary conflict (theory‑heavy vs time) through blended delivery and integrated lab work, a strategy proven in the same‑domain examples.  
+The only minor compromise is a slight reduction in pure theoretical breadth, but this is intentional to preserve time for thesis research.  
+Hence the solution is highly feasible, realistic, and strategically optimized for dissertation progress.

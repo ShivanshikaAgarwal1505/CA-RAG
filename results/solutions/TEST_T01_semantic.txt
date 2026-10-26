@@ -1,0 +1,63 @@
+TEST: TEST_T01
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN**
+
+| Day | Destination & Base | Transport (to‑/from‑) | Accommodation (budget) | Meals (local) | Core Activity | Evening / Free Time | Approx. Cost (₹) |
+|-----|-------------------|-----------------------|------------------------|---------------|----------------|----------------------|-------------------|
+| **0** | **Home → Kochi (Kerala)** – nearest major rail/road hub for the Malabar Coast | Overnight train/second‑class bus (e.g., Delhi‑Kochi  ≈ ₹1 200 round‑trip) | – | – | – | – | **1 200** |
+| **1** | **Kochi → Varkala (≈ 4 h bus)** – beach town with cheap dorms & dive centre | State‑run/ private bus (₹300) | Dormitory in a youth‑hostel (₹350/night, mixed‑gender, 2‑bed rooms) | Breakfast from a street stall (₹30), lunch thali (₹70), dinner dosa‑plate (₹50) | **Scuba‑Diving Intro (1‑hour “shallow‑water” dive)** – most dive schools in Varkala run a *₹1 800* “try‑out” package (equipment + guide). | Sunset walk on the cliff, explore local market | **2 800** |
+| **2** | **Varkala** | – | Same dorm (₹350) | Same food budget (₹150) | **Parasailing (single flight)** – local operators charge **₹1 200** for a 5‑minute ride (safety gear provided). | Relax on the beach, optional yoga at the ashram (free) | **1 800** |
+| **3** | **Varkala → Kovalam (≈ 6 h bus)** – more operators for jet‑ski | Bus (₹250) | Guest‑house room with shared bathroom (₹400/night) | Same food budget (₹150) | **Jet‑Ski (5‑minute session)** – cheapest package in Kovalam is **₹900** (includes life‑vest). | Evening stroll on Lighthouse Beach | **1 700** |
+| **4** | **Kovalam** | – | Same guest‑house (₹400) | Same food budget (₹150) | **Free‑day** – explore nearby **Kanyakumari** (train  ≈ ₹120 round‑trip) or simply relax on the beach. | Night market, try fresh fish fry (₹80) | **670** |
+| **5** | **Kovalam → Kochi → Home** | Bus back to Kochi (₹250) + overnight train to home (₹600) | – | – | – | – | **850** |
+| **TOTAL** |  |  |  |  |  |  | **≈ ₹8 020** |
+
+### Key Points of the Itinerary
+1. **Destination choice – Kerala’s Malabar Coast**  
+   *Varkala* and *Kovalam* are popular yet still inexpensive beach towns. Both have small‑scale operators who charge the lowest market rates for scuba, parasailing and jet‑ski. Kerala also enjoys a good safety record for tourists (high police presence, many English‑speaking staff).
+
+2. **Transport** – Long‑distance travel is done by **overnight train** (or second‑class bus) to keep the cost low and avoid night‑time road safety concerns. In‑state travel uses **state‑run/cheap private buses** that run frequently and are considered safe for solo women travellers.
+
+3. **Accommodation** – Youth‑hostels and budget guest‑houses (mixed‑gender dorms or shared rooms) cost **₹350‑₹400 per night**. They provide 24‑hr reception, lockers, and often have a small common kitchen – ideal for a solo traveller.
+
+4. **Food** – Stick to **local dhabas, street stalls and small canteens**. A typical day’s meals (breakfast, thali lunch, dinner) can be covered for **≈ ₹150**. This also satisfies the “local food” preference.
+
+5. **Safety** –  
+   - All activities are booked **directly with licensed operators** (certificates displayed).  
+   - The traveler will carry a **personal safety alarm** and share live location with a trusted friend/family member.  
+   - Night travel is limited to the train; all evening outings are in well‑lit, tourist‑friendly zones.
+
+6. **Activity sequencing** – Scuba is placed on Day 1 when the traveler is fresh; parasailing on Day 2 (requires no prior training); jet‑ski on Day 3 after a short bus transfer. This avoids fatigue and reduces the risk of accidents.
+
+---
+
+**TRADE‑OFFS & COMPROMISES**
+
+| Constraint | What we give up / adjust | Reason |
+|------------|--------------------------|--------|
+| **Budget ≤ ₹8 000** | • No premium‑level scuba (full‑depth 30 m) – only the *shallow‑water intro* (≈ 12 m). <br>• Single‑flight parasailing & single‑session jet‑ski (no multi‑hour packages). | These are the cheapest legal options; any upgrade would blow the budget. |
+| **All three water‑sports** | • Activities are limited to **one session each** (≈ 5‑10 min). <br>• No extra “equipment rental” or “photo‑video” add‑ons. | Keeps total activity spend at ~₹3 900, fitting the ₹8 000 cap. |
+| **Comfort** | • Shared dorms/guest‑house rooms (no private AC). <br>• Basic meals (no restaurant dining). | Saves ~₹1 200‑₹1 500 over 5 nights. |
+| **Travel time** | • Long bus rides (4‑6 h) between towns. <br>• Overnight train for the return leg (no daytime sightseeing in the home city). | Cheapest safe travel mode; reduces daytime fatigue. |
+| **Safety** | • Avoid night‑time beach walks alone; stick to well‑lit areas and group‑hostel evenings. | Aligns with the high safety priority (0.9). |
+
+If the traveller is willing to **increase the budget by ~₹2 000‑₹3 000**, they could:
+- Upgrade to a **full‑day scuba dive** (≈ ₹3 500) and drop either parasailing or jet‑ski.
+- Choose a **private room** (₹600‑₹800/night) for added comfort.
+- Add a **guided night‑market tour** with a local female guide (₹500).
+
+---
+
+**FEASIBILITY SCORE: 4 / 10**
+
+**Why 4?**  
+- **Budget tightness:** The plan barely fits the ₹8 000 ceiling; any price fluctuation (e.g., higher bus fare, unexpected accommodation surcharge) would push it over.  
+- **Activity limitation:** Only one short session of each water‑sport is possible; a true “scuba experience” (multiple dives, certification) is out of reach.  
+- **Logistics:** Requires disciplined scheduling, early bookings, and strict adherence to the cheap‑operator list. A small margin for error exists (e.g., bus delay could miss a booked dive slot).  
+- **Safety:** High (use of licensed operators, night‑train travel, well‑lit areas) – aligns perfectly with the 0.9 safety rating.  
+
+Overall, the itinerary is **practically doable** if the traveller

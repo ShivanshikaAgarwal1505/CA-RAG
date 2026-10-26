@@ -1,0 +1,54 @@
+TEST: TEST_T01
+SYSTEM: conflict_aware
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN – 5‑Day Solo Beach Adventure (≈ ₹8 000 total)**  
+
+| Day | Morning | Mid‑day / Lunch | Afternoon | Evening / Dinner | Night |
+|-----|---------|----------------|-----------|------------------|-------|
+| **Day 1** – Travel & Arrival | **Train**: Overnight sleeper/3‑AC from your home city to **Goa (Madgaon/Thivim)** – ≈ ₹800 (one‑way). | Arrive in Goa, **local bus** to the hostel (₹50). | Check‑in to **budget dorm** in **Anjuna/Calangute** – ₹400/night. | Street‑food thali or vada‑pav (≈ ₹120). | Light walk on the beach, lock your bag in the hostel locker. |
+| **Day 2** – Scuba Dive | Breakfast from hostel kitchen (₹30). | **Scuba‑Diving Intro + 1 Dive** with *Goa Scuba* (off‑peak weekday discount) – ₹1 200 (includes gear & certification brief). | Rest on the beach, swim, snorkel on your own (free). | Local restaurant “Goan Kitchen” – fish curry & rice (≈ ₹150). | Return to hostel, note emergency contacts. |
+| **Day 3** – Parasailing + Local Culture | Breakfast (₹30). | Walk to **Anjuna Market** – explore, buy a cheap souvenir (₹100 max). | **Parasailing** at Calangute – ₹600 (single flight, 15 min). | Dinner at a **shack** – chicken rice, coconut water (≈ ₹150). | Optional beach bonfire (free, join locals). |
+| **Day 4** – Jet‑Ski + Relax | Breakfast (₹30). | **Jet‑Ski** at Baga (early‑morning slot, 5 min ride) – ₹500 (group‑rate). | Free time: rent a **bicycle** (₹30) to explore **Fort Aguada** and **Candolim** (no entry fee). | Street‑food dinner – bhaji‑pao, fresh fruit (≈ ₹120). | Early night – keep valuables in hostel locker. |
+| **Day 5** – Chill & Return | Breakfast (₹30). | Pack, quick dip in the sea. | **Return train** to home city (overnight) – ₹800. | (Travel) | – |
+
+**Cost Breakdown (approx.)**
+
+| Item | Cost (₹) |
+|------|----------|
+| Round‑trip train (sleeper/3‑AC) | 1 600 |
+| Hostel dorm (5 nights) | 2 000 |
+| Food (₹150 × 5 days) | 750 |
+| Scuba‑Diving (1 dive) | 1 200 |
+| Parasailing | 600 |
+| Jet‑Ski | 500 |
+| Local transport (bus, bike, occasional auto) | 250 |
+| Miscellaneous (souvenir, emergencies) | 300 |
+| **Total** | **≈ 6 700** |
+
+**Remaining buffer:** ~₹1 300 – can cover extra meals, a second scuba dive, or unexpected fees while still staying under the ₹8 000 ceiling.
+
+---
+
+### CONFLICT RESOLUTION  
+
+| Conflict | Resolution Strategy |
+|----------|---------------------|
+| **BUDGET VS WATER‑SPORTS** (all three activities are pricey) | Chose **off‑peak weekday slots** and **single‑flight/short‑duration** packages (parasailing 15 min, jet‑ski 5 min). Combined activities on separate days to avoid bundle surcharges. |
+| **BUDGET VS ACCOMMODATION** (hostels vs hotels) | Opted for **dormitory beds** in reputable backpacker hostels (₹400/night) – safe, clean, with lockers. |
+| **BUDGET VS FOOD** (restaurants vs street food) | Prioritized **local street stalls** and **hostel kitchen** for breakfast, keeping meals ≤ ₹150/day while still enjoying authentic Goan cuisine. |
+| **SAFETY VS COST** (cheap transport vs safe travel) | Used **public buses** and **bicycle rentals** (registered with the hostel) – low cost, but still well‑known routes; avoided night‑time solo walks far from the hostel. |
+| **TIME VS ACTIVITY‑DENSITY** (5 days vs 3 water sports) | Distributed the three activities across three separate days, leaving two days for rest, local exploration, and travel buffer, ensuring no rushed schedule. |
+
+---
+
+### SPECIFIC TRADE‑OFFS  
+
+| Chosen (CHOSEN) | Instead of (REJECTED) | Reason |
+|-----------------|-----------------------|--------|
+| **Dormitory hostel (₹400/night)** | Private guesthouse (₹800‑₹1 200) | Saves ~₹4 000, still safe with lockers and 24 h reception. |
+| **Street‑food meals (≈₹120‑₹150)** | Mid‑range restaurant meals (₹300‑₹500) | Keeps food cost low while still tasting local flavors. |
+| **Single‑dive scuba package (₹1 200)** | Full‑day multi‑dive package (₹2 500‑₹3 000) | Meets “scuba” goal at minimal cost; still provides certification brief. |
+| **Early‑morning, single‑flight parasailing (₹600)** | Full‑day parasailing + photo‑video bundle (₹1 200) | Reduces cost; still experiences the activity safely.

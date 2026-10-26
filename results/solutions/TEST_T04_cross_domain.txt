@@ -1,0 +1,50 @@
+TEST: TEST_T04
+SYSTEM: cross_domain
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN**
+
+| Day | Destination & Base | Morning – Activity | Afternoon – Activity / Transit | Evening – Stay |
+|-----|--------------------|--------------------|--------------------------------|----------------|
+| **1** | **Bir (Himachal Pradesh)** – travel overnight from Delhi (AC semi‑sleeper bus) | Arrive ≈ 08:00 hrs – **Paragliding tandem** (Billing Hill) – 2 hrs flight + safety briefing | Lunch (local dhaba) – Free‑time to explore Bir village | **Budget hostel / dorm** – ₹500 per person (shared 4‑bed room) |
+| **2** | **Rishikesh (Uttarakhand)** – bus 3 hrs from Bir | Check‑in, drop luggage → **River Rafting** (Ganga, 2‑3 hrs, class II‑III) | Packed lunch on riverbank – **Camping set‑up** by Shivpuri riverbank (camp‑site fee) | **River‑side campsite** – tents & mats provided by local operator (₹300 camp‑fee + ₹200 gear) |
+| **3** | **Rishikesh** – base camp | **Kunjapuri Trek** (≈ 8 km round, 3‑4 hrs, sunrise view) – self‑guided (maps + local guide ₹200) | Return → short rest – explore Laxman‑Jhula & local market | **Same river campsite** – night under stars (₹300) |
+| **4** | **Rishikesh** – free day | Optional **Yoga/ meditation** (free in ashrams) or short **Neer Garh waterfall trek** (self‑guided) | Free time for souvenir shopping, local cafés | **Budget hostel/dorm** – ₹500 (cleaner night, fresh bedding) |
+| **5** | **Return to Delhi** – bus 6 hrs (early morning) | Arrival in Delhi by afternoon – end of trip | – | – |
+
+### Detailed Cost Breakdown (per person)
+
+| Item | Cost (₹) | Notes |
+|------|----------|-------|
+| **Transport** | 1,850 | Delhi‑Bir (₹800) + Bir‑Rishikesh (₹250) + Rishikesh‑Delhi (₹800) – shared AC bus / train |
+| **Accommodation** | 2,000 | 4 nights × ₹500 (hostel dorm) – includes clean sheets, lockers |
+| **Paragliding (Bir)** | 2,500 | Tandem flight, gear, insurance, 2‑hour session |
+| **River Rafting (Rishikesh)** | 1,200 | 2‑hour Ganga stretch, safety kit, life‑vest |
+| **Trek & Camping Fees** | 1,300 | Kunjapuri guide ₹200 + camp‑site fee ₹300 + River‑camp gear ₹200 + extra night camp‑fee ₹300 |
+| **Food (5 days)** | 1,500 | Approx. ₹300/day (breakfast at hostel, lunch & dinner at local dhabas) |
+| **Contingency / Misc.** | 1,150 | Local transport, extra snacks, emergency buffer |
+| **Total per person** | **≈ 9,850** | **Well below ₹12,000** |
+
+---
+
+**CONFLICT RESOLUTION**
+
+| Hard Constraint | Potential Conflict | Resolution Strategy |
+|-----------------|--------------------|---------------------|
+| **Budget ₹12k** | Adventure activities (paragliding, rafting) are pricey. | Chose **budget‑friendly operators** (local clubs) and **group rates**; used **dormitory hostels** and **shared transport** to keep costs low. |
+| **5 days** | Need to fit 4 distinct activities. | Optimised itinerary: **Day 1** (paragliding), **Day 2** (rafting + camping), **Day 3** (trek + camping), **Day 4** (light optional trek) – no idle days. |
+| **June** | Monsoon can affect rafting & trekking. | Selected **Rishikesh (early June)** where Ganga rafting is still safe; **Bir** has stable summer winds; **Kunjapuri trek** is well‑drained and popular in June. |
+| **All activities required** | Risk of time‑overlap. | Staggered activities by location; each day dedicated to a single core adventure, with travel only once (Bir → Rishikesh). |
+| **Budget accommodation** | Must stay cheap. | Used **hostel dorms** (₹500/night) and **organized camps** (₹300‑₹400/night) – same approach as Example 3 (self‑guided trek to cut guide fees). |
+
+---
+
+**CROSS‑DOMAIN INSIGHTS**
+
+| Insight Source | How It Was Adapted |
+|----------------|--------------------|
+| **Example 3 (self‑guided trek to save guide cost)** | The Kunjapuri trek is self‑guided with only a minimal local guide for safety (₹200), saving >₹4,000 vs a full‑service trek agency. |
+| **Example 1 (bundling transport & accommodation)** | Overnight bus from Delhi to Bir eliminates one night of lodging, mirroring the flight‑accommodation combo used in Leh case. |
+| **General budgeting pattern** (group‑rate activities) | Negotiated group

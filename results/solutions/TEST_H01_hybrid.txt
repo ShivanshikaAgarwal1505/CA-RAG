@@ -1,0 +1,13 @@
+TEST: TEST_H01
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN – 19‑year‑old female, severe anemia (Hb 8.5 g/dL) + PCOS**  
+*All meals are taken in the hostel mess; only inexpensive add‑ons that can be bought from the campus canteen or a nearby market are used.  The total out‑of‑pocket cost never exceeds **₹80 / day**.*
+
+| Time | What to eat / do | Why it helps (protein / iron / PCOS) |
+|------|------------------|--------------------------------------|
+| **06:30 – 07:00** | 1 cup warm water + juice of **½ lemon** (or a few drops of lemon concentrate) | Vitamin C boosts non‑heme iron absorption from the next meal. |
+| **Breakfast (mess)** | • 2 rotis (whole‑wheat)  <br>• **Dal (lentils/toor + extra spoonful)**  <br>• **Spinach‑curry** (ask the cook to add a little extra spinach) | Dal & spinach are rich in plant‑protein and iron

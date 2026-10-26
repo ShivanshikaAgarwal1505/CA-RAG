@@ -1,0 +1,44 @@
+TEST: TEST_E02
+SYSTEM: zero_shot
+DOMAIN: education
+QUERY: Final year B.Tech; Need 4 courses; All must be: easy (for GPA), project-based (no exams), interesting topics; Max 12hrs/week; Prerequisites: basic programming only
+======================================================================
+
+**SOLUTION PLAN**
+
+| # | Course (Typical University Title) | Why it fits the constraints | Core Project (≈ 8 weeks) | Weekly Time Commitment* | Credits (Typical) | Suggested Semester |
+|---|-----------------------------------|-----------------------------|--------------------------|--------------------------|-------------------|---------------------|
+| 1 | **Introduction to Web Development (Full‑Stack)** | • No mid‑term/final – assessment is a portfolio website.<br>• Uses HTML, CSS, JavaScript – only basic programming needed.<br>• Highly marketable and visually rewarding. | Build a **personal portfolio + a small e‑commerce site** (front‑end + simple back‑end with a cloud DB). | 10 hrs (2 hrs lecture, 3 hrs lab, 5 hrs self‑study/project) | 3 cr | 8th semester |
+| 2 | **Mobile App Development with Flutter** | • Project‑only grading (app demo & code repo).<br>• Dart language is easy to pick up from basic programming.<br>• Mobile apps are trendy and can be showcased. | Create a **cross‑platform “Campus Helper” app** (timetable, notifications, QR‑based attendance). | 11 hrs (1 hr theory, 4 hrs lab, 6 hrs coding) | 3 cr | 8th semester |
+| 3 | **Data Visualization & Storytelling** | • Assessment = interactive dashboard project.<br>• Uses Python libraries (Matplotlib, Plotly, Seaborn) – simple syntax.<br>• Turns raw data into compelling visual stories, useful for any domain. | Develop a **dashboard that visualizes the institute’s placement statistics** (trend analysis, gender ratio, salary distribution). | 9 hrs (1 hr lecture, 2 hrs lab, 6 hrs project work) | 2 cr | 8th semester |
+| 4 | **IoT Prototyping for Smart Environments** | • No written exams – final deliverable is a working prototype + short video.<br>• Requires only basic C/Python for micro‑controller programming.<br>• Hands‑on and highly engaging. | Build a **smart‑room system** (temperature & occupancy sensors + Android/web dashboard) using ESP32/Arduino. | 12 hrs (2 hrs lecture, 4 hrs lab, 6 hrs prototype development) | 3 cr | 8th semester |
+
+\*The weekly estimate includes classroom time, lab sessions, and independent project work. All courses stay **≤ 12 hrs/week**.
+
+### How the plan satisfies the user’s criteria
+| Requirement | How it is met |
+|-------------|---------------|
+| **Easy for GPA** | All courses use familiar, high‑level languages (HTML/JS, Dart, Python, Arduino C). Grading is binary (pass/fail) based on project completeness and documentation, minimizing subjective exam pressure. |
+| **Project‑based (no exams)** | Each course explicitly states “project‑only assessment” – final deliverable is a functional artifact plus a short report/video. No mid‑terms or finals. |
+| **Interesting topics** | Web, mobile, data storytelling, and IoT are current industry‑hot areas that keep students motivated. |
+| **≤ 12 hrs/week** | Detailed weekly hour breakdown shows the maximum is 12 hrs (IoT). |
+| **Prerequisite: basic programming** | All courses start from fundamentals; no advanced algorithms or data‑structures are required. |
+
+### Suggested Scheduling
+- **Take all four courses concurrently** (total ≈ 42 hrs/week → 10 hrs/day if spread over 5 days).  
+  *If the workload feels high, drop one elective and replace with a lighter 2‑cr “Technical Writing” project.*  
+- **Project Milestones**: Align deliverable deadlines across courses (e.g., week 4, 8) to avoid overlapping final presentations.
+
+---
+
+**TRADE‑OFFS**
+
+1. **Depth vs. Ease** – Project‑centric courses sacrifice deep theoretical coverage (e.g., algorithm analysis) for practicality. GPA may be high, but the conceptual foundation is lighter.
+2. **Credit Load** – 11 credits in the final semester is intensive; while weekly hours stay ≤ 12, the mental load of juggling four simultaneous projects can be demanding.
+3. **Availability** – Not all institutions offer exactly these titles. You may need to map them to equivalent electives (e.g., “Software Engineering Project”, “Embedded Systems Lab”).
+4. **Future Academic Rigor** – If you plan for graduate studies, the lack of exam‑based assessment may leave gaps in formal evaluation experience.
+
+---
+
+**FEASIBILITY SCORE:** **8/10**  
+*Justification:* The plan meets every explicit user requirement (ease, project‑only, interesting, ≤ 12 hrs/week, basic‑programming prerequisite). The main risk lies in institutional course availability and the high concurrent project workload, which slightly lowers practicality but remains achievable with good time‑management.

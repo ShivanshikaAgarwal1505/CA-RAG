@@ -1,0 +1,48 @@
+TEST: TEST_H01
+SYSTEM: cross_domain
+DOMAIN: health
+QUERY: 19F; Severe anemia (Hb: 8.5) + PCOS; Budget ₹80/day; Vegan (strict, no eggs/dairy); Hostel mess only; Need 50g protein + 18mg iron daily; No supplements (religious)
+======================================================================
+
+**SOLUTION PLAN**
+
+| Time | Meal (Mess + Add‑on) | Food & Portion (≈ g) | Approx. Protein (g) | Approx. Iron (mg) | Vitamin C (for iron‑absorption) | Cost (₹) |
+|------|----------------------|----------------------|---------------------|-------------------|----------------------------------|----------|
+| **07:30** | **Wake‑up** | Warm water + ½ lime (optional) | 0 | 0 | +0.5 mg C | 0 |
+| **08:00 – Breakfast (Mess)** | 2 *plain rotis* (wheat) + **dal (moong/masoor) – 150 ml** | 2 rotis (≈ 60 g) + dal (≈ 100 g cooked) | 6 g | 2 mg | – | ~₹15 |
+| **08:30** | **Add‑on** | **Roasted chana (Bengal gram) – 30 g** | 5 g | 2 mg | – | ~₹5 |
+| **10:30 – Mid‑morning** | **Fruit** | **Orange or guava – 1 medium** | 1 g | 0.2 mg | 70 mg C | ~₹7 |
+| **12:30 – Lunch (Mess)** | **Rice + dal + veg** (standard mess) | 150 g cooked rice + 150 g dal + 80 g mixed veg (incl. spinach) | 9 g | 3 mg (spinach) | – | ~₹20 |
+| **13:00** | **Add‑on** | **Soy‑chunks (dry) – 30 g** (soaked & mixed into dal) | 15 g | 4.5 mg | – | ~₹10 |
+| **15:30 – Evening Snack** | **Peanuts (dry roasted) – 25 g** | 25 g | 6 g | 0.6 mg | – | ~₹5 |
+| **18:00 – Dinner (Mess)** | **Roti + mixed dal + veg** (same as lunch) | 2 rotis (≈ 60 g) + 150 g dal + 80 g veg (add extra **green peas**) | 9 g | 2.5 mg | – | ~₹20 |
+| **18:30** | **Add‑on** | **Fresh lemon juice (½ lemon) on veg** | 0 | 0 | 15 mg C | 0 |
+| **21:30 – Bedtime** | **Warm water** | – | 0 | 0 | – | 0 |
+| **TOTAL** | | | **≈ 51 g** | **≈ 18.2 mg** | | **≈ ₹82** |
+
+**How to keep the cost ≤ ₹80**  
+- Most hostel mess meals (rice, roti, dal, veg) are already covered in the hostel fee (≈ ₹45‑₹50).  
+- The “add‑on” items are bought from the campus canteen or a nearby grocery store in small packs that cost ≤ ₹5‑₹10 each day.  
+- If the mess already provides a larger portion of dal or veg, you can **reduce** the purchased soy‑chunks to 20 g (≈ ₹7) and still meet the targets, bringing the total to ≈ ₹77.  
+
+**Key Nutrition Points for the Two Health Goals**
+
+| Goal | Nutrient/Strategy | Why it helps |
+|------|-------------------|--------------|
+| **Raise Hb (anemia)** | Iron‑rich legumes (dal, soy‑chunks, peas, spinach) + Vitamin C (citrus, guava, lemon) | Vitamin C converts non‑heme iron to the absorbable ferrous form. |
+| | Avoid tea/coffee with meals | Polyphenols inhibit iron absorption. |
+| **Manage PCOS** | Low‑GI carbs (whole‑grain roti, brown rice if available) + high‑fiber legumes | Improves insulin sensitivity, reduces androgen spikes. |
+| | Healthy fats from peanuts (ω‑6) + moderate protein | Satiety, stabilises blood sugar. |
+| | Regular meal timing & hydration | Helps hormonal balance. |
+
+---
+
+### CONFLICT RESOLUTION
+
+| Conflict | Resolution Strategy (drawn from examples & cross‑domain insight) |
+|----------|-------------------------------------------------------------------|
+| **Budget vs Protein** (severity 0.80) | Use **cost‑effective plant proteins**: soy‑chunks (high protein, low cost), roasted chana, peanuts – all < ₹12 /day total. This mirrors Example 2’s “double dal + peanuts” trick. |
+| **Budget vs Supplements** (severity 0.70) | Replace supplements with **food‑based iron enhancers** (Vitamin C fruits, lemon juice) – a strategy used in Example 1 (“orange/kiwi + lemon”). |
+| **Diet vs Protein** (severity 0.70) | Rely on **legume‑based proteins** (dal, soy, peas) which are vegan‑compatible and inexpensive. |
+| **Vegan vs Protein** (severity 0.85) | Prioritise **soy‑chunks** (≈ 52 g protein/100 g dry) and **roasted peanuts** – the highest‑protein vegan foods on a tight budget. |
+| **Medical Condition vs Diet** (severity 0.90)

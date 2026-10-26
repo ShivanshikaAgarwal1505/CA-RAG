@@ -1,0 +1,80 @@
+TEST: TEST_T03
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**✈️ QUICK‑LOOK SUMMARY**
+
+| Item | Approx. Cost (₹) | Notes |
+|------|------------------|-------|
+| **Round‑trip transport (Bangalore ↔ Coorg)** | 6 400 | KSRTC Volvo / private shared cab – comfortable, AC |
+| **Accommodation (5 nights, 2 rooms)** | 7 500 | Family‑friendly homestay / budget resort (incl. breakfast) |
+| **Food (breakfast included, lunch + dinner)** | 4 800 | ₹800 / day for 4 people (local restaurants, home‑cooked meals) |
+| **Activities & entry fees** | 6 100 | Elephant camp, jungle safari, coffee‑plantation tour, river‑rafting |
+| **Local transport / tips / misc** | 2 000 | Auto‑rickshaws, shared jeeps, small donations to NGOs |
+| **TOTAL** | **≈ 27 800** | **Well under the ₹35 000 budget** – ~₹7 200 spare for souvenirs or a small upgrade. |
+
+---
+
+## 📋 SOLUTION PLAN – 6‑DAY “ANIMAL‑LOVERS + ADVENTURE” ITINERARY  
+*(Assuming the family starts from **Bangalore** – the most common gateway for a Coorg trip. If you are from another city, replace the Bangalore‑Coorg leg with the cheapest train/bus option from your point of origin.)*
+
+### DAY 1 – **Bangalore ► Coorg (Madikeri) – settle in**
+| Time | Activity | Cost (₹) |
+|------|----------|----------|
+| 06:00 am | Board KSRTC Volvo (or a shared private cab) from Bangalore Central Bus Stand. | 800 pp |
+| 10:30 am | Arrive in Madikeri, check‑in at **Homestay “Green Leaf”** (2 rooms). | 1 500 /night |
+| 11:30 am | Light snack at the homestay garden (fresh fruit, biscuits). | – |
+| 01:00 pm | Lunch – local “Kollur” restaurant (rice, sambar, chicken fry). | 800 (4 pp) |
+| 02:30 pm | Short walk to **Raja’s Seat** – panoramic view, easy for kids. | Free |
+| 04:30 pm | Return, relax, play board games with kids. | – |
+| 07:30 pm | Dinner – homestay kitchen (family‑style South‑Indian thali). | Included in food budget |
+| **Day‑1 Total** | **≈ 2 600** |
+
+**Why Coorg?**  
+- **Elephant & wildlife focus** (Dubare camp, Nagarhole).  
+- **Cool climate**, short drive from Bangalore → minimal travel fatigue.  
+- **Plenty of kid‑friendly homestays** that serve home‑cooked meals and have a garden for safe play.
+
+---
+
+### DAY 2 – **Dubare Elephant Camp (interactive)**
+| Time | Activity | Cost (₹) |
+|------|----------|----------|
+| 07:30 am | Breakfast (homestay). | – |
+| 08:30 am | Private shared jeep to Dubare (30 km, 1 hr). | 300 (4 pp) |
+| 09:30 am | **Dubare Elephant Camp** – feed, bathe, and **elephant‑riding** (kids 6‑12). | 300 pp (incl. lunch) |
+| 12:30 pm | Picnic lunch by the river (provided by camp). | – |
+| 02:00 pm | Guided **river‑bank nature walk** – learn about mahseer fish, local birds. | Free |
+| 04:00 pm | Return to homestay. | – |
+| 07:30 pm | Dinner – homestay (try Coorgi pork or veg thali). | – |
+| **Day‑2 Total** | **≈ 1 500** |
+
+**Learning bits:**  
+- Elephant biology & conservation (camp staff talk).  
+- Simple maths: counting steps, measuring water flow.  
+
+---
+
+### DAY 3 – **Nagarhole National Park – Jungle Safari**
+| Time | Activity | Cost (₹) |
+|------|----------|----------|
+| 07:00 am | Early breakfast. | – |
+| 07:30 am | Depart for **Nagarhole** (≈ 45 km, 1.5 hr). | 300 (4 pp) |
+| 09:30 am | **Jeep Safari** (2 hrs) – spot tigers, leopards, elephants, barking deer. | 1 500 / jeep (max 6 pp) |
+| 12:00 pm | Lunch at **Forest Rest House** (simple South‑Indian meal). | 800 (4 pp) |
+| 01:30 pm | **Guided nature walk** around the lake – learn about water cycle, bird‑calls. | Free |
+| 04:00 pm | Return to homestay. | – |
+| 07:30 pm | Dinner – homestay. | – |
+| **Day‑3 Total** | **≈ 2 600** |
+
+**Safety note:** Safari jeeps are driven by trained forest guides; helmets for kids are provided.
+
+---
+
+### DAY 4 – **Coffee & Spice Plantation – Hands‑On Learning**
+| Time | Activity | Cost (₹) |
+|------|----------|----------|
+| 08:00 am | Breakfast. | – |
+| 09:00 am | Drive to **Coffee Plantation “Tata Coffee Estate”** (≈ 20 km). | 

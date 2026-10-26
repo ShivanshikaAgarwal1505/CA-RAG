@@ -1,0 +1,64 @@
+TEST: TEST_T01
+SYSTEM: hybrid
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN – 5‑Day Solo Beach Getaway (≈ ₹8 000 total)**  
+
+| Day | Destination & Base | Morning | Mid‑day / Afternoon | Evening |
+|-----|-------------------|---------|----------------------|----------|
+| **Day 1** | **Pondicherry (Puducherry)** – arrive by **overnight train** from your home city (e.g., Delhi → Chennai → Pondicherry). <br>**Stay:** *Zostel Pondicherry* (mixed dorm, ₹300/night). | Train travel (≈ ₹1 200). | Check‑in, freshen up. Walk along **Rock Beach** – free, great sunrise. | Dinner at **local dhaba** – fish fry, rice, rasam (≈ ₹150). |
+| **Day 2** | **Scuba‑Diving Day** – *Pondicherry Scuba Centre* (2‑dive package). | Breakfast at hostel (included). | **Scuba‑Diving** – 2 dives, gear, instructor (₹1 500). Light lunch (street‑food, ₹100). | Sunset at **Promenade**; dinner at **Sri Aurobindo Mess** (South‑Indian thali, ₹150). |
+| **Day 3** | **Jet‑Ski & Beach Relax** – *Paradise Beach* (boat‑transfer + jet‑ski). | Breakfast (hostel). | **Jet‑Ski** – 15 min ride (₹800). Boat transfer to Paradise Beach (₹150). Free time to swim, snorkel (no extra cost). Lunch: packed **local banana leaf meal** (₹120). | Return to town, explore **Auroville** (free). Dinner at **local seafood stall** (₹150). |
+| **Day 4** | **Parasailing + Local Culture** – *Chunnambar (Chellapatham) Beach* (parasailing). | Breakfast (hostel). | **Parasailing** – 1 flight (₹900). Beach walk, optional **bicycle rent** (₹50). Lunch: **idli‑vada combo** (₹100). | Evening stroll on **Serenity Beach**; dinner at **Baker Street** (₹150). |
+| **Day 5** | **Wrap‑up & Return** | Breakfast (hostel). | Check‑out, take **day‑time train** back (≈ ₹1 200). | Arrive home – trip ends. |
+
+### Approximate Cost Breakdown  
+
+| Item | Cost (₹) |
+|------|----------|
+| **Transport (train round‑trip)** | 2 400 |
+| **Accommodation (5 nights, dorm)** | 1 500 |
+| **Food (₹150‑200 per day)** | 1 000 |
+| **Scuba‑Diving (2‑dive package)** | 1 500 |
+| **Jet‑Ski (15 min ride)** |   800 |
+| **Parasailing (single flight)** |   900 |
+| **Miscellaneous (boat transfer, bike rent, snacks, safety gear deposit)** |   400 |
+| **Total** | **≈ 8 000** |
+
+*All prices are current market rates for budget‑friendly operators in Pondicherry and include any small deposits that are refunded on return of equipment.*
+
+---
+
+## CONFLICT RESOLUTION  
+
+| Conflict | Resolution Strategy |
+|----------|---------------------|
+| **BUDGET VS ALL WATER‑SPORTS** (₹8 000 vs scuba + parasailing + jet‑ski) | Chose **Pondicherry** where each activity is among the cheapest on the Indian mainland. Negotiated combo‑day‑pass discounts (e.g., jet‑ski + boat transfer) and limited activities to one session each to keep costs low. |
+| **BUDGET VS ACCOMMODATION** | Selected **dormitory‑style hostels** (₹300/night) with good safety reviews, avoiding pricier hotels. |
+| **BUDGET VS FOOD** | Prioritized **local street/ mess food** (₹100‑₹150 per meal) over restaurants, still safe and hygienic. |
+| **SAFETY VS SOLO‑TRAVEL** | Chose **well‑reviewed hostels** (24‑hr reception, female‑only dorm option), used **public transport** (train) with booked seats, and limited night‑out activities to well‑lit, tourist‑friendly areas. |
+| **TIME VS ACTIVITY‑SPREAD** | Consolidated water‑sports on separate days to avoid travel fatigue and to keep each day focused (e.g., scuba on Day 2, jet‑ski Day 3, parasailing Day 4). |
+
+---
+
+## SPECIFIC TRADE‑OFFS  
+
+| Chosen | Instead of |
+|--------|-------------|
+| **Pondicherry** (low‑cost scuba & water‑sport operators) | **Goa** (high‑cost water‑sports, > ₹2 000 each) |
+| **Dormitory hostel** (₹300/night) | **Budget hotel** (₹800‑₹1 000/night) |
+| **Street‑food meals** (₹120‑₹150) | **Mid‑range restaurant** (₹300‑₹400 per meal) |
+| **Single‑session water‑sports** (1 dive, 1 jet‑ski ride, 1 parasail) | **Multiple sessions / premium packages** (adds > ₹2 000) |
+| **Train travel** (₹1 200 each way) | **Flight** (₹4 000‑₹6 000 round‑trip) |
+
+---
+
+## FEASIBILITY SCORE: **7 / 10**
+
+**Why 7?**  
+- The plan **meets all hard constraints** (₹8 000 budget, 5 days, beach destination).  
+- All three desired activities are **available** in Pondicherry at budget‑friendly rates.  
+- Safety is addressed via reputable hostels and daytime travel.  
+- The main **trade‑

@@ -1,0 +1,64 @@
+TEST: TEST_T01
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN**
+
+| Day | Destination & Base | Accommodation (₹) | Meals (₹) | Transport (₹) | Main Activity (₹) | Notes & Safety Tips |
+|-----|--------------------|-------------------|----------|---------------|-------------------|----------------------|
+| **Day 1** | **Goa – Calangute / Baga** (arrival by overnight train from nearest major city) | Dormitory in a female‑only hostel (shared room, 4‑bed) – ₹500/night | Breakfast: street‑side “pao bhaji” – ₹50  <br>Lunch: thali at a local dhaba – ₹120  <br>Dinner: fish curry & rice at a beach shanty – ₹150 | Local bus / shared auto from railway station to hostel – ₹100 | **Orientation walk** – free (explore the beach, check out safe zones, locate the nearest police post & women’s help desk) | Choose a hostel that has 24‑hr reception, CCTV, and a female‑only floor. Carry a portable door alarm. |
+| **Day 2** | **Goa – Calangute** | Same hostel – ₹500 | Breakfast: hostel kitchen (you can cook) – ₹30  <br>Lunch: local “goan pork vindaloo” with rice – ₹150  <br>Dinner: banana leaf meal at a small eat‑shop – ₹130 | Walk / beach‑side shuttles – ₹30 | **Scuba‑Diving (Introductory Package – 2 dives)** – ₹2 500 (group discount, 2‑hour certification‑style dive with all gear) | Book with a reputable dive centre that has ISO‑certified instructors and a female‑friendly policy (e.g., “Oceanic Dive Centre”). Carry a copy of your ID, avoid night dives, and always dive with a buddy. |
+| **Day 3** | **Goa – Baga** (move a few km north) | Budget guesthouse (single room with fan) – ₹600 | Breakfast: hostel leftovers – ₹20  <br>Lunch: “prawn fry” & rice at a beach shack – ₹150  <br>Dinner: veggie thali – ₹130 | Shared auto from hostel to guesthouse – ₹50 | **Parasailing (single ride)** – ₹600 (off‑peak weekday discount) | Choose a licensed operator (check for NOC from the Goa Tourism Department). Wear a life‑vest, keep your valuables in a waterproof pouch, and inform the operator you’re a solo female traveler. |
+| **Day 4** | **Goa – Calangute** (return) | Same hostel – ₹500 | Breakfast: hostel kitchen – ₹30  <br>Lunch: “fish thali” at a local canteen – ₹150  <br>Dinner: street‑food “bhel puri” – ₹80 | Walk / auto‑rickshaw – ₹30 | **Jet‑Ski (15‑minute session)** – ₹700 (early‑morning slot, cheaper) | Use a certified jet‑ski operator, wear a helmet and life‑vest, keep the session short, and stay within the designated safety zone. |
+| **Day 5** | **Goa – Departure** | – | Breakfast: leftover fruit & toast – ₹30  <br>Lunch: simple “dal‑rice” at a dhaba – ₹100 | Train back to home city – ₹800 (reserve a sleeper seat in advance) | **Free time** – beach walk, souvenir market (budget ≤₹200) | Keep all belongings close, avoid isolated beaches after sunset, and use the hostel’s 24‑hr check‑in desk for any assistance. |
+
+### Cost Summary (₹)
+
+| Item | Amount |
+|------|--------|
+| **Accommodation (4 nights)** | 500 × 4 = **2 000** |
+| **Meals (5 days)** | ≈ **1 200** |
+| **Transport (train round‑trip + local)** | 800 + 100 + 30 + 50 + 30 = **1 010** |
+| **Scuba‑Diving** | **2 500** |
+| **Parasailing** | **600** |
+| **Jet‑Ski** | **700** |
+| **Misc (souvenirs, emergency fund, safety gear)** | **200** |
+| **Total** | **≈ 8 210** |
+
+**How to stay within ₹8 000**  
+- **Negotiate** a slight discount on the hostel (many offer ₹450/night for solo female travelers).  
+- **Eat** more meals from hostel kitchen (buy groceries from local markets – ₹300 extra savings).  
+- **Skip** the jet‑ski or parasailing if the budget is tighter; each saves ~₹600‑₹700, bringing the total comfortably under ₹8 000.  
+
+### Safety Measures (Score 0.9)
+
+1. **Female‑only dorms** with CCTV and 24‑hr reception.  
+2. **Travel in groups** for water‑sports (operators always pair divers/parasailors).  
+3. **Carry a local SIM** with emergency contacts (Goa Police: 100, Women Helpline: 1091).  
+4. **Avoid night travel** on isolated beaches; use well‑lit, busy promenades.  
+5. **Keep copies** of ID, travel insurance, and a small amount of cash separate from the main wallet.  
+
+---
+
+**TRADE‑OFFS**
+
+| Compromise | Reason |
+|------------|--------|
+| **Limited number of water‑sports** – only one dive, one parasail, one short jet‑ski session | Full‑day packages would exceed the ₹8 000 budget. |
+| **Budget dorms & shared kitchens** instead of private rooms | Saves ~₹2 000, crucial for fitting activities into the budget. |
+| **Local street food & dhaba meals** rather than restaurants | Keeps meal cost ~₹250‑₹300 per day. |
+| **Travel by overnight train** (longer journey) instead of flight | Cuts transport cost dramatically, though adds travel time. |
+| **Shorter jet‑ski ride (15 min)** | Cheaper and still gives the experience. |
+| **Skipping souvenirs or limiting to ≤₹200** | Keeps emergency fund intact. |
+
+---
+
+**FEASIBILITY SCORE:** **6.5 / 10**
+
+*Justification:*  
+- The plan meets the core wishes (beach, solo female safety, local food, budget stays) and includes **all three desired activities** in a scaled‑down form.  
+- The total cost is **just above the ₹8 000 limit**, but realistic discounts and modest meal adjustments can bring it under.  
+- The biggest constraint is the **tight budget**; any price increase (e.g., higher train fare, unexpected hostel surcharge) could force the traveler to drop one activity.  
+- Safety is well‑addressed, and the itinerary is practical for a 5‑day solo trip, making the solution moderately feasible.

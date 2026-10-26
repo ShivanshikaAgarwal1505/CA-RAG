@@ -1,0 +1,17 @@
+TEST: TEST_T03
+SYSTEM: conflict_aware
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN – 6‑Day Animal‑Centric, Safe & Educational Get‑away**  
+*(Assumes the family starts from Bangalore – the plan can be shifted to any nearby metro with similar train/bus links.)*  
+
+| Day | Destination & Main Base | Morning Activities | Mid‑day / Lunch | Afternoon Activities | Evening | Approx. Cost (₹) |
+|-----|------------------------|--------------------|-----------------|----------------------|---------|------------------|
+| **1** | **Mysore** (budget family guest‑house, 2‑bedroom, AC, child‑proof bathroom) | • Bangalore → Mysore by KSRTC AC Volvo (₹300 × 2 adults)  <br>• Check‑in, freshen up | • Simple South‑Indian thali at guest‑house (₹600) | • **Mysore Zoo** – interactive animal talks, feeding sessions (₹100 adults, ₹50 kids) | • Light walk around **Mysore Palace grounds** (just the outer garden – no museum entry) | **≈ ₹1,350** |
+| **2** | **Bandipur National Park** (budget eco‑lodge, 2 rooms, playground) | • Early‑morning bus to Bandipur (₹200 × 2) <br>• Check‑in, quick snack | • Lodge‑provided lunch (₹800) | • **Afternoon Safari** – jeep (family‑friendly, guide explains animal behaviour) (₹300 adults, ₹150 kids) | • Dinner at lodge, early night (kids need rest) | **≈ ₹2,250** |
+| **3** | **Bandipur** (same lodge) | • **Morning Safari** – different zone, spotting tigers, leopards, deer (same rates) | • Packed picnic from lodge (₹600) | • **Guided Nature Walk** on footpaths (free, ranger explains flora & birdlife) | • Evening cultural show by locals (optional, ₹200) | **≈ ₹2,050** |
+| **4** | **Dubare Elephant Camp, Coorg** (family homestay, 2 rooms, garden) | • Bus to Dubare (₹250 × 2) <br>• Check‑in, freshen up | • Homestay lunch (₹700) | • **Elephant Interaction** – feed & bathe elephants, learn about conservation (₹300 adults, ₹150 kids) | • Sunset by the Cauvery river, storytelling for kids | **≈ ₹2,300** |
+| **5** | **Coorg – Nisargadhama & Coffee Plantation** (same homestay) | • Walk to **Nisargadhama Island** – bamboo groves, deer park, kids’ play area (free) | • Picnic lunch (₹500) | • **Coffee‑Plantation Tour** – kid‑friendly demo of coffee processing, plus a short nature trek (₹400) | • Dinner at homestay, family game night | **≈ ₹1,400** |
+| **6** | Return to Bangalore | • Breakfast (included) <br>• Check‑out, bus back to Bangalore (₹300 × 2) | • Light snack

@@ -1,0 +1,19 @@
+TEST: TEST_T04
+SYSTEM: hybrid
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN**
+
+| Day | Destination & Main Activity | Travel / Logistics | Accommodation (per person) | Approx. Cost ₹ |
+|-----|-----------------------------|--------------------|----------------------------|----------------|
+| **Day 0 (Evening)** | **Delhi → Dharamshala** (overnight Volvo) | Board Volvo night bus from ISBT Delhi (≈ 12 hrs) | – | 1,200 |
+| **Day 1** | Arrive Dharamshala ≈ 08:00 hrs. Settle in McLeod Ganjs & explore (Bhagsu Falls, Dalai Lama Temple). Light 2‑km hike to warm‑up. | Local shared auto‑rickshaw to Zostel (≈ 30 min) | Zostel McLeod Ganjs dormitory (6‑bed) – ₹600 | 600 |
+| **Day 2** | **Triund Trek + Camping** – 9 km (≈ 5 hrs up, 4 hrs down). Reach Triund, set up camp, sunset view. | Early‑morning walk‑out from hostel; carry own day‑pack. | Triund camp (tent‑share, 2‑person tents) – ₹300 (camp fee + tent‑rental) | 300 |
+| **Day 3** | Return to McLeod Ganjs (≈ 2 hrs). **Travel to Bir** (Paragliding hub). **Paragliding Tandem Flight** (≈ 15 min in air, 30 min prep). | Shared taxi/jeep Dharamshala → Bir (≈ 4 hrs, ₹300) | Zostel Bir dormitory – ₹600 | 600 |
+| | **Paragliding** (Bir‑Billing) – tandem flight (incl. safety gear, insurance). | – | – | 2,800 |
+| **Day 4** | **Travel to Kullu/Manali** (Beas River). **White‑water Rafting** (Class II‑III, 2‑hour run). | Shared bus Bir → Kullu (≈ 5 hrs, ₹400) | Zostel Manali dormitory – ₹600 | 600 |
+| | **Rafting** (Beas River, full‑day package – equipment, guide, lunch). | – | – | 1,200 |
+| **Day 5** | Return to Delhi. | Volvo night bus Kullu → Delhi (≈ 12 hrs, ₹1,200) | – | 1,200 |
+| **Total per person** | |

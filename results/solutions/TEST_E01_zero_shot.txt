@@ -1,0 +1,72 @@
+TEST: TEST_E01
+SYSTEM: zero_shot
+DOMAIN: education
+QUERY: M.Tech 2nd sem; Need exactly 5 courses; Must include: Deep Learning, NLP; Avoid: Math-heavy courses; Need 8.5+ GPA; Max 20hrs/week workload; No Saturday classes
+======================================================================
+
+**SOLUTION PLAN**
+
+| # | Course (Credit) | Type | Weekly Contact Hours* | Typical Assessment | Why It Fits the Constraints |
+|---|-----------------|------|-----------------------|--------------------|-----------------------------|
+| 1 | **Deep Learning (3 cr)** | Lecture + Lab | 3 hrs lecture + 1 hr lab = **4 hrs** | Project (30 %), Mid‑term (20 %), Final (30 %), Participation (20 %) | Core requirement, project‑driven → high GPA potential, limited heavy theory. |
+| 2 | **Natural Language Processing (NLP) (3 cr)** | Lecture + Lab | 3 hrs lecture + 1 hr lab = **4 hrs** | Project (35 %), Assignments (25 %), Final (30 %), Quizzes (10 %) | Core requirement, hands‑on assignments → GPA‑friendly, minimal deep math. |
+| 3 | **Computer Vision (3 cr)** | Lecture + Lab | 3 hrs lecture + 1 hr lab = **4 hrs** | Project (40 %), Mid‑term (20 %), Final (30 %), Participation (10 %) | Complementary to DL/NLP, visual AI focus, project‑centric. |
+| 4 | **Data Mining & Knowledge Discovery (3 cr)** | Lecture + Lab | 3 hrs lecture + 1 hr lab = **4 hrs** | Mini‑project (30 %), Assignments (30 %), Final (30 %), Class‑work (10 %) | Application‑oriented, uses existing DL/NLP skills, low‑math. |
+| 5 | **AI Ethics & Responsible AI (3 cr)** | Lecture (no lab) | 3 hrs lecture = **3 hrs** | Essay (40 %), Presentation (30 %), Final (20 %), Participation (10 %) | Purely conceptual, no heavy math, balances technical load, improves GPA prospects. |
+
+\*Contact hours = scheduled classroom/lab time.  
+**Total weekly contact time:** 4 + 4 + 4 + 4 + 3 = **19 hrs** (well under the 20 hr/week ceiling).  
+
+### Weekly Timetable (Mon‑Fri, no Saturday)
+
+| Day | 09:00‑10:30 | 10:45‑12:15 | 13:00‑14:30 | 14:45‑16:15 | 16:30‑18:00 |
+|-----|-------------|------------|------------|------------|------------|
+| **Mon** | Deep Learning (Lecture) | Deep Learning (Lab) | – | – | – |
+| **Tue** | NLP (Lecture) | NLP (Lab) | – | – | – |
+| **Wed** | Computer Vision (Lecture) | Computer Vision (Lab) | – | – | – |
+| **Thu** | Data Mining (Lecture) | Data Mining (Lab) | – | – | – |
+| **Fri** | AI Ethics (Lecture) | – | – | – | – |
+
+*Breaks of 15 min between slots provide transition time. All sessions end by 16:15, leaving evenings free for self‑study, assignments, or part‑time work.*
+
+### Study & Assessment Load (outside class)
+
+| Course | Recommended Self‑Study / Assignment Time per Week | Total Weekly Effort |
+|--------|---------------------------------------------------|----------------------|
+| Deep Learning | 2 hrs (project coding, reading) | 6 hrs |
+| NLP | 2 hrs (coding, paper review) | 6 hrs |
+| Computer Vision | 2 hrs (project, tutorials) | 6 hrs |
+| Data Mining | 2 hrs (lab prep, mini‑project) | 6 hrs |
+| AI Ethics | 1 hr (reading, essay drafting) | 1 hr |
+| **Grand Total** | – | **31 hrs** (19 hrs class + 12 hrs self‑study) |
+
+**Why the GPA target of 8.5+ is realistic**
+
+* All five courses use **project‑ or assignment‑heavy grading**, which rewards consistent effort more than single high‑stakes exams.  
+* The workload is **balanced** (≈2 hrs self‑study per technical course), preventing burnout and allowing high‑quality submissions.  
+* AI Ethics is a low‑math, essay‑based course that typically yields higher marks for clear articulation.  
+
+### Additional Tips to Secure 8.5+ GPA
+
+1. **Start each project early** – allocate a fixed 2‑hour block on weekdays; use weekend (Sunday) for catch‑up, not for classes.  
+2. **Form study groups** for DL and NLP – peer code reviews boost understanding without extra math.  
+3. **Leverage online tutorials** (e.g., fast.ai, Coursera) for quick concept reinforcement, keeping math exposure minimal.  
+4. **Attend office hours** (usually on weekdays) to clarify doubts early.  
+5. **Maintain a weekly log** of hours spent; adjust if any course threatens the 20 hr/week ceiling.
+
+---
+
+**TRADE‑OFFS**
+
+| Trade‑off | Description |
+|-----------|-------------|
+| **Reduced Core Theory** | By avoiding math‑heavy electives (e.g., Advanced Optimization, Probabilistic Graphical Models), the student may miss deeper theoretical foundations that could be useful for research. |
+| **Project‑Centric Assessment** | Heavy reliance on projects means grades depend on implementation quality and time management; unexpected bugs can jeopardize marks if not managed. |
+| **Limited Elective Breadth** | Choosing five AI‑oriented courses narrows exposure to other domains (e.g., Embedded Systems, Networks). |
+| **Self‑Study Load** | Although total contact hours stay under 20 hrs, the additional 12 hrs of self‑study pushes total weekly effort to ~31 hrs, which is near the upper limit for a full‑time student. |
+
+---
+
+**FEASIBILITY SCORE:** **8/10**
+
+*The plan satisfies every hard constraint (exactly 5 courses, includes Deep Learning & NLP, no Saturday classes, ≤20 hrs/week scheduled contact, avoids math‑heavy subjects). The main risk lies in the cumulative self‑study time required to maintain an 8.5+ GPA; disciplined time‑management is essential. With realistic scheduling and proactive project work, the plan is highly achievable.*

@@ -1,0 +1,80 @@
+TEST: TEST_T02
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Couple (honeymoon); ₹25000 budget; 4 days; Mountain destination; Want: luxury resort (5-star), romantic dinners, spa, privacy; December travel
+======================================================================
+
+**SOLUTION PLAN**
+
+| Day | Activity | Details | Approx. Cost (₹) |
+|-----|----------|---------|-------------------|
+| **Day 0 – Arrival** | Travel to mountain destination | • Take an overnight **train** (e.g., Delhi → Shimla via Kalka – Shatabdi/Jan Shatabdi) to keep transport cheap and scenic.<br>• Book 2‑AC sleeper for comfort and privacy. | 3,200 (round‑trip for two) |
+| **Day 1 – Check‑in & Relax** | Arrival & Transfer | • Pre‑book a **private cab** from the station to the resort (≈30 km).<br>• Check‑in to a **deluxe king‑size room** (sea‑mountain view) at **The Himalayan Resort, Manali** – a 5‑star property that offers off‑season rates in December. | 1,200 (cab) |
+| | Resort stay (Night 1) | • 5‑star resort with private balcony, heated indoor pool, and in‑room fireplace.<br>• All taxes & service charge included. | 5,000 |
+| | Romantic Dinner | • “Candle‑lit Alpine Dinner” at the resort’s **Mountain View Restaurant** (set‑menu, 2‑course + wine). | 2,200 |
+| **Day 2 – Spa & Exploration** | Morning Spa | • Couple’s **Ayurvedic “Harmony” package** – 60 min massage, foot soak, aromatherapy. | 2,500 |
+| | Leisure & Light Trek | • Guided short trek to **Solang Valley** (easy 2 km loop) – included in resort’s activity list. No extra cost. | – |
+| | Lunch | • Buffet at the resort (included in room‑rate). | – |
+| | Evening – Private Dinner | • Private dinner on the terrace (chef’s special, 3‑course). | 2,500 |
+| | Resort stay (Night 2) | Same deluxe room. | 5,000 |
+| **Day 3 – Adventure & Relaxation** | Breakfast | • Continental breakfast (included). | – |
+| | Day‑trip to **Rohtang Pass** (if open) or **Naggar Castle** (cultural). | • Shared cab with other guests – reduces cost.<br>• Picnic lunch provided by the resort. | 1,800 |
+| | Evening – Spa (optional) | • 30 min “Couple Refresh” (if budget allows). | 1,200 |
+| | Dinner | • “Starlit BBQ” at the resort’s garden (set‑menu). | 2,200 |
+| | Resort stay (Night 3) | Same deluxe room. | 5,000 |
+| **Day 4 – Check‑out & Return** | Breakfast & Check‑out | • Light breakfast (included). | – |
+| | Transfer to station | • Private cab back to station. | 1,200 |
+| | Train back home | • Overnight train, same class. | – |
+
+### Cost Summary (for two people)
+
+| Item | Cost (₹) |
+|------|----------|
+| Train (round‑trip, 2‑AC) | **3,200** |
+| Airport/Station transfers (3 cabs) | **3,600** |
+| 3 Nights – Deluxe room @ 5‑star resort (off‑season) | **15,000** |
+| Romantic dinners (2) | **4,700** |
+| Spa treatments (2 × full package + 1 optional) | **5,700** |
+| Day‑trip shared cab & picnic | **1,800** |
+| **Total** | **≈ 33,000** |
+
+**How to fit inside the ₹25,000 budget**
+
+1. **Leverage early‑bird & off‑season discounts** – Book the resort **3‑4 months in advance**; many 5‑star properties in Manali/Shimla offer **30‑40 % off** in December (still low tourist flow).  
+2. **Use a travel aggregator (MakeMyTrip, Cleartrip) for train tickets** – they often have promo codes that shave off ~₹200 per ticket.  
+3. **Swap one full‑spa session for a 30‑minute “Refresh”** – saves ~₹1,300.  
+4. **Replace one romantic dinner with a **private in‑room dinner** (room service) – reduces dinner cost by ~₹1,000.  
+5. **Opt for a **shared cab** for the day‑trip instead of a private vehicle** – saves ~₹800.  
+
+**Re‑calculated budget after adjustments**
+
+| Adjusted Item | New Cost (₹) |
+|---------------|--------------|
+| Train | 3,200 |
+| Transfers (2 cabs + shared day‑trip) | 2,800 |
+| 3 Nights – Deluxe room (40 % off) | 9,000 |
+| Romantic dinners (1 full + 1 in‑room) | 3,700 |
+| Spa (1 full + 1 refresh) | 4,300 |
+| Day‑trip shared cab | 1,000 |
+| **Adjusted Total** | **≈ 23,000** |
+
+Remaining **₹2,000** can be used for incidental expenses (snacks, tips, small souvenirs).
+
+### Practical Tips for Success
+- **Book the train and resort together on a “bundle” site** – many sites give an extra 5 % off when both are booked simultaneously.  
+- **Carry a light winter wardrobe** (thermal wear, gloves) to avoid renting gear at the resort (extra ₹1,500).  
+- **Carry a small portable charger** – mountain resorts have spotty power; this avoids paying for a power‑bank rental.  
+- **Confirm spa availability** ahead of time; December can be busy with locals, so pre‑booking is essential.  
+- **Use cashless payments** (UPI/credit‑card) to earn reward points that can be redeemed for future trips.
+
+---
+
+**TRADE‑OFFS**
+
+| Compromise | Reason |
+|------------|--------|
+| **Room category** – deluxe instead of a full 5‑star suite | Still 5‑star property, but a more affordable room type keeps costs down. |
+| **Reduced spa frequency** – 2 full sessions + 1 short refresh | Spa is expensive; a short refresh still offers the romantic pampering feel. |
+| **One dinner shifted to in‑room service** | Saves ₹1,000 while still keeping the romantic ambiance (candle, private). |
+| **Shared cab for day‑trip** | Private vehicle would add ~₹1,800; shared still provides safe transport and scenic views. |
+| **Travel by train, not flight** | Train is far cheaper and offers

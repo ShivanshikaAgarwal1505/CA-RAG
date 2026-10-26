@@ -1,0 +1,41 @@
+TEST: TEST_H03
+SYSTEM: conflict_aware
+DOMAIN: health
+QUERY: 24F; PCOS + insulin resistance; Budget ₹90/day; Vegan; Hostel mess; Avoid: soy, gluten, sugar; Need low GI, high fiber, 40g protein; Time <10min/meal
+======================================================================
+
+**SOLUTION PLAN – 24 y F, PCOS + Insulin‑Resistance**  
+*Hostel‑mess setting – ₹90 / day – Vegan – No soy, gluten, added sugar – Low‑GI, high‑fiber – ≥ 40 g protein per meal – Prep < 10 min*
+
+---
+
+### 1️⃣ Daily Structure (same pattern every day – easy to remember)
+
+| Time | Mess plate (ask for) | Quick “add‑on” you bring (≈ 1 min) | Approx. protein* | Approx. cost (₹) | Low‑GI / Fiber boost |
+|------|----------------------|-----------------------------------|------------------|------------------|----------------------|
+| **07:30 – 08:00** | **Breakfast** – 2 gluten‑free millet rotis (jowar / bajra) *or* 1 cup brown rice + veg curry | ½ cup boiled **chickpeas** (pre‑cooked) + 1 tbsp **ground flaxseed** + 1 tbsp **cinnamon‑sprinkled pumpkin seeds** | 42 g (chickpeas ≈ 19 g + dal ≈ 15 g + seeds ≈ 8 g) | ₹22 | Millets & brown rice = low GI; flax & seeds ↑ soluble fibre & omega‑3 |
+| **12:30 – 13:00** | **Lunch** – 1 cup **dal** (any colour) + 1 cup **brown rice** or **millet pulao** + mixed veg (green leafy) | 30 g **roasted peanuts** (plain, unsalted) + 1 tbsp **chia‑flax mix** (½ flax + ½ chia) | 41 g (dal ≈ 18 g + peanuts ≈ 7.5 g + seeds ≈ 8 g + rice ≈ 7 g) | ₹25 | Dal + millet = low‑GI; peanuts add fibre & satiety |
+| **19:30 – 20:00** | **Dinner** – 2 gluten‑free rotis (jowar / ragi) + **mixed‑bean sambar** (black‑urad + moong + toor) + veg stir‑fry | ½ cup **sprouted moong beans** (quick‑soak night before) + 1 tbsp **pumpkin seed butter** (homemade) | 42 g (beans ≈ 22 g + sprouts ≈ 7 g + seed butter ≈ 13 g) | ₹23 | Sprouting reduces GI; beans are high‑fiber; seed‑butter gives healthy fats |
+| **Snacks (optional, within budget)** | 1 small apple + ½ tsp **cinnamon** (helps insulin) – eat between meals if hungry | – | ~2 g | ₹5 | Apple adds soluble fibre; cinnamon lowers post‑prandial glucose |
+
+\*Protein values are rounded averages from Indian Food Composition Tables.  
+
+**Total daily cost ≈ ₹90** (breakfast 22 + lunch 25 + dinner 23 + snack 5 = ₹75, leaving ₹15 for occasional extra fruit or extra seed portion).
+
+---
+
+### 2️⃣ Prep‑once‑a‑week (≈ 30 min on weekend)
+
+| Item | How to prepare | Storage | Portion per day |
+|------|----------------|---------|-----------------|
+| **Boiled chickpeas & mixed beans** | Soak ½ kg dry chickpeas & ½ kg mixed beans overnight; pressure‑cook 2 whistles; keep in fridge (up to 4 days) | Airtight container | ½ cup each meal |
+| **Sprouted moong** | Rinse 100 g moong, soak 6 h, drain, keep in a jar at room temp, rinse 2×/day; ready in 1 day | Jar with cloth cover | ½ cup per dinner |
+| **Roasted peanuts & pumpkin‑seed butter** | Roast 200 g peanuts with a pinch salt; grind 100 g pumpkin seeds with a dash water to make spread | Small jars | 30 g peanuts, 1 tbsp butter |
+| **Ground flax & chia mix** | Mix equal parts; store dry | Small zip‑bag | 1 tbsp per meal |
+| **Cinnamon & fenugreek water** | Keep ground cinnamon; each morning stir ½ tsp in warm water (optional) | – | – |
+
+All steps require **no cooking at the hostel** – you only heat the pre‑cooked legumes in a microwave or on the mess stovetop for < 2 min.
+
+---
+
+### 3️⃣ Mess‑

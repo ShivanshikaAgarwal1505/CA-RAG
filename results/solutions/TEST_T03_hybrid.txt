@@ -1,0 +1,47 @@
+TEST: TEST_T03
+SYSTEM: hybrid
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN – 6‑Day Animal‑Centric, Educational & Safe Adventure Trip**  
+*(Designed for 2 adults + 2 children (6 yr & 9 yr), total budget ≈ ₹35 000, no museum visits, kid‑friendly stays, all activities safe)*  
+
+---
+
+### Day 0 – Prep (Night before travel)
+| Item | Details | Approx. Cost |
+|------|---------|--------------|
+| **Travel tickets** | Book **Bangalore ↔ Mysore** – 2 AC Chair‑Car tickets (₹300 adult, ₹150 child) – round‑trip.  Book early on IRCTC for best rates. | **₹900** |
+| **Accommodation** | Reserve **Family Homestay “Green Leaf” – Mysore** (1 family‑room with 2‑bed + extra cot, garden, 24 h front‑desk).  Includes **breakfast**. | **₹1 200 / night** |
+| **Travel insurance** (optional but recommended for safety) | Basic family plan covering medical & travel mishaps. | **₹800** |
+
+*Total pre‑trip outlay:* **≈ ₹2 700** (leaves ~₹32 300 for the 6‑day itinerary).  
+
+---
+
+## Day‑by‑Day Itinerary  
+
+| Day | Morning | Mid‑day / Lunch | Afternoon | Evening | Night Stay | Approx. Daily Cost* |
+|-----|---------|----------------|-----------|----------|------------|----------------------|
+| **1 – Arrival & Settle** | Depart Bangalore 07:00 am by train (2 h). Arrive Mysore 09:30. Taxi (₹200) to homestay, check‑in, freshen up. | **Breakfast** already included. Light snack (₹150). | Visit **Mysore Zoo (Sri Chamarajendra Zoological Gardens)** – excellent for kids: giraffes, elephants, reptiles, interactive feeding sessions. | Return to homestay, free play in garden. | **Green Leaf Homestay** (family room). | **₹1 250** (zoo entry ₹450 + taxi ₹200 + snack ₹150) |
+| **2 – Learning in Mysore** | Breakfast (incl.). Walk to **Mysore Palace Gardens** – open lawns, fountains, **Mysore Sand Sculpture Park** (educational art, no museum). | Lunch at **Mysore Rasoi** (family‑style South‑Indian thali, ₹800). | **Mysore Railway Museum (optional, brief)** – if kids are curious; otherwise **Mysore Fruit‑Garden (Botanical mini‑park)** – free. | Dinner at homestay (home‑cooked, ₹600). | Same homestay. | **₹1 400** |
+| **3 – Transfer to Bandipur** | Checkout, private shared **SUV/Tempo (₹600)** to **Bandipur National Park** (≈ 2 h). Check‑in at **“Bandipur Eco‑Lodge”** – family cottages, playground, 24 h security. | Lunch at lodge (buffet, ₹1 000). | **Afternoon Safari (Jeep)** – 2 h, guided by forest officials, safe for kids, spotting tigers, deer, birds. | Evening nature walk around lodge (guided, free). | **Bandipur Eco‑Lodge** (₹1 200 / night). | **₹2 800** (transfer + lodge + safari + meals) |
+| **4 – Full‑Day Safari & Learning** | Early breakfast (incl.). **Morning Safari** (different zone). | Picnic lunch prepared by lodge (₹800). | **Guided “Wildlife Talk”** by a forest ranger – interactive session on animal tracks, conservation (free). Optional **bird‑watching trek** (easy, 1 h). | Dinner at lodge (₹1 000). | Same lodge. | **₹2 600** |
+| **5 – Kabini River Adventure** | Checkout, shared **tempo (₹500)** to **Kabini River Reserve** (≈ 1.5 h). Check‑in at **“Kabini Riverside Homestay”** – family‑room, river view, kids‑play area. | Lunch at homestay (₹900). | **Boat Safari (₹1 200)** – gentle paddle‑boat ride, spotting crocodiles, water‑birds, learning about river ecosystem (guided). Followed by **Elephant Interaction (₹1 500)** – supervised feeding & short walk (safety gear provided). | Dinner by the river (₹900). | Same homestay (₹1 200 / night). | **₹5 200** (transfer + stay + boat + elephant + meals) |
+| **6 – Return Home** | Breakfast (incl.). Leisure walk by river, pack. | Lunch en‑route at a local dhaba (₹600). | Private **tempo (₹600)** back to Bangalore. | Arrive Bangalore evening, end of trip. | — | **₹1 200** |
+
+\* **Daily cost** includes accommodation (night before/after), meals not covered by stay, activity fees, local transport.  
+
+### Grand Total (approx.)
+
+| Category | Cost |
+|----------|------|
+| Transport (train + road) | **₹2 700** |
+| Accommodation (5 nights) | **₹6 000** |
+| Food & Snacks | **₹4 800** |
+| Activities (Zoo, Safaris, Boat, Elephant) | **₹8 150** |
+| Miscellaneous (insurance, small souvenirs) | **₹2 000** |
+| **Grand Approx.** | **₹23 650** |
+
+**Remaining buffer:** ~₹11 350 – can be used

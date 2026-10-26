@@ -1,0 +1,29 @@
+TEST: TEST_T03
+SYSTEM: cross_domain
+DOMAIN: travel
+QUERY: Family (2 adults, 2 kids age 6, 9); ₹35000 budget; 6 days; Educational + adventure; Kids: love animals, hate museums; Need: kid-friendly stays, safe activities, learning opportunities
+======================================================================
+
+**SOLUTION PLAN**
+
+| Day | Destination & Base | Morning Activities | Mid‑day / Lunch | Afternoon Activities | Evening | Accommodation (Kid‑friendly) | Approx. Cost (INR) |
+|-----|-------------------|-------------------|----------------|----------------------|---------|------------------------------|--------------------|
+| **1** | **Mysore** (≈ 150 km from Bangalore) | • Board a **Bangalore‑Mysore Intercity train** (2 h 30 m). <br>• Arrive, drop bags at hotel. | • Hotel‑provided or nearby **family‑room** (2‑bedroom) – simple, clean, 24 h front desk. <br>• Light snack on train. | • **Mysore Zoo (Sri Chamarajendra Zoological Gardens)** – kids see lions, tigers, giraffes, reptiles. <br>• **Karanji Lake Bird Sanctuary** (free walk, paddle‑boat optional). | • Dinner at a **family‑friendly restaurant** (e.g., RRR Mysore). | **Mysore Heritage Homestay** – 2‑bedroom family suite, AC, garden, child‑safe. | **≈ 3,500** (train ₹800 + stay ₹1,500 + meals ₹1,200) |
+| **2** | **Mysore** | • **Mysore Palace** (architectural learning, not a museum). <br>• Short **guided history talk** for kids (arranged at palace entrance). | • Lunch at **Mysore Café** (simple South‑Indian thali). | • **Railway Museum** (optional, very brief & interactive) – only if kids stay interested; otherwise free **Ranganathittu Bird Sanctuary** boat ride (₹200 family). | • Evening stroll on **Devaraja Market** – sensory learning (spices, fabrics). | Same homestay | **≈ 2,800** (activities ₹400 + meals ₹1,200 + extra ₹200) |
+| **3** | **Bandipur National Park** (≈ 90 km from Mysore) | • Private **shared cab/tempo‑traveller** (early start, 2 h). <br>• Check‑in at **Bandipur Forest Lodge** (budget, kid‑safe). | • Packed breakfast from hotel. <br>• Light lunch at lodge (simple Indian). | • **Morning Safari** (Jeep, 3 km). <br>• Ranger‑led talk on wildlife conservation (educational). | • Dinner at lodge (family‑style). | **Bandipur Forest Lodge** – family rooms, playground, 24 h security. | **≈ 4,500** (transport ₹1,200 + stay ₹2,000 + safari ₹1,200 + meals ₹1,100) |
+| **4** | **Kabini River Reserve** (≈ 70 km from Bandipur) | • Transfer to **Kabini** (shared cab). <br>• Check‑in at **Kabini Riverside Resort** (budget, river view). | • Breakfast at lodge. | • **Boat Safari** on Kabini River (1 h, spotting elephants, crocodiles, birds). <br>• Short **nature‑craft workshop** for kids (leaf‑printing). | • Evening bonfire & storytelling (local folklore). | **Kabini Riverside Resort** – family cottages, kids’ play area, safe river edge. | **≈ 4,200** (transfer ₹500 + stay ₹2,500 + boat ₹800 + meals ₹900) |
+| **5** | **Coorg (Dubare Elephant Camp)** (≈ 120 km from Kabini) | • Early transfer to **Dubare Elephant Camp** (shared tempo‑traveller). | • Breakfast en‑route (packed). | • **Elephant Interaction** – feed & bathe elephants (guided, safe). <br>• **River‑bank walk** & bird‑watching. | • Transfer to **Coorg Homestay** (near Madikeri). <br>• Dinner with **coffee‑plantation story** (kids learn coffee cycle). | **Coorg Heritage Homestay** – 2‑bedroom family suite, garden, caretaker. | **≈ 5,300** (transfer ₹1,200 + stay ₹1,500 + elephant camp ₹1,600 + meals ₹1,000) |
+| **6** | **Return to Bangalore** (≈ 260 km) | • Light breakfast, check‑out. | • Lunch on the road (dhaba, kid‑friendly). | • Arrive Bangalore by evening – free time or early night. | • End of trip. | – | **≈ 1,400** (fuel/shared cab ₹1,200 + meals ₹200) |
+
+**Total Approximate Expenditure** – **₹26,200**  
+*(Leaves ~₹8,800 buffer for extra snacks, souvenirs, emergency, or a modest upgrade)*  
+
+---
+
+### CONFLICT RESOLUTION  
+
+| Conflict | How It Was Handled |
+|----------|--------------------|
+| **Family vs Adventure (severity 0.75)** | Chose **low‑impact, supervised adventure** that is safe for ages 6 & 9: <br>• Elephant‑camp interaction (hands‑on but guided). <br>• Boat safari (gentle, educational). <br>• Safari jeep rides (short, with ranger commentary). <br>All activities are **family‑oriented**, avoid high‑risk trekking or extreme sports. |
+| **Animal‑lover vs Museum‑averse** | Prioritized **live‑animal experiences** (zoo, bird sanctuaries, safari, elephant camp) and **nature‑based learning**. The only cultural stop is Mysore Palace – an architectural landmark, not a museum, offering visual learning without static displays. The optional Railway Museum is **brief** and can be skipped. |
+| **Budget vs Educational/Adventure** | Leveraged **public‑transport + shared cabs** to keep travel costs low, and selected

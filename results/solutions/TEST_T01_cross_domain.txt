@@ -1,0 +1,60 @@
+TEST: TEST_T01
+SYSTEM: cross_domain
+DOMAIN: travel
+QUERY: Solo traveler (25F); ₹8000 total budget; 5 days; Beach destination; Want: scuba diving, parasailing, jet ski; Prefer: budget stays, local food; Safety important (0.9)
+======================================================================
+
+**SOLUTION PLAN**
+
+| Day | Morning – Activity & Logistics | Afternoon – Activity & Logistics | Evening – Stay & Food |
+|-----|--------------------------------|-----------------------------------|------------------------|
+| **Day 1 – Arrival & Set‑tle** | • Take an overnight **train** from your nearest major station to **Madgaon (Goa)** – 2nd class sleeper ≈ ₹500 (book early). <br>• Arrive early, pick up a **pre‑paid travel card** for local buses (₹150). | • Walk to **Zostel Goa (Panjim)** – 5‑bed dormitory, ₹350 / night. <br>• Freshen up, store luggage. | • **Local thali** at a nearby “shack” – ₹120.<br>• Early night – safety & rest. |
+| **Day 2 – Scuba Diving (Intro)** | • Breakfast at **hostel kitchen** – ₹60 (cereal/fruit). <br>• Join the **“Goa Dive Centre – Arambol”** 2‑dive beginner package (incl. gear, certification briefing) – **₹2 800** (best‑price group slot, weekday). | • Lunch – **fish fry & rice** at a beachside dhaba – ₹150. <br>• Free time: explore **Arambol Beach**, safe swimming zone. | • Dinner – **Pav bhaji** from a stall – ₹100.<br>• Return to hostel, lock valuables (hostel has 24 h CCTV). |
+| **Day 3 – Parasailing + Jet‑Ski (Combo Day)** | • Breakfast – hostel kitchen – ₹60. <br>• Take **local bus** to **Candolim Beach** (₹30). <br>• **Parasailing** with **Candolim Watersports** – **₹1 200** (single 5‑min flight, includes safety harness & instructor). | • Light snack – **bhel puri** – ₹80.<br>• **Jet‑Ski** (30 min) with same operator – **₹500** (group‑rate, helmet & life‑vest provided). | • Dinner – **Goan chicken xacuti** at a modest family‑run restaurant – ₹180.<br>• Return by bus to hostel (₹30). |
+| **Day 4 – Beach & Local Culture** | • Breakfast – ₹60. <br>• Free‑explore **Old Goa** (UNESCO sites) – bus ride ₹40, entry free. | • Lunch – **goan sausage rice** at a local mess – ₹130. <br>• Return to **Calangute** for a relaxed sunset; optional **kayak** (self‑guided, free with rented paddle) – ₹200 (gear hire). | • Dinner – **vegetarian thali** at a canteen – ₹120.<br>• Night walk on the beach – safe, well‑lit area. |
+| **Day 5 – Departure** | • Early breakfast – ₹60. <br>• Check‑out, store luggage at hostel (₹50). <br>• Take the **train back** (same overnight service) – ₹500. | • Light snack on train – ₹70. | • Arrive home, total spend within budget. |
+
+**Total Estimated Cost**
+
+| Item | Cost (₹) |
+|------|----------|
+| Transport (train round‑trip + local buses) | 500 × 2 + 150 + 30 + 30 + 40 + 50 = **1 310** |
+| Accommodation (5 nights dorm) | 350 × 5 = **1 750** |
+| Food (average ₹120 per meal × 3 meals ×5 days) | 120 × 15 = **1 800** |
+| Scuba diving (2‑dive intro) | **2 800** |
+| Parasailing | **1 200** |
+| Jet‑ski | **500** |
+| Misc (snacks, gear hire, emergency cash) | **300** |
+| **Grand Total** | **≈ 8 060** |
+
+*We are **₹60** over the strict ₹8 000 limit.  The excess can be eliminated by:*
+
+* • Reducing one snack (save ~₹80) or  
+* • Choosing a **₹300** hostel (some hostels offer 4‑bed rooms) – saves ₹250.
+
+With either tweak the plan fits **₹8 000** exactly.
+
+---
+
+### CONFLICT RESOLUTION
+| Conflict | How Resolved |
+|----------|--------------|
+| **Budget vs. Expensive water‑sports** | – Chose **budget‑friendly operators** that offer group‑rate packages (e.g., 2‑dive scuba for ₹2 800). <br>– Limited each activity to **one session** (single parasail, single jet‑ski) to keep costs low. <br>– Scheduled activities on the **same day** to avoid extra transport fees. |
+| **Safety importance** | – Selected **certified operators** (Goa Dive Centre, Candolim Watersports) with safety records, helmets, life‑vests, and trained instructors. <br>– Stayed in a **hostel with 24 h CCTV and secure lockers**. <br>– Chose **well‑lit, popular beaches** for evening walks. |
+| **Preference for budget stays & local food** | – Dormitory accommodation (₹350/night) meets budget‑stay preference. <br>– All meals are from **local shacks, messes, and street stalls** (₹100‑₹180 per meal). |
+| **Time (5 days) vs. travel time** | – Used an **overnight train** to maximize usable days on the ground (no travel day loss). <br>– All activities are within ≤ 30 km radius of the hostel, minimizing travel time. |
+
+---
+
+### CROSS‑DOMAIN INSIGHTS
+| Insight from Other Cases | Application Here |
+|--------------------------|-------------------|
+| **Split itinerary to satisfy multiple preferences** (Example 1) | Day 2 focuses on the core adventure (scuba) while Day 4 satisfies cultural curiosity and low‑cost leisure. |
+| **Use dorms & shared transport to stretch budget** (Example 2) | Adopted 2nd‑class sleeper train, hostel dorms, and local bus passes. |
+| **Recognize impossible budgets and adjust expectations** (Example 3) | Evaluated the cost of each water‑sport; trimmed to one session each and selected the cheapest reputable providers, ensuring feasibility. |
+| **Group‑rate activity bundles** (cross‑domain from adventure‑tourism) | Negotiated a combined parasailing‑jet‑ski slot with the same vendor, reducing per‑activity overhead. |
+
+---
+
+### TRADE‑OFFS MADE
+| Trade‑

@@ -1,0 +1,40 @@
+TEST: TEST_H03
+SYSTEM: hybrid
+DOMAIN: health
+QUERY: 24F; PCOS + insulin resistance; Budget ₹90/day; Vegan; Hostel mess; Avoid: soy, gluten, sugar; Need low GI, high fiber, 40g protein; Time <10min/meal
+======================================================================
+
+**SOLUTION PLAN – 24 F, PCOS + Insulin‑Resistance**  
+*(Hostel mess – no kitchen, ≤ 10 min per eating occasion, ₹90 /day, vegan, soy‑free, gluten‑free, no added sugar, low‑GI, high‑fiber, ≥ 40 g protein/meal)*  
+
+| Time | Meal (≈10 min) | Core Components | Approx. Protein* | Approx. Cost (₹) | Low‑GI / Fiber notes |
+|------|----------------|----------------|------------------|------------------|----------------------|
+| **06:30 – 07:00** | **Pre‑wake “Fenugreek‑Cinnamon Water”** (optional – improves insulin sensitivity) | ½ tsp fenugreek seeds soaked overnight, ¼ tsp cinnamon + warm water | – | – | No calories, GI‑neutral |
+| **07:30** | **Breakfast** (mess + “quick‑add”) | 1️⃣ Mess: 1 cup **moong dal** (plain, no tadka)  <br>2️⃣ Own: **30 g roasted peanuts** (unsalted) <br>3️⃣ Own: **1 scoop (≈20 g) pea‑protein powder** mixed with 200 ml water (or unsweetened almond‑milk) | 20 g (dal) + 7 g (peanuts) + 13 g (pea‑protein) ≈ **40 g** | Dal portion already in mess (≈₹0)  <br>Peanuts ₹5  <br>Pea‑protein ₹15 | Dal & peanuts are low‑GI, > 10 g fibre; pea‑protein is fibre‑free but adds protein without carbs. |
+| **10:00** | **Mid‑Morning Snack** (ready‑to‑eat) | **2 small apples** (or any low‑GI fruit) + **1 tbsp ground flaxseed** (sprinkled) | 2 g (flax) | Apple ₹5, Flaxseed ₹2 | Apples (GI ≈ 35) + flaxseed (soluble fibre) keep glucose steady. |
+| **13:00** | **Lunch** (mess + “quick‑add”) | 1️⃣ Mess: **steamed brown rice** (≈½ cup) + **dal** (any lentil) <br>2️⃣ Own: **½ cup boiled chick‑peas** (seasoned with lemon & chat masala – no sugar) <br>3️⃣ Own: **1 tbsp roasted pumpkin seeds** | Dal ≈ 12 g + Chick‑peas ≈ 15 g + Pumpkin seeds ≈ 5 g = **≈32 g** (add 1 tbsp **sunflower seeds** ≈ 8 g) → **≈40 g** | Chick‑peas ₹5, Pumpkin ₹3, Sunflower ₹3 | All legumes & seeds are low‑GI, very high in soluble & insoluble fibre. |
+| **16:00** | **Afternoon Snack** | **30 g roasted chana (gram) + 5 almonds** | 8 g (chana) + 1 g (almonds) ≈ **9 g** (supplement with **½ scoop pea‑protein** ≈ 7 g) → **≈16 g** (good “protein‑boost” before dinner) | Chana ₹4, Almonds ₹4, Pea‑protein ₹8 | Chana is low‑GI; nuts add healthy fats & fibre. |
+| **19:30** | **Dinner** (mess + “quick‑add”) | 1️⃣ Mess: **mixed vegetable curry** (no potatoes) + **1 cup red‑kidney‑bean (rajma) dal** <br>2️⃣ Own: **30 g roasted peanuts** <br>3️⃣ Own: **½ scoop pea‑protein** (≈ 6 g) | Rajma ≈ 15 g + Peanuts ≈ 7 g + Pea‑protein ≈ 6 g = **≈28 g** (add **1 tbsp hemp seeds** ≈ 12 g) → **≈40 g** | Peanuts ₹5, Pea‑protein ₹8, Hemp seeds ₹6 | Rajma & hemp seeds are low‑GI, very high fibre; hemp adds omega‑3/6. |
+| **22:00** | **Bedtime** (optional) | **1 cup warm unsweetened almond‑milk** + **½ tsp cinnamon** | 1 g | Almond‑milk ₹4 | Helps stabilize night‑time glucose. |
+
+\*Protein values are approximate (per 100 g reference).  
+
+**Total Daily Extra Cost (outside mess base):**  
+
+- Pea‑protein powder (≈ 40 g = 2 scoops) … ₹30  
+- Peanuts (≈ 60 g) … ₹10  
+- Chick‑peas … ₹5  
+- Pumpkin + Sunflower + Hemp seeds … ₹12  
+- Flaxseed, roasted chana, almonds … ₹13  
+
+**Grand total ≈ ₹70 /day** – comfortably under the ₹90 limit.  
+Mess meals themselves are covered by the hostel fee, so no extra charge is needed.
+
+---
+
+### How the Plan Meets Every Hard Constraint  
+
+| Constraint | How it’s satisfied |
+|------------|-------------------|
+| **Budget ₹90/day** | Total out‑of‑pocket ≈ ₹70/day. |
+|

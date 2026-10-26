@@ -1,0 +1,60 @@
+TEST: TEST_H03
+SYSTEM: semantic
+DOMAIN: health
+QUERY: 24F; PCOS + insulin resistance; Budget ₹90/day; Vegan; Hostel mess; Avoid: soy, gluten, sugar; Need low GI, high fiber, 40g protein; Time <10min/meal
+======================================================================
+
+**SOLUTION PLAN – 24 yr F, PCOS + Insulin‑Resistance, Vegan, Hostel Mess, ₹90 / day**  
+
+| Time | What to eat (≈ 10 min max) | Why it fits your goals |
+|------|----------------------------|------------------------|
+| **07:00 – Empty stomach** | Warm water + ½ lemon juice + 5 almonds (soaked overnight) | Gentle wake‑up, a little healthy fat & magnesium, no carbs → keeps insulin low |
+| **08:30 – Mess Breakfast** | • 1 cup steamed brown / red rice  <br>• ½ cup dal (toor or masoor)  <br>• ½ cup mixed veg (green beans, carrots, beansprouts)  <br>• **Add‑on:** 30 g roasted peanuts (≈ 2 Tbsp) | Brown/red rice & dal = low‑GI, high‑fiber, ~12 g protein. Peanuts give extra 7 g protein + healthy ω‑6. |
+| **10:30 – Mid‑morning snack** | 1 small apple + 2 Tbsp pumpkin‑seed mix (raw or lightly roasted) | Apple = low‑GI fruit, pumpkin seeds = 5 g protein, rich in zinc & magnesium (helps PCOS). |
+| **13:00 – Mess Lunch** | • 1 cup steamed brown / red rice  <br>• ½ cup dal (different type from breakfast)  <br>• ½ cup leafy veg (spinach, methi, kale)  <br>• **Add‑on:** ¾ cup boiled chick‑peas (≈ 120 g) seasoned with lemon, cumin & coriander  <br>• 1 tsp ground flaxseed (sprinkled) | Chick‑peas add ~10 g protein + extra fiber, keep GI low. Flaxseed supplies ALA ω‑3 and lignans (good for hormonal balance). |
+| **16:00 – Evening snack** | 30 g roasted chana (Bengal gram) + herbal tea (ginger‑cinnamon) | Chana = 6 g protein, very low GI, crunchy & satisfying. Cinnamon helps insulin sensitivity. |
+| **19:30 – Mess Dinner** | • 1 cup steamed brown / red rice  <br>• ½ cup dal (any variety)  <br>• ½ cup mixed veg (broccoli, cauliflower, capsicum)  <br>• **Add‑on:** ½ cup sprouted moong‑bean salad (sprouted, chopped cucumber, tomato, lemon, black‑pepper)  <br>• 1 Tbsp almond‑butter spread on a slice of **gluten‑free millet roti** (if roti is not available, replace with extra ¼ cup cooked millet) | Sprouted moong gives ~4 g protein + enzymes that aid digestion. Almond‑butter adds ~4 g protein, monounsaturated fat and magnesium. Millet roti is gluten‑free, low‑GI. |
+| **22:00 – Pre‑bed** | Warm water + ½ tsp turmeric (optional) | Anti‑inflammatory, no calories. |
+
+### Approximate Daily Protein & Fiber
+
+| Source | Protein (g) | Fiber (g) |
+|--------|-------------|-----------|
+| Dal (½ cup × 3) | 12 | 9 |
+| Brown/red rice (1 ½ cup) | 6 | 5 |
+| Peanuts (30 g) | 7 | 3 |
+| Pumpkin seeds (2 Tbsp) | 5 | 2 |
+| Chick‑peas (¾ cup) | 10 | 8 |
+| Roasted chana (30 g) | 6 | 4 |
+| Sprouted moong (½ cup) | 4 | 3 |
+| Almond‑butter (1 Tbsp) | 4 | 1 |
+| Flaxseed (1 tsp) | 0.5 | 0.5 |
+| **Total** | **≈ 54 g** (≈ 40 g target met comfortably) | **≈ 35 g** (high‑fiber) |
+
+> **Low‑GI focus:** All carbohydrate sources are whole‑grain (brown/red rice, millet, legumes) with a GI < 55. No added refined sugar or sweetened drinks.  
+> **Insulin‑resistance support:** High fiber, moderate healthy fats, cinnamon, turmeric, and consistent protein distribution across meals keep post‑prandial glucose stable.  
+> **PCOS‑friendly nutrients:** Magnesium (almonds, pumpkin seeds), zinc (pumpkin seeds, peanuts), omega‑3 ALA (flaxseed, almond‑butter), and lignans (flaxseed) help hormonal balance.
+
+### Budget Breakdown (₹ per day)
+
+| Item | Approx. Cost |
+|------|--------------|
+| Hostel mess fee (standard veg meals) | ₹50 |
+| Peanuts (30 g) | ₹5 |
+| Pumpkin‑seed mix (2 Tbsp) | ₹4 |
+| Chick‑peas (¾ cup, dry‑soaked) | ₹6 |
+| Roasted chana (30 g) | ₹4 |
+| Almond‑butter (1 Tbsp) | ₹8 |
+| Flaxseed (1 tsp) | ₹2 |
+| Apple (small) | ₹4 |
+| Misc (herbal tea, lemon, spices) | ₹2 |
+| **Total** | **≈ ₹85** (well under ₹90) |
+
+*(Prices are based on typical Indian market rates for bulk purchases; buying in larger packs reduces per‑day cost.)*
+
+### Supplements (optional, low‑cost)
+
+| Supplement | Dose | Reason |
+|------------|------|--------|
+| Vitamin B12 (cyanocobalamin) | 250 µg/week | Vegan diets lack B12; supports energy & metabolic health. |
+| Vitamin D3 (1000 IU) | Daily (if sun exposure < 30 min) | Deficiency common in PCOS; aids insulin sensitivity

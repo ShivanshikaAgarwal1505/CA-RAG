@@ -1,0 +1,49 @@
+TEST: TEST_T04
+SYSTEM: semantic
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN**
+
+| Day | Morning – Activity | Mid‑day – Logistics | Evening – Activity / Rest | Accommodation | Approx. Cost per Person* |
+|-----|--------------------|----------------------|---------------------------|----------------|--------------------------|
+| **0 – Travel to Destination** | Overnight Volvo/AC bus (or train) Delhi → Rishikesh (≈ 10 h) | – | – | **Zostel Rishikesh – 6‑bed dorm** (₹500) | **₹800** (round‑trip transport) |
+| **1 – Arrival & Acclimatisation** | Check‑in, freshen up, short walk to **Lakshman Jhula** | Lunch at local dhaba (₹150) | Yoga/meditation session at the ashram, explore **Beatles Ashram** | Zostel dorm (₹500) | **₹250** (food) |
+| **2 – White‑Water Rafting + Trek‑Camp** | **Ganga Rafting (2‑hr run, Class III)** – includes gear, guide, lunch | Transfer to **Kunjapuri** (shared taxi, ₹150) | **Trek to Kunjapuri Temple** (≈ 3 h up, 2 h down). Set up camp on the ridge, sunset view. | **Camping on Kunjapuri** (tents, sleeping bag, fire‑wood) – group rate ₹1 200 (≈ ₹240 each) | **₹1 200** (rafting) + **₹240** (camp) |
+| **3 – Paragliding + Riverside Camp** | **Paragliding tandem flight from Shivpuri** (30 min flight, 2 h total) – includes safety gear & photo/video | Light lunch (₹150) | Free time – explore **Rishikesh market** or **Ganga Aarti** at Triveni Ghat. Evening **riverside camping** (tents & bonfire) | Riverside camp (₹1 200 total) | **₹2 500** (paragliding) + **₹240** (camp) |
+| **4 – Trek‑Camping to Neer Garh** | **Trek to Neer Garh Waterfall** (4 km, moderate) – guided, includes gear | Packed lunch (₹150) | Return to Rishikesh, **camp at Zostel’s garden** (they allow night‑camp for groups) | Zostel dorm (₹500) + optional garden camp fee ₹300 | **₹1 500** (guided trek & gear) + **₹300** (extra camp fee) |
+| **5 – Return** | Breakfast (included) | Shared taxi to bus/train station | – | – | **₹0** (already covered) |
+| **TOTAL PER PERSON** | | | | | **≈ ₹9 500** |
+
+\*All amounts are rounded and based on 2026 rates for a group of 5 sharing costs.
+
+### Detailed Cost Breakdown (per person)
+
+| Item | Cost (₹) |
+|------|----------|
+| **Transport** (Delhi ↔ Rishikesh, round‑trip, shared Volvo/AC bus) | 800 |
+| **Accommodation** (4 nights in dorm + 3 night‑camps) | 2 000 |
+| **Food** (₹300 × 5 days) | 1 500 |
+| **Rafting (2‑hr run, includes lunch)** | 1 200 |
+| **Paragliding tandem (30 min flight, photo‑video)** | 2 500 |
+| **Guided Trek & Camping (Kunjapuri + Neer Garh)** | 1 500 |
+| **Local transfers (shared taxis, scooter rent)** | 300 |
+| **Miscellaneous (insurance, tips, water bottles)** | 200 |
+| **Grand Total** | **≈ 9 500** |
+
+**What you get for the budget**
+
+* **All four adventure activities** (rafting, trekking, camping, paragliding) are covered.
+* **Budget‑friendly stays** – Zostel dorms are clean, safe, and have common kitchens; night‑camps give the authentic outdoors feel.
+* **Group discounts** – most operators give ~10 % off for groups of 5, which we have factored in.
+* **Food flexibility** – most meals can be self‑cooked in the hostel kitchen; you can also enjoy local dhabas for a taste of Uttarakhand cuisine.
+
+### Sample Day‑by‑Day Itinerary
+
+| Day | Morning | Afternoon | Evening |
+|-----|---------|-----------|----------|
+| **0** | Depart Delhi (overnight bus) | – | Arrive Rishikesh, check‑in, light dinner |
+| **1** | Settle in, explore **Lakshman Jhula** & **Ram Jhula** | Lunch at a local dhaba, visit **Beatles Ashram** | Yoga session, early night |
+| **2** | **Ganga Rafting** (2 hr run) | Transfer & trek to **Kunjapuri** (sunrise trek) | Camp on ridge, stargazing |
+| **3** | **Paragliding**

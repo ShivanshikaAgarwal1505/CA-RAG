@@ -1,0 +1,36 @@
+TEST: TEST_H03
+SYSTEM: cross_domain
+DOMAIN: health
+QUERY: 24F; PCOS + insulin resistance; Budget ₹90/day; Vegan; Hostel mess; Avoid: soy, gluten, sugar; Need low GI, high fiber, 40g protein; Time <10min/meal
+======================================================================
+
+**SOLUTION PLAN**
+
+| Time | Meal (≈ ≤ 10 min prep) | What you’ll eat (hostel‑mess + portable add‑ons) | Approx. protein | Approx. cost (₹) | Key notes for PCOS/IR |
+|------|------------------------|---------------------------------------------------|----------------|-------------------|------------------------|
+| **07:30** | **Breakfast** | • Mess‑served **millet (jowar/bajra) upma** with mixed veg (no potato)  <br>• **2 Tbsp ground flaxseed** sprinkled on top | 5 g | 30* (mess fee) | Millets = low‑GI, high‑fiber; flax → ω‑3, lignans improve insulin sensitivity |
+| **10:00** | **Mid‑morning snack** | • **30 g roasted peanuts** (pre‑roasted, unsalted) <br>• **1 small guava** (or any low‑GI fruit) | 7 g | 20 | Peanuts give bulk protein; guava adds soluble fiber & vitamin C |
+| **13:00** | **Lunch** | • **1 cup brown rice** (mess) <br>• **1 cup mixed dal** (toor/masoor) <br>• **½ cup boiled chickpeas** mixed into dal <br>• **1 Tbsp pumpkin seeds** sprinkled <br>• Veg curry (no soy, no added sugar) | 20 g | 30 | Brown rice & legumes = low‑GI, high‑fiber; chickpeas & seeds boost protein; pumpkin seeds supply magnesium (helps insulin) |
+| **16:00** | **Afternoon snack** | • **½ cup sprouted moong** tossed with lemon, cucumber, coriander <br>• **1 Tbsp hemp seeds** (optional – replace with extra peanuts if needed) | 6 g | 5 | Sprouting reduces antinutrients, raises protein & fiber; hemp seeds add ω‑3 & zinc |
+| **18:30** | **Pre‑dinner tea** | • **Herbal tea** (cinnamon + ginger) – no sugar <br>• **½ tsp cinnamon** in tea | 0 g | 0 | Cinnamon improves insulin signaling |
+| **20:30** | **Dinner** | • **2 jowar/bajra rotis** (mess, gluten‑free) <br>• **1 cup dal** (same as lunch) <br>• **Veg sabzi** (no potatoes, no soy) <br>• **Cucumber‑carrot salad** with lemon | 10 g | 30* (mess fee) | Re‑uses same low‑GI, high‑fiber components; rotis keep carbs slow‑release |
+| **22:30** | **Bedtime drink** | • **200 ml unsweetened oat milk** (store‑bought, 1 Tbsp chia seeds optional) | 2 g | 5 | Oat milk is low‑GI; chia adds extra fiber & ALA |
+
+\*Mess fee is assumed ₹30 per day (typical hostel mess). All add‑on items are bought in bulk at the campus store/market and portioned daily.
+
+**Daily totals**
+
+- **Protein:** ~ 41 g (meets ≥ 40 g target)  
+- **Fiber:** > 30 g (high‑fiber)  
+- **GI:** All carbs are whole‑grain, legume‑based, or fruit with low‑to‑moderate GI → overall low glycemic load.  
+- **Budget:** ₹30 (mess) + ₹20 (peanuts) + ₹15 (pumpkin seeds) + ₹10 (chickpeas) + ₹5 (sprouts/hemp) + ₹5 (oat milk) = **≈ ₹85** (under ₹90).  
+- **Prep time:** Every item is either already cooked in the mess or a “grab‑and‑go” pack; mixing seeds or sprinkling takes < 5 min.
+
+---
+
+### CONFLICT RESOLUTION
+
+| Conflict | How it was solved (with lessons from examples) |
+|----------|-----------------------------------------------|
+| **Budget vs Protein** (severity 0.80) | Used **cheap, high‑protein legumes and nuts** (peanuts, chickpeas, dal) that are staple mess items. Example 1 showed leveraging mess dal + peanuts to hit protein while staying under budget. |
+| **Diet vs Protein** (severity 0.70) | Excluded soy & gluten, replaced them with **gluten‑free millets, brown rice, pumpkin & hemp seeds**. Example 2 used millet rotis for

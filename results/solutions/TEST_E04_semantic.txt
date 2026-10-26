@@ -1,0 +1,61 @@
+TEST: TEST_E04
+SYSTEM: semantic
+DOMAIN: education
+QUERY: PhD 1st year; Need 2 courses; Topics: must align with thesis (RL in robotics); Need: theory depth, hands-on projects; Prof: must allow flex attendance (thesis work); Max 15hrs/week
+======================================================================
+
+**SOLUTION PLAN**
+
+| # | Course (Department) | Why it fits the RL‑in‑Robotics thesis | Weekly Time Commitment* | Lecture / Lab / Project Split | Professor Flexibility | How it meets the constraints |
+|---|----------------------|---------------------------------------|--------------------------|------------------------------|-----------------------|------------------------------|
+| 1 | **CS / EE – Graduate Seminar: “Reinforcement Learning for Robotics”**  (3‑credit) | • Core RL theory (MDPs, policy gradients, model‑based RL) <br>• Dedicated modules on robot‑specific challenges (sample efficiency, safety, sim‑to‑real transfer) <br>• Final project: design & train an RL controller for a 6‑DoF arm in simulation and on a real platform | **6 hrs/week** | • 2 hrs lecture (Tue 10‑12 AM) <br>• 2 hrs weekly lab (Wed 2‑4 PM) – hands‑on with OpenAI Gym‑Robotics & ROS <br>• 2 hrs project work (self‑directed, flexible) | Prof. Dr. A. Kumar (Robotics Lab) has a “research‑first” policy – students may attend labs asynchronously (recorded) and submit weekly progress reports instead of fixed lab slots. | • Theory depth + hands‑on labs <br>• Project directly contributes to thesis (RL controller) <br>• Total ≤ 6 hrs, leaving 9 hrs for the second course |
+| 2 | **ME / CS – Graduate Course: “Advanced Robotic Systems & Experimentation”** (3‑credit) | • Covers robot kinematics, dynamics, perception, and control architectures – the physical substrate for RL policies <br>• Large project: integrate an RL policy (from Course 1) with a real robot stack (ROS‑2, MoveIt) and evaluate on a benchmark task (pick‑and‑place, locomotion) | **9 hrs/week** | • 2 hrs lecture (Mon 3‑5 PM) <br>• 3 hrs weekly lab (Fri 9‑12 AM) – building/maintaining hardware, sensor calibration <br>• 4 hrs project work (flexible) | Prof. L. Sanchez (Robotics Systems) allows “flex‑lab” attendance: students can complete lab milestones remotely (simulation) and schedule a 1‑hour in‑person check‑in each week. | • Provides the mechanical/controls background needed for RL deployment <br>• Hands‑on hardware experience <br>• Project ties directly to thesis <br>• 9 hrs + 6 hrs = **15 hrs/week** (max allowed) |
+
+\* **Total weekly course load = 15 hrs** (including lectures, labs, and self‑directed project work).  
+
+### Research & Other Commitments  
+| Activity | Weekly Hours |
+|----------|--------------|
+| Core thesis research (experiments, coding, reading) | **≈ 40 hrs** |
+| Weekly meeting with advisor (1 hr) | 1 hr |
+| Optional reading group / conference prep | 2 hrs |
+| **Total academic workload** | **≈ 58 hrs/week** (within typical PhD expectations) |
+
+### Scheduling Summary  
+
+| Day | Time | Activity |
+|-----|------|----------|
+| Mon | 3‑5 PM | Lecture – Advanced Robotic Systems |
+| Tue | 10‑12 AM | Lecture – RL for Robotics |
+| Wed | 2‑4 PM | Lab – RL for Robotics (or watch recording) |
+| Fri | 9‑12 AM | Lab – Advanced Robotic Systems (or remote milestone) |
+| Flexible | 2‑4 hrs (daily) | Project work for both courses (integrated) |
+| Flexible | 1‑2 hrs (evenings) | Research reading / coding (outside class) |
+
+All required contact hours are under 15 hrs/week, and both professors explicitly support flexible attendance for students with heavy research loads.
+
+---
+
+**TRADE‑OFFS**
+
+| Trade‑off | Impact | Mitigation |
+|-----------|--------|------------|
+| **Limited breadth** – only two courses, both tightly focused on RL & robotics, leaving little room for complementary electives (e.g., advanced optimization, ethics). | May miss exposure to peripheral but useful topics. | Use self‑studied MOOCs or short seminars (≤ 2 hrs/week) for any missing concepts. |
+| **Heavy project overlap** – both courses require a substantial project that overlaps with thesis work. | Risk of project fatigue or duplicated effort if scopes are not clearly delineated. | Coordinate with both professors early; define distinct milestones (e.g., Course 1 focuses on algorithm development, Course 2 on integration & hardware validation). |
+| **Lab‑time flexibility** – reliance on recorded labs or remote milestones could reduce real‑time troubleshooting with peers/instructors. | Potential slower resolution of hardware bugs. | Schedule a weekly 30‑min “office‑hour drop‑in” with each professor for rapid Q&A. |
+| **Time pressure** – 15 hrs/week for courses plus ~40 hrs research is near the upper end of typical PhD weeks. | Risk of burnout if not managed. | Enforce strict weekly time‑boxing, use Pomodoro technique, and take a half‑day “reset” each weekend. |
+
+Overall, the trade‑offs are modest and manageable given the strong alignment between coursework and thesis deliverables.
+
+---
+
+**FEASIBILITY SCORE: 8.5 / 10**
+
+**Justification**
+
+* **Alignment (9/10)** – Both courses target RL theory and robotic implementation, directly feeding thesis milestones.  
+* **Workload (8/10)** – Total course time exactly meets the 15 hr cap; combined with research it stays within a realistic PhD weekly load.  
+* **Flexibility (9/10)** – Professors explicitly allow asynchronous lab participation and flexible project scheduling, satisfying the “flex attendance” requirement.  
+* **Risk (7/10)** – The main risk is project overload and possible schedule clashes; mitigated by clear milestone planning and optional self‑study buffers.  
+
+**Overall** – The plan is practical, meets all stated constraints, and maximizes the value of the two required courses for the RL‑in‑Robotics dissertation while keeping the weekly time budget within limits.

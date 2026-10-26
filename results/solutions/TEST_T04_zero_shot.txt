@@ -1,0 +1,55 @@
+TEST: TEST_T04
+SYSTEM: zero_shot
+DOMAIN: travel
+QUERY: Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok
+======================================================================
+
+**SOLUTION PLAN**
+
+| Item | Details | Approx. Cost (₹ per person) |
+|------|---------|----------------------------|
+| **Base destination** | **Rishikesh & nearby Shivpuri (Uttarakhand)** – all four activities are available within a 30 km radius, reducing travel time and cost. | – |
+| **Travel to Rishikesh** | • Overnight train or Volvo bus from Delhi/Dehradun (or nearest major city). <br>• Group booking → lower fare. | 500 – 800 |
+| **Accommodation** | • Budget hostels / eco‑camps (e.g., Zostel Rishikesh, Live Free Hostel, or riverside camps). <br>• 4 nights, twin‑sharing rooms or shared dorms. | 600 – 800 /night → **≈ 2,800** |
+| **Food** | • Breakfast (included in most hostels) + lunch & dinner at local dhabas or packed meals for camping days. <br>• Approx. ₹300 /day. | **≈ 1,500** |
+| **Day‑wise itinerary** | | |
+| **Day 1 – Arrival & River‑side Camping** | • Reach Rishikesh by late afternoon, check‑in. <br>• Orientation walk along the Ganga. <br>• Set up camp at a certified riverside campsite (basic tents, shared bathroom). <br>• Evening bonfire, group dinner. | Camping fee ≈ 800 |
+| **Day 2 – White‑Water Rafting + Camp** | • Full‑day (10 km) rafting on the Ganga (Class II‑III). <br>• Safety gear & guide included. <br>• Return to camp, relax by the river. | Rafting ≈ 1,500 |
+| **Day 3 – Sunrise Trek to Kunjapuri & Hill‑top Camping** | • Early‑morning pickup (≈ 1 hr) to Kunjapuri Temple. <br>• Guided trek (≈ 4 km) to sunrise point, panoramic Himalaya view. <br>• Continue a short trek to a nearby hill‑top campsite (basic tents). <br>• Dinner & stargazing. | Trek guide ≈ 1,000 <br>Camping night ≈ 800 |
+| **Day 4 – Paragliding (Shivpuri) + Light Exploration** | • Transfer to Shivpuri (≈ 30 km). <br>• Tandem paragliding flight (≈ 15 min) – includes gear, instructor, photos. <br>• Afternoon free for yoga, Ganga Aarti, or a short walk to the Beatles Ashram. <br>• Return to hostel for night‑stay. | Paragliding ≈ 3,000 |
+| **Day 5 – Local Trek / Departure** | • Light morning trek to Neer Garh Waterfall (≈ 2 km) or a quick walk to Lakshman Jhula for souvenirs. <br>• Check‑out and board return transport. | Minimal (≈ 200 for local transport) |
+| **Total per‑person estimate** | Travel + Accommodation + Food + Rafting + Paragliding + Trek & Camping | **≈ 10,800 – 11,500** |
+| **Buffer** | Miscellaneous (local taxis, water, entry fees, small souvenirs) | ≈ 500 – 800 |
+| **Grand total per person** | **≈ 12,000** (fits the budget) | |
+
+**Key booking tips**
+
+1. **Group discounts** – negotiate with rafting and paragliding operators for a 5‑person package; many offer 5‑10 % off.
+2. **Advance hostel reservation** – use platforms like Hostelworld or Zostel’s own site; book the “shared dorm” option to stay under ₹800/night.
+3. **Camping gear** – most camps provide tents, sleeping bags, and mats for ~₹800/night; bring a personal sleeping bag if you have one to cut cost.
+4. **Travel window** – early June is pre‑monsoon; river flow is good for rafting, but keep an eye on weather alerts for paragliding (operators cancel only in unsafe conditions).
+5. **Cash** – many small vendors accept only cash; carry ~₹2,000 in small denominations for day‑to‑day expenses.
+
+---
+
+**TRADE‑OFFS**
+
+| Compromise | Reason |
+|------------|--------|
+| **Basic accommodation** (shared dorms / simple river camps) | Keeps costs low; comfort is modest but safe and clean. |
+| **Single‑day trek & camping** (instead of multi‑day high‑altitude trek) | Saves on guide fees, gear rental, and reduces physical strain for a 5‑day trip. |
+| **Tandem paragliding** (instead of solo certification) | Much cheaper; still delivers the thrill. |
+| **June timing** | Monsoon can occasionally limit paragliding; plan a flexible day (e.g., extra local trek) as a backup. |
+| **Self‑catering for some meals** | Packing simple breakfasts/lunches for camping days cuts food cost. |
+
+---
+
+**FEASIBILITY SCORE:** **8/10**
+
+*Justification:*  
+- The itinerary fits the ₹12,000 per‑person ceiling with a modest buffer for unforeseen expenses.  
+- All four requested activities are available within a compact geographic area, minimizing travel overhead.  
+- The biggest risk is weather‑related cancellations (paragliding and rafting) in early June; however, the plan includes alternative light trekking to keep the schedule productive.  
+- Comfort is traded for cost (budget hostels and basic camps), which aligns with the user’s “budget accommodation ok” requirement.  
+
+Overall, the plan is practical, doable, and delivers the adventure mix the group seeks while respecting the tight budget.

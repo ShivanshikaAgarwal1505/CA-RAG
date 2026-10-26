@@ -1,0 +1,68 @@
+TEST: TEST_E04
+SYSTEM: conflict_aware
+DOMAIN: education
+QUERY: PhD 1st year; Need 2 courses; Topics: must align with thesis (RL in robotics); Need: theory depth, hands-on projects; Prof: must allow flex attendance (thesis work); Max 15hrs/week
+======================================================================
+
+**SOLUTION PLAN**
+
+| Week | Monday                              | Tuesday | Wednesday                            | Thursday | Friday                              | Weekend (optional) |
+|------|-------------------------------------|---------|--------------------------------------|----------|--------------------------------------|----------------------|
+| 1‑12 | **Course A – “Advanced Reinforcement Learning (ARL)”**  <br>• 2 h live/recorded lecture (10 am‑12 pm)  <br>• 2 h guided reading & problem‑set (self‑paced) | – | **Course A – ARL**  <br>• 2 h live Q&A / discussion (2‑4 pm)  <br>• 1 h coding‑exercise review (self‑paced) | – | **Course B – “Robotics Lab: RL for Manipulation”**  <br>• 3 h hands‑on lab (10 am‑1 pm)  <br>• 1 h lab‑report writing (self‑paced) | • 2 h optional project‑integration work (Saturday morning) |
+| Total weekly load | **4 h lecture + 3 h self‑study** | – | **3 h lecture/Q&A + 1 h self‑study** | – | **4 h lab + 1 h report** | **2 h optional** |
+
+**Break‑down of weekly hours**
+
+| Activity | Hours |
+|----------|-------|
+| Live/recorded lectures (ARL) | 4 h |
+| Guided reading / problem sets (ARL) | 3 h |
+| Q&A & coding‑exercise review (ARL) | 3 h |
+| Lab sessions (Robotics Lab) | 3 h |
+| Lab‑report & documentation | 1 h |
+| **Total committed time** | **14 h** |
+| Optional integration / extra practice (Sat) | 2 h (use only if you have spare capacity) |
+
+**Why this works for the hard constraints**
+
+* **2 courses** – “Advanced Reinforcement Learning” (theory‑heavy) and “Robotics Lab: RL for Manipulation” (hands‑on).  
+* **Topic alignment** – Both are explicitly about reinforcement learning applied to robotics (policy gradient methods, model‑based RL for robot control, sim‑to‑real transfer).  
+* **Theory depth** – ARL covers Markov Decision Processes, Bellman equations, policy‑gradient theory, PAC‑RL, and recent advances (e.g., Soft Actor‑Critic, Meta‑RL). Weekly problem sets enforce rigorous understanding.  
+* **Hands‑on projects** – The lab course runs a full‑scale ROS/Gazebo + PyBullet pipeline where you implement and benchmark RL algorithms on a 6‑DOF manipulator. Lab reports require quantitative analysis, mirroring thesis work.  
+* **Flexible attendance** – All lectures are recorded and posted within 24 h; weekly Q&A sessions are optional live streams (you can join or watch the recording later). Lab sessions are scheduled in a “flex‑slot” window (any 3 h block between 9 am‑5 pm) – you can pick the slot that best fits your thesis experiments.  
+* **≤ 15 h/week** – The schedule totals 14 h, leaving 1 h buffer for unexpected meetings or brief thesis‑related tasks.
+
+---
+
+### CONFLICT RESOLUTION
+
+| Conflict | Resolution Strategy |
+|----------|----------------------|
+| **THEORY_HEAVY_VS_TIME** (theory‑intensive ARL could exceed the 15 h cap) | • Split the theory course into **short, high‑impact lectures (2 h/week)** plus **structured self‑study (3 h)** rather than long seminars. <br>• Use **problem‑set‑driven learning** to focus on essential proofs and algorithmic derivations, avoiding unnecessary breadth. <br>• Leverage recorded lectures so you can re‑watch at 1.5× speed, cutting time without losing depth. |
+| **HAND‑ON_VS_FLEXIBILITY** (lab work often demands fixed slots) | • Choose a **flex‑lab** offering a “choose‑your‑3‑hour window” policy; you can align the lab block with low‑thesis‑load days. <br>• Lab deliverables are modular (each week a self‑contained experiment) so missing a single live slot does not jeopardize the final project. |
+| **TOTAL_HOURS vs. RESEARCH** (must keep ≤ 15 h while still progressing on thesis) | • Keep a **1‑hour weekly buffer** (the optional Saturday slot) that you can drop entirely when thesis workload spikes. <br>• All course work is **directly reusable** for thesis (e.g., codebases, literature reviews), so time spent on courses also counts toward research progress. |
+
+---
+
+### SPECIFIC TRADE‑OFFS
+
+| CHOSE | INSTEAD OF |
+|------|------------|
+| **ARL – 2‑hour live lecture + 3 h guided self‑study** | A full‑semester “Advanced RL” with 4‑hour weekly seminars (would exceed time budget). |
+| **Robotics Lab – 3‑hour flexible lab block** | A fixed‑time “Robotics Systems” lab meeting every Friday afternoon (less flexible, could clash with thesis experiments). |
+| **Recorded Q&A (optional live)** | Mandatory in‑person discussion sections (would add travel & fixed‑time constraints). |
+| **Weekly problem‑set focus on core algorithms** | Broad literature survey assignments (more time‑intensive, lower immediate relevance). |
+| **Optional 2 h Saturday integration** | Mandatory weekend workshops (would push total >15 h). |
+
+---
+
+### FEASIBILITY SCORE: **9.2 / 10**
+
+**Justification**
+
+* **Hard constraints fully satisfied** – exact number of courses, topic relevance, theory depth, hands‑on component, flexible attendance, ≤ 15 h/week.  
+* **Conflict handling** – theory load is deliberately broken into bite‑size, high‑yield sessions; flexibility built into lab timing; optional weekend work provides a safety valve.  
+* **Research synergy** – every assignment (code, reports, readings) can be directly incorporated into the PhD thesis, effectively turning “course time” into “research time.”  
+* **Minor risk** – if a week’s thesis experiments require > 5 h of extra debugging, you may need to skip the optional Saturday slot; the core 14 h schedule remains intact.  
+
+Overall, the plan delivers deep reinforcement‑learning theory while providing a concrete robotics implementation platform, all within the 15‑hour weekly limit and with the attendance flexibility required for a first‑year PhD.
