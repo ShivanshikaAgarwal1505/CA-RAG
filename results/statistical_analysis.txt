@@ -1,0 +1,169 @@
+================================================================================
+STATISTICAL ANALYSIS
+================================================================================
+
+1. PAIRED T-TESTS: Conflict-Aware vs Baselines
+--------------------------------------------------------------------------------
+
+Conflict-Aware vs Zero Shot (CSR):
+  Mean (Conflict-Aware): 0.857
+  Mean (zero_shot): 0.919
+  Difference: -0.062
+  t-statistic: -1.915
+  p-value: 0.0919 ns
+  Cohen's d: -0.638
+  Result: not significant
+
+Conflict-Aware vs Zero Shot (CRQ):
+  Mean (Conflict-Aware): 0.306
+  Mean (zero_shot): 0.317
+  Difference: -0.011
+  t-statistic: -0.092
+  p-value: 0.9286 ns
+  Cohen's d: -0.031
+  Result: not significant
+
+Conflict-Aware vs Zero Shot (SF):
+  Mean (Conflict-Aware): 0.634
+  Mean (zero_shot): 0.722
+  Difference: -0.088
+  t-statistic: -1.498
+  p-value: 0.1726 ns
+  Cohen's d: -0.499
+  Result: not significant
+
+Conflict-Aware vs Zero Shot (OVERALL):
+  Mean (Conflict-Aware): 0.608
+  Mean (zero_shot): 0.659
+  Difference: -0.051
+  t-statistic: -1.053
+  p-value: 0.3230 ns
+  Cohen's d: -0.351
+  Result: not significant
+
+Conflict-Aware vs Semantic (CSR):
+  Mean (Conflict-Aware): 0.857
+  Mean (semantic): 0.865
+  Difference: -0.007
+  t-statistic: -0.326
+  p-value: 0.7531 ns
+  Cohen's d: -0.109
+  Result: not significant
+
+Conflict-Aware vs Semantic (CRQ):
+  Mean (Conflict-Aware): 0.306
+  Mean (semantic): 0.276
+  Difference: +0.030
+  t-statistic: 0.340
+  p-value: 0.7424 ns
+  Cohen's d: 0.113
+  Result: not significant
+
+Conflict-Aware vs Semantic (SF):
+  Mean (Conflict-Aware): 0.634
+  Mean (semantic): 0.611
+  Difference: +0.023
+  t-statistic: 1.575
+  p-value: 0.1539 ns
+  Cohen's d: 0.525
+  Result: not significant
+
+Conflict-Aware vs Semantic (OVERALL):
+  Mean (Conflict-Aware): 0.608
+  Mean (semantic): 0.595
+  Difference: +0.013
+  t-statistic: 0.421
+  p-value: 0.6852 ns
+  Cohen's d: 0.140
+  Result: not significant
+
+Conflict-Aware vs Hybrid (CSR):
+  Mean (Conflict-Aware): 0.857
+  Mean (hybrid): 0.851
+  Difference: +0.007
+  t-statistic: 0.169
+  p-value: 0.8700 ns
+  Cohen's d: 0.056
+  Result: not significant
+
+Conflict-Aware vs Hybrid (CRQ):
+  Mean (Conflict-Aware): 0.306
+  Mean (hybrid): 0.261
+  Difference: +0.044
+  t-statistic: 0.849
+  p-value: 0.4205 ns
+  Cohen's d: 0.283
+  Result: not significant
+
+Conflict-Aware vs Hybrid (SF):
+  Mean (Conflict-Aware): 0.634
+  Mean (hybrid): 0.654
+  Difference: -0.020
+  t-statistic: -0.885
+  p-value: 0.4021 ns
+  Cohen's d: -0.295
+  Result: not significant
+
+Conflict-Aware vs Hybrid (OVERALL):
+  Mean (Conflict-Aware): 0.608
+  Mean (hybrid): 0.595
+  Difference: +0.013
+  t-statistic: 0.508
+  p-value: 0.6251 ns
+  Cohen's d: 0.169
+  Result: not significant
+
+
+2. CONFIDENCE INTERVALS (95%)
+--------------------------------------------------------------------------------
+
+Zero Shot:
+  Mean: 0.659
+  95% CI: [0.566, 0.752]
+  Margin of error: ±0.093
+
+Semantic:
+  Mean: 0.595
+  95% CI: [0.500, 0.690]
+  Margin of error: ±0.095
+
+Conflict Aware:
+  Mean: 0.608
+  95% CI: [0.483, 0.734]
+  Margin of error: ±0.125
+
+Hybrid:
+  Mean: 0.595
+  95% CI: [0.473, 0.717]
+  Margin of error: ±0.122
+
+
+3. EFFECT SIZES (Cohen's d)
+--------------------------------------------------------------------------------
+
+Interpretation:
+  Small effect:   d = 0.2
+  Medium effect:  d = 0.5
+  Large effect:   d = 0.8
+
+Conflict-Aware vs Zero Shot:
+  Cohen's d: -0.351 (small effect)
+
+Conflict-Aware vs Semantic:
+  Cohen's d: 0.140 (negligible effect)
+
+Conflict-Aware vs Hybrid:
+  Cohen's d: 0.169 (negligible effect)
+
+
+4. SUMMARY
+--------------------------------------------------------------------------------
+
+Significant improvements: 0/8
+Percentage: 0.0%
+
+================================================================================
+✓ Best performing system: Zero Shot
+  Average overall score: 0.659
+================================================================================
+

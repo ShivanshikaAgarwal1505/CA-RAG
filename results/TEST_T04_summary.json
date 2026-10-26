@@ -1,0 +1,67 @@
+{
+  "test_id": "TEST_T04",
+  "domain": "travel",
+  "query": "Group of 5 friends; ₹12000/person; 5 days; Adventure destination; Want: trekking, camping, rafting, paragliding; Need: all activities included; June travel; Budget accommodation ok",
+  "expected_conflicts": [
+    "budget_vs_activities"
+  ],
+  "timestamp": "2026-10-20T20:40:44.508873",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 4581,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.15,
+        "sf": 0.8,
+        "overall": 0.6525000000000001
+      }
+    },
+    "semantic": {
+      "solution_length": 3611,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.27999999999999997,
+        "sf": 0.5,
+        "overall": 0.623
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 4153,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.30000000000000004,
+        "sf": 0.5,
+        "overall": 0.63
+      }
+    },
+    "hybrid": {
+      "solution_length": 1602,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 0.8571428571428571,
+        "crq": 0.0,
+        "sf": 0.5,
+        "overall": 0.46785714285714286
+      }
+    },
+    "cross_domain": {
+      "solution_length": 4058,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.0,
+        "sf": 0.5,
+        "overall": 0.525
+      },
+      "cross_domain_count": 0
+    }
+  }
+}

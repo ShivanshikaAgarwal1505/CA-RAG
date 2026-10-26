@@ -1,0 +1,67 @@
+{
+  "test_id": "TEST_T02",
+  "domain": "travel",
+  "query": "Couple (honeymoon); ₹25000 budget; 4 days; Mountain destination; Want: luxury resort (5-star), romantic dinners, spa, privacy; December travel",
+  "expected_conflicts": [
+    "budget_vs_luxury"
+  ],
+  "timestamp": "2026-10-20T20:36:15.292741",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 5027,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.6000000000000001,
+        "sf": 0.5,
+        "overall": 0.7350000000000001
+      }
+    },
+    "semantic": {
+      "solution_length": 4356,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.1,
+        "sf": 0.5,
+        "overall": 0.56
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 3987,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.0,
+        "sf": 0.5,
+        "overall": 0.525
+      }
+    },
+    "hybrid": {
+      "solution_length": 4224,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.0,
+        "sf": 0.5,
+        "overall": 0.525
+      }
+    },
+    "cross_domain": {
+      "solution_length": 5003,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 1.0,
+        "crq": 0.1,
+        "sf": 0.5,
+        "overall": 0.56
+      },
+      "cross_domain_count": 0
+    }
+  }
+}

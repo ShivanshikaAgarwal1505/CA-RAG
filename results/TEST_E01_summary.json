@@ -1,0 +1,68 @@
+{
+  "test_id": "TEST_E01",
+  "domain": "education",
+  "query": "M.Tech 2nd sem; Need exactly 5 courses; Must include: Deep Learning, NLP; Avoid: Math-heavy courses; Need 8.5+ GPA; Max 20hrs/week workload; No Saturday classes",
+  "expected_conflicts": [
+    "course_count_vs_workload",
+    "gpa_vs_difficulty"
+  ],
+  "timestamp": "2026-10-20T20:24:30.285788",
+  "systems": {
+    "zero_shot": {
+      "solution_length": 5065,
+      "num_examples": 0,
+      "method": "zero-shot",
+      "metrics": {
+        "csr": 0.8571428571428571,
+        "crq": 0.15,
+        "sf": 0.8,
+        "overall": 0.5953571428571429
+      }
+    },
+    "semantic": {
+      "solution_length": 4291,
+      "num_examples": 3,
+      "method": "semantic",
+      "metrics": {
+        "csr": 0.7142857142857143,
+        "crq": 0.15,
+        "sf": 0.9,
+        "overall": 0.5632142857142858
+      }
+    },
+    "conflict_aware": {
+      "solution_length": 5918,
+      "num_examples": 0,
+      "method": "conflict-aware",
+      "metrics": {
+        "csr": 0.7142857142857143,
+        "crq": 0.8,
+        "sf": 0.8699999999999999,
+        "overall": 0.7832142857142856
+      }
+    },
+    "hybrid": {
+      "solution_length": 5641,
+      "num_examples": 3,
+      "method": "hybrid",
+      "metrics": {
+        "csr": 0.7142857142857143,
+        "crq": 0.6000000000000001,
+        "sf": 0.8699999999999999,
+        "overall": 0.7132142857142858
+      }
+    },
+    "cross_domain": {
+      "solution_length": 3940,
+      "num_examples": 3,
+      "method": "cross-domain",
+      "metrics": {
+        "csr": 0.8571428571428571,
+        "crq": 0.2,
+        "sf": 0.5,
+        "overall": 0.5378571428571428
+      },
+      "cross_domain_count": 1
+    }
+  }
+}
